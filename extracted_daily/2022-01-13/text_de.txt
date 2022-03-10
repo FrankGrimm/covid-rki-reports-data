@@ -1,0 +1,80 @@
+# 2022-01-13-de.pdf date: 2022-01-13 lang: de
+
+# ---- page 1 ----
+
+
+
+# ---- page 2 ----
+
+
+
+# ---- page 3 ----
+
+                                                                                                     COVID-19-Lagebericht vom 13.01.2022   3
+Abbildung 2 zeigt den Verlauf der an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner der
+jeweils letzten 7 Tage in den Bundesländern und in Deutschland. Die Werte für die 7-Tage-Inzidenz in
+den Bundesändern liegen zwischen 1.349,2 pro 100.000 EW in Bremen und 228,3 pro 100.000 EW in
+Sachsen.
+Abbildung 2: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland und
+Meldedatum in den Gesundheitsämtern (13.01.2022, 0:00 Uhr). Für den grau markierten Bereich ist in den Folgetagen noch mit
+nachübermittelten Fällen und damit mit einer Erhöhung der Inzidenz zu rechnen.
+Abbildung 3 zeigt den Verlauf der an das RKI übermittelten hospitalisierten COVID-19-Fälle pro 100.000
+Einwohner der jeweils letzten 7 Tage in Deutschland. Es wurde eine Schätzung der zu erwartenden
+Anzahl an verzögert berichteten Hospitalisierungen durchgeführt (siehe Wochenbericht, Abschnitt
+Trends der 7-Tage-Hospitalisierungsinzidenz). Diese zeigt eine deutlich höhere Hospitalisierungsinzidenz
+als die tagesaktuellen Werte.
+Abbildung 3: Darstellung der hospitalisierten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Meldedatum (13.01.2022,
+0:00 Uhr). Die tagesaktuell berichtete Hospitalisierungsinzidenz (fixiert) wird in blau, mit Berücksichtigung der verzögert berichteten
+Hospitalisierungen (aktualisiert) in grau dargestellt. Die Schätzung der zu erwartenden Anzahl an verzögert berichteten Hospitalisierungen
+wird als gestrichelte Linie mit 95%-Prädiktionsintervall (in grün) gezeigt.
+
+
+# ---- page 4 ----
+
+
+
+# ---- page 5 ----
+
+                                                                                 COVID-19-Lagebericht vom 13.01.2022 5
+Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden gemäß Infektionsschutzgesetz
+spätestens am nächsten Arbeitstag vom Gesundheitsamt elektronisch an die zuständige Landesbehörde
+und von dort an das RKI übermittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr
+aktualisiert.
+Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt der Meldung des Falls an
+das Gesundheitsamt bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen
+hinsichtlich der Fallzahlen zu anderen Quellen geben kann.
+Für die Berechnung der Inzidenzen werden die Daten der Bevölkerungsstatistik des Statistischen
+Bundesamtes mit Datenstand 31.12.2020 verwendet. Die Berechnung der 7-Tage-Inzidenz erfolgt auf
+Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kenntnis über den Fall
+erlangt und ihn elektronisch erfasst hat. Für die 7-Tage-Inzidenz werden die Fälle mit Meldedatum der
+letzten 7 Tage gezählt.
+Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird. Es
+kann sein, dass z.B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldedatum vor
+mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt, die aufgrund
+von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Differenz nicht ohne
+weiteres auf die 7-Tage-Inzidenz geschlossen werden kann.
+Referenzen:
+[1] Jansen L, Tegomoh B, Lange K, et al. "Investigation of a SARS-CoV-2 B.1.1.529 (Omicron) Variant
+Cluster — Nebraska, November–December 2021." MMWR Morb Mortal Wkly Rep 2021;70:1782–1784.
+DOI: http://dx.doi.org/10.15585/mmwr.mm705152e3external icon"
+[2] Dasom Kim, Jisoo Jo, Jun-Sik Lim, Sukhyun Ryu "Serial interval and basic reproduction number of
+SARS-CoV-2 Omicron variant in South Korea". MedRxiv, DOI:
+https://doi.org/10.1101/2021.12.25.21268301.
+Anmerkungen
+1    Die Differenz zum Vortag bezieht sich auf das Eingangsdatum am RKI; aufgrund des Übermittlungsverzugs
+     können Fälle aus vorangegangenen Tagen darunter sein.
+2    Die aktiven Fälle ergeben sich aus der Zahl der übermittelten Fälle abzüglich der Todesfälle und der
+     geschätzten Zahl der Genesenen.
+3    Der Algorithmus zur Schätzung der Genesenen berücksichtigt Angaben zum Erkrankungsbeginn und zur
+     Hospitalisierung, jedoch nicht, ob ggf. Spätfolgen der Erkrankung vorliegen, weil diese Daten nicht regulär im
+     Meldesystem erfasst werden.
+4    Anteil der COVID-19-Belegung durch Erwachsene an allen betreibbaren Intensivbetten für Erwachsene.
+5    Die Gesamtzahl mindestens einmal Geimpfter ergibt sich aus der Anzahl der als Erstimpfung codierten
+     Meldungen in den übermittelten Impfdaten.
+6    Nach Vorgaben für die Impfdatenübermittlung ist jede Zweitimpfung oder eine Impfung nach Genesung mit
+     dem Code als vollständige Impfung zu übermitteln. Eine Impfung mit dem Janssen-Impfstoff wird als
+     Erstimpfung codiert und übermittelt, aber ebenfalls als vollständig gewertet.
+7    Die Gesamtzahl der Personen mit Auffrischimpfung ergibt sich aus der Anzahl der als Auffrischimpfung
+     codierten Meldungen in den übermittelten Impfdaten.

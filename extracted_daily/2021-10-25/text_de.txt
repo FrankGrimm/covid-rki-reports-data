@@ -1,0 +1,198 @@
+# 2021-10-25-de.pdf date: 2021-10-25 lang: de
+
+# ---- page 1 ----
+
+                                 Täglicher Lagebericht des RKI
+                              zur Coronavirus-Krankheit-2019
+                                                        (COVID-19)
+                               25.10.2021 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+       Bestätigte Fälle                            7-Tage-Inzidenz (7-TI)                 DIVI-Intensivregister              Impfmonitoring
+                                                                                           Datenstand 24.10. 12:15 Uhr         Datenstand 25.10.
+                                                                      Anzahl Kreise          Veränderung der
+                                               Gesamt-                                                                   Anzahl Impfungen seit
+   Gesamt1            aktive Fälle2                                       mit 7-TI           Fälle zum Vortag
+                                             Bevölkerung                                                                        dem Vortag
+                                                                   > 25/100.000 EW                 auf ITS
+                                                                                                                               Erstimpfungen:
+    +6.573                -2.300                 110,1                       -1                      +17
+                                                                                                                                    +4.011
+                                                                                                                              Zweitimpfungen:
+ (4.472.730)          [ca. 162.400]       Fälle/100.000 EW              [406/411]                  [1.622]
+                                                                                                                                    +5.197
+                                                                                             Anteil COVID-19-
+                                                                                                                            Anzahl Geimpfter
+                                                                      Anzahl Kreise             Belegung an
+                                            Hospitalisierte                                                                   insgesamt mit
+Hospitalisiert1        Genesene3                                          mit 7-TI            Gesamtzahl der
+                                                gesamt                                                                   mindestens einer/mit
+                                                                   > 50/100.000 EW          betreibbaren ITS-
+                                                                                                                       vollständiger Impfung4, 5
+                                                                                                   Betten
+     +150                +8.800                   2,77                       +6                                                N1: 57.486.710
+                                                                                                    7,4 %
+  (304.406)         (ca. 4.215.200)        Fälle/100.000 EW             [350/411]                                              N2: 55.068.845
+                                                                                                                            Anteil Geimpfter
+                                                                      Anzahl Kreise
+                                            Hospitalisierte                                   Erstaufnahmen                   insgesamt mit
+          Verstorbene      1
+                                                                          mit 7-TI
+                                              ab 60 Jahre                                          auf ITS               mindestens einer/mit
+                                                                  > 100/100.000 EW
+                                                                                                                         vollständiger Impfung
+                  +17                             6,05                       +9                                                 N1: 69,1 % 4
+                                                                                                     +83
+               (95.117)                    Fälle/100.000 EW             [183/411]                                               N2: 66,2 % 5
+  Zahlen in () Klammern zeigen kumulative Werte, Zahlen in [] Klammern zeigen die aktuellen Werte. Fußnoten werden im Anhang erläutert.
+ COVID-19-Verdachtsfälle und -Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das
+ Gesundheitsamt gemeldet. Dieses übermittelt die Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+ Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen dargestellt. Weitere Informationen sind unter
+ www.rki.de/covid-19-situationsbericht zu finden. Daten zu durchgeführten COVID-Impfungen sind gemäß Coronavirus-Impfverordnung von allen
+ impfenden Stellen täglich dem RKI zu übermitteln und sind hier publiziert:
+ https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Impfquoten-Tab.html
+    – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+    Zusammenfassung der aktuellen Lage
+    • Gestern wurden 6.573 neue Fälle und 17 neue Todesfälle übermittelt. Die Inzidenz der letzten 7 Tage liegt deutschlandweit
+      bei 110,1 Fällen pro 100.000 Einwohner (EW). Die Werte für die 7-Tage-Inzidenz in den Bundesländern liegen zwischen 224,3
+      pro 100.000 EW in Thüringen und 53,0 pro 100.000 EW in Saarland.
+    • Es wurden 150 Hospitalisierungen in Bezug auf COVID-19 übermittelt, die 7-Tage-Inzidenz der hospitalisierten Fälle liegt bei
+      2,77 Fällen pro 100.000 EW.
+    • Am 24.10.2021 (12:15 Uhr) befanden sich 1.622 COVID-19-Fälle in intensivmedizinischer Behandlung (+17 zum Vortag). Der
+      Anteil der COVID-19-Belegung an allen betreibbaren Intensivbetten für Erwachsene liegt bei 7,4 %.
+    • Seit dem 26.12.2020 wurden insgesamt 110.840.177 Impfungen verabreicht. Insgesamt haben 69,1 % der Bevölkerung
+      mindestens eine Impfung gegen COVID-19 bekommen.4 66,2 % wurden bereits vollständig gegen COVID-19 geimpft.5
+
+
+# ---- page 2 ----
+
+2 COVID-19-Lagebericht vom 25.10.2021
+    Epidemiologische Lage in Deutschland (Datenstand 25.10.2021, 0:00 Uhr)
+    Es wurden 4.472.730 (+6.573) labordiagnostisch bestätigte COVID-19-Fälle an das RKI übermittelt (s.
+    Tabelle 1). Die geografische Verteilung der Fälle der letzten 7 Tage ist in Abbildung 1 dargestellt. Die
+    genauen Inzidenzwerte der Kreise sowie dem RKI übermittelten Fälle mit Erkrankungsdatum seit dem
+    01.03.2020 sind tagesaktuell auf dem Dashboard verfügbar (https://corona.rki.de/).
+    Abbildung 1: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten 7 Tage in Deutschland nach Kreis und
+    Bundesland (n = 91.522, 25.10.2021, 0:00 Uhr). Die Fälle werden in der Regel nach dem Kreis ausgewiesen, aus dem sie übermittelt wurden.
+    Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher Infektionsort müssen nicht übereinstimmen. (Vom LK
+    Ludwigslust-Parchim werden wegen technischer Probleme nach einem Cyberangriff keine Daten gemeldet.)
+    Tabelle 1: An das RKI übermittelte COVID-19-Fälle und -Todesfälle sowie Hospitalisierungsinzidenz pro Bundesland in Deutschland
+    (25.10.2021, 0:00 Uhr). Die Differenz zum Vortag bezieht sich auf Fälle, die dem RKI täglich übermittelt werden. Dies beinhaltet Fälle, die am
+    gleichen Tag oder bereits an früheren Tagen an das Gesundheitsamt gemeldet worden sind.
+                                         Fälle kumulativ                                Letzte 7 Tage                    Todesfälle kumulativ
+                                                              Fälle/                        Fälle/        Hospitali-                        Fälle/
+                                             Differenz
+   Bundesland                     Fälle                      100.000          Fälle        100.000         sierung/         Fälle         100.000
+                                               Vortag
+                                                               EW                             EW         100.000 EW                           EW
+   Baden-Württemberg             614.089         1.224          5.531          15.809          142,4             3,37        10.891               98
+   Bayern                        788.104         2.100          5.998          23.540          179,1             3,02        15.957              121
+   Berlin                        218.121             67         5.953           4.211          114,9             3,17         3.677              100
+   Brandenburg                   121.716           102          4.809           2.179            86,1            2,13         3.897              154
+   Bremen                          34.859            30         5.125             459            67,5            3,23           527               77
+   Hamburg                         96.556          280          5.212           1.862          100,5             1,57         1.793               97
+   Hessen                        347.779           206          5.526           5.045            80,2            2,43         7.824              124
+   Mecklenburg-
+                                   51.976            76         3.227             999            62,0            2,48         1.224               76
+   Vorpommern
+   Niedersachsen                 314.447           157          3.929           4.908            61,3            1,51         6.061               76
+   Nordrhein-Westfalen           995.013           769          5.551          12.662            70,6            2,57        18.114              101
+   Rheinland-Pfalz               189.303           217          4.619           2.941            71,8            2,46         4.061               99
+   Saarland                        49.226            21         5.003             522            53,0            1,42         1.063              108
+   Sachsen                       316.139           927          7.793           7.983          196,8             3,89        10.284              253
+   Sachsen-Anhalt                109.305             71         5.012           1.969            90,3            2,25         3.570              164
+   Schleswig-Holstein              79.941            74         2.746           1.678            57,6            1,75         1.712               59
+   Thüringen                     146.156           252          6.893           4.755          224,3             7,73         4.462              210
+   Gesamt                     4.472.730          6.573          5.379          91.522          110,1             2,77       95.117               114
+
+
+# ---- page 3 ----
+
+                                                                                                   COVID-19-Lagebericht vom 25.10.2021          3
+                                       Fälle kumulativ                             Letzte 7 Tage                     Todesfälle kumulativ
+                                                            Fälle/                     Fälle/         Hospitali-                        Fälle/
+                                            Differenz
+Bundesland                      Fälle                     100.000          Fälle      100.000          sierung/         Fälle          100.000
+                                              Vortag
+                                                             EW                          EW          100.000 EW                          EW
+Im Rahmen von Qualitätsprüfungen und Datenbereinigungen der Gesundheitsämter kann es gelegentlich vorkommen, dass bereits übermittelte
+Fälle im Nachhinein korrigiert bzw. wieder gelöscht werden. So kann es dazu kommen, dass in dieser Tabelle negative Werte bei der Differenz der
+im Vergleich zum Vortag übermittelten Fällen aufgeführt werden.
+  Abbildung 2 zeigt den Verlauf der an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner der
+  jeweils letzten 7 Tage in den Bundesländern und in Deutschland. Die Werte für die 7-Tage-Inzidenz in
+  den Bundesändern liegen zwischen 224,3 pro 100.000 EW in Thüringen und 53,0 pro 100.000 EW in
+  Saarland.
+  Abbildung 2: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland und
+  Meldedatum in den Gesundheitsämtern (25.10.2021, 0:00 Uhr). Für den grau markierten Bereich ist in den Folgetagen noch mit
+  nachübermittelten Fällen und damit mit einer Erhöhung der Inzidenz zu rechnen.
+  Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+  Reproduktionszahl
+  Den aktuell geschätzten Verlauf des 7-Tage-R-Werts zeigt Abbildung 3.
+                                                             7-Tage-R-Wert
+                                                                    1,17
+                                             (95%- Prädiktionsintervall: 1,08 - 1,26)
+
+
+# ---- page 4 ----
+
+4   COVID-19-Lagebericht vom 25.10.2021
+                                                                                         Nowcast                   95%-PI
+                                                                                         7-Tages R-Wert            95%-PI
+                                        2                                                                                       20.000
+        Effektive Reproduktionszahl R                                                                                                    Anzahl neuer Fälle (Nowcast)
+                                                                                                                                15.000
+                                        1                                                                                       10.000
+                                                                                                                                5.000
+                                        0                                                                                       0
+                                                 .        .        .        .        .        .         .            .
+                                            .0 8     .0 9     .0 9     .0 9     .0 9       .1 0      .1 0         .1 0
+                                            30       06       13       20       27       04        11           18
+                                                               Datum des Erkrankungsbeginns
+      Abbildung 3: Darstellung des geschätzten R-Werts (in orange) in den letzten 60 Tagen, vor dem Hintergrund der durch das Nowcasting
+      geschätzten Fallzahlen nach Erkrankungsbeginn (Stand 25.10.2021, 0:00 Uhr, unter Berücksichtigung der Fälle mit Erkrankungsbeginn bis
+      21.10.2021).
+      Unter http://www.rki.de/covid-19-nowcasting werden Beispielrechnungen und der täglich aktualisierten
+      R-Wert als csv-Tabelle zur Verfügung gestellt. Eine detaillierte Beschreibung der Methodik ist unter
+      Schätzung der aktuellen Entwicklung der SARS-CoV-2-Epidemie in Deutschland - Nowcasting verfügbar
+      (Epid. Bull. 17 | 2020 vom 23.04.2020).
+      Anhang:
+      Hinweise zur Datenerfassung und -bewertung
+      Die in diesem Lagebericht dargestellten Daten stellen eine Momentaufnahme dar. Informationen zu
+      Fällen können im Verlauf der Erkrankung durch die Gesundheitsämter nachermittelt und nachgetragen
+      werden. Nicht für alle Variablen gelingt eine vollständige Erfassung.
+      Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+      notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden gemäß Infektionsschutzgesetz
+      spätestens am nächsten Arbeitstag vom Gesundheitsamt elektronisch an die zuständige Landesbehörde
+      und von dort an das RKI übermittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr
+      aktualisiert.
+      Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt der Meldung des Falls an
+      das Gesundheitsamt bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen
+      hinsichtlich der Fallzahlen zu anderen Quellen geben kann.
+      Für die Berechnung der Inzidenzen werden die Daten der Bevölkerungsstatistik des Statistischen
+      Bundesamtes mit Datenstand 31.12.2020 verwendet. Die Berechnung der 7-Tage-Inzidenz erfolgt auf
+      Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kenntnis über den Fall
+      erlangt und ihn elektronisch erfasst hat. Für die 7-Tage-Inzidenz werden die Fälle mit Meldedatum der
+      letzten 7 Tage gezählt.
+      Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+      dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird. Es
+      kann sein, dass z.B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldedatum vor
+
+
+# ---- page 5 ----
+
+                                                                                COVID-19-Lagebericht vom 25.10.2021 5
+mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt, die aufgrund
+von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Differenz nicht ohne
+weiteres auf die 7-Tage-Inzidenz geschlossen werden kann.
+Anmerkungen
+1   Die Differenz zum Vortag bezieht sich auf das Eingangsdatum am RKI; aufgrund des Übermittlungsverzugs
+    können Fälle aus vorangegangenen Tagen darunter sein.
+2   Die aktiven Fälle ergeben sich aus der Zahl der übermittelten Fälle abzüglich der Todesfälle und der
+    geschätzten Zahl der Genesenen.
+3   Der Algorithmus zur Schätzung der Genesenen berücksichtigt Angaben zum Erkrankungsbeginn und zur
+    Hospitalisierung, jedoch nicht, ob ggf. Spätfolgen der Erkrankung vorliegen, weil diese Daten nicht regulär im
+    Meldesystem erfasst werden.
+4   Die Gesamtzahl mindestens einmal Geimpfter umfasst Personen, die Erstimpfungen mit folgenden
+    Impfstoffen: Comirnaty® (BioNTech/Pfizer), Spikevax® (Moderna), Vaxzevria® (AstraZeneca) oder eine Impfung
+    mit dem Impfstoff Janssen® (Johnson & Johnson) erhalten haben.
+5   Vollständig gegen COVID-19 geimpft heißt: Zwei Impfdosen mit Vaxzevria® (AstraZeneca), Comirnaty®
+    (BioNTech/Pfizer), Spikevax® (Moderna) oder eine Dosis mit Janssen® (Johnson & Johnson) bzw. eine einzelne
+    Dosis bei COVID-19-Genesenen.

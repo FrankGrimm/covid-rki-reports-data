@@ -1,0 +1,355 @@
+# 2021-01-03-en.pdf date: 2021-01-03 lang: en
+
+# ---- page 1 ----
+
+                                                           Coronavirus Disease 2019
+                                                                       (COVID-19)
+                               Daily Situation Report of the Robert Koch Institute
+                                                     03/01/2021 - UPDATED STATUS FOR GERMANY
+                                                                                                            Vaccination              DIVI-Intensive care
+         Confirmed cases                                     7-day incidence (7-di)
+                                                                                                            monitoring                       register
+                                                                           No. of districts                    No. of               Change to previous
+     Total1             Active cases2            Total population              with 7-di                  vaccinations in                day for cases
+                                                                         > 50/100,000 pop                     last 24h                 currently in ICU
+   +10,315                   -3,800                        140                    +2                          +40,665                           +36
+ (1,765,666)            [ca. 349,500]               Fälle/ 100.000 EW         [392/412]                                                      [5,762]
+                                                                           No. of districts                 Total no. of                Completed ICU
+                                                  60-79           80+
+ Recovered3                 Deaths                                             with 7-di                 vaccinated with                   treatment;
+                                                   years         years
+                                                                        > 100/100,000 pop                one vaccine dose          thereof deceased [%]
+   +13,800                    +312                  115           287              -1                         238,809                          +429
+(ca. 1,381,900)             (34,272)                Fälle/ 100.000 EW         [288/412]                                                        42%
+     Numbers in () brackets show cumulative values, numbers in [] brackets show current values.
+   1 The difference to the previous day relates to data entry at RKI; due to delay in data transmission former cases may be included.
+   2
+     Active cases were calculated from the number of transmitted cases minus deaths and the estimated number of recovered cases.
+   3 The algorithm for estimation of recovered cases considers information about disease onset and hospitalization but not for late effects because such
+     data were not recorded regularly.
+      COVID-19 cases are notified to the local public health department in the respective districts, in accordance with the German Protection against
+      Infection Act (IfSG). The data are further transmitted through the respective federal state health authority to the Robert Koch Institute (RKI). This
+      situation report presents the uniformly recorded nationwide data on laboratory-confirmed COVID-19 cases transmitted to RKI.
+     – Changes since the last report are marked blue in the text –
+     Summary (as of 03/01/2021, 12:00 AM)
+     • Currently, the number of transmissions in the population in Germany is high. RKI now judges the level of threat to the health of the general
+          population as very high.
+     • Yesterday, 10,315 new laboratory-confirmed COVID-19 cases as well as 312 new deaths associated with COVID-19 were transmitted to the RKI
+          in Germany. The national 7-day incidence is 140 cases per 100,000 population. In Saxony and Thuringia, it is markedly above the national
+          incidence.
+     • All 412 districts have a high 7-day COVID-19 incidence. 288 districts have an incidence of >100 cases/100,000 population and of these, 41
+          districts have an incidence of >250-500 cases/100,000 population and 2 districts of >500 cases/100,000 population.
+     • The 7-day incidence of people 60-79 years is currently 115 and of people ≥80 years 287 cases/100,000 population.
+     • The high nationwide number of cases is caused by increasingly diffuse transmission, with numerous clusters especially in households and
+          nursing and long-term care homes.
+     • On 03/01/2021 (12:15 PM) 5,762 COVID-19 patients were in intensive care. In the preceding 24 hours, 429 existing patients were discharged
+          (42% of whom had died) and 465 patients were newly admitted. The resulting number of cases under treatment was +36 more than the prior
+          day.
+     • On 12/19/2020, a new virus variant was reported in the UK. The ECDC published a Risk Assessment on 29/12/2020. To date, it is unknown how
+          the new virus variant will affect the COVID-19 pandemic. So far, a few cases of this new variant have been transmitted to the RKI. Further cases
+          may be expected.
+     • Since 26/12/2020 a total of 238,809 people in Germany have been vaccinated against COVID-19 (http://www.rki.de/covid-19-impfquoten).
+     • Testing and notification activities may be lower during the festive season, resulting in a putatively incomplete picture of the epidemiological
+          situation in Germany.
+     Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 2 ----
+
+      COVID-19 Situation Report 03/01/2021
+2
+  Epidemiological Situation in Germany
+      In accordance with the international standards of WHO 1 and ECDC², the RKI considers all laboratory
+      confirmations of SARS-CoV-2 and confirms these via nucleic acid based (e.g. PCR) or direct pathogen
+      detection, irrespective of the presence and severity of clinical symptoms, as COVID-19 cases. Thus, in the
+      following report the term "COVID-19 cases" covers acute SARS-CoV-2 infections as well as cases of COVID-
+      19 disease.
+      General current assessment
+      After a temporary stabilisation of case numbers at a higher level in late August and early September, a
+      steep increase in case numbers ensued in October in all federal states. Due to measures implemented at
+      the beginning of November the rise in cases could be stopped, albeit no considerable reduction in case
+      numbers ensued. Since the beginning of December case numbers have been sharply increasing again.
+      The R-value is currently around 1. Nevertheless, the daily number of new cases remains high due to the
+      large number of current cases. Furthermore, during the festive season the detection, notification and
+      transmission of COVID-19-cases is delayed, thus the R-value may be underestimated.
+      Outbreaks are being reported from various districts throughout Germany in various settings, particularly in
+      households and increasingly in nursing and long-term care homes, but also in occupational settings.
+      Additionally, in many districts, there is an increasingly diffuse spread of SARS-CoV-2 without traceable
+      transmission chains.
+      Since patients in older age groups more often have more severe illness due to COVID-19, the number of
+      serious cases and deaths remains on a high level. These can be avoided if all prevent the spread of the
+      SARS-CoV-2 virus with the help of infection control measures.
+      It is therefore still necessary for the entire population to be committed to infection prevention and control,
+      e.g. by consistently observing rules of distance and hygiene - also outdoors -, by ventilating indoor spaces
+      and, where indicated, by wearing a community mask correctly. Crowds of people - especially indoors -
+      should be avoided.
+      On 12/19/2020, a new virus variant (B.1.1.7) was reported in the UK. The ECDC has published a Risk
+      Assessment on 29/12/2020. To date, it is unknown how the new virus variant will affect the COVID-19
+      pandemic. Cases with the new variant have already been detected in numerous countries around the world.
+      It is expected that infections with the new variant will be detected in further countries. So far, a few cases
+      of this new variant have been transmitted to the RKI. Further cases may be expected. WHO has also
+      reported another new virus variant detected in South Africa possibly associated with higher transmissibility
+      and more severe disease.
+      COVID-19 cases reported during the festive season and the first few days of the new year must be
+      interpreted with caution as there may be fewer medical consultations, less sampling and diagnostic testing
+      during that time. This may lead to fewer notified cases at the local level and hence to fewer transmitted
+      COVID-19 cases to the RKI. Furthermore, not all local and state health authorities transmit data to the RKI
+      on all days.
+      1
+         World Health Organization, https://www.who.int/publications/i/item/WHO-2019-nCoV-Surveillance_Case_Definition-2020.1
+       ² European Centre for Disease Prevention and Control, https://www.ecdc.europa.eu/en/covid-19/surveillance/case-definition
+      Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 3 ----
+
+                                                                                                       COVID-19 Situation Report 03/01/2021
+3                                                                                                                                           3
+  Geographical distribution of cases
+  Epidemiological analyses are based on validated cases notified electronically to the RKI in line with the
+  Protection Against Infection Law (Data closure: 12:00 AM daily). Since January 2020, a total of 1,765,666
+  (+10.315) laboratory-confirmed cases of COVID-19 have been reported to and validated by the RKI
+  (Table 1).
+  Table 1: Number and cumulative incidence (per 100,000 population) of laboratory-confirmed COVID-19 cases and deaths for each
+  federal state electronically reported to RKI, Germany (03/01/2021, 12:00 AM). The number of new cases includes positive cases
+  notified to the local health department at the same day, but also at previous days.
+                                                     Cumulative cases                         Last 7 days          Cumulative deaths
+                                                                                                       7-day
+                                                              Number        Cases/       Cases in    incidence   Number       Number of
+   Federal State                          Total number of
+                                                               of new      100,000       the last       per          of         deaths/
+                                                cases
+                                                               cases*        pop.         7 days      100,000     deaths     100,000 pop.
+                                                                                                        pop.
+   Baden-Wuerttemberg                           243,914          1,170        2,197       14,266           129      4,925              44.4
+   Bavaria                                      332,619          1,764        2,534       20,621           157      6,868              52.3
+   Berlin                                        98,097             460       2,673         4,443          121      1,285              35.0
+   Brandenburg                                   42,713             329       1,694         4,462          177         993             39.4
+   Bremen                                        13,713              10       2,013           556            82        202             29.7
+   Hamburg                                       37,535             242       2,032         2,180          118         661             35.8
+   Hesse                                        139,965             597       2,226         8,437          134      2,962              47.1
+   Mecklenburg-
+                                                 12,454              92          774        1,459            91        177             11.0
+   Western Pomerania
+   Lower Saxony                                 110,271             461       1,379         7,114            89     2,028              25.4
+   North Rhine-Westphalia                       400,594          1,916        2,232       22,030           123      6,751              37.6
+   Rhineland-Palatinate                          73,915             370       1,805         4,822          118      1,466              35.8
+   Saarland                                      20,141              30       2,041           895            91        441             44.7
+   Saxony                                       138,332          1,301        3,397       13,425           330      3,353              82.3
+   Saxony-Anhalt                                 31,497             789       1,435         3,826          174         687             31.3
+   Schleswig-Holstein                            25,540             293          880        2,248            77        443             15.3
+   Thuringia                                     44,366             491       2,080         5,310          249      1,030              48.3
+   Total                                      1,765,666         10,315        2,123 116,094                140     34,272             41.2
+  Quality checks and data cleaning by the health authorities and regional offices can lead to corrections to cases previously
+  transmitted (e. g. detection of duplicate reports). This can occasionally lead to negative values for the number of new cases.
+  *During the festive season COVID-19 cases are detected, notified and transmitted with delays.
+  Distribution of cases over time
+  The first COVID-19 cases in Germany were notified in January 2020. Figure 1 shows COVID-19 cases
+  transmitted to RKI according to date of illness onset from 01/03/2020 onwards. Of these cases, the onset of
+  symptoms is unknown for 987,429 cases (56%) thus their date of reporting is provided in Figure 1.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 4 ----
+
+    COVID-19 Situation Report 03/01/2021
+4
+                               30000
+                               25000
+    Number of reported cases
+                               20000
+                               15000
+                               10000
+                                5000
+                                   0
+                                                 Onset of symptoms, alternatively date of reporting (2020)
+                                                             Onset of symptoms   Date of reporting
+    Figure 1: Number of COVID-19 cases in Germany electronically reported to the RKI by the date of symptoms onset or – if unknown –
+    alternatively by date of reporting since 01/03/2020 (03/01/2021, 12:00 AM).
+    *During the festive season COVID-19 cases are detected, notified and transmitted with delays.
+    Occupation, accommodation or care in facilities
+    In accordance with the Protection Against Infection Act (Infektionsschutzgesetz, IfSG), the RKI receives
+    information on occupation, accommodation or care in a facility relevant for infection control for reported
+    COVID-19 cases.
+    Since information on occupation, accommodation or care in these facilities is missing in many cases, the
+    numbers of cases working, accommodated or cared for in these facilities reported here should be
+    considered minimum values. Among the COVID-19 cases reported from the above-mentioned facilities, the
+    proportion of cases that actually acquired their infection in these facilities is unknown.
+    Table 2: Notified COVID-19-cases according to possible occupation, accommodation or care in facilities relevant for transmission of
+    infectious diseases according to the Protection Against Infection Act (IfSG), reported to RKI (n=229,002 cases; 03/01/2021, 12:00
+    AM)*.
+                                                                                      ≥60 years,
+        Facility according to                                            Total                               Hospitalised     Deaths Recovered
+                                                                                    number / prop.                                           (estimate)
+                                                Cared for /
+        § 23 IfSG (e.g. hospitals, outpatient accommodated             14,291          10,228 / 72%                9,061        1,981           9,900
+        clinics and practices, dialysis clinics in facility
+        or outpatient nursing services)         Occupation in
+                                                                       45,992             3,556 / 8%               1,441            44        41,400
+                                                facility
+        § 33 IfSG (e.g. day care facilities,    Cared for /
+        kindergartens, facilities for after     accommodated           44,929                        n.a.            490             3        42,900
+        school care, schools or other           in facility*
+        educational facilities, children’s      Occupation in
+        homes, holiday camps)
+                                                                       22,378             1,750 / 8%                 489            17        21,000
+                                                facility
+                                                Cared for /
+        § 36 IfSG (e.g. facilities for the care
+        of older, disabled or other persons
+                                                accommodated           67,718          52,076 / 77%               10,653        9,583         46,000
+                                                in facility
+        in need of care, homeless shelters,
+        community facilities for asylum-        Occupation in
+        seekers, prisons)
+                                                                       33,694           3,940 / 12%                  911          100         29,700
+                                                facility
+    *for care according to § 33 IfSG only cases under 18 years of age are considered, as other information may be assumed to be incorrect.
+    Due to changes in the variables, no notifications according to §42 are listed here.
+    *During the festive season COVID-19 cases are detected, notified and transmitted with delays.
+    The number of COVID-19 cases was highest among persons cared for or employed in care facilities
+    according to § 36 IfSG, among persons employed in medical facilities according to § 23 IfSG and among
+    Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 5 ----
+
+                                                                                                   COVID-19 Situation Report 03/01/2021
+5                                                                                                                                       5
+  persons cared for in educational facilities according to § 33 IfSG (Table 2). The number of deaths was
+  particularly high among persons cared for in facilities according to §§ 23 and 36. The high number of cases
+  among people cared for or working in various care facilities (§ 36 IfSG) is consistent with numerous
+  reported outbreaks, especially in nursing homes.
+  Outbreaks
+  An increased incidence of >25 cases in 7 days/100,000 population was reported for every district (412/412).
+  There are 41 districts with incidences of >250 to 500 cases/100,000 and 2 districts with an incidence of >500
+  cases/100,000 in the last 7 days. The dashboard (https://corona.rki.de) shows all affected districts.
+  In most districts, the transmission is diffuse, with several cases clustering in households. Many outbreaks
+  continue to contribute to the elevated incidence particularly in households and retirement and nursing
+  homes, but also in various occupational settings, hospitals and facilities for asylum seekers and refugees,
+  and in the context of religious gatherings.
+  Estimation of the reproduction number (R)
+  The reproduction number, R, is defined as the mean number of people infected by one infected person. The
+  estimation of the R-value is based on the so-called nowcasting (Figure 2), a statistical procedure that shows
+  the development of the number of cases after the onset of the disease and also forecasts it for the last few
+  days. This forecast is subject to uncertainty, which is also reflected in the prediction intervals given for the
+  R-value. After other case reports have been received at the RKI, the R-value is adjusted for the past days
+  and, if necessary, corrected upwards or downwards. In recent weeks, values reported at the beginning of a
+  week were typically corrected slightly upwards. They had thus slightly underestimated the real COVID-19
+  events in Germany, values estimated towards the end of a week were more stable. The currently estimated
+  course of the R-value is shown in Figure 3.
+                          4-day R-value                                                         7-day R-value
+                                1.11                                                                0.91
+         (95%-prediction interval: 0.93 – 1.33)                                    (95%-prediction interval: 0.82 – 0.99)
+  Delays in reporting of case numbers at weekend days can lead to cyclical fluctuations of the 4-day R-value. The 7-day R-value is less
+  affected because all week days are used to determine the value. During the festive season COVID-19 cases are detected, notified and
+  transmitted with delays, thus the R-value may be under-estimated.
+  Figure 2: Number of notified COVID-19 cases with known date of illness onset (dark blue), estimated date of illness onset for cases
+  without reported date of onset (grey) and estimated number of not yet notified cases according to illness onset electronically
+  reported to RKI (orange) (as of 03/01/2021, 12 AM, considering cases up to 30/12/2020).
+  *During the festive season COVID-19 cases are detected, notified and transmitted with delays.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 6 ----
+
+     COVID-19 Situation Report 03/01/2021
+6
+     Figure 3: The estimated R-values (in green and orange) over the last 60 days, against the background of estimated number of
+     COVID-19 cases according to illness onset (as of 03/01/2021, 12 AM, considering cases up to 30/12/2020).
+     *During the festive season COVID-19 cases are detected, notified and transmitted with delays.
+     The R-value is currently around 1. Nevertheless, the daily number of new cases remains high due to the
+     large number of current cases. Furthermore, during the festive season the detection, notification and
+     transmission of COVID-19-cases is delayed, thus the R-value may be underestimated.
+     Sample calculations as well as an excel sheet presenting both R-values with daily updates can be found
+     under www.rki.de/covid-19-nowcasting. A detailed description of the methodology is available at
+     https://ww.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html (Epid. Bull, 17 | 2020 from
+     23/04/2020).
+  DIVI intensive care register
+     The German Interdisciplinary Association for Intensive and Emergency Medicine (DIVI) has in collaboration
+     with RKI established a registry to document the number of available intensive care beds as well as the
+     number of COVID-19 cases treated in participating hospitals on a daily basis. Since 16/04/2020, all hospitals
+     with intensive care beds are required to report (https://www.intensivregister.de/#/index).
+     As of 03/01/2021, a total of 1,287 hospitals or departments reported to the DIVI registry. Overall, 26,551
+     intensive care beds were registered, of which 21,894 (82%) are occupied, and 4,657 (18%) are currently
+     available. The number of COVID-19 cases treated in participating hospitals is shown in Table 3.
+     Table 3: COVID-19 patients requiring intensive care (ICU) recorded in the DIVI register (03/01/2021, 12:15 PM).
+                                                                              Number of
+                                                                                                   Change to previous day*
+                                                                                patients
+                        Currently in ICU                                           5,762                       +36
+       Currently        - thereof with invasive ventilation                    3,171 (55%)                     +42
+                        New admissions to ICU                                                                 +465
+                        Discharged from ICU                                       51.674                      +429
+       Total
+                        - thereof deaths                                      13.603 (26%)                 +182 (42%)
+     *The interpretation of these numbers must consider the number of reporting hospitals and therefore the number of reported
+     patients may change from day to day. On certain days, this can explain an occasionally important decrease or increase in the
+     cumulative number of discharged patients or deaths compared with the day before.
+     Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 7 ----
+
+                                                                                   COVID-19 Situation Report 03/01/2021
+7                                                                                                                       7
+ Risk Assessment by the RKI
+     In view of persistently high case numbers, the RKI now judges the threat to the health of the general
+     population to be very high. The revised version highlights the increasingly diffuse SARS-CoV-2 transmission
+     as well as the occurrence of outbreaks especially in households. occupational settings and nursing and
+     senior care homes.
+     Therefore. more rigorous case finding and contact tracing as well as better protection of vulnerable groups
+     is essential. Vulnerable persons can only be reliably protected if the number of new infections can be
+     substantially reduced. The current version can be found here:
+     https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html (in German)
+ Measures taken in Germany
+     -    Vaccination started in Germany on the 26th of December 2020
+     -    Regulation to protect against entry-related infection risks regarding novel mutations of the coronavirus
+          SARS-CoV-2 (21/12/2020. in German)
+          https://www.bundesgesundheitsministerium.de/fileadmin/Dateien/3_Downloads/C/Coronavirus/Veror
+          dnungen/CoronaSchV_BAnz_AT_21.12.2020_V4.pdf
+     -    Information on the designation of international risk areas
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+     -    Recommendations on COVID-19-vaccination (17.12.2020. in German)
+          https://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/COVID-19/Impfempfehlung-
+          Zusfassung.html
+     -    Third law on protection of the population in the event of an epidemic of national concern (18/11/2020.
+          in German) https://www.bundesgesundheitsministerium.de/service/gesetze-und-verordnungen/guv-
+          19-lp/drittes-bevoelkerungsschutzgesetz.html
+     -    Further governmental resolutions regarding additional containment measures (Lockdown. 13/12/2020.
+          in German) https://www.bundesregierung.de/breg-de/themen/coronavirus/merkel-beschluss-
+          weihnachten-1827396
+     -    National Testing Strategy – who will be tested for SARS-CoV-2 in Germany (30/11/2020. in German)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Nat-Teststrat.html
+     -    Important information and guidance on the novel coronavirus SARS-CoV-2 for returning travellers
+          (08/11/2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/BMG_Merkblatt_Reisende
+          _Tab.html
+     -    Selected and regularly updated information on COVID-19
+          https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
+     -    The ministry of health has published a record of all measures implemented in Germany since
+          27/01/2020 (in German)
+          https://www.bundesgesundheitsministerium.de/coronavirus/chronik-coronavirus.html
+     -    Information from the Ministry of Health for travellers entering Germany: Frequently asked questions
+          and answers (in German)
+          https://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-einreisende.html
+     -    Corona-Warn-App
+          https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/CWA/CWA.html
+     Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 8 ----
+
+  COVID-19 Situation Report 03/01/2021
+8
+  -    Information on additional regulations at the regional level regarding control measures such as physical
+       distancing or quarantine regulations for persons entering from other countries can be accessed here (in
+       German):
+       https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-bundeslaender-1745198
+  -    Data on current disease activity can be found on the RKI dashboard:
+       https://corona.rki.de/
+  -    A distance of 1.5 metres to other individuals must be maintained in public spaces: (in German)
+       https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-
+       den-regierungschefinnen-und-regierungschefs-der-laender-1733248
+  -    (Non-medical) face masks must be worn on public transport and in shops in all federal states.
+  Note: The report is a snapshot and is continuously updated.

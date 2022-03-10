@@ -1,0 +1,451 @@
+# 2020-11-16-de.pdf date: 2020-11-16 lang: de
+
+# ---- page 1 ----
+
+                                   Täglicher Lagebericht des RKI
+                                zur Coronavirus-Krankheit-2019
+                                                         (COVID-19)
+                                  16.11.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+           Bestätigte Fälle                                    7-Tage-Inzidenz (7-TI)                               DIVI-Intensivregister
+                                                                                                                        Aktuelle Fälle in
+                                                       Gesamt-                  Anzahl Kreise mit
+      Gesamt1              aktive Fälle2                                                                            intensivmedizinischer
+                                                     Bevölkerung              7-TI > 50/100.000 EW
+                                                                                                                           Behandlung
+      +10.824                 -2.000                 143 Fälle/                           -2                                    + 51
+     (801.327)              [273.600]               100.000 EW                          [371]                                 [3.436]
+                                                                                                                          Nicht mehr in
+                                                      Personen                  Anzahl Kreise mit                   intensivmedizinischer
+    Genesene3             Verstorbene
+                                                      ≥ 60 Jahre             7-TI > 100/100.000 EW                        Behandlung,
+                                                                                                                     davon % verstorben
+      +12.800                   +62                  103 Fälle/                           -2                                    + 433
+  (ca. 515.200)              (12.547)               100.000 EW                          [275]                                    26%
+Zahlen in () Klammern zeigen kumulative Werte, Zahlen in [] Klammern zeigen die aktuellen Werte
+1
+  Die Differenz zum Vortag bezieht sich auf das Eingangsdatum am RKI; aufgrund des Übermittlungsverzugs können Fälle aus vorangegangenen
+  Tagen darunter sein.
+2 Die aktiven Fälle ergeben sich aus der Zahl der übermittelten Fälle abzüglich der Todesfälle und der geschätzten Zahl der Genesenen.
+3 Der Algorithmus zur Schätzung der Genesenen berücksichtigt Angaben zum Erkrankungsbeginn und zur Hospitalisierung, jedoch nicht, ob ggf.
+  Spätfolgen der Erkrankung vorliegen, weil diese Daten nicht regulär im Meldesystem erfasst werden.
+ COVID-19-Verdachtsfälle und COVID-19-Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das
+ Gesundheitsamt gemeldet. Das Gesundheitsamt übermittelt diese Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im
+ vorliegenden Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen
+ dargestellt.
+     – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+     Zusammenfassung der aktuellen Lage
+•    Aktuell ist weiterhin eine große Anzahl an Übertragungen in der Bevölkerung in Deutschland zu beobachten. Daher wird
+     dringend appelliert, dass sich die gesamte Bevölkerung für den Infektionsschutz engagiert.
+•    Die Inzidenz der letzten 7 Tage liegt deutschlandweit bei 143 Fälle pro 100.000 Einwohner (EW).
+•    Seit Anfang September nimmt der Anteil älterer Personen unter den COVID-19-Fällen wieder zu. Die 7-Tage-Inzidenz bei
+     Personen ≥ 60 Jahre liegt bei aktuell 103 Fälle/100.000 EW.
+•    Die 7-Tage-Inzidenz liegt in den Bundesländern Bayern, Berlin, Bremen, Hessen, Nordrhein-Westfalen und Sachsen über der
+     bundesweiten Gesamtinzidenz.
+•    Aktuell weisen nahezu alle Kreise eine hohe 7-Tage-Inzidenz auf. Nur 3 Kreise weisen eine 7-Tage-Inzidenz von
+     < 25 Fälle/100.000 EW auf. Die 7-Tage-Inzidenz liegt in 275 Kreisen bei > 100 Fällen/100.000 EW und davon in 23 Kreisen bei >
+     250 Fällen/100.000 EW.
+•    Der bundesweite Anstieg wird verursacht durch zumeist diffuse Geschehen, mit zahlreichen Häufungen in Haushalten, aber
+     zunehmend auch in Gemeinschaftseinrichtungen und Alten- und Pflegeheimen sowie in beruflichen Settings und ausgehend
+     von religiösen Veranstaltungen. Für einen großen Anteil der Fälle kann das Infektionsumfeld nicht ermittelt werden.
+•    Seit Mitte Oktober steigt die die Zahl der intensivmedizinisch behandelten COVID-19-Fälle stark an, von 655 Patienten am
+     15.10.2020 auf 3.436 heute am 16.11.2020.
+•    Am 16.11.2020 wurden 10.824 neue Fälle übermittelt; im Vergleich zum Vortag sind weitere 62 Personen verstorben.
+     Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+
+
+# ---- page 2 ----
+
+2 COVID-19-Lagebericht vom 16.11.2020
+    Epidemiologische Lage in Deutschland (Datenstand 16.11.2020, 0:00 Uhr)
+    In Einklang mit den internationalen Standards der WHO 1 und des ECDC² wertet das RKI alle
+    labordiagnostischen PCR-Nachweise von SARS-CoV-2 unabhängig vom Vorhandensein oder der
+    Ausprägung einer klinischen Symptomatik als COVID-19-Fälle. Im folgenden Bericht sind somit unter
+    COVID-19-Fällen sowohl akute SARS-CoV-2-Infektionen als auch COVID-19-Erkrankungen
+    zusammengefasst. Weitere Erläuterungen finden sich unter „Hinweise zur Datenerfassung und -
+    bewertung“.
+    Allgemeine aktuelle Einordnung
+    Nach einer vorübergehenden Stabilisierung der Fallzahlen auf einem erhöhten Niveau Ende August und
+    Anfang September ist es im Oktober in allen Bundesländern zu einem steilen Anstieg der Fallzahlen
+    gekommen (s. Abbildung 3). Die Zunahme hat sich zuletzt abgeflacht. Die Inzidenz der COVID-19-Fälle in
+    der älteren Bevölkerung nimmt aktuell weiter zu. Die berichteten R-Werte lagen im Oktober stabil
+    deutlich über 1. In den letzten Tagen unterlag der R-Wert leichten Schwankungen; aktuell liegt er um 1.
+    Das bedeutet, dass im Durchschnitt jede Person, die mit SARS-CoV-2 infiziert ist, ca. eine weitere Person
+    ansteckt. Da die Zahl der infizierten Personen derzeit in Deutschland sehr hoch ist, bedeutet dies
+    weiterhin eine hohe Zahl von täglichen Neuerkrankungen.
+    Am 11.11.2020 wurde die Tabelle auf der ersten Seite des Lageberichts angepasst. Ziel der Änderungen
+    ist eine stärkere Fokussierung auf die aktuelle Lage. Deshalb werden die Veränderungen zum Vortag nun
+    in den Vordergrund gestellt. Außerdem werden neben den Meldedaten auch die Daten aus anderen
+    Surveillancesystemen sichtbarer dargestellt. Insbesondere die Daten zur Auslastung der
+    Intensivstationen aus dem DIVI-Intensivregister haben in der aktuellen Situation eine große Bedeutung.
+    Bundesweit gibt es in verschiedenen Landkreisen Ausbrüche, die mit unterschiedlichen Situationen in
+    Zusammenhang stehen. So werden z.B. wieder vermehrt COVID-19-bedingte Ausbrüche in Alten- und
+    Pflegeheimen gemeldet. Zusätzlich kommt es in zahlreichen Landkreisen zu einer zunehmend diffusen
+    Ausbreitung von SARS-CoV-2-Infektionen in die Bevölkerung, ohne dass Infektionsketten eindeutig
+    nachvollziehbar sind. Das genaue Infektionsumfeld lässt sich häufig nicht ermitteln.
+    Aktuell nehmen die Erkrankungen unter älteren Menschen weiter zu. Da diese häufiger einen schweren
+    Verlauf durch COVID-19 aufweisen, steigt ebenso die Anzahl an schweren Fällen und Todesfällen. Diese
+    können vermieden werden, wenn wir mit Hilfe der Infektionsschutzmaßnahmen die Ausbreitung des
+    SARS-CoV-2-Virus verlangsamen.
+    Daher ist es weiterhin notwendig, dass sich die gesamte Bevölkerung für den Infektionsschutz engagiert,
+    z. B. indem sie Abstands- und Hygieneregeln konsequent – auch im Freien – einhält, Innenräume lüftet
+    und, wo geboten, eine Mund-Nasen-Bedeckung korrekt trägt. Menschenansammlungen – besonders in
+    Innenräumen – sollten möglichst gemieden werden.
+    1 World Health Organizationhttps://www.who.int/publications/i/item/WHO-2019-nCoV-Surveillance_Case_Definition-2020.1
+    ² European Centre for Disease Prevention and Control https://www.ecdc.europa.eu/en/covid-19/surveillance/case-definition
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 3 ----
+
+3                                                                                                 COVID-19-Lagebericht vom 16.11.2020 3
+  Geografische Verteilung
+  Es wurden 801.327 (+10.824) labordiagnostisch bestätigte COVID-19-Fälle an das RKI übermittelt
+  (Tabelle 1) Die geografische Verteilung der Fälle der letzten 7 Tage ist in Abbildung 1 dargestellt.
+  Abbildung 1: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten 7 Tage in Deutschland nach Kreis und
+  Bundesland (n = 119.170, 16.11.2020, 0:00 Uhr). Die Fälle werden in der Regel nach dem Kreis ausgewiesen, aus dem sie übermittelt
+  wurden. Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher Infektionsort müssen nicht übereinstimmen.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 4 ----
+
+4   COVID-19-Lagebericht vom 16.11.2020
+      Tabelle 1: An das RKI übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (16.11.2020, 0:00 Uhr). Die Differenz zum
+      Vortag bezieht sich auf Fälle, die dem RKI täglich übermittelt werden. Dies beinhaltet Fälle, die am gleichen Tag oder bereits an früheren
+      Tagen an das Gesundheitsamt gemeldet worden sind.
+                                                          Fälle kumulativ                         Letzte 7 Tage             Todesfälle kumulativ
+                                                           Differenz   Fälle/100.000                        Fälle/100.000            Fälle/100.000
+      Bundesland                                 Fälle                                        Fälle                         Fälle
+                                                            Vortag          Einw.                                Einw.                    Einw.
+      Baden-
+                                                116.996        1326               1054         14.850               133,8    2.265              20,4
+      Württemberg
+      Bayern                                    158.849        2428               1210         23.886               182,0    3.144              24,0
+      Berlin                                     47.697         432               1300          7.720               210,4      363               9,9
+      Brandenburg                                12.873         237                510          1.889                74,9      241               9,6
+      Bremen                                      8.220          67               1207          1.067               156,6       97              14,2
+      Hamburg                                    20.220         243               1095          2.250               121,8      313              16,9
+      Hessen                                     65.479        1086               1041         10.943               174,0      873              13,9
+      Mecklenburg-
+                                                  4.435          38                276            675                42,0      38                  2,4
+      Vorpommern
+      Niedersachsen                              55.433         108                693          7.823                97,9     904               11,3
+      Nordrhein-
+                                                202.817        2754               1130         29.537               164,6    2.637              14,7
+      Westfalen
+      Rheinland-Pfalz                            32.563         550                795          5.648               138,0      363               8,9
+      Saarland                                   10.110           0               1024          1.401               142,0      214              21,7
+      Sachsen                                    34.970        1046                859          6.775               166,4      514              12,6
+      Sachsen-Anhalt                              8.161         121                372          1.273                58,0      105               4,8
+      Schleswig-Holstein                         11.522         161                397          1.508                51,9      222               7,6
+      Thüringen                                  10.982         227                515          1.925                90,2      254              11,9
+      Gesamt                                    801.327      10.824                964        119.170               143,3   12.547              15,1
+      Im Rahmen von Qualitätsprüfungen und Datenbereinigungen der Gesundheitsämter kann es gelegentlich vorkommen, dass bereits übermittelte
+      Fälle im Nachhinein korrigiert bzw. wieder gelöscht werden. So kann es dazu kommen, dass in dieser Tabelle negative Werte bei der Differenz der
+      im Vergleich zum Vortag übermittelten Fällen aufgeführt werden.
+      Zeitlicher Verlauf
+      Die dem RKI übermittelten Fälle mit Erkrankungsdatum seit dem 01.03.2020 sind in Abbildung 2
+      dargestellt. Bezogen auf diese Fälle ist bei 423.020 Fällen (53%) der Erkrankungsbeginn nicht bekannt
+      bzw. sind diese Fälle nicht symptomatisch erkrankt. Für diese Fälle wird in Abbildung 2 daher das
+      Meldedatum angezeigt.
+                            20000
+                            18000
+                            16000
+       Anzahl übermittelte COVID-19-Fälle
+                            14000
+                            12000
+                            10000
+                       -
+                                    8000
+                                    6000
+                                    4000
+                                    2000
+                                            0
+                                                              Erkrankungsbeginn, ersatzweise Meldedatum (2020)
+                                                                          Erkrankungsbeginn    Meldedatum
+      Abbildung 2: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Erkrankungsbeginn, ersatzweise nach Meldedatum. Dargestellt
+      werden nur Fälle mit Erkrankungsbeginn oder Meldedatum seit dem 01.03.2020 (16.11.2020, 0:00 Uhr).
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 5 ----
+
+5                                                                                                 COVID-19-Lagebericht vom 16.11.2020          5
+    Abbildung 3 zeigt den Verlauf über die an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner
+    der jeweils letzten 7 Tage in den Bundesländern und in Deutschland. In allen Bundesländern ist ein
+    deutlicher Anstieg der Inzidenz zu beobachten. Die Zunahme hat sich zuletzt abgeflacht. In Bayern,
+    Berlin, Bremen, Hessen, Nordrhein-Westfalen und in Sachsen liegt die 7-Tage-Inzidenz über der
+    bundesweiten Gesamtinzidenz. In Bremen nimmt die Inzidenz seit einer Woche ab.
+                                                            240,0                                                 Berlin
+                                                                                                                  Bayern
+                                                            220,0
+                                                                                                                  Hessen
+                                                            200,0
+                                                                                                                  Sachsen
+      COVID-19-Fälle/100.000 Einw. in den letzten 7 Tagen
+                                                            180,0                                                 Nordrhein-Westfalen
+                                                                                                                  Bremen
+                                                            160,0
+                                                                                                                  Saarland
+                                                            140,0                                                 Rheinland-Pfalz
+                                                                                                                  Baden-Württemberg
+                                                            120,0
+                                                                                                                  Hamburg
+                                                            100,0
+                                                                                                                  Niedersachsen
+                                                             80,0                                                 Thüringen
+                                                                                                                  Brandenburg
+                                                             60,0
+                                                                                                                  Sachsen-Anhalt
+                                                             40,0                                                 Schleswig-Holstein
+                                                             20,0                                                 Mecklenburg-Vorpommern
+                                                                                                                  Gesamt
+                                                              0,0
+                                                                    Berichtsdatum
+    Abbildung 3: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland (16.11.2020,
+    0:00 Uhr). In Bundesländern mit vergleichsweise niedrigen Bevölkerungszahlen können auch schon kleinere Anstiege der Fallzahlen zu einer
+    deutlichen Erhöhung der 7-Tage-Inzidenz führen.
+    Betreuung, Unterbringung und Tätigkeit in Einrichtungen
+    Gemäß Infektionsschutzgesetz kann für die COVID-19-Fälle auch übermittelt werden, ob sie in einer für
+    den Infektionsschutz relevanten Einrichtung betreut, untergebracht oder tätig sind. Es wird dabei
+    zwischen verschiedenen Arten von Einrichtungen unterschieden (Tabelle 2).
+    Da Angaben zu Betreuung, Unterbringung und Tätigkeit bei vielen Fällen fehlen, ist die Anzahl der Fälle
+    mit einer Betreuung, Unterbringung oder Tätigkeit in den einzelnen Einrichtungen als Mindestangabe zu
+    verstehen. Für die übermittelten COVID-19-Fälle aus allen genannten Einrichtungen ist jedoch
+    unbekannt, wie hoch der Anteil derer ist, die sich auch in dieser Einrichtung angesteckt haben.
+    Die Zahl der COVID-19-Fälle war am höchsten unter den Betreuten und Tätigen in Einrichtungen nach
+    § 36 IfSG, den Tätigen in Einrichtungen nach § 23 und den Betreuten in Einrichtungen nach § 33 IfSG
+    (Tabelle 2). Die Zahl verstorbener Fälle war unter den in Einrichtungen nach §§ 23 und 36 Betreuten
+    besonders hoch.
+    Von den Fällen unter Personal in medizinischen Einrichtungen (§23) waren 74% weiblich und 26%
+    männlich. Der Altersmedian lag bei 40 Jahren. Die hohen Fallzahlen bei Betreuten und Tätigen in
+    Einrichtungen nach §36 IfSG stehen im Einklang mit der Anzahl der berichteten Ausbrüche in Alten- und
+    Pflegeheimen.
+    Seit KW 38 steht für die Erfassung der Daten zur Betreuung, Unterbringung und Tätigkeit in
+    Einrichtungen eine neue Softwareversion zur Verfügung. Da sich das Datenformat grundlegend geändert
+    hat, konnten diese Daten bisher nicht in der Berichterstattung berücksichtigt werden. Mittlerweile hat
+    das RKI die Auswertestrategie angepasst, sodass es im Vergleich zu gestern einen deutlichen Anstieg in
+    allen Kategorien gibt.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 6 ----
+
+6 COVID-19-Lagebericht vom 16.11.2020
+    Tabelle 2: An das RKI übermittelte COVID-19-Fälle nach Tätigkeit oder Betreuung in Einrichtungen mit besonderer Relevanz für die Transmission
+    von Infektionskrankheiten (n=111.341 Fälle; Stand 16.11.2020, 0:00 Uhr).
+                                                                                                                                      Genesen
+      Einrichtung gemäß                                                           Gesamt Hospitalisiert          Verstorben
+                                                                                                                                  (Schätzung)
+                                                           Betreut/
+      § 23 IfSG                                                                       7.078             4.519             898             4.700
+                                                           untergebracht
+      (z.B. Krankenhäuser, ärztliche Praxen,
+      Dialyseeinrichtungen und Rettungsdienste)            Tätigkeit in
+                                                                                    24.158                892              25            21.600
+                                                           Einrichtung
+                                                           Betreut/
+                                                                                    23.224                266                3           18.500
+      § 33 IfSG                                            untergebracht*
+      (z.B. Kitas, Kinderhorte, Schulen, Heime und
+      Ferienlager)                                         Tätigkeit in
+                                                                                    10.925                313                9            9.200
+                                                           Einrichtung
+      § 36 IfSG (z.B. Pflegeeinrichtungen,                 Betreut/
+                                                                                    29.728              5.664           4.424            20.800
+      Einrichtungen zur gemeinschaftlichen                 untergebracht
+      Unterbringung von Asylsuchenden,
+      Obdachlosenunterkünfte, sonstige                     Tätigkeit in
+                                                                                    16.228                584              47            14.400
+      Massenunterkünfte, Justizvollzugsanstalten)          Einrichtung
+    *für Betreuung nach § 33 IfSG werden nur Fälle < 18 Jahren berücksichtigt, da bei anderer Angabe von Fehleingaben ausgegangen wird.
+    Aufgrund von Änderungen in der Datenerfassung können bei Fällen, die in der neuesten Softwareversion erfasst werden, in den derzeitigen
+    Abfragen nicht alle Angaben berücksichtigt werden. Die Abfrage wird innerhalb der nächsten Tage angepasst. Bedingt durch eine Umstellung
+    der Variablen werden in Tabelle 2 keine Meldungen nach §42 aufgeführt.
+    Ausbrüche
+    In beinahe allen Kreisen (409 von 412) liegt eine erhöhte 7-Tage-Inzidenz mit über 25 Fällen/100.000 EW
+    vor. In der Gruppe der höchsten Inzidenz von >250 bis 500 Fällen/100.000 EW in den letzten 7 Tagen
+    liegen 23 Landkreise. Abbildung 1 weist sowohl die Anzahl der Landkreise pro Inzidenzgruppe aus als
+    auch die am stärksten betroffenen 15 Landkreise. Die genauen Inzidenzwerte der weiteren Landkreise
+    können dem Dashboard entnommen werden (https://corona.rki.de/).
+    In den meisten Kreisen handelt es sich zumeist um ein diffuses Geschehen, mit zahlreichen Häufungen
+    in Haushalten, aber auch in Gemeinschaftseinrichtungen, Alten- und Pflegeheimen. Zum Anstieg der
+    Inzidenz tragen aber nach wie vor auch viele kleinere Ausbrüche in Krankenhäusern, Einrichtungen für
+    Asylbewerber und Geflüchtete, verschiedenen beruflichen Settings sowie im Zusammenhang mit
+    religiösen Veranstaltungen bei.
+    Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+    Reproduktionszahl (R)
+    Die Reproduktionszahl R bezeichnet die Anzahl der Personen, die im Durchschnitt von einem Fall
+    angesteckt werden. Die Schätzung des R-Wertes basiert auf dem sogenannten Nowcasting (Abbildung
+    4), einem statistischen Verfahren, das die Entwicklung der Fallzahlen nach Erkrankungsbeginn darstellt
+    und für die letzten Tage auch prognostiziert. Diese Prognose ist mit Unsicherheit behaftet, die sich auch
+    in den zum R-Wert angegebenen Prädiktionsintervallen spiegelt. Nach Eingang weiterer Fallmeldungen
+    am RKI wird der R-Wert im Verlauf für die zurückliegenden Tage angepasst und ggf. nach oben oder
+    unten korrigiert. In den letzten Wochen wurden Werte, die am Anfang einer Woche berichtet wurden,
+    typischerweise leicht nach oben korrigiert. Sie hatten also das reale COVID-19 Geschehen in
+    Deutschland leicht unterschätzt. Gegen Ende einer Woche geschätzte Werte verhielten sich stabiler.
+    Den aktuell geschätzten Verlauf des R-Werts zeigt Abbildung 5.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 7 ----
+
+7                                                                                                  COVID-19-Lagebericht vom 16.11.2020       7
+                           4-Tage-R-Wert                                                        7-Tage-R-Wert
+                                 1,12                                                                   0,97
+     (95%-Prädiktionsintervall: 0,92 – 1,32)                                      (95%- Prädiktionsintervall: 0,87 – 1,07)
+  Durch Verzögerungen bei der Übermittlung der Fallzahlen an Wochenendtagen kommt es zu zyklischen Schwankungen des 4-Tage-R-Wertes.
+  Der 7-Tages-R-Wert verläuft deutlich gleichmäßiger, da jeweils alle Wochentage in die Bestimmung eines Wertes eingehen.
+  Abbildung 4: Darstellung der an das RKI übermittelten COVID-19-Fälle mit bekanntem Erkrankungsbeginn (dunkelblau), geschätztem
+  Erkrankungsbeginn für Fälle mit fehlender Eingabe des Erkrankungsbeginns (grau) und geschätzter Verlauf der noch nicht übermittelten Fälle
+  (orange) (Stand 16.11.2020, 0:00 Uhr, unter Berücksichtigung der Fälle mit Erkrankungsbeginn bis 12.11.2020).
+  Abbildung 5: Darstellung der geschätzten R-Werte (in grün und orange) in den letzten 60 Tagen, vor dem Hintergrund der durch das Nowcast
+  geschätzten Fallzahlen nach Erkrankungsbeginn (Stand 16.11.2020, 0:00 Uhr, unter Berücksichtigung der Fälle mit Erkrankungsbeginn bis
+  12.11.2020).
+  Die berichteten R-Werte lagen im Oktober stabil deutlich über 1. In den letzten Tagen unterlag der R-
+  Wert leichten Schwankungen; aktuell liegt er um 1. Das bedeutet, dass im Durchschnitt jede Person, die
+  mit SARS-CoV-2 infiziert ist, ca. eine weitere Person ansteckt. Da die Zahl der infizierten Personen
+  derzeit in Deutschland sehr hoch ist, bedeutet dies weiterhin eine hohe Zahl von täglichen
+  Neuerkrankungen.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 8 ----
+
+8 COVID-19-Lagebericht vom 16.11.2020
+    Unter http://www.rki.de/covid-19-nowcasting werden Beispielrechnungen und beide täglich
+    aktualisierten R-Werte als Excel-Tabelle zur Verfügung gestellt. Eine detaillierte Beschreibung der
+    Methodik ist unter https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html
+    verfügbar (Epid. Bull. 17 | 2020 vom 23.04.2020).
+    Hinweise zur Datenerfassung und -bewertung
+    Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
+    laborbestätigten COVID-19-Fällen (COVID-19-Erkrankungen und akute SARS-CoV-2-Infektionen)
+    dargestellt. COVID-19-Verdachtsfälle und -Erkrankungen sowie Nachweise von SARS-CoV-2 werden
+    gemäß Infektionsschutzgesetz an das zuständige Gesundheitsamt gemeldet. Die Daten stellen eine
+    Momentaufnahme dar. Informationen zu Fällen können im Verlauf der Erkrankung nachermittelt und im
+    Meldewesen nachgetragen werden. Nicht für alle Variablen gelingt eine vollständige Erfassung.
+    Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+    notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+    vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+    übermittelt. Am RKI werden sie mittels weitgehend automatisierter Algorithmen validiert. Es werden
+    nur Fälle veröffentlicht, bei denen eine labordiagnostische Bestätigung unabhängig vom klinischen Bild
+    vorliegt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+    Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens des
+    Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich der
+    Fallzahlen zu anderen Quellen geben kann.
+    Seit 08.10.2020 verwendet das RKI für die Berechnung der Inzidenzen die Daten der
+    Bevölkerungsstatistik des Statistischen Bundesamtes mit Datenstand 31.12.2019, die seit kurzem
+    bundesweit in ausreichender Detailtiefe zur Verfügung stehen. Dadurch kann es zu leichten Änderungen
+    bei den Inzidenzen kommen. Die Berechnung der 7-Tage-Inzidenz erfolgt auf Basis des Meldedatums,
+    also dem Datum, an dem das lokale Gesundheitsamt Kenntnis über den Fall erlangt und ihn elektronisch
+    erfasst hat. Für die heutige 7-Tage-Inzidenz werden die Fälle mit Meldedatum der letzten 7 Tage gezählt.
+    Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+    dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird. Es
+    kann sein, dass z.B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldedatum vor
+    mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt, die aufgrund
+    von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Differenz nicht ohne
+    weiteres auf die 7-Tage-Inzidenz geschlossen werden kann.
+    DIVI-Intensivregister
+    Die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI) führt gemeinsam mit
+    dem RKI das DIVI-Intensivregister https://www.intensivregister.de/#/intensivregister.
+    Das Register erfasst intensivmedizinisch behandelte COVID-19-Patienten und Bettenkapazitäten auf
+    Intensivstationen von allen Krankenhäusern in Deutschland und gibt einen Überblick darüber, in
+    welchen Kliniken aktuell wie viele Kapazitäten auf Intensivstationen zur Verfügung stehen. Seit dem
+    16.04.2020 ist die Meldung für alle intensivbettenführenden Krankenhausstandorte verpflichtend.
+    Mit Stand 16.11.2020 (12:15 Uhr) beteiligen sich 1.288 Klinikstandorte an der Datenerhebung.
+    Insgesamt wurden 28.305 Intensivbetten registriert, wovon 21.355 (75%) belegt sind; 6.950 (25%)
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 9 ----
+
+9                                                                                                   COVID-19-Lagebericht vom 16.11.2020 9
+   Betten sind aktuell frei. Im Rahmen des DIVI-Intensivregisters wird außerdem die Anzahl der
+   intensivmedizinisch behandelten COVID-19-Fälle erfasst (Tabelle 3).
+   Tabelle 3: Im DIVI-Intensivregister erfasste intensivmedizinisch behandelte COVID-19-Fälle (16.11.2020, 12:15 Uhr)
+                                                                     Anzahl Fälle            Anteil      Änderung Vortag*
+      In intensivmedizinischer Behandlung                                    3.436                                           51
+        - davon invasiv beatmet                                              1.971              56%                          48
+      Abgeschlossene Behandlung                                            26.372                                           433
+        - davon verstorben                                                   5.886              22%                         113
+   * Bei der Interpretation der Zahlen muss beachtet werden, dass die Anzahl der meldenden Standorte und der damit
+   verbundenen gemeldeten Behandlungen täglich schwankt. Dadurch kann es an einzelnen Tagen auch zu einer (starken)
+   Abnahme oder Zunahme der kumulativen abgeschlossenen Behandlungen und Todesfälle im Vergleich zum Vortag kommen.
+   Risikobewertung durch das RKI
+   Aufgrund des starken Anstiegs der Zahl an Patienten mit schweren Erkrankungsverläufen, die auf einer
+   Intensivstation behandelt werden müssen und der zunehmend angespannten Situation im
+   Gesundheitssystem wurde in der Risikobewertung des RKI am 11.11.2020 die Beschreibung
+   Ressourcenbelastung des Gesundheitssystems angepasst. Die aktuelle Version findet sich unter
+   folgendem Link:
+   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html
+   Empfehlungen und Maßnahmen in Deutschland
+   Aktuelles
+   •    Positionspapier der STIKO, Leopoldina und des Deutschen Ethikrats zur Verteilung eines COVID-19-
+        Impfstoffes (09.11.2020)
+        https://www.ethikrat.org/fileadmin/Publikationen/Ad-hoc-Empfehlungen/deutsch/gemeinsames-
+        positionspapier-stiko-der-leopoldina-impfstoffpriorisierung.pdf
+   •    Regelungen für Einreisende nach Deutschland im Zusammenhang mit COVID-19 (08.11.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/BMG_Merkblatt_Reise
+        nde_Tab.html
+   •    Zu aktuellen Entwicklungen und Maßnahmen informiert das Bundesgesundheitsministerium auf
+        seinen Internetseiten
+        https://www.bundesgesundheitsministerium.de/coronavirus.html
+        https://www.bundesgesundheitsministerium.de/coronavirus/chronik-coronavirus.html
+   Neue Dokumente
+   • Eine Bestandsaufnahme zu Veränderungen der Versorgungsangebote und der Inanspruchnahme
+       sowie möglicher gesundheitlicher Folgen chronisch kranker Menschen in Deutschland zu Beginn der
+       COVID-19-Pandemie (11.11.2020)
+       https://www.rki.de/DE/Content/Gesundheitsmonitoring/JoHM/2020/JoHM_Inhalt_20_S10.html
+  • CoViRiS: Studie zu Corona-Virus Risiko- und Schutzfaktoren (10.11.2020)
+       https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/coviris_studie.html
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 10 ----
+
+10 COVID-19-Lagebericht vom 16.11.2020
+     Aktualisierte Dokumente
+     •    Antworten auf häufig gestellte Fragen zu COVID-19 (13.11.2020)
+          https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html
+     •    Informationen zur Ausweisung internationaler Risikogebiete durch das Auswärtige Amt, BMG und
+          BMI (13.11.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+     •    Epidemiologischer Steckbrief zu SARS-CoV-2 und COVID-19 (13.11.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Steckbrief.html
+     •    Aktualisierte Risikobewertung (11.11.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html
+     •    Testkriterien: Anpassungen für die Herbst- und Wintersaison 2020/2021 (11.11.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Testkriterien_Herbs
+          t_Winter.html
+     •    Information für Reisende in verschiedenen Sprachen (10.11.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/Info_Reisende_Tab.ht
+          ml
+     Epidemiologische Lage global
+     Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+     Internetseiten des ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+     Das WHO Regionalbüro für Europa, die Europäische Kommission und das Europäische Observatorium für
+     Gesundheitssysteme und Gesundheitspolitik haben den COVID-19 Health System Response Monitor
+     (HSRM) veröffentlicht. Er dient dazu, aktuelle Informationen aus den europäischen Ländern zu sammeln
+     und deren Reaktionen auf die Krise zu dokumentieren. Der Fokus liegt dabei auf Gesundheitssystemen
+     und Public-Health-Initiativen (Zugang auf Englisch):
+     https://www.covid19healthsystem.org/mainpage.aspx
+     Empfehlungen und Maßnahmen global
+     Europa
+     •    In Unterstützung zur „Empfehlung zur Koordinierung von Maßnahmen mit Auswirkungen auf die
+          Freizügigkeit“ des Europäischen Rates stellt das ECDC Karten zu Indikatoren zur Verfügung
+          https://www.ecdc.europa.eu/en/covid-19/situation-updates/weekly-maps-coordinated-restriction-
+          free-movement
+     •    Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+          https://www.ecdc.europa.eu/en/covid-19-pandemic
+     •    Daten zu Fallzahlen und 7-Tage-Inzidenzen weltweit findet man auf dem Dashboard des ECDC:
+          https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+     Weltweit
+     •    WHO/Europa: Informationen zu COVID-19
+          https://www.euro.who.int/de/health-topics/health-emergencies/coronavirus-covid-19
+     •    WHO COVID-19-Dashboard:
+          https://covid19.who.int/https://covid19.who.int/
+     •    Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+          https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+     •    Wöchentliche Situation Reports der WHO:
+          https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.

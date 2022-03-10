@@ -1,0 +1,516 @@
+# 2021-04-12-de.pdf date: 2021-04-12 lang: de
+
+# ---- page 1 ----
+
+                                   Täglicher Lagebericht des RKI
+                                 zur Coronavirus-Krankheit-2019
+                                                         (COVID-19)
+                                  12.04.2021 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+        Bestätigte Fälle                             7-Tage-Inzidenz (7-TI)                       Impfmonitoring                DIVI-Intensivregister
+                                                                                                                                 Veränderung zum
+                                                                        Anzahl Kreise
+                                                 Gesamt-                                         Anzahl Impfungen                Vortag der Fälle in
+    Gesamt1            aktive Fälle2                                       mit 7-TI
+                                              Bevölkerung                                         seit dem Vortag4             intensivmedizinischer
+                                                                      > 50/ 100.000 EW
+                                                                                                                                    Behandlung5
+    +13.245                 +400                   136                         +2               1. Impfung: + 198.031                    +77
+  (3.011.513)          [ca. 249.200]      Fälle/100.000 EW                [404/412]              2. Impfung: +49.397                   [4.662]
+                                                                                                  Anzahl Geimpfter
+                                                                        Anzahl Kreise                insgesamt mit
+                                             60-79        80+                                                                    Auf ITS verstorben
+  Genesene3           Verstorbene1                                         mit 7-TI            einer/zwei Impfung/en
+                                             Jahre       Jahre                                        und Anteil an
+                                                                                                                                     zum Vortag
+                                                                     > 100/ 100.000 EW
+                                                                                                      Bevölkerung4
+    +12.700                  +99               89          65                 +16              N1: 13.196.552 (15,9%)                   +114
+(ca. 2.683.900)           (78.452)          Fälle/100.000 EW              [305/412]             N2: 5.035.195 (6,1%)
+    Zahlen in () Klammern zeigen kumulative Werte, Zahlen in [] Klammern zeigen die aktuellen Werte. Fußnoten werden im Anhang erläutert.
+   COVID-19-Verdachtsfälle und -Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das
+   Gesundheitsamt gemeldet. Dieses übermittelt die Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+   Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen dargestellt. Eine Übersicht, welche Informationen
+   an welchen Tagen im Situationsbericht zur Verfügung gestellt werden, ist unter www.rki.de/covid-19-situationsbericht zu finden.
+      •     Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+      Zusammenfassung der aktuellen Lage
+      • Rund um die Osterfeiertage und -ferien ist bei der Interpretation der Fallzahlen zu beachten, dass aufgrund der Ferienzeit
+        weniger Personen einen Arzt aufsuchen, wodurch auch weniger Proben genommen und weniger Laboruntersuchungen
+        durchgeführt werden. Dies führt dazu, dass weniger Erregernachweise an die zuständigen Gesundheitsämter gemeldet
+        werden.
+      • Gestern wurden 13.245 neue Fälle und 99 neue Todesfälle übermittelt. Die Inzidenz der letzten 7 Tage liegt deutschlandweit
+        bei 136 Fällen pro 100.000 Einwohner (EW). Sie liegt in Bayern, Sachsen, Sachsen-Anhalt und Thüringen deutlich über der
+        Gesamtinzidenz.
+      • Aktuell weisen 404/412 Kreise eine hohe 7-Tage-Inzidenz von >50 auf. Die 7-Tage-Inzidenz liegt in 305 Kreisen bei >100
+        Fällen/100.000 EW, davon in 24 Kreisen bei >250 Fällen/100.000 EW.
+      • Die 7-Tage-Inzidenz bei Personen 60-79 Jahre liegt aktuell bei 89 und bei Personen ≥ 80 Jahre bei 65 Fällen/100.000 EW.
+      • Die hohen bundesweiten Fallzahlen werden durch zumeist diffuse Geschehen mit zahlreichen Häufungen insbesondere in
+        Haushalten, im beruflichen Umfeld und in Alten- und Pflegeheimen verursacht.
+      • Am 12.04.2021 (12:15) befanden sich 4.662 COVID-19-Fälle in intensivmedizinischer Behandlung (+77 zum Vortag). Seit dem
+        Vortag erfolgten +382 Neuaufnahmen von COVID-19-Fällen auf eine Intensivstation. +114 COVID-19-Fälle sind seit dem
+        Vortag verstorben
+      • Seit dem 26.12.20 wurden insgesamt 18.231.747 Impfungen verabreicht. Es wurden 15,9% der Bevölkerung einmal gegen
+        COVID-19 geimpft, und 6,1% wurden vollständig gegen COVID-19 geimpft
+      Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+
+
+# ---- page 2 ----
+
+2 COVID-19-Lagebericht vom 12.04.2021
+    Epidemiologische Lage in Deutschland (Datenstand 12.04.2021, 0:00 Uhr)
+    COVID-19-Verdachtsfälle, COVID-19-Erkrankungen sowie Labornachweise von SARS-CoV-2 werden
+    gemäß Infektionsschutzgesetz (IfSG) an das Gesundheitsamt gemeldet. Das Gesundheitsamt übermittelt
+    diese Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+    Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen mittels
+    Nukleinsäure-Nachweis (z. B. PCR) oder Erregerisolierung unabhängig von der klinischen Symptomatik
+    dargestellt. Im folgenden Bericht sind somit unter COVID-19-Fällen sowohl akute SARS-CoV-2-
+    Infektionen als auch COVID-19-Erkrankungen zusammengefasst. Weitere Erläuterungen finden sich
+    unter „Hinweise zur Datenerfassung und -bewertung“.
+     Im Rahmen der tagesaktuellen Berichterstattung können an einzelnen Tagen und auch an wenigen
+     Tagen hintereinander Schwankungen der 7-Tage-Inzidenzen und des R-Werts auftreten, die nicht
+     überbewertet werden sollten. Sichere Aussagen zur Infektionsdynamik sind eher im Wochenvergleich
+     möglich. Zusätzlich ist rund um die Osterfeiertage und -ferien bei der Interpretation der Fallzahlen zu
+     beachten, dass während der Ferienzeit meist weniger Personen einen Arzt aufsuchen, wodurch auch
+     weniger Proben genommen und weniger Laboruntersuchungen durchgeführt werden. Dies führt
+     dazu, dass weniger Erregernachweise an die zuständigen Gesundheitsämter gemeldet werden.
+    Allgemeine aktuelle Einordnung
+    Die 7-Tages-Inzidenz für ganz Deutschland steigt seit Mitte Februar 2021 stark an und liegt bereits bei
+    über 100/100.000 Einwohner. Das Geschehen ist nicht regional begrenzt, die Anzahl der Landkreise mit
+    einer 7-Tages-Inzidenz über 100/100.000 Einwohner nimmt ebenfalls seit Mitte Februar 2021 deutlich
+    zu. Etwa seit Mitte März hat sich der Anstieg der Fallzahlen beschleunigt. Der 7-Tage-R-Wert ist weiter
+    gestiegen und liegt über 1, wobei der Einfluss der Osterfeiertage zu beachten ist (s. oben). Die COVID-
+    19-Fallzahlen stiegen in den letzten Wochen in allen Altersgruppen wieder an, besonders stark jedoch
+    bei Kindern und Jugendlichen, von denen auch zunehmend Übertragungen und Ausbruchsgeschehen
+    ausgehen. Auch bei den über 80-Jährigen hat sich der wochenlang abnehmende Trend nicht fortgesetzt.
+    Beim Großteil der Fälle ist der Infektionsort nicht bekannt. COVID-19-bedingte Ausbrüche betreffen
+    momentan insbesondere private Haushalte, zunehmend auch Kitas, Schulen und das berufliche Umfeld,
+    während die Anzahl der Ausbrüche in Alters- und Pflegeheimen abgenommen hat.
+    Um einen möglichst kontinuierlichen Betrieb von Kitas und Schulen gewährleisten zu können, erfordert
+    die aktuelle Situation den Einsatz aller organisatorischer und individueller Maßnahmen zur
+    Infektionsprävention (s. u. a. Maßnahmen zur Prävention und Kontrolle der SARS-CoV-2-Übertragung in
+    Schulen - Lebende Leitlinie). Darüber hinaus muss der Eintrag von SARS-CoV-2 in die Einrichtungen
+    möglichst verhindert werden, d. h. Familien und Beschäftigte sollten ihr Infektionsrisiko außerhalb der
+    Kita oder Schule entsprechend der Empfehlungen des RKI (AHA + L) minimieren und bei Zeichen einer
+    Erkrankung 5-7 Tage zuhause bleiben. Falls es zu Erkrankungen in einer oder mehreren Gruppen kommt,
+    sollte eine frühzeitige reaktive Schließung der Einrichtung aufgrund des hohen Ausbreitungspotenzials
+    der neuen SARS-CoV-2 Varianten erwogen werden, um eine weitere Ausbreitung innerhalb der Kita und
+    in die betroffenen Familien zu verhindern.
+    Der Positivenanteil der Testungen nimmt wieder zu und liegt bei über 11%. Die drei aktuell bekannten
+    besorgniserregenden Virusvarianten (Variants Of Concern, VOC) der Linie B.1.1.7 (erstmals
+    nachgewiesen in Großbritannien), der Linie B.1.351 (erstmals nachgewiesen in Südafrika) und der Linie
+    P.1 (zirkuliert hauptsächlich im brasilianischen Bundesstaat Amazonas) werden mit verstärkter
+    Probensequenzierung und Datenerfassung im Deutschen elektronischen Sequenzdaten-Hub (DESH)
+    (www.rki.de/covid-19-desh) im Rahmen der Integrierten Molekularen Surveillance (IMS) intensiv
+    beobachtet.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 3 ----
+
+3                                                                                                 COVID-19-Lagebericht vom 12.04.2021 3
+  Insgesamt ist die VOC B.1.1.7 inzwischen in Deutschland der vorherrschende COVID-19-Erreger. Das ist
+  besorgniserregend, weil die VOC B.1.1.7 nach bisherigen Erkenntnissen deutlich ansteckender ist und
+  vermutlich schwerere Krankheitsverläufe verursacht als andere Varianten. Zudem vermindert die
+  zunehmende Verbreitung und Dominanz der VOC 1.1.7 die Wirksamkeit der bislang erprobten
+  Infektionsschutzmaßnahmen erheblich.
+  Der Anstieg der Fallzahlen insgesamt und der Infektionen durch die VOC B 1.1.7. werden zu einer
+  deutlich ansteigenden Anzahl von Hospitalisierungen und intensivpflichtigen Patientinnen und Patienten
+  führen. Bundesweit ist seit Mitte März wieder ein deutlicher Anstieg der COVID-19-Fallzahlen auf
+  Intensivstationen (ITS) zu verzeichnen.
+  Alle Impfstoffe, die aktuell in Deutschland zur Verfügung stehen, schützen nach derzeitigen
+  Erkenntnissen sehr gut vor einer Erkrankung durch die in Deutschland hauptsächlich zirkulierende VOC
+  B.1.1.7, und sie schützen auch vor schweren Erkrankungen durch die anderen Varianten. Nicht
+  notwendige Reisen sollten weiterhin, insbesondere aufgrund der zunehmenden Verbreitung der
+  besorgniserregenden Virusvarianten, unbedingt vermieden werden.
+  Mit deutlich sichtbaren Erfolgen der Impfkampagne ist erst in einigen Wochen zu rechnen.
+  Gesamtgesellschaftliche Infektionsschutzmaßnahmen sind daher nötig, um die Infektionsdynamik zu
+  bremsen.
+  Geografische Verteilung
+  Es wurden 3.011.513 (+13.245) labordiagnostisch bestätigte COVID-19-Fälle an das RKI übermittelt (s.
+  Tabelle 1). Die geografische Verteilung der Fälle der letzten 7 Tage ist in Abbildung 1 dargestellt. Die
+  genauen Inzidenzwerte der Kreise können dem Dashboard entnommen werden (https://corona.rki.de/).
+  Abbildung 1: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten 7 Tage in Deutschland nach Kreis und
+  Bundesland (n = 113.455, 12.04.2021, 0:00 Uhr). Die Fälle werden in der Regel nach dem Kreis ausgewiesen, aus dem sie übermittelt
+  wurden. Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher Infektionsort müssen nicht übereinstimmen.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 4 ----
+
+4 COVID-19-Lagebericht vom 12.04.2021
+    Tabelle 1: An das RKI übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (12.04.2021, 0:00 Uhr). Die Differenz zum
+    Vortag bezieht sich auf Fälle, die dem RKI täglich übermittelt werden. Dies beinhaltet Fälle, die am gleichen Tag oder bereits an früheren
+    Tagen an das Gesundheitsamt gemeldet worden sind.
+                                               Fälle kumulativ                           Letzte 7 Tage                Todesfälle kumulativ
+                                                                      Fälle/                           Fälle/                           Fälle/
+                                                    Differenz
+     Bundesland                       Fälle                         100.000           Fälle           100.000          Fälle           100.000
+                                                      Vortag
+                                                                       EW                               EW                                EW
+     Baden-Württemberg                388.266            1.547          3.498           15.491              140           8.927              80,4
+     Bayern                           530.864            3.296          4.045           20.117              153         13.514              103,0
+     Berlin                           153.452              493          4.182             4.195             114           3.122              85,1
+     Brandenburg                        93.345             318          3.701             3.150             125           3.373             133,7
+     Bremen                             22.386             104          3.286               917             135             420              61,7
+     Hamburg                            65.606             340          3.552             2.367             128           1.412              76,4
+     Hessen                           233.812              628          3.718             8.895             141           6.488             103,2
+     Mecklenburg-
+                                        33.839             175          2.104             1.984             123             907              56,4
+     Vorpommern
+     Niedersachsen                    211.519            1.008          2.646             8.217             103           5.019              62,8
+     Nordrhein-Westfalen              649.941            2.386          3.621           23.462              131         14.587               81,3
+     Rheinland-Pfalz                  124.109              727          3.032             4.463             109           3.398              83,0
+     Saarland                           33.562               63         3.401             1.161             118             932              94,4
+     Sachsen                          235.712            1.039          5.789             8.289             204           8.558             210,2
+     Sachsen-Anhalt                     79.262             528          3.611             3.809             174           2.833             129,1
+     Schleswig-Holstein                 53.135             149          1.830             2.064               71          1.461              50,3
+     Thüringen                        102.703              444          4.814             4.874             228           3.501             164,1
+     Gesamt                        3.011.513            13.245          3.621         113.455               136         78.452               94,3
+     Im Rahmen von Qualitätsprüfungen und Datenbereinigungen der Gesundheitsämter kann es gelegentlich vorkommen, dass bereits
+     übermittelte Fälle im Nachhinein korrigiert bzw. wieder gelöscht werden. So kann es dazu kommen, dass in dieser Tabelle negative Werte bei
+     der Differenz der im Vergleich zum Vortag übermittelten Fällen aufgeführt werden.
+    Zeitlicher Verlauf
+    Die dem RKI übermittelten Fälle mit Erkrankungsdatum seit dem 01.03.2020 sind tagesaktuell auf dem
+    Dashboard verfügbar (https://corona.rki.de/). Ein Wochenvergleich wird im Lagebericht nur noch
+    dienstags dargestellt.
+    Abbildung 2 zeigt den Verlauf der an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner der
+    jeweils letzten 7 Tage in den Bundesländern und in Deutschland. Aktuell liegt die 7-Tage-Inzidenz in
+    Bayern, Sachsen, Sachsen-Anhalt und Thüringen deutlich über dem Bundesdurchschnitt.
+    Abbildung 2: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland und
+    Meldedatum in den Gesundheitsämtern (12.04.2021, 0:00 Uhr). Für den grau markierten Bereich ist in den Folgetagen noch mit
+    nachübermittelten Fällen und damit mit einer Erhöhung der Inzidenz zu rechnen.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 5 ----
+
+5                                                                                                    COVID-19-Lagebericht vom 12.04.2021       5
+   Betreuung, Unterbringung und Tätigkeit in Einrichtungen
+   Gemäß Infektionsschutzgesetz kann für COVID-19-Fälle auch übermittelt werden, ob sie in einer für den
+   Infektionsschutz relevanten Einrichtung betreut, untergebracht oder tätig sind. Es wird dabei zwischen
+   verschiedenen Arten von Einrichtungen unterschieden (s. Tabelle 2 und Tabelle 3
+   Da Angaben zu Betreuung, Unterbringung und Tätigkeit bei vielen Fällen fehlen, ist die Anzahl der Fälle
+   mit einer Betreuung, Unterbringung oder Tätigkeit in den einzelnen Einrichtungen als Mindestangabe zu
+   verstehen. Für die übermittelten COVID-19-Fälle der genannten Einrichtungen ist jedoch unbekannt, wie
+   hoch der Anteil derer ist, die sich in diesen Einrichtungen angesteckt haben.
+   Bei den erfassten COVID-19-Fällen mit Unterbringung in einer Einrichtung war die Zahl der COVID-19-
+   Fälle mit Abstand am höchsten in Einrichtungen nach § 36 IfSG, gefolgt von Betreuten in Einrichtungen
+   nach § 33 IfSG. Tätige in Einrichtungen nach § 23 IfSG verzeichneten die meisten COVID-19-Fälle, gefolgt
+   von Tätigen in Einrichtungen nach § 36 IfSG (s. Tabelle 3). Der Anteil verstorbener Fälle unter den
+   Betreuten in Einrichtungen nach §§ 23 und 36 IfSG ist in Tabelle 2 dargestellt.
+   Seit Herbst 2020 können zu den Einrichtungen auch differenziertere Angaben erfasst werden. Bei der
+   Bewertung ist zu berücksichtigen, dass diese Informationen nur für eine Teilmenge der COVID-19-Fälle
+   vorliegen und nicht repräsentativ für alle Fälle sind.
+   Tabelle 2: An das RKI übermittelte COVID-19-Fälle nach Betreuung oder Unterbringung in Einrichtungen mit besonderer Relevanz für die
+   Transmission von Infektionskrankheiten (n= 232.256 Fälle; Stand 12.04.2021, 0:00 Uhr).
+                                                                               60+ Jahre Hospitalisiert Verstorben Genesen
+  Betreut/untergebracht in Einrichtung                          Gesamt
+                                                                              Anzahl / %        Anzahl / %       Anzahl / % (Schätzung)
+  § 23 IfSG (z.B. Krankenhäuser, ärztliche Praxen,
+                                                                   28.243      20.959/74%         19.378/69%       4.814/17%           22.000
+  Dialyseeinrichtungen und Rettungsdienste)
+    - Davon mit differenzierten Angaben                            15.976       12.350/77%             11.842            2.795         11.900
+      - Krankenhäuser                                              12.928       10.028/78%             10.913            2.501           9.300
+      - Rehabilitationseinrichtungen                                1.033          759/73%                418               53             900
+      - sonstige                                                    2.015        1.563/78%                511              241           1.700
+  § 33 IfSG (z.B. Kitas, Kinderhorte, Schulen,
+                                                                   79.816            -                793/1%             2/0%          74.500
+  Heime und Ferienlager) *
+    - Davon mit differenzierten Angaben                            43.706            -                    411                1         38.800
+      - Kitas                                                      12.041            -                    112                0         10.400
+      - Schulen                                                    30.865            -                    287                1         27.700
+      - sonstige                                                       800           -                      12               0             700
+  § 36 IfSG (z.B. Pflegeeinrichtungen,
+  Obdachlosenunterkünfte, Einrichtungen zur
+  gemeinschaftlichen Unterbringung von                            124.197      99.426/80%         19.924/16%      21.834/18%          100.700
+  Asylsuchenden, sonstige Massenunterkünfte,
+  Justizvollzugsanstalten)
+    - Davon mit differenzierten Angaben                            73.621       61.504/84%             10.787          13.110          59.000
+      - Pflegeeinrichtungen                                        66.351       60.494/91%             10.145          12.965          52.600
+      - Ambulante Pflegedienste                                        803         763/95%                286              120             600
+      - Gemeinschaftsunterkünfte für Asylsuchende                   5.779            147/3%               282                8           5.200
+      - sonstige                                                       688         100/15%                  74              17             600
+   *Für Betreuung nach § 33 IfSG werden nur Fälle < 18 Jahren berücksichtigt, da bei anderer Angabe von Fehleingaben ausgegangen wird.
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 6 ----
+
+6 COVID-19-Lagebericht vom 12.04.2021
+    Tabelle 3: An das RKI übermittelte COVID-19-Fälle nach Tätigkeit in Einrichtungen mit besonderer Relevanz für die Transmission von
+    Infektionskrankheiten (n= 179.168 Fälle; Stand 12.04.2021, 0:00 Uhr).
+                                                                                60+ Jahre Hospitalisiert Verstorben Genesen
+   Tätig in Einrichtung                                            Gesamt
+                                                                                Anzahl / %       Anzahl / %       Anzahl / % (Schätzung)
+   § 23 IfSG (z.B. Krankenhäuser, ärztliche Praxen,
+                                                                      79.742        6.004/8%        2.318/3%             75/0%         78.100
+   Dialyseeinrichtungen und Rettungsdienste)
+     - Davon mit differenzierten Angaben                              42.997        3.100/7%             1.025               27        41.600
+        - Krankenhäuser                                               30.118        1.856/6%               754               18        29.300
+        - Rehabilitationseinrichtungen                                  1.625        169/10%                32                0         1.600
+        - sonstige                                                    11.254      1.075/10%                239                9        10.700
+   $ 33 IfSG (z.B. Kitas, Kinderhorte, Schulen,
+                                                                      38.643     2.971/8%              754/2%            29/0%         36.900
+   Heime und Ferienlager) *
+     - Davon mit differenzierten Angaben                              21.099     1.618/8%                  323                9        19.500
+        - Kitas                                                       10.916       700/6%                  161                6        10.000
+        - Schulen                                                       7.319      646/9%                  114                2         6.800
+        - sonstige                                                      2.864      272/9%                   48                1         2.700
+   $ 36 IfSG (z.B. Pflegeeinrichtungen,
+   Obdachlosenunterkünfte, Einrichtungen zur
+   gemeinschaftlichen Unterbringung von                               60.783      7.082/12%         1.479/2%            164/0%         59.800
+   Asylsuchenden, sonstige Massenunterkünfte,
+   Justizvollzugsanstalten)
+     - Davon mit differenzierten Angaben                              33.213      3.990/12%                642               81        32.400
+        - Pflegeeinrichtungen                                         30.561      3.694/12%                571               76        29.900
+        - Ambulante Pflegedienste                                       1.986        223/11%                48                3         1.900
+        - Gemeinschaftsunterkünfte für Asylsuchende                       257         29/11%                12                0           200
+        - sonstige                                                        409         44/11%                11                2           400
+    Bedingt durch eine Umstellung der Variablen werden hier keine Meldungen nach § 42 IfSG aufgeführt.
+    Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+    Reproduktionszahl
+    Die Reproduktionszahl R bezeichnet die Anzahl der Personen, die im Durchschnitt von einem Fall
+    angesteckt werden. Die Schätzung des R-Wertes basiert auf dem sogenannten Nowcasting (s. Abbildung
+    3) einem statistischen Verfahren, das die Entwicklung der Fallzahlen nach Erkrankungsbeginn darstellt
+    und für die letzten Tage auch prognostiziert. Diese Prognose ist mit Unsicherheit behaftet, die sich auch
+    in den zum R-Wert angegebenen Prädiktionsintervallen spiegelt. Nach Eingang weiterer Fallmeldungen
+    am RKI wird der R-Wert im Verlauf für die zurückliegenden Tage angepasst und ggf. nach oben oder
+    unten korrigiert. In den letzten Wochen wurden Werte, die am Anfang einer Woche berichtet wurden,
+    typischerweise leicht nach oben korrigiert. Sie hatten also das reale COVID-19 Geschehen in
+    Deutschland leicht unterschätzt. Gegen Ende einer Woche geschätzte Werte verhielten sich stabiler.
+    Den aktuell geschätzten Verlauf des R-Werts zeigt Abbildung 4.
+                             4-Tage-R-Wert                                                         7-Tage-R-Wert
+                                  1,29                                                                    1,09
+            (95%-Prädiktionsintervall: 1,10 - 1,48)                                  (95%- Prädiktionsintervall: 1,00 - 1,20)
+    Durch Verzögerungen bei der Übermittlung der Fallzahlen an Wochenendtagen kommt es zu zyklischen Schwankungen des 4-Tage-R-Wertes.
+    Der 7-Tages-R-Wert verläuft deutlich gleichmäßiger, da jeweils alle Wochentage in die Bestimmung eines Wertes eingehen.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 7 ----
+
+7                                                                                                                                                                                                   COVID-19-Lagebericht vom 12.04.2021                                                         7
+                                                                                                                     Fälle:                             Erkrankungsbeginn angegeben
+                                                                                                                                                        Erkrankungsbeginn imputiert                                                                   95%-PI
+                                                                                                                                                        Nowcast                                                                                       95%-PI
+                                        25.000
+                                        20.000
+      Anzahl neuer Fälle
+                                        15.000
+                                        10.000
+                                            5.000
+                                               0
+                                                               .          .            .           .             .           .           .          .            .          .            .           .           .              .          .          .               .
+                                                       .12            . 12       .12           .01        . 01           .01        .01         .02        .   02       .02         .  02       .03         .  03       .03            . 03       .03        .04
+                                                    14             21         28            04         11             18         25          01         08           15          22          01          08          15             22         29         05
+                                                                                                         Datum des Erkrankungsbeginns (Jahre 2020/2021)
+    Abbildung 3: Darstellung der an das RKI übermittelten COVID-19-Fälle mit bekanntem Erkrankungsbeginn (dunkelblau), geschätztem
+    Erkrankungsbeginn für Fälle mit fehlender Eingabe des Erkrankungsbeginns (grau) und geschätzter Verlauf der noch nicht übermittelten Fälle
+    (orange) (Stand 12.04.2021, 0:00 Uhr, unter Berücksichtigung der Fälle mit Erkrankungsbeginn bis 08.04.2021).
+                                                                                                                                                                       Nowcast                                                  95%-PI
+                                                                                                                                                                       4-Tages R-Wert                                           95%-PI
+                                                                                                                                                                       7-Tages R-Wert                                           95%-PI
+                                        2                                                                                                                                                                                                         25.000
+        Effektive Reproduktionszahl R                                                                                                                                                                                                                            Anzahl neuer Fälle (Nowcast)
+                                                                                                                                                                                                                                                  20.000
+                                                                                                                                                                                                                                                  15.000
+                                        1
+                                                                                                                                                                                                                                                  10.000
+                                                                                                                                                                                                                                                  5.000
+                                        0                                                                                                                                                                                                         0
+                                                               0   2.                   0  2.                03.                     0  3.                 03.                     03.                   03.                    0   4.
+                                                           15.                   2   2.                 0 1.        0         1   8.    2               5.                      2.                  2 9.                    05.
+                                                                                                            Datum des Erkrankungsbeginns
+    Abbildung 4: Darstellung der geschätzten R-Werte (in grün und orange) in den letzten 60 Tagen, vor dem Hintergrund der durch das
+    Nowcasting geschätzten Fallzahlen nach Erkrankungsbeginn (Stand 12.04.2021, 0:00 Uhr, unter Berücksichtigung der Fälle mit
+    Erkrankungsbeginn bis 08.04.2021).
+    Der 7-Tage-R-Wert ist weiter gestiegen und liegt über 1. Die in den Tagen nach Ostern beobachtete
+    Absenkung des R-Werts kann damit in Zusammenhang stehen, dass Personen die Testmöglichkeiten
+    weniger wahrgenommen haben. Die Werte können erst in einigen Tagen bewertet werden (s. Hinweis
+    Seite 2).
+    Unter http://www.rki.de/covid-19-nowcasting werden Beispielrechnungen und beide täglich
+    aktualisierten R-Werte als Excel-Tabelle zur Verfügung gestellt. Eine detaillierte Beschreibung der
+    Methodik ist unter https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html
+    verfügbar (Epid. Bull. 17 | 2020 vom 23.04.2020).
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 8 ----
+
+8 COVID-19-Lagebericht vom 12.04.2021
+    DIVI-Intensivregister
+    Das RKI betreibt gemeinsam mit der Deutschen Interdisziplinären Vereinigung für Intensiv- und
+    Notfallmedizin (DIVI) das DIVI-Intensivregister (https://www.intensivregister.de). Das Register erfasst
+    Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen und Patienten sowie Behandlungs-
+    und Bettenkapazitäten von etwa 1.300 Akut-Krankenhäusern Deutschlands. Damit ermöglicht das
+    Intensivregister in der Pandemie, sowie darüber hinaus, Engpässe in der intensivmedizinischen
+    Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle
+    Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit. Seit dem 16.04.2020
+    ist laut Intensivregister-Verordnung die Meldung für alle intensivbettenführenden
+    Krankenhausstandorte verpflichtend.
+    Mit Stand 12.04.2021 (12:15 Uhr) beteiligten sich 1.279 Krankenhaus-Standorte an der Datenerhebung.
+    Insgesamt wurden 23.778 Intensivbetten (Low- und High-Care) als betreibbar gemeldet für Erwachsene,
+    wovon 20.503 (86 %) belegt sind. 3.275 (14 %) Erwachsenen-ITS-Betten werden als aktuell frei und
+    betreibbar angegeben. Das DIVI-Intensivregister erfasst außerdem die Anzahl der intensivmedizinisch
+    behandelten COVID-19-Fälle (s. Tabelle 4).
+                                                                                      Anzahl Fälle              Veränderung zum Vortag*
+                           In intensivmedizinischer Behandlung                            4.662                                +77
+                                  - davon invasiv beatmet                             2.662 (57%)                              +58
+      Aktuell
+                                   Neuaufnahmen auf ITS                                                                       +382
+                                      Verstorben auf ITS                                                                      +114
+      Gesamt             Abgeschlossene Behandlungen auf ITS*                            90.743
+    Tabelle 4: Im DIVI-Intensivregister erfasste intensivmedizinisch behandelte COVID-19-Fälle (12.04.2021, 12:15 Uhr)
+    Bei der Interpretation der Zahlen muss beachtet werden, dass die Anzahl der meldenden Standorte täglich schwankt, dies kann z. B. die Zahlen
+    im Vergleich zum Vortag beeinflussen.
+    *Aufgrund von Verlegungen von Patientinnen und Patienten von einer ITS zur Weiterbehandlung auf eine andere ITS kann pro Patient mehr als
+    eine Behandlung gemeldet werden ( Mehrfachzählung möglich).
+    Abbildung 5: Anzahl der gemeldeten COVID-19 Fallzahlen des jeweiligen Beobachtungstages (Stand 12.04.2021, 12:15 Uhr). Zur
+    Interpretation der Kurve im März/April 2020 ist zu beachten, dass noch nicht alle Meldebereiche im Register angemeldet waren. Generell
+    kann sich die zugrundeliegende Gruppe der COVID-19-Intensivpatientinnen und -patienten von Tag zu Tag verändern (Verlegungen und
+    Neuaufnahmen), während die Fallzahl ggf. gleich bleibt.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 9 ----
+
+9                                                                           COVID-19-Lagebericht vom 12.04.2021 9
+  Risikobewertung durch das RKI
+  Das Robert Koch-Institut schätzt aufgrund der anhaltend hohen Fallzahlen und des aktuell
+  beschleunigten Wiederanstiegs der Inzidenz die Gefährdung für die Gesundheit der Bevölkerung in
+  Deutschland insgesamt als sehr hoch ein. Die anhaltende Viruszirkulation in der Bevölkerung
+  (Community Transmission) mit zahlreichen Ausbrüchen in Privathaushalten, Kitas und zunehmend auch
+  in Schulen sowie dem beruflichen Umfeld erfordert die konsequente Umsetzung kontaktreduzierender
+  Maßnahmen und Schutzmaßnahmen sowie massive Anstrengungen zur Eindämmung von Ausbrüchen
+  und Infektionsketten. Dies ist vor dem Hintergrund der raschen Ausbreitung leichter übertragbarer
+  besorgniserregender Varianten (VOC) von entscheidender Bedeutung, um die Zahl der neu Infizierten
+  deutlich zu senken, damit auch Risikogruppen zuverlässig geschützt werden können. Solange die
+  Impfstoffe noch nicht in ausreichenden Mengen für alle Altersgruppen zur Verfügung stehen, können
+  Antigentests als zusätzliches Element zur frühzeitigen Erkennung der Virusausscheidung die Sicherheit
+  erhöhen. Am 31.03.2021 erfolgte eine Aktualisierung der Risikobewertung unter Bezugnahme auf die
+  Zirkulation der vorherrschenden VOC B. 1.1.7, der aktuellen Fallzahlentwicklung und der Auslastung der
+  Intensivstationen. Die aktuelle Version findet sich unter folgendem Link: www.rki.de/covid-19-
+  risikobewertung.
+  Empfehlungen und Maßnahmen in Deutschland
+  Aktuelles
+  •    Zu aktuellen Entwicklungen und Maßnahmen informiert das Bundesgesundheitsministerium auf
+       seinen Internetseiten
+       https://www.bundesgesundheitsministerium.de/coronavirus.html
+       https://www.bundesgesundheitsministerium.de/coronavirus/chronik-coronavirus.html
+  Neue Dokumente
+  •    Corona-KiTa-Studie: Monatsbericht März 2021 (9.4.2021) (09.04.2021)
+  •    Beschluss der STIKO zur 4. Aktualisierung der COVID-19-Impfempfehlung (08.04.2021)
+  •    COVID-19-Ausbrüche in deutschen Alten- und Pflegeheimen (Epid Bull 18/202, online vorab am
+       06.04.2021)
+  •    Prognose der Entwicklung der Fallzahlen von B.1.1.7 (06.04.2021)
+  •    Antigentests als ergänzendes Instrument in der Pandemiebekämpfung (Epid Bull 17/2021, online
+       vorab am 01.04.2021)
+  •    Einfluss von Impfungen und Kontaktreduktionen auf die dritte Welle der SARS-CoV-2-Pandemie und
+       perspektivische Rückkehr zu prä-pandemischem Kontaktverhalten (Epid. Bull. 13/2021 online vorab
+       01.04.2021)
+  Aktualisierte Dokumente
+  •    Testkriterien für die SARS-CoV-2 Diagnostik bei symptomatischen Patienten mit Verdacht auf COVID-
+       19 (9.4.2021) www.rki.de/covid-19-testkriterien
+  •    Infografik: 8 einfache Tipps für den Alltag in der Corona-Pandemie (09.04.2021)
+       https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Buerger/Infografik_Verhalten_Fr
+       uehling.pdf?__blob=publicationFile
+  •    Aktualisierung der FAQs (09.04.2021)
+       www.rki.de/covid-19-faq
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 10 ----
+
+10 COVID-19-Lagebericht vom 12.04.2021
+     •    Informationen zur Ausweisung internationaler Risikogebiete durch das Auswärtige Amt, BMG und
+          BMI (9.4.2021)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+     •    Kennzahlen zur Corona-Warn-App (8.4.2021)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Archiv_Kennzahlen/Ke
+          nnzahlen_08042021.pdf?__blob=publicationFile
+     •    Kontaktpersonen-Nachverfolgung bei SARS-CoV-2-Infektionen (7.4.2021)
+         https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Kontaktperson/Management.html
+     •    Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und Einrichtungen für
+          Menschen mit Beeinträchtigungen und Behinderungen (7.4.2021)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Pflege/Dokumente.html
+     •    Organisatorische und personelle Maßnahmen für Einrichtungen des Gesundheitswesens sowie
+          Alten- und Pflegeeinrichtungen während der COVID-19-Pandemie (7.4.2021)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Getrennte_Patientenversorg_stat
+          ionaer.html
+     •    Management von COVID-19 Ausbrüchen im Gesundheitswesen (7.4.2021)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Management_Ausbruch_Gesund
+          heitswesen.html
+     •    COVID-19 Musterschreiben zur Unterstützung der Kontaktpersonennachverfolgung bei
+          Flugreisenden (6.4.2021)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/Musteranschreiben_Ta
+          b.html
+     Epidemiologische Lage global
+     Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+     Internetseiten des ECDC:
+     https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+     Das WHO Regionalbüro für Europa, die Europäische Kommission und das Europäische Observatorium für
+     Gesundheitssysteme und Gesundheitspolitik haben den COVID-19 Health System Response Monitor
+     (HSRM) veröffentlicht. Er dient dazu, aktuelle Informationen aus den europäischen Ländern zu sammeln
+     und deren Reaktionen auf die Krise zu dokumentieren. Der Fokus liegt dabei auf Gesundheitssystemen
+     und Public-Health-Initiativen (Zugang auf Englisch):
+     https://www.covid19healthsystem.org/mainpage.aspx
+     Empfehlungen und Maßnahmen global
+     Europa
+     •    In Unterstützung zur „Empfehlung zur Koordinierung von Maßnahmen mit Auswirkungen auf die
+          Freizügigkeit“ des Europäischen Rates stellt das ECDC Karten zu Indikatoren zur Verfügung:
+          https://www.ecdc.europa.eu/en/covid-19/situation-updates/weekly-maps-coordinated-restriction-
+          free-movement
+     •    Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+          https://www.ecdc.europa.eu/en/covid-19-pandemic
+     •    Daten zu Fallzahlen und 14-Tage-Inzidenzen weltweit findet man auf dem Dashboard des ECDC:
+          https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 11 ----
+
+11                                                                                  COVID-19-Lagebericht vom 12.04.2021 11
+   Weltweit
+   •    WHO/Europa: Informationen zu COVID-19
+        https://www.euro.who.int/de/health-topics/health-emergencies/coronavirus-covid-19
+   •    WHO COVID-19-Dashboard:
+        https://covid19.who.int/
+   •    Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+        https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+   •    Wöchentliche Situation Reports der WHO:
+        https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+   Anhang:
+   Hinweise zur Datenerfassung und -bewertung
+   Die in diesem Lagebericht dargestellten Daten stellen eine Momentaufnahme dar. Informationen zu
+   Fällen können im Verlauf der Erkrankung nachermittelt und im Meldewesen nachgetragen werden.
+   Nicht für alle Variablen gelingt eine vollständige Erfassung.
+   Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+   notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+   vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+   übermittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+   Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens des
+   Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich der
+   Fallzahlen zu anderen Quellen geben kann.
+   Für die Berechnung der Inzidenzen werden die Daten der Bevölkerungsstatistik des Statistischen
+   Bundesamtes mit Datenstand 31.12.2019 verwendet. Die Berechnung der 7-Tage-Inzidenz erfolgt auf
+   Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kenntnis über den Fall
+   erlangt und ihn elektronisch erfasst hat. Für die heutige 7-Tage-Inzidenz werden die Fälle mit
+   Meldedatum der letzten 7 Tage gezählt.
+   Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+   dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird. Es
+   kann sein, dass z.B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldedatum vor
+   mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt, die aufgrund
+   von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Differenz nicht ohne
+   weiteres auf die 7-Tage-Inzidenz geschlossen werden kann.
+   Anmerkungen zur Starttabelle Seite 1
+   1 Die Differenz zum Vortag bezieht sich auf das Eingangsdatum am RKI; aufgrund des Übermittlungsverzugs
+   können Fälle aus vorangegangenen Tagen darunter sein.
+   2 Die aktiven Fälle ergeben sich aus der Zahl der übermittelten Fälle abzüglich der Todesfälle und der geschätzten
+   Zahl der Genesenen.
+   3 Der Algorithmus zur Schätzung der Genesenen berücksichtigt Angaben zum Erkrankungsbeginn und zur
+   Hospitalisierung, jedoch nicht, ob ggf. Spätfolgen der Erkrankung vorliegen, weil diese Daten nicht regulär im
+   Meldesystem erfasst werden.
+   4 Die Daten des Impfquotenmonitorings werden werktäglich aktualisiert. Sonntags werden keine aktuellen Daten
+   berichtet.
+   5 Die Daten des Intensivregisters werden werktäglich aktualisiert. Am Wochenende werden im Lagebericht keine
+   aktuellen Daten berichtet, diese sind jedoch unter https://www.intensivregister.de/ abrufbar.
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.

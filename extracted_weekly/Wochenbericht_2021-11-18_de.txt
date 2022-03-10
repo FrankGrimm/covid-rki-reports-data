@@ -1,0 +1,1253 @@
+# Wochenbericht_2021-11-18.pdf lang: de
+
+# ---- page 1 ----
+
+                        Wöchentlicher Lagebericht des RKI
+                            zur Coronavirus-Krankheit-2019
+                                                      (COVID-19)
+                              18.11.2021 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+COVID-19-Verdachtsfälle und -Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das Ge-
+sundheitsamt gemeldet. Dieses übermittelt die Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten (Nukleinsäurenachweis oder Erregerisolierung) COVID-19-Fällen
+dargestellt. Ebenso werden Daten aus weiteren Surveillancesystemen und Erhebungen dargestellt.
+  Die dem RKI übermittelten Fälle sind tagesaktuell auf dem Dashboard (https://corona.rki.de/) und als
+  werktäglicher Situationsbericht (www.rki.de/covid-19-situationsbericht) verfügbar. Ein Wochenver-
+  gleich mit aktueller Einordnung wird im heutigen Wochenbericht (immer donnerstags) dargestellt.
+  Die meisten Ergebnisse in diesem Wochenbericht beziehen sich auf Daten bis zur 45. Kalenderwoche
+  2021.
+  Unter dem Link www.rki.de/inzidenzen stellt das RKI die tagesaktuellen Fallzahlen und Inzidenzen,
+  (einschließlich des Verlaufs nach Berichtsdatum) nach Landkreisen und Bundesländern zur Verfü-
+  gung. Werktäglich aktualisierte Trendberichte relevanter Indikatoren stehen ebenfalls zur Verfügung.
+  Des Weiteren bietet SurvStat@RKI die Möglichkeit übermittelte COVID-19-Fälle sowie andere nach
+  dem Infektionsschutzgesetz (IfSG) meldepflichtige Krankheitsfälle und Erregernachweise individuell
+  abzufragen.
+
+
+# ---- page 2 ----
+
+                                                                                         Wöchentlicher COVID-19-Lagebericht vom 18.11.2021                    2
+Inhalt
+Epidemiologische Lage in Deutschland ................................................................................................... 3
+   Zusammenfassende Bewertung der aktuellen Situation .....................................................................3
+   Demografische Verteilung .................................................................................................................... 5
+   Zeitlicher Verlauf .................................................................................................................................. 6
+   Geografische Verteilung ....................................................................................................................... 7
+      Wochenvergleich der Bundesländer ............................................................................................... 7
+   Ausbrüche............................................................................................................................................. 8
+      Ausbrüche in medizinischen Behandlungseinrichtungen und Alten- und Pflegeheimen ............... 8
+      Ausbrüche in Kindergärten, Horten und Schulen............................................................................ 9
+Klinische Aspekte und syndromische Surveillance ................................................................................ 11
+   Hospitalisierungen ..............................................................................................................................11
+   Bewertung des Trends der 7-Tage-Hospitalisierungsinzidenz unter Berücksichtigung verzögert
+   berichteter Hospitalisierungen...........................................................................................................13
+   Ergebnisse aus weiteren Surveillancesystemen zu akuten respiratorischen Erkrankungen .............13
+      Intensivpflichtige COVID-19-Fälle mit einer SARI .......................................................................... 15
+   Daten aus dem Intensivregister .........................................................................................................15
+   Todesfälle, Mortalitätssurveillance, EuroMomo ................................................................................16
+      EuroMOMO und Destatis .............................................................................................................. 17
+Impfen ................................................................................................................................................... 17
+   Digitales Impfquotenmonitoring (DIM) ..............................................................................................17
+   Effekte der COVID-19-Impfung...........................................................................................................21
+SARS-CoV-2-Labortestungen und Variants of Concern (VOC)............................................................... 27
+      Fachliche Einordnung der aktuellen Laborsituation in Deutschland............................................. 29
+      Positivenanteile nach Bundesland und Altersgruppen ................................................................. 29
+   IfSG-Meldedaten zu SARS-CoV-2-Varianten.......................................................................................33
+Empfehlungen und Maßnahmen in Deutschland ................................................................................. 34
+   Aktuelles .............................................................................................................................................34
+Anhang .................................................................................................................................................. 35
+   Hinweise zur Datenerfassung und -bewertung ..................................................................................35
+
+
+# ---- page 3 ----
+
+3 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+  Epidemiologische Lage in Deutschland
+  Zusammenfassende Bewertung der aktuellen Situation
+  Der seit Ende September 2021 beobachtete steigende Trend der 7-Tages-Inzidenzen hat sich in den
+  letzten Wochen deutlich beschleunigt. Die aktuellen Fallzahlen sind schon jetzt höher als alle bisher
+  auf den Höhepunkten der vorangegangenen Erkrankungswellen verzeichneten Werte. Dieser hohe
+  Infektionsdruck in der Bevölkerung betrifft zunehmend auch vulnerable Gruppen sowie besonders
+  gefährdete Mensche in den höheren Altersgruppen. Dies zieht auch einen deutlichen Anstieg der
+  schweren Krankheitsverläufe und der Todesfälle nach sich und macht das Auftreten von Impfdurch-
+  brüchen wahrscheinlicher.
+  In der Meldewoche (MW) 45/2021 ist die 7-Tage-Inzidenz im Vergleich zur Vorwoche weiterhin deut-
+  lich in allen Altersgruppen, auch in den höheren, angestiegen. Auch die wöchentliche Hospitalisie-
+  rungsinzidenz (hospitalisierte Fälle /100.000) stieg an und lag in der Altersgruppe der ab 80-Jährigen
+  in der 45. MW bei 29 hospitalisierten Fällen / 100.000 Einwohnern.
+  In den meisten Landkreisen (387) liegt die 7-Tagesinzidenz über 100 Fällen pro 100.000 Einwohnern,
+  in 81 Landkreisen mittlerweile über 500 pro 100.000 Einwohnern. Es ist damit zu rechnen, dass sich
+  der starke Anstieg der Fallzahlen innerhalb der nächsten Wochen fortsetzen wird, wenn die Bevölke-
+  rung nicht ergänzend zu den angeordneten Schutzmaßnahmen durch die sofortige, größtmögliche
+  Reduktion ihrer Kontakte außerhalb des eigenen Haushalts und durch konsequentes Tragen von Mas-
+  ken, Einhaltung des Mindestabstands, regelmäßiges und gründliches Lüften von Innenräumen vor,
+  während und nach dem Aufenthalt mehrerer Personen (AHA+L) in einem Raum mithilft, den momen-
+  tanen Infektionsdruck auf alle so rasch wie möglich zu reduzieren. Diese Empfehlungen gelten auch
+  für Geimpfte und Genesene, also auch in Situationen mit 2G- und 3G-Regelungen. Die Nutzung der
+  Corona-Warn-App wird empfohlen
+  Der Anteil positiv getesteter Proben unter den in den Laboren durchgeführten PCR-Tests steigt wei-
+  ter deutlich an (45. Kalenderwoche (KW): 17,3 %; 44. KW: 15,9 %) bei jetzt wieder deutlich höherer
+  Anzahl durchgeführter Tests. Dies spricht dafür, dass die tatsächlichen Fallzahlen noch deutlich über
+  den gemeldeten Fällen liegen (Dunkelziffer).
+  Die mit Abstand höchste Inzidenz hospitalisierter Fälle wurde in MW 45 in der Altersgruppe der ab
+  80-Jährigen verzeichnet, gefolgt von der Altersgruppe der 60- bis 79-Jährigen. Das Risiko einer schwe-
+  ren Erkrankung mit Krankenhauseinweisung und in manchen Fällen das Risiko eines tödlichen Ver-
+  laufs ist bei den älteren Altersgruppen weiterhin am höchsten, steigt aber bereits bei den ab 50-Jähri-
+  gen gegenüber jüngeren Erwachsenen deutlich an.
+  Die Rate akuter Atemwegserkrankungen (ARE-Rate) lag in der 45. KW 2021 bei 6,2 % und damit bei
+  ca. 6.200 ARE pro 100.000 Einwohnern. Dies entspricht einer Gesamtzahl von ca. 5,2 Millionen
+  akuten Atemwegserkrankungen in der Bevölkerung in Deutschland. Insbesondere bei Kindern von 0
+  bis 14 Jahren gab es im Vergleich zur Vorwoche einen deutlichen Anstieg der ARE-Rate. Dies lässt da-
+  rauf schließen, dass die Zahl der Kontakte, bei denen Atemwegsinfektionen übertragen werden kön-
+  nen, aktuell wieder genauso hoch ist wie in den zwei Wintern vor der COVID-19-Pandemie. Im glei-
+  chen Zeitraum 2020 war die Häufigkeit von akuten respiratorischen Erkrankungen aufgrund der ein-
+  geschränkten Kontakte noch deutlich vermindert.
+  Die Anzahl der in der syndromischen Krankenhaussurveillance erfassten hospitalisierten und intensiv-
+  pflichtigen Fälle mit schweren akuten Atemwegsinfektionen (SARI-Fälle) mit COVID-19 ist in den letz-
+  ten Wochen in den Altersgruppen über 35 Jahre angestiegen und befindet sich auf vergleichbarem
+  Niveau wie letztes Jahr. Der Anteil von COVID-19-Erkrankungen an allen SARI-Fällen liegt bei 38 %.
+
+
+# ---- page 4 ----
+
+                                                           Wöchentlicher COVID-19-Lagebericht vom 18.11.2021 4
+Der Anteil von COVID-19-Fällen unter allen intensivpflichtigen SARI-Patientinnen und -Patienten ist in
+der 45. KW 2021 mit insgesamt 64% weiter hoch.
+Mit Datenstand vom 17.11.2021 werden 3.376 Personen mit einer COVID-19-Diagnose auf einer In-
+tensivstation behandelt. Damit zeichnet sich über die letzten Wochen ein deutlicher Anstieg der Fälle
+mit COVID-19-Diagnose auf den Intensivstationen ab. Innerhalb der letzten Woche vom 10.11.-
+17.11.2021 gab es eine Zunahme um 637 Personen.
+Sowohl die Zahl der übermittelten Ausbrüche in medizinischen Einrichtungen als auch in Alten- und
+Pflegeheimen stieg in der 45. MW im Vergleich zur Vorwoche an, was zu 829 neuen erfassten COVID-
+19-Fällen in medizinischen Einrichtungen und 1.932 Fällen in Alten- und Pflegeheimen führte.
+In Deutschland, wie auch im europäischen Ausland, werden praktisch alle Infektionen durch die
+Delta-Variante (B.1.617.2) verursacht. Andere besorgniserregende SARS-CoV-2 Varianten (VOC) so-
+wie unter Beobachtung stehende Varianten (VOI) werden nur sehr selten nachgewiesen.
+Bis zum 16.11.2021 waren weiterhin 70 % der Bevölkerung mindestens einmal und 68 % vollständig
+geimpft. Damit ist der Anteil geimpfter Personen in den letzten Wochen kaum noch gestiegen. Alle
+Impfstoffe, die zurzeit in Deutschland zur Verfügung stehen, schützen nach derzeitigem Erkenntnis-
+stand bei vollständiger Impfung die allermeisten geimpften Personen wirksam vor einer schweren
+Erkrankung.
+Die aktuelle Entwicklung ist sehr besorgniserregend und es ist zu befürchten, dass es zu einer weite-
+ren Zunahme schwerer Erkrankungen und Todesfälle kommen wird und die verfügbaren intensiv-
+medizinischen Behandlungskapazitäten überschritten werden. Dies betrifft auch die intensivmedizini-
+schen Behandlungskapazitäten für schwere Erkrankungen anderer Ursache.
+Das RKI rät dringend dazu, größere Veranstaltungen und enge Kontaktsituationen wie z.B. Tanzveran-
+staltungen und Clubs abzusagen bzw. zu meiden, aber auch alle anderen nicht notwendigen Kon-
+takte zu reduzieren. Insbesondere vor notwendigen Kontakten zu Personen mit einem Risiko für
+einen schweren Krankheitsverlauf (ältere Personen, chronisch Kranke) sollte - unabhängig vom
+Impf- oder Genesenenstatus - ein Test durchgeführt werden.
+Bei Symptomen einer neu auftretenden Atemwegserkrankung wie z.B. Schnupfen, Halsschmerzen
+oder Husten (ebenfalls unabhängig vom Impfstatus) wird dringend empfohlen, zuhause zu bleiben,
+die Hausarztpraxis zu kontaktieren und dort einen PCR-Test durch führen zu lassen.
+Das Robert Koch-Institut schätzt die Gefährdung für die Gesundheit der nicht oder nur einmal ge-
+impften Bevölkerung in Deutschland insgesamt als sehr hoch ein. Für vollständig Geimpfte wird die
+Gefährdung als moderat, aber aufgrund der steigenden Infektionszahlen ansteigend eingeschätzt.
+Diese Einschätzung kann sich kurzfristig durch neue Erkenntnisse ändern. Die aktuelle Version der
+Risikobewertung findet sich unter https://www.rki.de/covid-19-risikobewertung.
+Bei den hohen gegenwärtigen 7-Tage-Inzidenzen besteht eine zunehmende Wahrscheinlichkeit infek-
+tiöser Kontakte in allen Lebenssituationen. Daher wird dringend empfohlen, das Impfangebot gegen
+COVID-19 wahrzunehmen und hierbei auf einen vollständigen Impfschutz zu achten. Insbesondere
+die Möglichkeit der Auffrischimpfung (Boosterimpfung) sollte möglichst rasch von allen Personen-
+gruppen entsprechend der Empfehlungen der STIKO genutzt werden.
+
+
+# ---- page 5 ----
+
+5 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+  Demografische Verteilung
+  Die altersgruppenspezifische Inzidenz wird in Abbildung 1 als 7-Tage-Inzidenz pro 100.000 Einwohne-
+  rinnen und Einwohner in der jeweiligen Altersgruppe nach Meldewoche mit Hilfe einer sogenannten
+  Heatmap gezeigt. Daten zu altersgruppenspezifischen Fallzahlen können zusammen mit den alters-
+  spezifischen 7-Tage-Inzidenzen zusätzlich hier abgerufen werden: http://www.rki.de/covid-19-alters-
+  verteilung.
+  Abbildung 1. Darstellung der 7-Tage-Inzidenz der COVID-19-Fälle in Deutschland nach Altersgruppe und Meldewoche (n= 4.374.697 Fälle
+  mit entsprechenden Angaben in den Meldewochen 46/2020 bis 45/2021; Datenstand 17.11.2021, 00:00 Uhr).
+  Im gezeigten Zeitraum sind die COVID-19-Wellen über den Jahreswechsel 2020/2021 (2. Erkran-
+  kungswelle in Deutschland) und im Frühjahr 2021 (3. Erkrankungswelle) zu erkennen. In der aktuellen
+  Entwicklung (etwa ab der 41. KW 2021) steigen die 7-Tage-Inzidenzen erneut in allen Altersgruppen
+  deutlich. In der 4. Welle sind Kinder und Jugendlichen bisher am stärksten von Infektionen betroffen.
+  Zuletzt zeigte sich aber auch wieder ein sprunghafter Anstieg bei den Hochaltrigen ab 80 Jahren.
+
+
+# ---- page 6 ----
+
+                                                                           Wöchentlicher COVID-19-Lagebericht vom 18.11.2021    6
+Zeitlicher Verlauf
+Abbildung 2: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Woche des Erkrankungsbeginns, ersatzweise nach Meldewoche.
+Dargestellt werden nur Fälle mit Erkrankungsbeginn oder Meldewoche seit MW 10/2020 (Datenstand 17.11.2021, 00:00 Uhr).
+
+
+# ---- page 7 ----
+
+7 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+  Geografische Verteilung
+  Die geografische Verteilung der Fälle der aktuellen Woche und der Vorwoche ist in Abbildung 3 dar-
+  gestellt. Bei deutlich mehr als drei Viertel der Landkreise (387 von 410 mit entsprechenden Angaben)
+  liegt die 7-Tage-Inzidenz über 100 pro 100.000 Einwohner. In Sachsen, Bayern und Thüringen weist
+  der überwiegende Teil der Landkreise 7-Tage-Inzidenzen von über 500 pro 100.000 Einwohner auf,
+  mitunter sogar >1.000 pro 100.000 Einwohner.
+  Abbildung 3: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten Kalenderwoche in Deutschland nach
+  Kreis und Bundesland (n = 266.831, Datenstand 17.11.2021, 00:00 Uhr) im Vergleich zur Vorwoche. Die Fälle werden in der Regel nach
+  dem Kreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher
+  Infektionsort müssen nicht übereinstimmen.
+  Durch einen Ausfall der IT-Infrastruktur in Folge eines Cyberangriffs werden seit dem 15.10.2021 bis auf Weiteres keine elektronischen
+  Meldedaten für den Landkreis Ludwigslust-Parchim übermittelt. Für die Erstellung der landesinternen COVID-19-Berichte werden telefo-
+  nisch übermittelte Daten des Kreises genutzt.
+  Wochenvergleich der Bundesländer
+  In Tabelle 1 sind die Fallzahlen und Inzidenzen der vergangenen zwei Meldewochen für die einzelnen
+  Bundesländer dargestellt. Von MW 44 auf MW 45/2021 stiegen die Fallzahlen in allen Bundesländern
+  deutlich an. Die Gesamtinzidenz der letzten Meldewoche nahm im Vergleich zur Vorwoche um 50 %
+  zu.
+
+
+# ---- page 8 ----
+
+                                                                              Wöchentlicher COVID-19-Lagebericht vom 18.11.2021    8
+Tabelle 1: Übermittelte Anzahl der COVID-19-Fälle sowie 7-Tage-Inzidenz (Fälle/100.000 Einwohner) pro Bundesland in Deutschland in
+den MW 44 und 45/2021 (Datenstand 17.11.2021, 00:00 Uhr).
+                                         Meldewoche 44                    Meldewoche 45               Änderung im Vergleich
+ Bundesland                                            7-Tage-                          7-Tage-
+                                        Anzahl                         Anzahl                          Anzahl           Anteil
+                                                      Inzidenz                         Inzidenz
+ Baden-Württemberg                       27.053          244           44.219            398           17.166            +63%
+ Bayern                                  45.669          348           73.433            559           27.764            +61%
+ Berlin                                    7.601         207           11.962            326            4.361            +57%
+ Brandenburg                               6.111         241             9.859           390            3.748            +61%
+ Bremen                                      597           88               758          111              161            +27%
+ Hamburg                                   2.746         148             3.469           187              723            +26%
+ Hessen                                    9.697         154           12.021            191            2.324            +24%
+ Mecklenburg-Vorpommern                    2.272         141             3.019           187              747            +33%
+ Niedersachsen                             8.610         108           10.970            137            2.360            +27%
+ Nordrhein-Westfalen                     23.038          129           31.683            177            8.645            +38%
+ Rheinland-Pfalz                           5.711         139             7.512           183            1.801            +32%
+ Saarland                                  1.089         111             1.863           189              774            +71%
+ Sachsen                                 21.154          521           33.759            832           12.605            +60%
+ Sachsen-Anhalt                            4.652         213             7.636           350            2.984            +64%
+ Schleswig-Holstein                        2.236           77            2.978           102              742            +33%
+ Thüringen                                 9.288         438           11.690            551            2.402            +26%
+ Gesamt                                 177.524          213          266.831            321           89.307            +50%
+Ausbrüche
+Ausbrüche in medizinischen Behandlungseinrichtungen und Alten- und Pflegeheimen
+COVID-19-bedingte Ausbrüche in Alten- und Pflegeheimen und Krankenhäusern treten wieder zuneh-
+mend auch in diesem Setting auf. Davon sind auch geimpfte Personen betroffen.
+Aktive Ausbrüche, also Ausbrüche für die jeweils ein neuer Fall in MW 45 übermittelt wurde, kom-
+men in 138 medizinischen Behandlungseinrichtungen (Vorwoche: 119) und in 192 Alten- und Pflege-
+heimen (Vorwoche: 161) vor. In MW 45/2021 wurden dem RKI 829 neue COVID-19-Fälle in Ausbrü-
+chen in medizinischen Behandlungseinrichtungen und 1.932 Fälle in Ausbrüchen in Alten- und Pflege-
+heimen übermittelt.
+Seit Beginn der Pandemie bis Ende MW 45/2021 wurden dem RKI 6.920 Ausbrüche in medizinischen
+Behandlungseinrichtungen (Abbildung 4) und 6.837 Ausbrüche in Alten- und Pflegeheimen (Abbil-
+dung 5) mit mindestens 2 Fällen pro Ausbruch übermittelt (Datenstand 16.11.21, 00:00 Uhr). Diesen
+Ausbrüchen wurden 62.381 COVID-19-Fälle in medizinischen Behandlungseinrichtungen (Median: 4,
+Spannbreite: 2 - 347 Fälle pro Ausbruch) und 164.907 COVID-19-Fälle (Median: 15, Spannbreite: 2 -
+237 Fälle pro Ausbruch) in Alten- und Pflegeheimen zugeordnet, davon 121.512 Fälle (73,7%) bei Per-
+sonen ≥60 Jahren. Die Altersgruppe ≥ 60 Jahre dient, bezogen auf die Ausbruchsfälle, als Annäherung
+für Bewohnende der Pflegeheime, da in den Meldedaten nicht immer für jeden Einzelfall der Status
+als Bewohnende/r bzw. Beschäftigte/r dokumentiert wurde und auch Angehörige und Besucherinnen
+und Besucher den Ausbrüchen zugeordnet werden.
+
+
+# ---- page 9 ----
+
+9 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+  Abbildung 4: Übermittelte COVID-19-Ausbrüche in medizinischen Behandlungseinrichtungen mit mindestens 2 Fällen nach Meldedatum
+  des ersten Ausbruchsfalls seit MW 10/2020 (Datenstand 16.11.2021, 00:00 Uhr). Insbesondere für die letzten drei Meldewochen sind
+  Nachübermittlungen für Ausbrüche zu erwarten (graue Balken). Die Ausbruchsfälle umfassen nicht nur Patientinnen und Patienten,
+  sondern auch Personal und Besucherinnen und Besucher.
+  Die kumulative Anzahl an Todesfällen in diesen Ausbrüchen bis MW 45/2021 betrug 6.076 (9,7 % der
+  Ausbruchsfälle) in medizinischen Behandlungseinrichtungen (+ 57 Todesfälle im Vergleich zur Vorwo-
+  che) und 24.256 Todesfälle (14,7 % der Ausbruchsfälle) in Alten-/Pflegeheimen (+ 181 Todesfälle im
+  Vergleich zur Vorwoche). Unter den Ausbruchsfällen in Alten-/Pflegeheimen ≥60 Jahre gab es insge-
+  samt 24.054 Todesfälle (19,8%).
+  Abbildung 5: Übermittelte COVID-19-Ausbrüche in Alten- und Pflegeheimen mit mindestens 2 Fällen nach Meldedatum des ersten
+  Ausbruchsfalls seit MW 10/2020 (Datenstand 16.11.2021, 00:00 Uhr). Insbesondere für die letzten drei Meldewochen sind
+  Nachübermittlungen für Ausbrüche zu erwarten (graue Balken). Die Ausbruchsfälle mit der Angabe <60 Jahre umfassen auch
+  Besucherinnen und Besucher sowie Mitarbeitende der Einrichtungen
+  Ausbrüche in Kindergärten, Horten und Schulen
+  Die Zahl an übermittelten Kita-Ausbrüchen nahm von Anfang bis Ende Oktober 2021 wieder zu (Abbil-
+  dung 6). Für die letzten vier Wochen (MW 42 - 45/2021) wurden bisher insgesamt 351 Ausbrüche
+  übermittelt. Der weitere Verlauf der Ausbruchshäufigkeit in Kitas kann wegen Nachmeldungen noch
+  nicht gut bewertet werden. Nachdem der Anteil der 0- bis 5-jährigen Fälle an allen in Kita-Ausbrüchen
+
+
+# ---- page 10 ----
+
+                                                                                  Wöchentlicher COVID-19-Lagebericht vom 18.11.2021         10
+beteiligten Fällen seit dem Vorjahr bis auf etwa 63 % im August 2021 anstieg, zeichnete sich seitdem
+ein Rückgang ab (Abbildung 6, hellblaue Fläche), während der Anteil der in Kita-Ausbrüchen übermit-
+telten erwachsenen Fällen (> 15 Jahre) wieder zunahm. Ende Oktober 2021 waren 48 % der Kita-Aus-
+bruchsfälle im Alter von 0 bis 5 Jahren.
+Bei der Zahl der übermittelten Schulausbrüche konnte nach einem kurzseitigen Rückgang während der
+Herbstferien Mitte Oktober 2021 ein erneuter Anstieg beobachtet werden (Abbildung 7) und liegt wei-
+terhin höher als in allen vorausgegangenen Wellen der Pandemie. Bisher wurden 856 Schulausbrüche
+für die letzten vier Wochen (MW 42 - 45/2021) übermittelt, doch auch hier sind insbesondere die letz-
+ten zwei Wochen noch nicht bewertbar. Seit Anfang August 2021 werden überwiegend Fälle im Alter
+von 6 - 10 und 11 - 14 Jahren in Schulausbrüchen übermittelt (Abbildung 7, blaue Flächen), wobei der
+Anteil der 6- bis 10-Jährigen seit Oktober nochmal deutlich zunahm (Anteil der Altersgruppen Ende
+Oktober 2021: 6 - 10 Jahre: 52 %; 11 - 14 Jahre: 29 %; 15 - 20 Jahre: 10 %; 21 Jahre und älter: 9 %).
+Bei der zugenommenen Ausbruchshäufigkeit spielen vermutlich die leichtere Übertragbarkeit der
+Delta-Variante und die ausgeweiteten Testaktivitäten eine Rolle, wobei (auch asymptomatische) In-
+fektionen frühzeitig erkannt werden.
+Im Oktober 2021 waren in Kita- und Schulausbrüchen durchschnittlich 5 - 6 Fälle pro Ausbruch (Median
+= 3 - 4 Fälle) involviert. Es wurden in beiden Settings vereinzelt aber auch größere Ausbrüche mit 10
+oder mehr Fällen pro Ausbruch übermittelt. Im Gegensatz zu den Schulausbrüchen blieb die Zahl der
+übermittelten Kita-Ausbrüche bisher noch deutlich unter dem Niveau der zweiten und dritten Welle.
+Abbildung 6: An das RKI übermittelte Ausbrüche (ab 2 Fällen) in Kindergärten und Horteinrichtungen für 2021 (durchgezogene Linie) im
+Vergleich zu 2020 (gestrichelte Linie) und Anteil der 0- bis 5-jährigen Fälle an allen Kita-Ausbruchsfällen (geglättet über 3 Wochen) sowie
+die bundesweite Feriendichte 1. Der graue Bereich markiert die letzten zwei Wochen in 2021, in denen noch mit Nacherfassungen von
+Ausbrüchen zu rechnen ist sowie die weiteren Wochen in 2021, für die noch keine Daten vorliegen. (Datenstand: 15.11.2021; n=4.473
+Ausbrüche)
+1 Die Feriendichte beschreibt den Anteil der Bevölkerung in Deutschland, der in der jeweiligen Woche Schulferien (inkl. Feier-
+tage) hatte. Es wurde ein Durchschnitt der fünf Arbeitstage gebildet. Die Feriendichte (Schulferien) wird auch in der Abbildung
+der Kita/Hort-Ausbrüche dargestellt, da einige Kitas auch während der Ferien (zumindest teilweise) schließen oder Kita-Kinder
+gemeinsam mit Geschwistern im Schulalter während der Ferien zu Hause betreut werden. Quelle: https://www.schulfe-
+rien.org/deutschland/feriendichte/
+
+
+# ---- page 11 ----
+
+11 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Abbildung 7: An das RKI übermittelte Ausbrüche (ab 2 Fällen) in Schulen für 2021 (durchgezogene Linie) im Vergleich zu 2020
+   (gestrichelte Linie) und Anteil der 6- bis 10- bzw. 6- bis 14-jährigen Fälle an allen Schul-Ausbruchsfällen (geglättet über 3 Wochen) sowie
+   die bundesweite Feriendichte Der graue Bereich markiert die letzten zwei Wochen in 2021, in denen noch mit Nacherfassungen von
+   Ausbrüchen zu rechnen ist sowie die weiteren Wochen in 2021, für die noch keine Daten vorliegen. (Datenstand: 15.11.2021; n=5.502
+   Ausbrüche)
+   Jeweils donnerstags stellt das RKI außerdem eine Tabelle zur Verfügung mit gemeldeten COVID-19-
+   Fällen, die von den Gesundheitsbehörden einem Ausbruch zugeordnet wurden, geordnet nach Infek-
+   tionsumfeld (Setting) und Meldewoche (https://www.rki.de/DE/Content/InfAZ/N/Neuarti-
+   ges_Coronavirus/Daten/Ausbruchsdaten.html).
+   Klinische Aspekte und syndromische Surveillance
+   Hospitalisierungen
+   Für 3.739.557 (73 %) der übermittelten Fälle lagen klinische Informationen vor. Aufgrund der unvoll-
+   ständigen Erfassung klinischer Daten, z. B. zur Hospitalisierung, stellen die nachfolgend aufgeführten
+   Fallzahlen eine Mindestangabe dar. Seit dem 13.07.2021 (MW 28/2021) müssen Ärzte und Ärztinnen
+   auch die Aufnahme von COVID-19-Fällen ins Krankenhaus an das Gesundheitsamt melden, nicht nur
+   den Verdacht, die Erkrankung und den Tod in Bezug auf COVID-19. Die entsprechenden Daten sind
+   verfügbar unter www.rki.de/covid-19-tabelle-klinische-aspekte.
+   In Abbildung 8 ist die absolute Anzahl der in der jeweiligen Meldewoche neu hospitalisierten Fälle
+   stratifiziert nach Altersgruppen dargestellt. Die Zahl der hospitalisierten Fälle in den Altersgruppen ab
+   60 Jahren ist in den letzten vier Wochen weiter angestiegen. Momentan werden in diesen Alters-
+   gruppen die meisten Hospitalisierungen verzeichnet. Außerdem nahm auch die Anzahl hospitalisier-
+   ter Fälle in der Altersgruppe der 35- bis 59-Jährigen seit der 41. MW wieder zu. Es muss beachtet
+   werden, dass Fälle auch noch ein bis zwei Wochen nach der Diagnose hospitalisiert werden und mit
+   entsprechenden Nachübermittlungen gerechnet werden muss. Der Altersmedian der hospitalisierten
+   Fälle, der über den Sommer deutlich gesunken war, steigt seit der MW 34 wieder an (MW 45/2021:
+   71 Jahre). Zu Jahresbeginn und damit auf der Gipfel der 2. COVID-19-Welle lag der Altersmedian der
+   hospitalisierten Fälle bei 76 Jahren.
+
+
+# ---- page 12 ----
+
+                                                                              Wöchentlicher COVID-19-Lagebericht vom 18.11.2021     12
+Abbildung 8: Darstellung der Anzahl der neu hospitalisierten COVID-19-Fälle in Deutschland nach Altersgruppen über die letzten
+Wochen (Hauptbild) und ab MW 37/2020 (kleinere Darstellung) (Datenstand 17.11.2021, 00:00 Uhr). Für den grau markierten Bereich ist
+insbesondere für die letzten zwei Wochen noch mit Nachübermittlungen in erheblichem Umfang und damit mit einer Erhöhung der
+Anzahl zu rechnen.
+In Abbildung 9 ist anstelle der absoluten Anzahl der neu hospitalisierten Fälle die Anzahl pro 100.000
+Einwohner in der jeweiligen Altersgruppe dargestellt. Obwohl die hospitalisierten über 80-Jährigen
+und die 60- bis 79-Jährigen ähnlich hohe absolute Fallzahlen zeigen, haben Personen in der Alters-
+gruppe der über 80-Jährigen nach wie vor das höchste Risiko, nach einer Infektion einen schweren
+Krankheitsverlauf zu entwickeln, der dann auch zu einer Krankenhauseinweisung führen kann. Für
+diese Altersgruppe ist es seit der MW 38/2021 (8 hospitalisierte Fälle/100.000 Einwohner) zu einem
+sprunghaften Anstieg der Hospitalisierungsinzidenz (MW45/2021: 29 Fälle /100.000 Einwohner) ge-
+kommen.
+Abbildung 9: Wöchentliche Inzidenz der hospitalisierten COVID-19-Fälle in Deutschland nach Altersgruppen über die letzten Wochen
+(Hauptbild) und ab MW 37/2020 (kleinere Darstellung) (Datenstand 17.11.2021, 00:00 Uhr). Für den grau markierten Bereich ist
+insbesondere für die letzten zwei Wochen noch mit Nachübermittlungen in erheblichem Umfang und damit mit einer Erhöhung der
+Anzahl zu rechnen.
+Der Altersmedian aller Fälle pro Meldewoche war seit Jahresbeginn (MW 03/2021: 49 Jahre) kontinu-
+ierlich gesunken und lag in den MW 28 - 34/2021 bei 27 Jahren. Seit MW 35/2021 stieg der Altersme-
+dian wieder leicht an und lag in MW 45/2021 bei 36 Jahren.
+
+
+# ---- page 13 ----
+
+13 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Bewertung des Trends der 7-Tage-Hospitalisierungsinzidenz unter Berücksichtigung verzö-
+   gert berichteter Hospitalisierungen
+   Zwischen dem Beginn des Krankenhausaufenthalts eines COVID-19-Falles und dem Zeitpunkt, an
+   dem diese Information am RKI eingeht, entsteht ein zeitlicher Verzug. Um den Trend der Anzahl von
+   Hospitalisierungen und der 7-Tage-Hospitalisierungsinzidenz besser bewerten zu können, ergänzen
+   wir die berichtete Hospitalisierungsinzidenz um eine Schätzung der zu erwartenden Anzahl an verzö-
+   gert berichteten Hospitalisierungen (modifizierte Variante der Nowcastingberechnung zur 7-Tage-
+   Inzidenz, ursprüngliche Berechnung siehe hier: https://www.rki.de/DE/Content/InfAZ/N/Neuarti-
+   ges_Coronavirus/Projekte_RKI/Nowcasting.html).
+   Die Ergebnisse dieser Adjustierung ersetzen nicht die werktägliche Berichterstattung der 7-Tage-Hos-
+   pitalisierungsinzidenz gemäß § 28a IfSG, die montags bis freitags im Situationsbericht und unter CO-
+   VID-19-Trends veröffentlicht wird. Die Adjustierung soll eine bessere Einordnung des aktuellen
+   Trends der Anzahl Hospitalisierter und der 7-Tage-Hospitalisierungsinzidenz erlauben. Hierbei richtet
+   sich unser Blick auf den Trend in den letzten Wochen, tagesaktuelle Schwankungen spielen eine un-
+   tergeordnete Rolle.
+   Die schwarze Linie stellt den Verlauf der bereits berichteten Hospitalisierungen und der 7-Tage-Hos-
+   pitalisierungsinzidenz dar (Abbildung 10). Die dunkelgraue Linie und der grüne Schätzbereich stellen
+   den geschätzten Verlauf dar, der auch die noch zu erwartenden Hospitalisierungen enthält. Auf den
+   ab Mitte September rückläufigen Trend folgt seit Mitte Oktober ein deutlicher und anhaltender An-
+   stieg der adjustierten Hospitalisierungsinzidenz.
+   Abbildung 10: Berichtete 7-Tage-Hospitalisierungsinzidenz (schwarze Linie) und Schätzung der adjustierten Hospitalisierungsinzidenz
+   unter Berücksichtigung von verzögert berichteten Hospitalisierungen (dunkelgraue Linie mit grün ausgewiesenem Schätzbereich). Die
+   Skalen geben die jeweilige absolute Anzahl (y-Achse, links) und den Anteil pro 100.000 Einwohnern (y-Achse, rechts) an.
+   Ergebnisse aus weiteren Surveillancesystemen zu akuten respiratorischen Erkrankungen
+   Das RKI betreibt mehrere syndromische und virologische Surveillance-Systeme zur Erfassung von in-
+   fektiösen Atemwegserkrankungen: GrippeWeb, die Arbeitsgemeinschaft Influenza (AGI) und die ICD-
+   10-Code-basierte Krankenhaus-Surveillance (ICOSARI). Durch Nachmeldungen von GrippeWeb-Teil-
+   nehmenden, aus den Sentinel-Arztpraxen und -Krankenhäusern kann es in diesen Systemen insbe-
+   sondere für die letzten Wochen noch zu nachträglichen Änderungen der Wochenwerte kommen.
+   GrippeWeb ist das deutsche Web-Portal, welches die Aktivität akuter Atemwegserkrankungen beo-
+   bachtet und dazu Informationen aus der Bevölkerung selbst verwendet. In GrippeWeb ist die Rate
+   akuter Atemwegserkrankungen (ARE-Rate) in der 45. KW 2021 im Vergleich zur Vorwoche insgesamt
+
+
+# ---- page 14 ----
+
+                                                             Wöchentlicher COVID-19-Lagebericht vom 18.11.2021 14
+gestiegen. Die Gesamt-ARE-Rate liegt in der 45. KW bei 6,2 % und damit bei ca. 6.200 ARE pro
+100.000 Einwohnern. Dies entspricht einer Gesamtzahl von ca. 5,2 Millionen akuten Atemwegser-
+krankungen in der Bevölkerung in Deutschland. Die ARE-Rate der Kinder von 0 bis 14 Jahren ist ge-
+genüber der Vorwoche deutlich gestiegen und liegt deutlich höher als in den Vorsaisons um die
+45. KW. Weitere Informationen sind abrufbar unter https://grippeweb.rki.de/.
+Die Arbeitsgemeinschaft Influenza (AGI) überwacht mit ihrem Netzwerk aus primärversorgenden
+Sentinelärztinnen und -ärzten akute Atemwegserkrankungen im ambulanten Bereich. In der 45. KW
+2021 wurden im Vergleich zur Vorwoche insgesamt etwas mehr Arztbesuche wegen akuter Atem-
+wegserkrankungen (ARE-Konsultationsinzidenz) registriert. Der Wert (gesamt) lag in der 45. KW bei
+ca. 1.600 Arztkonsultationen wegen ARE pro 100.000 Einwohner. Auf die Bevölkerung in Deutschland
+bezogen entspricht das einer Gesamtzahl von ca. 1,3 Millionen Arztbesuchen wegen akuter Atem-
+wegserkrankungen. Dabei kam es in allen Altersgruppen ab 5 Jahren zu einem Anstieg der ARE-
+Werte. Für Kleinkinder (0 bis 4 Jahre) wurden im Vergleich zu den Vorjahren weiterhin deutlich mehr
+Arztbesuche wegen ARE berichtet.
+In der virologischen Surveillance der AGI wurden in der 45. KW 2021 in insgesamt 157 von 252 einge-
+sandten Proben (62 %) respiratorische Viren identifiziert. Darunter befanden sich 69 Proben mit Re-
+spiratorischen Synzytialviren (RSV) (27 %), 51 mit Rhinoviren (20 %), 31 mit humanen saisonalen
+Coronaviren (hCoV) (12 %), 13 mit SARS-CoV-2 (5 %), acht mit Parainfluenzaviren (3 %), zwei mit hu-
+manen Metapneumoviren (1 %) sowie eine Probe mit Influenzaviren (0,4 %). Die Zahl der RSV-Nach-
+weise ist weiterhin hoch und liegt deutlich über den Werten der Vorjahre um diese Jahreszeit. Hier-
+bei sind insbesondere Kleinkinder (0 bis 4 Jahre) betroffen mit RSV-Nachweisraten von fast 60 %,
+aber auch in allen anderen Altersgruppen wurde RSV nachgewiesen. Die SARS-CoV-2-Positivenrate
+steigt seit der 40. KW 2021 insgesamt kontinuierlich an. In der aktuellen Berichtswoche ist die SARS-
+CoV-2 Positivenrate bei den 35- bis 59-Jährigen mit 12 % am höchsten. Weitere, auch regionale Infor-
+mationen sind abrufbar unter https://influenza.rki.de/wochenberichte.aspx sowie unter https://in-
+fluenza.rki.de/Diagrams.aspx?agiRegion=0.
+In der ICD-10-Code basierten Krankenhaus-Surveillance von schweren akuten respiratorischen Infek-
+tionen (SARI) (ICD-10-Codes J09 bis J22: Hauptdiagnosen Influenza, Pneumonie oder sonstige akute
+Infektionen der unteren Atemwege) werden neu im Krankenhaus aufgenommene Patientinnen und
+Patienten mit einem ICD-10-Code für SARI in der DRG-Hauptdiagnose erfasst, einschließlich noch
+hospitalisierter Personen. Zu beachten ist deshalb, dass es sich im Folgenden um eine Auswertung
+vorläufiger Daten handelt, die sich durch nachträglich eingehende Informationen noch ändern kön-
+nen. In der 45. KW 2021 ist die Zahl der SARI-Fälle im Vergleich zur Vorwoche insgesamt leicht zu-
+rückgegangen. Dennoch ist die Zahl der SARI-Fälle in der Altersgruppe 0 bis 4 Jahre weiterhin sehr
+hoch und liegt deutlich über den Werten, die sonst üblicherweise zu dieser Jahreszeit beobachtet
+wurden. Bei 67 % der SARI-Fälle zwischen 0 und 4 Jahren wurde in der 45. KW 2021 eine RSV-Diag-
+nose vergeben. In den Altersgruppen 35 bis 59 Jahre sowie 80 Jahre und älter ist die Zahl der SARI-
+Fälle bereits hoch, in der Altersgruppe 60 bis 79 Jahre ist die Fallzahl erhöht. In den Altersgruppen ab
+35 Jahre wurden in der 45. KW 2021 ähnlich viele Fälle wegen einer SARI hospitalisiert wie im Vorjahr
+und damit deutlich mehr als in den Jahren vor der COVID-19-Pandemie. Der Anteil an COVID-19-Er-
+krankungen bei SARI-Fällen ist seit der 41. KW 2021 wieder kontinuierlich angestiegen. In der 45. KW
+2021 wurden bei insgesamt 38 % (Vorwoche 35 %) aller neu im Krankenhaus aufgenommenen SARI-
+Fälle (Hauptdiagnose Influenza, Pneumonie oder sonstige akute Infektionen der unteren Atemwege)
+eine COVID-19-Diagnose vergeben (Abbildung 11). Davon waren insbesondere die Altersgruppen zwi-
+schen 15 und 79 Jahre betroffen, hier wurde bei mehr als 50 % der SARI-Fälle eine COVID-19-Erkran-
+kung diagnostiziert.
+
+
+# ---- page 15 ----
+
+15   Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+                                                                                                                                                                        Anteil COVID-19 an SARI-Fällen (in %)
+                                 1500                                                                                                                         100
+                                 1250
+                                                                                                                                                              80
+         Gesamtzahl SARI-Fälle
+                                 1000
+                                                                                                                                                              60
+                                  750
+                                                                                                                                                              40
+                                  500
+                                                                                                                                                              20
+                                  250
+                                    0                                                                                                                         0
+                                        12   16   20   24   28    32   36   40   44     48 52 03 07 11          15   19   23   27   31   35    39    43
+                                                                                      Kalenderwoche 2020/2021
+                                                       Gesamtzahl SARI-Fälle (absolute Zahlen)             Anteil COVID-19 an SARI-Fällen (in %)
+     Abbildung 11: Wöchentliche Anzahl der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09 – J22) sowie Anteil der Fälle
+     mit einer zusätzlichen COVID-19-Diagnose (ICD-10-Code U07.1!) unter SARI-Fällen, einschließlich noch hospitalisierter Patientinnen und
+     Patienten, von der 12. KW 2020 bis zur 45. KW 2021, Daten aus 72 Sentinelkliniken. Für den grau markierten Bereich ist in den folgenden
+     Wochen noch mit Änderungen in den Fallzahlen zu rechnen.
+     Intensivpflichtige COVID-19-Fälle mit einer SARI
+     In Abbildung 12 ist der Anteil von COVID-19-Fällen unter allen intensivpflichtigen SARI-Patientinnen
+     und Patienten dargestellt. Dieser Anteil war in der Vorwoche deutlich angestiegen und ist in der 45.
+     KW 2021 mit insgesamt 64 % weiterhin hoch (Vorwoche: 67 %).
+                                  300                                                                                                                     100
+         Gesamtzahl SARI-Fälle
+                                  250
+                                                                                                                                                                   Anteil COVID-19 an SARI
+                                                                                                                                                          80
+                                  200
+                                                                                                                                                          60
+      mit INTENSIVBEHANDLUNG
+                                                                                                                                                                   mit INTENSIVbeh. (in %)
+                                  150
+                                                                                                                                                          40
+                                  100
+                                   50                                                                                                                     20
+                                    0                                                                                                                     0
+                                        12   16   20   24   28    32   36   40   44 48 52 03 07 11              15   19   23   27   31   35   39    43
+                                                                                   Kalenderwoche 2020/2021
+                                                                 Gesamtzahl SARI-Fälle mit INTENSIVBEHANDLUNG (absolute Zahlen)
+                                                                 Anteil COVID-19 an SARI-Fällen mit INTENSIVBEHANDLUNG (in %)
+     Abbildung 12: Wöchentliche Anzahl der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09-J22) mit Intensivbehandlung
+     sowie Anteil der Fälle mit einer zusätzlichen COVID-19-Diagnose (ICD-10-Code U07.1!) unter SARI-Fällen mit Intensivbehandlung,
+     einschließlich noch hospitalisierter Patientinnen und Patienten, von der 12. KW 2020 bis zur 45. KW 2021, Daten aus 72 Sentinelkliniken.
+     Für den grau markierten Bereich ist in den folgenden Wochen noch mit Änderungen in den Fallzahlen zu rechnen.
+     Daten aus dem Intensivregister
+     Das RKI betreibt mit Beratung durch die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Not-
+     fallmedizin (DIVI) das DIVI-Intensivregister (https://www.intensivregister.de). Das Register erfasst
+     Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen und -Patienten sowie Behand-
+     lungs- und Bettenkapazitäten von etwa 1.300 Akut-Krankenhäusern Deutschlands. Damit ermöglicht
+     das Intensivregister in der Pandemie, sowie darüber hinaus, Engpässe in der intensivmedizinischen
+     Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle
+     Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit.
+
+
+# ---- page 16 ----
+
+                                                                             Wöchentlicher COVID-19-Lagebericht vom 18.11.2021        16
+Seit dem 16.04.2020 ist laut Intensivregister-Verordnung die Meldung für alle intensivbettenführen-
+den Krankenhausstandorte verpflichtend. Abbildung 13 zeigt die absolute Anzahl der im Intensivre-
+gister gemeldeten intensivmedizinisch behandelten COVID-19-Fälle zum Stand des jeweiligen Be-
+obachtungstages. Ein täglicher Bericht über die Lage der Intensivbettenkapazität in Deutschland wird
+unter https://www.intensivregister.de/#/aktuelle-lage/reports veröffentlicht.
+Abbildung 13: Anzahl im Intensivregister gemeldeter intensivmedizinisch behandelter COVID-19-Fälle des jeweiligen Beobachtungstages
+(Stand 17.11.2021, 12:15 Uhr). Zur Interpretation der Kurve im März/April 2020 ist zu beachten, dass noch nicht alle Meldebereiche im
+Register angemeldet waren. Generell kann sich die zugrundeliegende Gruppe der COVID-19-Intensivpatientinnen und -patienten von
+Tag zu Tag verändern (Verlegungen und Neuaufnahmen), während die Fallzahl ggf. gleich bleibt.
+Todesfälle, Mortalitätssurveillance, EuroMomo
+In Abbildung 14 werden die übermittelten COVID-19-Todesfälle nach dem Sterbedatum über die
+Sterbewochen akkumuliert dargestellt. Todesfälle treten meist erst 2 - 3 Wochen nach der Infektion
+auf. Für die MW 43 - 45/2021 werden noch nachträglich Todesfälle übermittelt werden. Seit MW
+30/2021 nahmen die Todesfälle wieder leicht zu und stagnierten in den MW 37 bis MW 41. Seit MW
+42 kommt es zu einem erneuten Anstieg auf derzeit 898 Todesfälle in MW 45.
+Von allen übermitteltenTodesfällen seit KW10/2020 waren 84.048 (86 %) Personen 70 Jahre und äl-
+ter, der Altersmedian lag bei 84 Jahren. Im Unterschied dazu beträgt der Anteil der über 70-Jährigen
+an der Gesamtzahl der übermittelten COVID-19-Fälle etwa 11 %.
+Bislang sind dem RKI 33 validierte COVID-19-Todesfälle bei unter 20-Jährigen übermittelt worden.
+Diese Kinder und Jugendlichen waren zwischen 0 - 19 Jahre alt. Bei 21 Fällen lagen Angaben zu be-
+kannten Vorerkrankungen vor. Die Todesfälle bei <20-Jährigen werden einzeln vom RKI geprüft und
+validiert, so dass es bei der Anzahl der Todesfälle noch zu Veränderungen kommen kann.
+
+
+# ---- page 17 ----
+
+17 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Abbildung 14: An das RKI übermittelte COVID-19-Todesfälle nach Sterbewoche (KW37/20-KW45/21: 88.033 COVID-19-Todesfälle mit
+   Angabe des Sterbedatums, 17.11.2021, 0:00 Uhr). Insbesondere für die vergangenen drei Wochen ist mit Nachübermittlungen zu
+   rechnen.
+   EuroMOMO und Destatis
+   Insgesamt 27 europäische Staaten oder Regionen stellen dem europäischen EuroMOMO-Projekt (Eu-
+   ropean monitoring of excess mortality for public health action) wöchentlich offizielle Daten zur Mor-
+   talität zur Verfügung, sodass auf dieser Basis die sogenannte Exzess-Mortalität oder Übersterblichkeit
+   (unabhängig von der Todesursache) erfasst und verfolgt werden kann (https://www.euromomo.eu/).
+   Seit MW 15/2021 stellt auch Deutschland rückwirkend Mortalitätsdaten für alle Bundesländer zur
+   Verfügung. Die Darstellung erfolgt in Form von Grafiken und Landkarten (https://www.euro-
+   momo.eu/graphs-and-maps/).
+   Auch auf der Seite des Statistischen Bundesamtes werden die täglichen Sterbefallzahlen registriert:
+   https://www.destatis.de/DE/Themen/Querschnitt/Corona/Gesellschaft/bevoelkerung-sterbefa-
+   elle.html. Der zeitliche Verzug der Sterbefallmeldung wird durch eine Schätzung ausgeglichen.
+   Impfen
+   Digitales Impfquotenmonitoring (DIM)
+   Stand der Impfquoten nach Meldedaten
+   Die Meldung aller durchgeführten COVID-19-Impfungen an das RKI ist in §4 der Coronavirus-Impfver-
+   ordnung für alle Leistungserbringer gesetzlich vorgeschrieben. Die Datenübermittlung erfolgt auf un-
+   terschiedlichen Wegen: Impfzentren, Gesundheitsämter, mobile Impfteams, Krankenhäuser sowie
+   Betriebe und Betriebsmedizin übermitteln pseudonymisierte individuelle Impfdaten über das vom
+   RKI in Zusammenarbeit mit der Bundesdruckerei bereitgestellte Erhebungssystem zum digitalen
+   Impfquotenmonitoring (DIM). Die Kassenärztliche Bundesvereinigung (KBV) hat ein Meldeportal für
+   alle Vertragsärzte und die Privatärztlichen Abrechnungsstellen (PVS) ein Portal für alle Privatärzte zur
+   Verfügung gestellt, von denen jeweils aggregierte Daten täglich an das RKI gelangen. Das Impfgesche-
+   hen begann in allen Bundesländern in Impfzentren, mobilen Teams und einigen Krankenhäusern am
+   27.12.2020. Seit dem 06.04.2021 impfen die Vertragsärzte, seit dem 07.06.2021 auch die Betriebs-
+   und Privatärzte. Seit Oktober 2021 sind u.a. mit Gesundheitsämtern und Krankenhäusern weitere
+   Impfstellen hinzugekommen und dafür Impfzentren der Länder geschlossen worden.
+
+
+# ---- page 18 ----
+
+                                                                             Wöchentlicher COVID-19-Lagebericht vom 18.11.2021        18
+Aus den Impfmeldedaten ergibt sich folgender Stand: Bis zum Impftag 16.11.2021 (Datenstand
+17.11.2021) wurden insgesamt 115.656.735 COVID-19-Impfungen in Deutschland verabreicht;
+58.366.685 Menschen (70,2 % der Bevölkerung) sind mindestens einmal geimpft und 56.281.229
+Menschen (67,7 %) sind vollständig geimpft. Darüber hinaus erhielten bisher 4.368.783 (5,3 %) Men-
+schen eine Auffrischimpfung. Der rückläufige Trend der Impfinanspruchnahme zwischen KW23 (über
+6 Mio Impfungen) und KW42 (894.819 Impfungen) scheint gestoppt. Seit drei Wochen steigen die
+Impfzahlen wieder an und in KW45 wurden insgesamt 1.761.115 Impfungen registriert. Der Anstieg
+ist vor allem auf die Auffrischimpfungen zurückzuführen.
+Tabelle 2 gibt einen Überblick über die Anzahl der insgesamt durchgeführten Impfungen nach Impf-
+stelle bundesweit und nach Bundesland.
+Tabelle 2: An das RKI übermittelte Anzahl der COVID-19-Impfungen nach Impfstelle pro Bundesland (Datenstand 17.11.2021)
+                  Impfzentren, Mobile Teams, Kranken-    Arztpraxen (Vertragsärzte und Privat-             Betriebsärzte
+                                 häuser                                 ärzte)
+Bundesland      Erstimpfun- Zweitimpfun-       Auffri-   Erstimpfun- Zweitimp-      Auffri-    Erstimpfun-   Zweitimp-     Auffri-
+                     gen           gen      schungsimp-      gen       fungen schungsimp-          gen         fungen     schungs-
+                                               fungen                               fungen                               impfungen
+Baden-
+                   4.357.195      3.960.373      145.713   2.940.149 2.729.523        359.620       184.532      175.207      2.506
+Württemberg
+Bayern             4.950.230      4.551.333      319.303   3.695.390 3.405.817        357.796       224.463      209.889      1.398
+Berlin             1.447.428      1.344.710      123.603   1.096.253     997.212      167.928        41.386       43.834         165
+Brandenburg          828.112        764.280       15.901     769.428     675.109       85.114        10.194        9.508         550
+Bremen               375.601        333.709       30.629     164.672     147.769       20.639        16.020       13.351         145
+Hamburg              774.617        707.462       26.615     551.314     493.507       68.757        66.119       62.982         641
+Hessen             2.540.276      2.240.413       92.008   1.750.407 1.619.585        211.253       114.099      109.003      2.097
+Mecklenburg-
+                     584.122        528.269       29.867     504.105     467.619       43.809         5.845        5.474           23
+Vorpommern
+Niedersach-
+                   3.152.713      2.735.442       96.547   2.537.927 2.313.765        306.565       110.685      101.311      4.305
+sen
+Nordrhein-
+                   7.047.845      6.360.909      111.636   5.948.587 5.301.636        880.585       347.842      312.742      9.495
+Westfalen
+Rheinland-
+                   1.671.116      1.462.094       28.651   1.195.913 1.085.066        183.089        65.325       60.608         765
+Pfalz
+Saarland             437.401        402.470       21.263     298.967     268.183       35.968        15.084       14.047         504
+Sachsen            1.443.660      1.322.348       46.723     954.221     893.078      117.442        23.947       22.336      1.492
+Sachsen-
+                     806.502        727.261       23.977     608.191     556.665       72.845        11.965       10.965      1.309
+Anhalt
+Schleswig-
+                   1.172.561      1.060.803       22.506     960.854     872.789      157.578        35.088       35.019      1.047
+Holstein
+Thüringen            850.023        770.677       83.858     473.042     446.915       52.454        11.251        9.953           18
+Gesamt           32.439.402     29.272.553     1.218.800 24.449.420 22.274.238      3.121.442     1.283.845    1.196.229     26.460
+Zu beachten sind Unschärfen in der Zuordnung von Impfdaten, insbesondere aufgrund unterschiedli-
+cher Meldewege der Betriebsärztinnen und Betriebsärzte: sie können entweder unter eigener Ken-
+nung DIM nutzen oder über Impfzentren mit deren Kennung melden oder auch ihre Daten über das
+KBV-Portal übermitteln.
+Der größte Anteil der Impfungen findet gegenwärtig bei den niedergelassenen Ärztinnen und Ärzten
+statt. Von ihnen stehen aber nur aggregierte Daten mit Angaben zur Postleitzahl der Praxis, zum
+Impfstoff, zur Impfstoffdosis und lediglich mit der Alterseinteilung <18 Jahre, 18 - 59 Jahre und 60+
+
+
+# ---- page 19 ----
+
+19 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Jahre (bei der KBV jedoch ohne Impfstoffbezug) zur Verfügung. Daher kann über das Impfgeschehen
+   nur zuverlässig in diesen Aggregationsstufen berichtet werden (vgl. tägliche Tabelle mit den gemel-
+   deten Impfquoten bundesweit und nach Bundesland). Der Impffortschritt in differenzierteren Alters-
+   gruppen und auch eine Darstellung von Impfquoten nach Landkreisen ist mit den verfügbaren Daten
+   nicht abbildbar. Eine konsistente regionale Zuordnung ist nur nach der Impfstelle, nicht jedoch nach
+   dem Wohnort der Geimpften möglich. Diese Zuordnung ist auch bei der Interpretation der Bundes-
+   landimpfquoten zu beachten.
+   Mit Datentand 17.11.2021 unterscheiden sich die Impfquoten der Bundesländer bei den mindestens
+   einmal Geimpften und den vollständig Geimpften um etwa 22 Prozentpunkte. Die Spanne reicht von
+   59,7 % in Sachsen bis 81,8 % in Bremen für mindestens eine Impfung und von 57,6 % in Sachsen bis
+   zu 79,3 % in Bremen für vollständig Geimpfte.
+   Abbildung 15: Anteil vollständig Geimpfter (%) nach Altersgruppe im Zeitverlauf bis einschließlich KW 45 (Datenstand 17.11.2021).
+   Die Anteile der Geimpften variieren nach Alter: der Anteil der mindestens einmal sowie der vollstän-
+   dig Geimpften ist in der oberen Altersgruppe am höchsten (Tabelle mit den gemeldeten Impfquoten
+   bundesweit und nach Bundesland). Noch ohne Impfung sind rund 51 % der 12- bis 17-Jährigen, 27 %
+   in der Altersgruppe 18 - 59 Jahre und 13 % in der Altersgruppe ab 60 Jahre. Je nach Priorisierung und
+   Impfempfehlung stieg die Impfquote in den drei Altersgruppen zeitversetzt an. Ebenso zeitversetzt
+   hat sich der Anstieg insbesondere bei den Erwachsenen wieder abgeschwächt (seit KW28 bei 60+ J.
+   bzw. seit KW32 bei 18 - 59 Jahre). Auch bei den Jugendlichen ist der Anstieg der Impfquote nicht
+   mehr so stark wie in den ersten Wochen nach der Impfempfehlung (Abbildung 15).
+   Laut Modellierung sind für die Verhinderung bzw. Abschwächung einer weiteren Erkrankungswelle
+   COVID-19-Impfquoten von 85 % bei den 12- bis 59-Jährigen und 90 % bei den 60+-Jährigen notwen-
+   dig (vgl. Epidemiologisches Bulletin 27/2021). Die erreichte Impfquote von 71,6 % (12 - 59 Jahre)
+   bzw. 85,7 % (60+ Jahre) für vollständige Impfungen liegt insbesondere bei der jüngeren Altersgruppe
+   noch weit hinter der Zielimpfquote zurück.
+
+
+# ---- page 20 ----
+
+                                                           Wöchentlicher COVID-19-Lagebericht vom 18.11.2021 20
+Es stehen vier Impfstoffe zur Verfügung, die im Zeitverlauf zum Teil unterschiedlichen Personengrup-
+pen empfohlen wurden (siehe aktuelle Empfehlungen der Ständigen Impfkommission:
+https://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/COVID-19/Impfempfehlung-Zusfas-
+sung.html). Von den bis einschl. 14.11.2021 ausgelieferten Impfstoffdosen waren bis zum 16.11.2021
+insgesamt 94 % verimpft worden. Für die jeweiligen Impfstoffe lag der Anteil bei 95 % für Comirnaty
+(BioNTech/Pfizer), 96 % für Spikevax (Moderna), 88 % für Vaxzevria (AstraZeneca) und 71 % für Jans-
+sen (Johnson & Johnson).
+Das RKI wertet alle Impfdaten aus, die ihm gemäß §4 der Impfverordnung übermittelt werden. Wie in
+anderen Meldesystemen auch wird bei den über das Digitale Impfquotenmonitoring erfassten Impf-
+quoten von einer gewissen Untererfassung ausgegangen. Die berichteten DIM-Meldedaten sind da-
+her als Mindest-Impfquoten zu verstehen.
+Weitere Informationen
+Die Daten der Impfinanspruchnahme werden montags bis freitags auf http://www.rki.de/covid-19-
+impfquoten aktualisiert. Die Impfdaten werden auch vom Covid-19-Impfdashbord verwendet. Im RKI-
+GitHub-Datenportal stehen drei CSV-Dateien mit aggregierten Impfdaten zum Download bereit: nach
+Impftag, Bundesland, Impfstoff und Impfstoffdosis bzw. nach Bundesland mit Impfquoten für min-
+destens eine und vollständige Impfung; sowie nach Impftag, Landkreis der impfenden Stelle, Alters-
+gruppe (12 – 17 Jahre, 18 – 59 Jahre, 60+ Jahre) und Impfschutz (unvollständig/vollständig). Die Da-
+ten im Dashboard und auf der Datenplattform werden montags bis samstags aktualisiert.
+Weitere Daten zur Impfinanspruchnahme und zur Impfakzeptanz finden sich auf den Websites der
+RKI-Projekte COVIMO und KROCO.
+
+
+# ---- page 21 ----
+
+21 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Wirksamkeit der COVID-19-Impfung
+   Die Effekte der im Dezember 2020 in Deutschland begonnen COVID-19-Impfkampagne werden im
+   folgenden Kapitel anhand (i) eines Vergleichs der COVID-19-Inzidenzen in der ungeimpften Bevölke-
+   rung mit den COVID-19-Inzidenzen in der geimpften Bevölkerung, (ii) der Beschreibung der nach IfSG
+   übermittelten Impfdurchbrüche und (iii) der daraus abgeleiteten Wirksamkeiten der COVID-19-Imp-
+   fung dargestellt.
+   Inzidenzen der symptomatischen und hospitalisierten COVID-19-Fälle nach Impfstatus
+   Zur Darstellung des Effekts der Impfung auf die COVID-19-Krankheitslast in der Bevölkerung wurde
+   die Inzidenz sowohl der symptomatischen 1 als auch der hospitalisierten 2 COVID-19-Fälle unter voll-
+   ständig Geimpften und Ungeimpften getrennt berechnet. Die wöchentliche Inzidenz der symptomati-
+   schen COVID-19-Fälle sowie der hospitalisierten COVID-19-Fälle (Abbildung 16) jeweils für die Alters-
+   gruppen 12 - 17 Jahre, 18 - 59 Jahre und ab 60 Jahre sind im Verlauf der Meldewochen 28 bis
+   44/2021 nach Impfstatus dargestellt (Datenstand vom 16.11.2021).
+   Für die Berechnung der jeweiligen Inzidenzen wurden die Zähler (Anzahl der vollständig geimpften
+   bzw. ungeimpften Fälle) wie folgt definiert: COVID-19-Fälle galten als vollständig geimpft, wenn für
+   sie in den übermittelten Daten mindestens 2 Impfdosen eines COVID-19-Impfstoffes bzw. mindes-
+   tens 1 Dosis des Janssen-Impfstoffes (Johnson & Johnson) angegeben waren und das Datum der
+   Gabe der letzten Impfdosis mindestens 14 Tage vor Erkrankungsbeginn (bzw. Diagnosedatum bzw.
+   Meldedatum) lag. Fälle galten als ungeimpft, wenn für sie übermittelt wurde, dass sie nicht geimpft
+   waren. Fälle, für die Angaben zum Impfstatus unvollständig waren bzw. für die eine unvollständige
+   Impfung angegeben wurde, wurden ausgeschlossen.
+   Für die Berechnung der Nenner der jeweiligen Inzidenzen wurde die Gesamtzahl vollständig Geimpf-
+   ter und Ungeimpfter in der Bevölkerung aus dem Digitalen Impfquotenmonitoring des RKI genom-
+   men: Hier galten als vollständig geimpft Personen, die eine Zweitimpfung oder 1 Impfung mit dem
+   Janssen-Impfstoff vor mindestens 14 Tagen erhalten haben. Die Anzahl Ungeimpfter wurde aus der
+   Differenz von Bevölkerungszahl und Anzahl der Personen, die mindestens 1 Impfdosis erhalten ha-
+   ben, berechnet (Ungeimpfte = Bevölkerungszahl abzüglich einmal geimpfter Personen).
+   Für die Berechnung der jeweiligen Inzidenzen wurden die vollständig geimpften und ungeimpften
+   Fälle zur vollständig geimpften und zur ungeimpften Bevölkerung ins Verhältnis gesetzt.
+   Ausreichende Angaben zum Impfstatus lagen für 515.267 der 608.624 (85 %) übermittelten sympto-
+   matischen COVID-19-Fälle bzw. für 31.805 der 43.789 (73 %) übermittelten hospitalisierten COVID-
+   19-Fälle in diesem Zeitraum vor.
+   1 Übermittelte COVID-19-Fälle, die der Referenzdefinition des RKI entsprechen und für welche zu „Klinische Information vor-
+   handen“ ein „Ja“ angegeben wurde.
+   2 Übermittelte COVID-19-Fälle, die der Referenzdefinition des RKI entsprechen und für welche zu „Hospitalisierung“ ein „Ja“
+   angegeben wurde.
+
+
+# ---- page 22 ----
+
+                                                                                                                                                          Wöchentlicher COVID-19-Lagebericht vom 18.11.2021                                             22
+                        300                                                                                                                           3
+                        250
+Symptomatische Fälle                                                                                                         Hospitalisierte Fälle
+                        200                                                                                                                           2
+                        150
+ Inzidenz pro 100.000   100                                                                                                  Inzidenz pro 100.000     1
+                         50
+                                                                                                                                                      0
+                          0
+                                                                                                                                                          32       33    34        35   36        37        38   39         40    41    42        43    44
+                              32     33        34    35    36        37    38    39         40    41    42        43    44
+                                                                Meldewoche 2021                                                                                                               Meldewoche 2021
+                                          Ungeimpfte 12-17 Jahre                     Geimpfte 12-17 Jahre                                                                Ungeimpfte 12-17 Jahre                       Geimpfte 12-17 Jahre
+                        250                                                                                                                           12
+                                                                                                                                                      10
+                        200
+Symptomatische Fälle                                                                                                         Hospitalisierte Fälle
+                                                                                                                                                          8
+                        150
+                                                                                                                                                          6
+ Inzidenz pro 100.000                                                                                                        Inzidenz pro 100.000
+                        100
+                                                                                                                                                          4
+                         50
+                                                                                                                                                          2
+                          0                                                                                                                               0
+                              28   29     30    31   32   33    34    35   36   37    38     39   40   41    42    43   44                                    28   29   30    31   32   33   34        35   36   37    38    39   40   41    42    43   44
+                                                                Meldewoche 2021                                                                                                               Meldewoche 2021
+                                          Ungeimpfte 18-59 Jahre                     Geimpfte 18-59 Jahre                                                                Ungeimpfte 18-59 Jahre                       Geimpfte 18-59 Jahre
+                        150                                                                                                                           30
+                                                                                                                                                      25
+Symptomatische Fälle                                                                                                          Hospitalisierte Fälle
+                        100                                                                                                                           20
+                                                                                                                             Inzidenz pro 100.000
+                                                                                                                                                      15
+ Inzidenz pro 100.000    50                                                                                                                           10
+                                                                                                                                                       5
+                          0                                                                                                                            0
+                              28   29     30    31   32   33    34    35   36   37     38    39   40   41    42    43   44                                    28   29   30    31   32   33   34    35       36   37    38    39   40   41    42    43   44
+                                                                Meldewoche 2021                                                                                                               Meldewoche 2021
+                                   Ungeimpfte 60 Jahre und älter                     Geimpfte 60 Jahre und älter                                                   Ungeimpfte 60 Jahre und älter                      Geimpfte 60 Jahre und älter
+      Abbildung 16: Inzidenz vollständig geimpfter und ungeimpfter symptomatischer und hospitalisierter COVID-19-Fälle pro 100.000
+      nach Altersgruppen, Impfstatus und Meldewoche (Datenstand 16.11.2021). Bitte die unterschiedliche Skalierung der y-Achsen be-
+      achten.
+
+
+# ---- page 23 ----
+
+23 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Impfdurchbrüche
+   Für die COVID-19-Impfkampagne in Deutschland werden in Deutschland mehrere COVID-19-Impf-
+   stoffe verwendet, für die sowohl aus den Zulassungsstudien als auch weiteren epidemiologischen Be-
+   obachtungsstudien eine hohe bis sehr hohe Schutzwirkung (Schutz vor Infektion, Schutz vor sympto-
+   matischer Erkrankung, Schutz vor schwerer Erkrankung, Schutz vor Tod) ermittelt wurden. Da kein
+   Impfstoff eine Impfeffektivität von 100% aufweist, ist auch bei vollständig geimpften Personen mit
+   sogenannten Impfdurchbrüchen zu rechnen.
+   Von einem Impfdurchbruch spricht man, wenn eine vollständig geimpfte Person trotz der Impfung
+   erkrankt. Sind nur sehr wenige Personen geimpft, kann man auch nur wenige Impfdurchbrüche be-
+   obachten. Je mehr Personen in einer Bevölkerung geimpft sind (hohe Impfquote), umso mehr
+   Impfdurchbrüche beobachtet man. Auch der Anteil der Impfdurchbrüche an allen auftretenden Fäl-
+   len erhöht sich bei einer hohen Impfquote (siehe FAQ „Wie lässt sich erklären, dass es mit steigender
+   Impfquote zu immer mehr Impfdurchbrüchen kommt?“). Daher muss der Anteil der Impfdurchbrü-
+   che immer vor dem Hintergrund der erreichten Impfquote bewertet werden. Auf die gesamte Bevöl-
+   kerung bezogen, werden jedoch bei einer hohen Impfquote weniger Personen erkranken als bei einer
+   niedrigen Impfquote. Über Häufigkeit und Verteilung der Impfdurchbrüche kann man wiederum auf
+   die tatsächliche Wirksamkeit der Impfungen („Impfeffektivität“) in einer Bevölkerung Rückschlüsse
+   ziehen.
+   Das RKI führt seit Beginn der COVID-19-Impfkampagne ein kontinuierliches Monitoring der
+   Impfdurchbrüche durch. Die Impfdurchbrüche werden regelmäßig mit dem Ziel ausgewertet, eine
+   verminderte oder nachlassende Effektivität der in Deutschland verwendeten COVID-19-Impfstoffe –
+   eventuell auch nur in einzelnen Altersgruppen - möglichst rasch zu erkennen und aus diesen Erkennt-
+   nissen Empfehlungen abzuleiten.
+   Aus den nach IfSG übermittelten Meldedaten werden am RKI regelmäßig die Impfdurchbrüche identifi-
+   ziert. Dabei wird ein Impfdurchbruch als ein COVID-19-Fall (Nachweis der Infektion mittels PCR oder
+   Erregerisolierung) definiert, für den eine klinische Symptomatik und eine vollständige Impfung angege-
+   ben wurde. Eine vollständige Impfung liegt vor, wenn zwischen einer abgeschlossenen Impfserie (2 Do-
+   sen Comirnaty (BioNTech/Pfizer), Spikevax (Moderna), Vaxzevria (AstraZeneca), eine Kombination von
+   Vaxzevria mit Comirnaty bzw. Spikevax oder 1 Dosis Janssen (Johnson & Johnson)) und der SARS-CoV-
+   2-Infektion (Erkrankungs-, Diagnose- oder Meldedatum) mindestens zwei Wochen liegen.
+   Bei der Ende Dezember 2020 begonnenen Impfkampagne, dem Mindestabstand von 3 Wochen zwi-
+   schen den zwei Dosen des initial verfügbaren Impfstoffs und der Definition des Impfdurchbruchs,
+   konnten Impfdurchbrüche frühestens ab der 5. KW 2021 (ab 01.02.2021) auftreten. In diesem Kapitel
+   werden Impfdurchbrüche also ab diesem Zeitpunkt berichtet. Aus Studien zur Effektivität von Impf-
+   stoffen ist bekannt, dass die berechnete Effektivität je nach gewähltem klinischen Endpunkt variieren
+   kann. Deshalb wurden für diese Auswertungen verschiedene klinische Endpunkte gewählt: COVID-19
+   mit klinischer Symptomatik, Hospitalisierung, Intensivstationsbehandlung und Tod. Zudem werden
+   für die Auswertungen lediglich die symptomatischen COVID-19-Fälle betrachtet, für die aus den über-
+   mittelten Angaben hervorgeht, dass sie entweder vollständig geimpft oder ungeimpft waren. Auf-
+   grund des seit der KW 28/2021 andauernden Vorherrschens der Delta-Variante (B.1.617.2) werden
+   die VOC seit 18.11.2021 nicht mehr ausgewiesen.
+   Im gesamten Zeitraum 5. bis 45. KW 2021 war aus den übermittelten Angaben für 82 % der sympto-
+   matischen COVID-19-Fälle der Impfstatus bekannt. In diesem Zeitraum wurden insgesamt 214.815
+
+
+# ---- page 24 ----
+
+                                                                  Wöchentlicher COVID-19-Lagebericht vom 18.11.2021       24
+   Impfdurchbrüche identifiziert: 2.560 bei 12- bis 17-Jährigen, 160.027 bei 18- bis 59-Jährigen und
+   52.225 bei Personen ab 60 Jahre. In 99 % der Fälle lag eine Angabe zum verwendeten Impfstoff vor:
+   145.284 Impfdurchbrüche ereigneten sich nach einer abgeschlossenen Impfserie mit Comirnaty
+   (BioNTech/Pfizer), 25.257 nach Impfung mit Janssen (Johnson & Johnson), 17.675 nach Impfung mit
+   Vaxzevria (AstraZeneca), 10.875 nach Impfung mit Spikevax (Moderna), 10.691 nach Impfung mit ei-
+   ner Kombination Vaxzevria/Comirnaty und 1.926 nach Impfung mit einer Kombination
+   Vaxzevria/Spikevax. Die Anzahl der Impfdurchbrüche bei den verschiedenen Impfstoffen muss vor
+   dem Hintergrund der Häufigkeit der Anwendung dieses Impfstoffs in Deutschland betrachtet werden
+   (s. tägliche Tabelle mit den gemeldeten Impfquoten bundesweit und nach Bundesland).
+   Zur Häufigkeit der Impfdurchbrüche in den einzelnen Altersgruppen und nach Krankheitsschwere in
+   den letzten 4 Wochen siehe Tabelle 3.
+Tabelle 3: Impfdurchbrüche in KW 42 bis 45/2021 nach Altersgruppe (Datenstand 16.11.2021), Aktualisiert und
+   korrigiert mit Datenstand 23.11.2021
+                                                                                  Altersgruppe
+                                                          12 bis 17 Jahre     18 bis 59 Jahre        60 Jahre und älter
+  Symptomatische COVID-19-Fälle¹                                   30.227              202.491                     48.767
+            davon vollständig geimpft                                1.820               95.575                    34.448
+            Anteil Impfdurchbrüche                                    6,0%                47,2%                     70,6%
+  Hospitalisierte symptomatische COVID-19-Fälle¹                       145                4.481                     6.571
+            davon vollständig geimpft                                    9                1.149                     3.651
+            Anteil Impfdurchbrüche                                    6,2%                25,6%                     55,6%
+  Auf Intensivstation betreute symptomatische CO-
+                                                                         0                  623                     1.123
+  VID-19-Fälle¹
+            davon vollständig geimpft                                    0                   94                       496
+            Anteil Impfdurchbrüche                                        -               15,1%                     44,2%
+  Verstorbene symptomatische COVID-19-Fälle¹ ²                           1                  101                     1.443
+            davon vollständig geimpft                                    0                   20                       736
+            Anteil Impfdurchbrüche                                       0                19,8%                     51,0%
+¹ Alle symptomatischen Fälle, für die aus den übermittelten Angaben hervorgeht, dass sie entweder vollständig
+   geimpft oder ungeimpft waren.
+² Insbesondere für Todesfälle ist in den Folgewochen mit Änderungen der Fallzahl zur rechnen.
+   Impfeffektivität
+   Durch den Vergleich des Anteils vollständig Geimpfter unter COVID-19-Fällen (Impfdurchbrüche) mit
+   dem Anteil vollständig Geimpfter in der Bevölkerung (Impfquote) ist es möglich, die Wirksamkeit der
+   Impfung grob abzuschätzen (sog. Screening-Methode nach Farrington). Details zu den Impfdurchbrü-
+   chen sind im Abschnitt zuvor beschrieben; für die Berechnung der Impfquoten wurden -wie bei den
+   Impfdurchbrüchen- nur die vollständig Geimpften und Ungeimpften berücksichtigt und der Mittel-
+   wert der KW 40 bis 43 verwendet. Für die nachfolgende Analyse wurden dementsprechend folgende
+   Impfquoten verwendet: 12-17 Jahre 41,6 %, 18-59 Jahre 74,6 % und ab 60 Jahre 87,6 %. Die nach der
+   Farrington-Methode geschätzte Impfeffektivität gegenüber einer symptomatischen COVID-19-Er-
+   krankung lag für die vergangenen 4 Wochen (Mittelwert der KW 42 bis 45) in der Altersgruppe 12-17
+   Jahre bei ca. 91 %, in der Altersgruppe 18-59 Jahre bei ca. 70 % und in der Altersgruppe ≥60 Jahre bei
+
+
+# ---- page 25 ----
+
+25         Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+           ca. 67 % (zur Interpretation der Impfeffektivität siehe FAQ „Wie wirksam sind die COVID-19-Impf-
+           stoffe?“).
+           Abbildung 17 stellt den zeitlichen Verlauf der geschätzten Impfeffektivität gegenüber symptomati-
+           scher COVID-19-Erkrankung, COVID-19 assoziierter Hospitalisierung, Behandlung auf einer Intensiv-
+           station und Tod nach Altersgruppe dar. Gezeigt werden die Werte seit der KW 28/2021, ab der die
+           Delta-Variante dominierte und in den beiden älteren Altersgruppen die steigenden Impfquoten und
+           Anteile der Impfdurchbrüche stabile Schätzungen erlaubten. Für die Altersgruppe der 12- bis 17-Jäh-
+           rigen erfolgte aufgrund der geringen Fallzahlen von Behandlungen auf einer Intensivstation bzw. von
+           Todesfällen in der Gruppe der Ungeimpften und fehlenden Fällen in der Gruppe der Geimpften nur
+           die Berechnung der Impfeffektivität gegenüber einer symptomatischen Erkrankung bzw. Hospitalisie-
+           rung.
+ Abbildung 17: Effektivität der COVID-19-Impfungen gegenüber symptomatischer COVID-19-Erkrankung, COVID-19 assoziierter
+ Hospitalisierung, Intensivmedizinischer Behandlung und Todes und nach Altersgruppe (Datenstand 16.11.2021). Insbesondere für die letzten
+ beiden Kalenderwochen ist aufgrund von zu erwartenden Nachmeldungen mit Änderungen der geschätzten Werte der Impfeffektivität zu
+ rechnen.
+           Interpretation
+           Die in der Abbildung 16 dargestellten Inzidenzen nach Impfstatus belegen die ausgeprägte Wirksam-
+           keit der COVID-19-Impfung in Bezug auf die Verhinderung einer symptomatischen COVID-19-Erkran-
+           kung sowie einer mit COVID-19 assoziierten Hospitalisierung. In der vollständig geimpften Bevölke-
+           rung lag sowohl die Inzidenz der symptomatischen Fälle als auch die Hospitalisierungsinzidenz in
+
+
+# ---- page 26 ----
+
+                                                             Wöchentlicher COVID-19-Lagebericht vom 18.11.2021 26
+allen dargestellten Altersgruppen und zu jedem Zeitpunkt deutlich unter der jeweiligen Inzidenz der
+ungeimpften Bevölkerung.
+Unter den Ungeimpften sind je nach Altersgruppe und klinischen Endpunkt (symptomatischer bzw.
+hospitalisierter COVID-19 Fall) unterschiedliche Inzidenzen zu beobachten. Diese lassen sich zum ei-
+nen mit einem unterschiedlichen Expositionsrisiko (z.B. durch unterschiedliches Sozialverhalten) und
+einem unterschiedlichen Testverhalten (höhere Anzahl von Tests z.B. für Restaurants und in den
+Schulen) erklären. Zum anderen ist ein höheres Alter mit zunehmendem Risiko für einen schweren
+COVID-19-Krankheitsverlauf assoziiert, eine Hospitalisierung in der Altersgruppe ab 60 Jahre also
+wahrscheinlicher als in den jüngeren Altersgruppen. Auffällig ist der Anstieg der COVID-19 Inzidenz
+unter Geimpften in der Altersgruppe 18-59 und ab 60 Jahre seit KW 42, der unter symptomatischen
+Fällen ausgeprägter ist als unter hospitalisierten Fällen. Dieser Anstieg kann mit einem Nachlassen
+des Impfschutzes insbesondere hinsichtlich Verhinderung milder Krankheitsverläufe erklärt werden.
+Im Rahmen der Impfdurchbruch-Surveillance ist der Anteil vollständig Geimpfter unter den übermit-
+telten symptomatischen COVID-19-Fällen erwartungsgemäß im Verlauf der Impfkampagne kontinu-
+ierlich gestiegen und liegt mittlerweile in der Altersgruppe ab 60 Jahre für die vergangenen 4 Kalen-
+derwochen bei über 60 % (s. Tabelle 3). Dieser Anteil muss im Zusammenhang mit der erreichten ho-
+hen Impfquote in dieser Altersgruppe interpretiert werden und ist für sich allein nicht als Indikator
+einer sinkenden Impfeffektivität zu interpretieren. Die Wirksamkeit der Impfung (Impfeffektivität)
+lässt sich mit der o.g. Screening-Methode nach Farrington schätzen. Hier sieht man zwischen KW 34
+und 45 in den Altersgruppen 18-59 Jahre und ab 60 Jahre eine leicht abnehmende Effektivität gegen-
+über einer symptomatischen COVID-19-Erkrankung von etwa 80 % auf etwas unter 70 %. Dies
+könnte für eine Abnahme der Schutzwirkung über die Zeit sprechen, da in der Bevölkerung der Anteil
+derjenigen wächst, die vor mehr als sechs Monaten geimpft wurden. Die in unseren Analysen darge-
+stellte anhaltend hohe Impfeffektivität gegen schwere Verläufe (Hospitalisierung, Intensivbehand-
+lung oder Tod) zeigt jedoch, dass vollständig geimpfte Personen weiterhin sehr gut gegen einen hos-
+pitalisationsbedürftigen oder tödlichen Verlauf geschützt sind. Unter den insgesamt 1.693 Fällen von
+Impfdurchbrüchen, die seit der KW 5/2021 verstorben sind, waren 1.202 (71 %) 80 Jahre und älter.
+Limitationen und Fazit
+Die für diese Analysen verwendeten Daten sind nach IfSG übermittelte Meldedaten, die nicht explizit
+zum Zweck der Impfeffektivitätsberechnung erhoben wurden. Insbesondere für die Fälle der letzten
+zwei Wochen werden Angaben zu Impf- und Hospitalisierungsstatus durch die Gesundheitsämter
+häufig noch nachermittelt. Da für einen Teil der COVID-19-Fälle die Angaben zum Impfstatus fehlen
+oder unvollständig sind, können damit nicht alle COVID-19-Fälle in die Analysen einbezogen werden.
+Die Nichtberücksichtigung von Fällen mit fehlenden Angaben zum Impfstatus führt zu einer Unter-
+schätzung der Inzidenzen der Fälle sowohl in der vollständig geimpften wie auch in der ungeimpften
+Bevölkerung. Auf die Schätzung der Impfeffektivität hätte diese Unvollständigkeit der Daten nur dann
+einen Einfluss, wenn der Anteil der Geimpften unter den Fällen mit unbekanntem Impfstatus höher
+oder niedriger wäre als unter den Fällen mit bekanntem Impfstatus. Zudem kann ein zumindest im
+ambulanten Bereich möglicherweise unterschiedliches Testverhalten bei Geimpften und Ungeimpf-
+ten zu Verzerrungen führen. Für einen Teil der Fälle fehlen zudem Angaben zu Symptomen, Hospitali-
+sierung und Betreuung auf Intensivstation, ebenso wird nicht nach Grund für die Hospitalisierung
+und Tod differenziert.
+Die hier aufgeführten Werte müssen aus den oben genannten Gründen mit Vorsicht interpretiert
+werden und dienen vor allem der Einordnung der Impfdurchbrüche und einer ersten Abschätzung
+der Impfeffektivität. Indirekte Effekte der Impfung, also die Verhinderung von Infektionen unter
+
+
+# ---- page 27 ----
+
+27 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Ungeimpften aufgrund hoher Impfquoten und damit reduzierter Virustransmission in der Bevölke-
+   rung (sog. Gemeinschaftsschutz), können zu niedrigeren Inzidenzen bei Ungeimpften führen. Somit
+   könnte die tatsächliche Wirksamkeit der Impfung in der hier publizierten Darstellung unterschätzt
+   werden. Da Genesene mit nach STIKO-Empfehlung vervollständigter Impfung weder in den Meldeda-
+   ten noch in den Daten des Impfquotenmonitorings identifiziert werden können, können diese Fälle in
+   diesen Auswertungen nicht berücksichtigt werden.
+   Zusammengefasst bestätigen die nach Impfstatus dargestellten Inzidenzen, die Anzahl und Verteilung
+   der Impfdurchbrüche sowie die nach der Screening-Methode geschätzte Wirksamkeit der eingesetz-
+   ten Impfstoffe die hohe Wirksamkeit der COVID-19-Impfung aus den klinischen Studien. Im zeitlichen
+   Verlauf ist jedoch zunehmend eine Abnahme der Impfeffektivität zu beobachten. Dies betrifft haupt-
+   sächlich die Effektivität gegenüber einer symptomatischen Infektion und deutlicher die Altersgruppe
+   der ab 60-Jährigen. Weiterhin kann für vollständig geimpfte Personen aller Altersgruppen von einem
+   sehr guten Impfschutz gegenüber einer schweren COVID-19-Erkrankung ausgegangen werden und
+   weiterhin zeigt sich für ungeimpfte Personen aller Altersgruppen ein deutlich höheres Risiko für eine
+   COVID-19-Erkrankung, insbesondere für eine schwere Verlaufsform.
+   SARS-CoV-2-Labortestungen und Variants of Concern (VOC)
+   Für die Erfassung der Testzahlen werden von Universitätskliniken, Forschungseinrichtungen sowie
+   klinischen und ambulanten Laboren übermittelte Daten aus unterschiedlichen Datenquellen zusam-
+   mengeführt. Die Erfassung basiert auf einer freiwilligen Mitteilung der Labore und erfolgt über eine
+   webbasierte Plattform (RKI-Testlaborabfrage) und in Zusammenarbeit mit der am RKI etablierten,
+   laborbasierten Surveillance SARS-CoV-2 (eine Erweiterung der Antibiotika-Resistenz-Surveillance,
+   ARS), dem Netzwerk für respiratorische Viren (RespVir) sowie der Abfrage eines labormedizinischen
+   Berufsverbands. Bei den erhobenen Daten handelt es sich um eine freiwillige und keine ver-
+   pflichtende Angabe der Labore, sodass eine Vollerfassung der in Deutschland durchgeführten PCR-
+   Tests auf SARS-CoV-2 zum jetzigen Zeitpunkt nicht vorliegt. Die hier veröffentlichten aggregierten Da-
+   ten erlauben keine direkten Vergleiche mit den gemeldeten Fallzahlen.
+   Testzahlentwicklung und Positivenanteil
+   Die Anzahl der seit Beginn der Testungen in Deutschland bis einschließlich KW 45/2021 erfassten
+   PCR-Testungen, der Positivenanteil und die Anzahl übermittelnder Labore sind in Tabelle 4 darge-
+   stellt. Bis einschließlich KW 45/2021 haben sich 260 Labore für die RKI-Testlaborabfrage oder in ei-
+   nem der anderen oben aufgeführten Netzwerke registriert und berichten nach Aufruf überwiegend
+   wöchentlich. Da Labore in der RKI-Testzahlerfassung die Tests der vergangenen Kalenderwochen
+   nachmelden bzw. korrigieren können, ist es möglich, dass sich die ermittelten Zahlen nachträglich
+   ändern. Es ist zu beachten, dass die Zahl der Tests nicht mit der Zahl der getesteten Personen gleich-
+   zusetzen ist, da z. B. in den Angaben Mehrfachtestungen von Patienten enthalten sein können (Ta-
+   belle 4).
+
+
+# ---- page 28 ----
+
+                                                                           Wöchentlicher COVID-19-Lagebericht vom 18.11.2021      28
+Tabelle 4: Anzahl der SARS-CoV-2-Testungen in Deutschland (Stand 16.11.2021, 12:00 Uhr); KW=Kalenderwoche
+      Kalenderwoche               Anzahl Testun-           Positiv getestet          Positivenanteil          Anzahl über-
+             (KW)                        gen                                                (%)              mittelnder La-
+                                                                                                                   bore
+  Bis einschließlich
+  KW35/2021                          71.380.530                4.564.728
+  36/2021                             1.010.977                  80.004                     7,91                    211
+  37/2021                              982.150                   72.640                     7,40                    213
+  38/2021                              961.979                   61.593                     6,40                    210
+  39/2021                              963.970                   61.710                     6,40                    209
+  40/2021                              957.725                   62.171                     6,49                    208
+  41/2021                              857.989                   69.645                     8,12                    206
+  42/2021                              906.917                   98.591                    10,87                    203
+  43/2021                             1.163.552                 141.219                    12,14                    211
+  44/2021                             1.183.169                 188.073                    15,90                    205
+  45/2021                             1.606.571                 277.377                    17,27                    200
+  Summe                              81.975.529                5.677.751
+Eine Auswertung der Positivenanteile der Vorwochen auf Laborebene im zeitlichen Verlauf (KW
+12/2020 bis KW 20/2021) finden Sie im Epidemiologischen Bulletin (Erfassung der SARS-CoV-2-Test-
+zahlen in Deutschland (Epid. Bull. 24 | 2021 vom 17.06.2021)). Ab KW 5/2021 werden im Lagebericht
+die Testzahlen und -Kapazitäten in einer zusammenfassenden Grafik (Abbildung 16) dargestellt. Die
+vollständigen Testzahlen und -Kapazitäten sowie Probenrückstaus seit Beginn der Erfassung liegen
+zum Download unter: http://www.rki.de/covid-19-testzahlen vor.
+Testkapazitäten und Reichweite
+Zusätzlich zur Anzahl durchgeführter Tests werden in der RKI-Testzahlerfassung und durch einen la-
+bormedizinischen Berufsverband freiwillige Angaben zur täglichen (aktuellen) PCR-Testkapazität und
+Reichweite erfasst. In KW 45/2021 machten 177 Labore hierzu Angaben. Unter Berücksichtigung aller
+notwendigen Ressourcen (Entnahmematerial, Testreagenzien, Personal u. a.) ergibt sich daraus eine
+zum Zeitpunkt der Abfrage reelle Testkapazität von 2.272.613 Tests in KW 46/2021 (Abbildung 18).
+Die Abfrage zu Probenrückstau und Lieferschwierigkeiten wurde ab KW 22/2021 eingestellt.
+Abbildung 18: Anzahl der durchgeführten SARS-CoV-2-PCR-Testungen und der Positivenanteil sowie Testkapazitäten der übermittelnden
+Labore pro Kalenderwoche (KW), (Stand 16.11.2021, 12:00 Uhr)
+
+
+# ---- page 29 ----
+
+29 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Fachliche Einordnung der aktuellen Laborsituation in Deutschland
+   Im Rahmen der COVID-19-Pandemie spielt die Diagnostik zu SARS-CoV-2 eine entscheidende Rolle.
+   Die Bedeutung liegt nicht nur in der diagnostischen Abklärung, sondern hat eine herausragende Stel-
+   lung für die Beurteilung der epidemiologischen Entwicklung und hinsichtlich Strategien zur Verlang-
+   samung des aktuellen Geschehens in Deutschland. Die Erfassung der durchgeführten Teste sowie die
+   Ermittlung des Anteils der positiven Teste ermöglichen eine Einschätzung zur Wirksamkeit der Test-
+   strategie. Je höher der Positivenanteil bei gleichzeitig anhaltend hohen Fallzahlen ist, desto höher
+   wird die Anzahl unerkannter Infizierter in einer Population geschätzt (Untererfassung). In KW
+   45/2021 lag der Positivenanteil der erfassten Teste bei 17,3 %. Um eine noch stärkere Ausbreitung
+   von SARS-CoV-2 in der Bevölkerung zu verhindern, ist eine niederschwellige Testung unter Einbezie-
+   hung präventiver Testkonzepte zur rechtzeitigen Erkennung von infizierten Personen und damit der
+   frühzeitigen Unterbrechung von Infektionsketten essentiell.
+   Positivenanteile nach Bundesland und Altersgruppen
+   Bei den derzeit 77 Laboren, die sich an der Laborbasierten Surveillance SARS-CoV-2 beteiligen, wer-
+   den weitere Informationen zu SARS-CoV-2-Testungen erhoben, die stratifizierte Darstellungen der
+   Testzahlen und Positivenanteile ermöglichen. Von den 77 Laboren wurden seit Beginn der Testungen
+   insgesamt 34.422.308 SARS-CoV-2 PCR - Testergebnisse übermittelt von denen 2.269.736 positiv wa-
+   ren (Datenstand 16.11.2021). Diese decken ca. 40% der insgesamt im Rahmen aller Abfragen und
+   Surveillance-Systeme an das RKI übermittelten Testungen ab. In Abbildung 19 und Abbildung 20 wer-
+   den die Ergebnisse über die Zeit nach Bundesland und Altersgruppe dargestellt. Hierbei verzeichnen
+   insbesondere die Bundesländer im Süden und Osten einen Anstieg. Die höchsten Positivraten wur-
+   den in Thüringen, Sachsen und Brandenburg berichtet. Der Anteil der positiv getestenen Personen ist
+   in allen Altersgruppen hoch, aber in den Altersgruppen 5-14 Jahre und 35-59 Jahre am höchsten.
+   Unter https://ars.rki.de/Content/COVID19/Main.aspx sind weiterführende Informationen zur Labor-
+   basierten Surveillance SARS-CoV-2 und ein ausführlicherer wöchentlicher Bericht mit weiteren strati-
+   fizierten Darstellungen zu finden.
+
+
+# ---- page 30 ----
+
+                                                                                Wöchentlicher COVID-19-Lagebericht vom 18.11.2021        30
+Abbildung 19: Anteil der positiven PCR-Testungen von allen im Rahmen der Laborbasierten Surveillance SARS-CoV-2 übermittelten PCR-
+Testungen nach Kalenderwoche der Probenentnahme und nach Bundesland unter Berücksichtigung der Anzahl der Testungen. Die
+Punktgröße spiegelt die Anzahl der gesamtgetesteten Proben pro Kalenderwoche wider. Bei der Interpretation der Daten ist zu berück-
+sichtigen, dass die Repräsentativität der Daten aktuell nicht für jedes Bundesland gegeben ist. Dargestellt werden die letzten 12 Kalen-
+derwochen (Datenstand 16.11.2021; 77 übermittelnde Labore).
+Abbildung 20: Anteil der PCR-positiv getesteten Personen von allen im Rahmen der Laborbasierten Surveillance SARS-CoV-2 übermittel-
+ten PCR-getesteten Personen nach Kalenderwoche der Probenentnahme und unter Berücksichtigung der Anzahl der getesteten Perso-
+nen. Die Punktgröße spiegelt die Anzahl der gesamtgetesteten Personen pro Kalenderwoche wider. Dargestellt werden die letzten 12
+Kalenderwochen (Datenstand 16.11.2021; 77 übermittelnde Labore).
+
+
+# ---- page 31 ----
+
+31 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Gesamtgenomsequenzdaten zu SARS-CoV-2-Varianten
+   Seit Beginn der Pandemie wurden sowohl weltweit als auch in Deutschland verschiedene SARS-CoV-
+   2-Varianten beobachtet, darunter die besorgniserregenden Varianten (Variants of Concern, VOC) Al-
+   pha (B.1.1.7), Beta (B.1.351), Gamma (P.1) und Delta (B.1.617.2). Für die VOC gibt es Hinweise auf
+   eine erhöhte Übertragbarkeit, einen schwereren Krankheitsverlauf oder eine immunevasive Wirkung.
+   Das Geschehen wird aktuell fast ausschließlich durch die VOC Delta bestimmt. Die ehemals stark ver-
+   breitete Variante Alpha ist mittlerweile nahezu vollständig durch Delta verdrängt worden. Auch die
+   anderen beiden VOC werden nur noch in Einzelfällen nachgewiesen. Neben den VOC gibt es die
+   Gruppe der unter Beobachtung stehenden Varianten (Variant of Interest; VOI), die charakteristische
+   Mutationen aufweisen, welche mit einer erhöhten Übertragbarkeit, Virulenz und/oder veränderter
+   Immunantwort assoziiert sind. Auf Grund der Dominanz der VOC Delta und des damit verbundenen
+   reduzierten Vorkommens anderer Virusvarianten haben die WHO und das ECDC eine Reihe von VOI
+   deeskaliert und bewerten aktuell nur noch die SARS-CoV-2 Varianten Lambda (C.37) und My
+   (B.1.621) als VOI. Das RKI richtet sich bei der Bewertung von Virusvarianten nach der WHO. Auf den
+   RKI Internetseiten zu den virologischen Basisdaten sowie Virusvarianten finden Sie nähere Informati-
+   onen zu den Varianten und zur Nomenklatur als auch Fallzahlen aus verschiedenen Datenquellen in
+   Deutschland.
+   Die Analyse der Genomsequenzen beinhaltet Daten aus der Gesamtgenomsequenzierung am RKI o-
+   der Sequenzdaten, die dem RKI im Rahmen der Coronavirus-Surveillanceverordnung (CorSurV) via
+   DESH (Deutscher Elektronischer Sequenzdaten-Hub) übermittelt wurden. Für die hier gezeigte Aus-
+   wertung werden Genomsequenzen verwendet, die von den diagnostizierenden Laboren zufällig für
+   die Gesamtgenomsequenzierung ausgewählt wurden. Nicht beachtet werden Proben, die aufgrund
+   eines bestehenden labordiagnostischen Verdachts als VOC sequenziert wurden oder auf Grund von
+   klinisch-epidemiologischen Besonderheiten untersucht wurden. Der Berichtszeitraum ist die Woche
+   der Probennahme, die ungefähr derjenigen des Meldedatums und der Erkrankung entspricht. Auf-
+   grund der prozessbedingten langen Dauer bis zur Übermittlung der Sequenzierungsergebnisse an das
+   RKI (z.B. Einsendung der Proben an sequenzierende Labore, Sequenzierung, Genomanalyse) wird
+   über die Genomsequenzdaten aus der Vorvorwoche berichtet.
+   Im Rahmen der international verwendeten Pangolin-Nomenklatur für SARS-CoV-2-Virusvarianten
+   wurden eine Reihe von einzelnen Sublinien, unter anderem auch für VOC und VOI, definiert. Für ver-
+   schiedene Virusvarianten, z.B. die VOC Alpha (B.1.1.7) und Delta (B.1.617.2), wurden neue Sublinien
+   eingeführt, was eine differenziertere Überwachung ihrer Ausbreitung ermöglicht. Die Einteilung in
+   Sublinien basiert auf genomischen Veränderungen und auf einer signifikanten geografischen Häu-
+   fung.
+   Bis zum Vorliegen weiterer Daten und dem Beweis des Gegenteils, müssen für die Sublinien diesel-
+   ben besorgniserregenden Erregereigenschaften wie für die Elternlinie angenommen werden, wes-
+   halb die Sublinien in diesem Bericht zu den jeweils übergeordneten Linien gezählt werden. Demnach
+   beinhalten die Angaben zu allen VOC (B.1.1.7, B.1.351, P.1 und B.1.617.2) und VOI, sofern vorhan-
+   den, in Tabelle 5 und Abbildung 21 auch die Daten der jeweiligen Sublinien.
+   Wie in Tabelle 5 aufgelistet geht die Anzahl der Nachweise von Delta (und Sequenzierungen insge-
+   samt) im Vergleich zu den Vorwochen leicht zurück, allerdings liegt der Anteil dieser VOC seit KW
+   32/2021 durchgehend bei über 99 %. Dabei wurden in KW44/2021 ausschließlich die Elternlinie
+   B.1.617.2 sowie 41 verschiedene Sublinien von Delta nachgewiesen. Die Linien AY.43 und B.1.617.2
+   bilden dabei den größten Anteil. Alpha, Beta und Gamma sowie die VOI My und Lambda wurden seit
+   KW 39/2021 nicht nachgewiesen.
+
+
+# ---- page 32 ----
+
+                                                                               Wöchentlicher COVID-19-Lagebericht vom 18.11.2021      32
+Tabelle 5: Anzahl sequenzierter VOC Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1) und Delta (B.1.617.2) sowie sequenzierter VOI Lambda
+(C.37) und My (B.1.621) (einschließlich der jeweiligen Sublinien) in der Menge der zufällig für die Sequenzierung ausgewählten Proben
+(Stichprobe). Datenstand 15.11.2021. Die vollständige Tabelle ab KW 01/2021 inkl. Anteilen und deeskalierter VOI findet sich hier:
+www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/VOC_VOI_Tabelle.html
+   KW         B.1.1.7 (Al-           B.1.351                  P.1             B.1.617.2               B.1.621              C.37
+  2021            pha)                (Beta)             (Gamma)                (Delta)                 (My)            (Lambda)
+    35               3                    1                    1                 4.471                    0                  0
+    36               2                    0                    0                 4.702                    0                  0
+    37               0                    0                    0                 4.277                    5                  0
+    38               1                    0                    0                 3.969                    2                  0
+    39               0                    0                    0                 3.874                    0                  0
+    40               0                    0                    0                 4.045                    0                  0
+    41               0                    0                    0                 2.443                    0                  0
+    42               0                    0                    0                 3.401                    0                  0
+    43               0                    0                    0                 3.120                    0                  0
+    44               0                    0                    0                 1.868                    0                  0
+Abbildung 21: Prozentuale Anteile der VOC und VOI bezogen auf die Genomsequenzen aus der Stichprobe - siehe Tabelle 5 absteigend
+sortiert nach Anteil. Die Abbildung zeigt auch Varianten, die deeskaliert wurden und damit nicht mehr als VOI gelten.
+Insgesamt stehen dem RKI seit KW 01/2021 352.868 SARS-CoV-2-Gesamtgenomsequenzen aus
+Deutschland zur Verfügung, die die Qualitätskriterien erfüllen. Für die KW 44/2021 ergibt sich aus der
+Zahl verfügbarer Genomsequenzen und bekannter laborbestätigter Infektionen in Deutschland bisher
+ein Anteil mittels Gesamtgenomsequenzierung untersuchter SARS-CoV-2-positiver Proben von knapp
+4 % insgesamt und 1,1 % im Rahmen der Stichprobe.In Abbildung 22 ist der Anteil der sequenzierten
+Proben (Stichprobe) seit Januar 2021 abgebildet.
+
+
+# ---- page 33 ----
+
+33   Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+     Abbildung 22: Anteil der zufällig für die Sequenzierung ausgewählten SARS-CoV-2 positiven Proben an den COVID-19-Fällen der
+     jeweiligen Kalenderwoche in 2021. Für den grau hinterlegten Bereich ist mit Veränderungen auf Grund von Nachmeldungen zu rechnen.
+     IfSG-Meldedaten zu SARS-CoV-2-Varianten
+     In Tabelle 6 sind die Fälle nach VOC und nach Bundesländern für MW 45/2021 aufgeschlüsselt. Die
+     übermittelten Informationen (Anzahl und Anteile) beziehen sich auf SARS-CoV-2-positive Proben, die
+     auf Grund von Punktmutationsanalysen unter dem labordiagnostischen Verdacht stehen, der ent-
+     sprechenden Variante anzugehören oder für die der Nachweis mittels Gesamtgenomsequenzierung
+     erbracht wurde.
+     Tabelle 6: Anzahl und Anteil der VOC in den Bundesländern für die MW 45/2021. Die Daten setzen sich aus den Nachweisen mittels
+     Gesamtgenomsequenzierung sowie den labordiagnostischen Verdachtsfällen aufgrund von variantenspezifischer PCR zusammen. Nicht
+     gezeigt sind andere Varianten. Die Varianten, die sich aus den aufgeführten ableiten (Sublinien) werden unter den VOC
+     zusammengefasst. (Datenstand 16.11.2021). Anzahl und Anteile für die letzten 5 Wochen können unter:
+     www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/VOC_VOI_Tabelle.html abgerufen werden.
+   Bundesland                        Alpha (B.1.1.7)              Beta (B.1.351)               Gamma (P.1)              Delta (B.1.617.2)
+                                  Anteil          Anzahl        Anteil       Anzahl         Anteil       Anzahl         Anteil     Anzahl
+   Baden-Württemberg                 0%              1           0%             1             0%            0           99,9%       8.098
+   Bayern                          0,1%             11           0%             4             0%            5           99,5%      15.013
+   Berlin                          0,1%              1           0%             0             0%            0           99,7%        792
+   Brandenburg                       0%              0           0%             0             0%            0           96,3%       1.676
+   Bremen                            0%              0           0%             0             0%            0           100%         46
+   Hamburg                           0%              0           0%             0             0%            0           100%        1.061
+   Hessen                            0%              0           0%             0             0%            0           97,2%        554
+   Mecklenburg-Vor-
+                                     0%              0           0%             0             0%            0           100%         728
+   pommern
+   Niedersachsen                   0,2%              4           0%             0            0,1%           1           99,5%       1.951
+   Nordrhein-Westfalen               0%              2           0%             0             0%            0           99,8%       9.494
+   Rheinland-Pfalz                   0%              0           0%             0             0%            0           100%        1.056
+   Saarland                          0%              0           0%             0             0%            0           100%         184
+   Sachsen                           0%              0           0%             1             0%            0           99,7%       4.253
+   Sachsen-Anhalt                    0%              0           0%             0             0%            0           99,7%        629
+   Schleswig-Holstein              0,4%              3           0%             0             0%            0           99,6%        665
+   Thüringen                         0%              0           0%             0             0%            0           98,2%        536
+   Gesamt                            0%             22           0%             6             0%            6           99,5%      46.736
+
+
+# ---- page 34 ----
+
+                                                        Wöchentlicher COVID-19-Lagebericht vom 18.11.2021 34
+Empfehlungen und Maßnahmen in Deutschland
+Dokumente und Informationen zu Empfehlungen und Maßnahmen finden sie unter
+www.rki.de/covid-19.
+Aktuelles
+•   Pressemitteilung der STIKO zur Auffrischimpfung einer COVID-19-Impfung bei Personen ab 18
+    Jahren (18.11.2021) https://www.rki.de/DE/Content/Kommissionen/STIKO/Empfehlun-
+    gen/PM_2021-11-18.html
+•   Bundespressekonferenz am 12.11.2021 zur Corona-Lage mit Bundesgesundheitsminister Jens
+    Spahn und RKI-Präsident Lothar H. Wieler (12.11.2021)
+    https://www.youtube.com/watch?v=zdYdGO_nOkg
+•   Pressemitteilung der STIKO zur COVID-19-Impfung mit mRNA-Impfstoff bei Personen unter 30
+    Jahren (10.11.2021) https://www.rki.de/DE/Content/Kommissionen/STIKO/Empfehlun-
+    gen/PM_2021-11-10.html
+•   Stellungnahme der Ständigen Impfkommission zur Priorisierung bei der Auffrischimpfung nach
+    COVID-19-Grundimmunisierung (08.11.2021) https://www.rki.de/DE/Content/Kommissio-
+    nen/STIKO/Empfehlungen/Stellungnahme-Auffrischimpfung_COVID-19.html
+•   Monatsbericht der Corona-KiTa-Studie (09.11.2021) https://www.rki.de/DE/Content/In-
+    fAZ/N/Neuartiges_Coronavirus/Projekte_RKI/KiTa-Studie-Berichte/KiTAStudie_10_2021.pdf
+•   Fachgruppe COVRIIN (Infektiologie, Intensivmedizin und Notfallmedizin) am Robert Koch-Insti-
+    tut: Neue Therapiealgorithmen: COVID-19 von leicht bis schwer richtig behandeln.
+    https://www.aerzteblatt.de/archiv/221901/Neue-Therapiealgorithmen-COVID-19-von-leicht-
+    bis-schwer-richtig-behandeln
+•   Aktualisierung der Risikobewertung zu COVID-19 (04.11.2021) www.rki.de/covid-19-risikobe-
+    wertung
+•   Warum müssen wir Kinder vor einer SARS-CoV-2-Infektion schützen? Epid Bull 47/2021 online
+    vorab (02.11.2021) https://www.rki.de/DE/Content/Infekt/EpidBull/Ar-
+    chiv/2021/46/Art_01.html
+
+
+# ---- page 35 ----
+
+35 Wöchentlicher COVID-19-Lagebericht vom 18.11.2021
+   Anhang
+   Hinweise zur Datenerfassung und -bewertung
+   Die in diesem Lagebericht dargestellten Daten stellen eine Momentaufnahme dar. Informationen zu
+   Fällen können im Verlauf der Erkrankung nachermittelt und im Meldewesen nachgetragen werden.
+   Nicht für alle Variablen gelingt eine vollständige Erfassung.
+   Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die not-
+   wendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+   vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI über-
+   mittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+   Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens
+   des Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich
+   der Fallzahlen zu anderen Quellen geben kann.
+   Für die Berechnung der Inzidenzen werden seit 26.08.2021 die Daten der Bevölkerungsstatistik des
+   Statistischen Bundesamtes mit Datenstand 31.12.2020 verwendet. Die Berechnung der 7-Tage-Inzi-
+   denz erfolgt auf Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kennt-
+   nis über den Fall erlangt und ihn elektronisch erfasst hat. Für die heutige 7-Tage-Inzidenz werden die
+   Fälle mit Meldedatum der letzten 7 Tage gezählt.
+   Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+   dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird.
+   Es kann sein, dass z. B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldeda-
+   tum vor mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt,
+   die aufgrund von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Diffe-
+   renz nicht ohne weiteres auf die 7-Tage-Inzidenz geschlossen werden kann. Die Meldewoche ent-
+   spricht der Kalenderwoche nach den Regeln des internationalen Standards ISO 8601 (entspricht DIN
+   1355). Sie beginnt montags und endet sonntags. Die Meldewochen eines Jahres sind fortlaufend
+   nummeriert, beginnend mit der ersten Woche, die mindestens 4 Tage des betreffenden Jahres ent-
+   hält. Meldejahre können 52 oder gelegentlich 53 Wochen haben. Die Zuordnung zur Meldewoche
+   wird durch den Tag bestimmt, an dem das Gesundheitsamt offiziell Kenntnis von einem Fall erlangt.
+   Für hier aufgeführte Daten aus Meldesystemen wird die Bezeichnung „MW“ für Meldewoche ver-
+   wendet. Für unabhängige Surveillancesysteme und solche in dem unterschiedliche Datenquellen zu-
+   sammenfließen wird die Bezeichnung „KW“ für Kalenderwoche verwendet.

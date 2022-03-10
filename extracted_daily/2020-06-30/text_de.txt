@@ -1,0 +1,523 @@
+# 2020-06-30-de.pdf date: 2020-06-30 lang: de
+
+# ---- page 1 ----
+
+                                Täglicher Lagebericht des RKI
+                             zur Coronavirus-Krankheit-2019
+                                                      (COVID-19)
+                               30.06.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+   Bestätigte Fälle                      Verstorbene                    Anteil Verstorbene                           Genesene
+         194.259                              8.973                                 4,6%                        ca. 179.100**
+         (+ 498*)                            (+12*)
+                                                                                             *Änderung gegenüber Vortag; **geschätzter Wert
+COVID-19-Verdachtsfälle und COVID-19-Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das
+Gesundheitsamt gemeldet. Das Gesundheitsamt übermittelt diese Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im
+vorliegenden Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen
+dargestellt.
+    – Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+    Zusammenfassung der aktuellen Lage
+         •    Die kumulative Inzidenz der letzten 7 Tage lag deutschlandweit bei 3,5 Fällen pro 100.000
+              Einwohner. Aus 132 Landkreisen wurden in den letzten 7 Tagen keine Fälle übermittelt.
+         •    Insgesamt wurden in Deutschland 194.259 laborbestätigte COVID-19-Fälle an das RKI
+              übermittelt, darunter 8.973 Todesfälle in Zusammenhang mit COVID-19-Erkrankungen.
+         •    Vereinzelt werden COVID-19-bedingte Ausbrüche weiterhin in Alters- und Pflegeheimen sowie
+              in Krankenhäusern und Flüchtlingseinrichtungen berichtet.
+         •    In verschiedenen Bundesländern gibt es COVID-19-Ausbrüche in fleischverarbeitenden
+              Betrieben. Im Landkreis Gütersloh in Nordrhein-Westfahlen hat ein solcher Ausbruch zu einer
+              hohen 7-Tage-Inzidenz mit über 50 Fällen/ 100.000 Einwohner geführt.
+    Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+
+
+# ---- page 2 ----
+
+2 COVID-19-Lagebericht vom 30.06.2020
+   Epidemiologische Lage in Deutschland (Datenstand 30.06.2020, 0:00 Uhr)
+    Geografische Verteilung
+    Es wurden 194.259 (+498) labordiagnostisch bestätigte COVID-19-Fälle an das RKI übermittelt
+    (s. Tabelle 1 und Abbildung 1). In den letzten 7 Tagen wurden aus 132 Kreisen keine Fälle übermittelt
+    (s. Abbildung 2).
+    Tabelle 1: An das RKI übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (30.06.2020, 0:00 Uhr). Die Differenz
+    zum Vortag bezieht sich auf Fälle, die dem RKI täglich übermittelt werden. Dies beinhaltet Fälle, die am gleichen Tag oder bereits an
+    früheren Tagen an das Gesundheitsamt gemeldet worden sind.
+                           Fälle kumulativ                                    Letzte 7 Tage                        Todesfälle kumulativ
+                                            Differenz      Fälle/100.000                     Fälle/100.000                     Fälle/100.000
+    Bundesland                Fälle                                              Fälle                              Fälle
+                                             Vortag             Einw.                              Einw.                            Einw.
+    Baden-
+    Württemberg              35.620             90               322             206                1,9            1.830            16,5
+    Bayern                   48.400             56               370             336                2,6            2.594            19,8
+    Berlin                   8.220              44               219             286                7,6             214              5,7
+    Brandenburg              3.429              10               137              35                1,4             165              6,6
+    Bremen                   1.662               1               243               9                1,3              53              7,8
+    Hamburg                  5.201               7               282              40                2,2             259             14,1
+    Hessen                   10.795             33               172             175                2,8             508              8,1
+    Mecklenburg-
+    Vorpommern                802                1               50                9                0,6              20              1,2
+    Niedersachsen            13.535             33               170             223                2,8             628              7,9
+    Nordrhein-
+    Westfalen                43.066            197               240            1.412               7,9            1.680             9,4
+    Rheinland-
+    Pfalz                    6.996               9               171              72                1,8             235              5,8
+    Saarland                 2.806               0               283               6                0,6             173             17,5
+    Sachsen                  5.448               4               134              19                0,5             223              5,5
+    Sachsen-
+    Anhalt                   1.871               2               85               15                0,7              58              2,6
+    Schleswig-
+    Holstein                 3.154               7               109              17                0,6             152              5,2
+    Thüringen                3.254               4               152              18                0,8             181              8,4
+    Gesamt                  194.259            498               234            2.878               3,5            8.973            10,8
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 3 ----
+
+3                                                                                              COVID-19-Lagebericht vom 30.06.2020      3
+  Abbildung 1: Übermittelte COVID-19-Fälle in Deutschland nach Kreis und Bundesland (n=194.259, 30.06.2020, 0:00 Uhr). Die Fälle werden
+  nach dem Kreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort, der nicht mit dem
+  wahrscheinlichen Infektionsort übereinstimmen muss.
+  Abbildung 2: An das RKI übermittelte COVID-19-Fälle der letzten 7 Tage in Deutschland nach Kreis und Bundesland (n=2.878, 30.06.2020,
+  0:00 Uhr). Die Fälle werden nach dem Kreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort.
+  Wohnort und wahrscheinlicher Infektionsort müssen nicht übereinstimmen.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 4 ----
+
+4 COVID-19-Lagebericht vom 30.06.2020
+    Zeitlicher Verlauf
+    Die ersten Erkrankungsfälle traten in Deutschland im Januar 2020 auf. Abbildung 3 zeigt die dem RKI
+    übermittelten Fälle mit Erkrankungsdatum seit dem 01.03.2020. Bezogen auf alle seit dem 01.03.2020
+    übermittelten Fälle ist bei 57.894 Fällen (30%) der Erkrankungsbeginn nicht bekannt bzw. sind diese
+    Fälle nicht symptomatisch erkrankt. Für diese Fälle wird in der Abbildung 3 daher das Meldedatum
+    angezeigt.
+    Abbildung 3: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Erkrankungsbeginn, ersatzweise nach Meldedatum. Dargestellt
+    werden nur Fälle mit Erkrankungsbeginn oder Meldedatum seit dem 01.03.2020 (30.06.2020, 0:00 Uhr).
+    Abbildung 4: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Meldedatum ab dem 01.03.2020 (30.06.2020, 0:00 Uhr). Die dem
+    RKI im Vergleich zum Vortag neu übermittelten Fälle werden in orange dargestellt und damit von den bereits am Vortag bekannten Fällen
+    (blau) abgegrenzt. Das Meldedatum ist das Datum, an dem das Gesundheitsamt Kenntnis über den Fall erlangt und ihn elektronisch
+    erfasst hat. Zwischen der Meldung durch die Ärzte und Labore an das Gesundheitsamt und der Übermittlung der Fälle an die zuständigen
+    Landesbehörden und das RKI können einige Tage vergehen (Melde- und Übermittlungsverzug). Dem RKI werden täglich neue Fälle
+    übermittelt, die am gleichen Tag oder bereits an früheren Tagen an das Gesundheitsamt gemeldet worden sind.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 5 ----
+
+5                                                                                               COVID-19-Lagebericht vom 30.06.2020      5
+  Abbildung 5: Anzahl der an das RKI übermittelten COVID-19-Todesfälle nach Sterbedatum (30.06.2020, 0:00 Uhr). Wie auch bei der COVID-
+  19-Fallmeldung gibt es bei der Meldung von Todesfällen einen Verzug, so dass sich die Anzahl der Todesfälle für bereits zurückliegende
+  Tage noch erhöhen kann.
+  Tabelle 2 Übermittelte Anzahl der COVID-19-Fälle sowie Inzidenz pro Bundesland in Deutschland in den Meldewochen 25 und 26,
+  30.06.2020, 0:00 Uhr)
+                                                                                                             Änderung im
+                                           Meldewoche 25                    Meldewoche 26
+  Bundesland                                                                                                    Vergleich
+                                          Anzahl       Inzidenz             Anzahl      Inzidenz          Anzahl              Anteil
+  Baden-Württemberg                           183              1,7             229             2,1               46              25%
+  Bayern                                      267              2,0             353             2,7               86              32%
+  Berlin                                      508             13,6             312             8,3            -196             -39%
+  Brandenburg                                   74             2,9              37             1,5              -37            -50%
+  Bremen                                        55             8,1              14             2,0              -41            -75%
+  Hamburg                                       31             1,7              43             2,3               12              39%
+  Hessen                                      239              3,8             174             2,8              -65            -27%
+  Mecklenburg-Vorpommern                        10             0,6                8            0,5                -2           -20%
+  Niedersachsen                               364              4,6             236             3,0            -128             -35%
+  Nordrhein-Westfalen                      2.010              11,2           1.555             8,7            -455             -23%
+  Rheinland-Pfalz                               73             1,8              74             1,8                 1               1%
+  Saarland                                       7             0,7                7            0,7                 0               0%
+  Sachsen                                       79             1,9              19             0,5              -60            -76%
+  Sachsen-Anhalt                                80             3,6              21             1,0              -59            -74%
+  Schleswig-Holstein                            17             0,6              14             0,5                -3           -18%
+  Thüringen                                     42             2,0              19             0,9              -23            -55%
+  Gesamt                                   4.039               4,9           3.115             3,7            -924             -23%
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 6 ----
+
+6 COVID-19-Lagebericht vom 30.06.2020
+    Abbildung 6 zeigt den Verlauf über die an das RKI übermittelten COVID-19-Fälle pro 100.000
+    Einwohner der jeweils letzten 7 Tage in den Bundesländern und in Deutschland.
+    Abbildung 6: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland (30.06.2020,
+    0:00 Uhr). In Bundesländern mit vergleichsweise niedrigen Bevölkerungszahlen können auch schon kleinere Anstiege der Fallzahlen zu
+    einer deutlichen Erhöhung der 7-Tage-Inzidenz führen.
+    Demografische Verteilung
+    Von den Fällen sind 52% weiblich und 48% männlich. Insgesamt sind von den Fällen, in denen Angaben
+    zum Geschlecht vorliegen, 4.795 Kinder unter 10 Jahre (2,5%) alt, 9.351 Kinder und Jugendliche im
+    Alter von 10 bis 19 Jahren (4,8%), 85.130 Personen im Alter von 20 bis 49 Jahren (44%), 59.065
+    Personen im Alter von 50 bis 69 Jahren (30%), 30.150 Personen im Alter von 70 bis 89 Jahren (16%)
+    und 5.346 Personen im Alter von 90 Jahren und älter (2,8%). Bei 422 Personen sind das Alter und/oder
+    das Geschlecht unbekannt. Der Altersdurchschnitt liegt bei 48 Jahren (Median 49 Jahre). Die höchsten
+    Inzidenzen finden sich in den Altersgruppen ab 90 Jahren (s. Abbildung 7).
+    Abbildung 7: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner in Deutschland nach Altersgruppe und Geschlecht
+    (n=193.831 Fälle, 30.06.2020, 0:00 Uhr). Die Differenz zur Gesamtfallzahl entsteht durch fehlende Werte zum Alter und Geschlecht.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 7 ----
+
+7                                                                                               COVID-19-Lagebericht vom 30.06.2020  7
+  Tabelle 3: Die dem RKI übermittelten COVID-19-Fälle nach Geschlecht sowie Anteil Hospitalisierung und Verstorbener für die
+  Meldewochen KW 10 – 26, 30.06.2020, 0:00 Uhr).
+                       Mittelwert                            Anzahl mit
+           Fälle                                                               Anzahl            Anteil         Anzahl        Anteil
+   KW                     Alter    Männer      Frauen       Angaben zur
+          gesamt                                                            hospitalisiert hospitalisiert Verstorben Verstorben
+                         (Jahre)                          Hospitalisierung
+    10      895             43        54%        46%             800              162              20%             12           1,3%
+    11     6.415            45        56%        44%            5.598             517               9%             82           1,3%
+    12    22.459            46        55%        45%           19.273           2.182              11%            472           2,1%
+    13    34.039            48        50%        50%           29.277           5.044              17%           1.438          4,2%
+    14    36.126            51        45%        55%           31.386           6.007              19%           2.228          6,2%
+    15    27.174            52        44%        56%           23.921           4.658              19%           1.847          6,8%
+    16    17.338            52        45%        55%           15.398           3.320              22%           1.193          6,9%
+    17    12.386            51        45%        55%           10.875           2.199              20%            704           5,7%
+    18     7.443            49        48%        52%            6.554           1.336              20%            367           4,9%
+    19     6.227            47        48%        52%            5.526           1.042              19%            241           3,9%
+    20     4.729            46        49%        51%            4.140             723              17%            149           3,2%
+    21     3.600            44        50%        50%            3.046             497              16%            101           2,8%
+    22     3.193            42        51%        49%            2.707             403              15%             54           1,7%
+    23     2.345            39        51%        49%            2.031             300              15%             39           1,7%
+    24     2.333            38        54%        46%            2.024             273              13%             21           0,9%
+    25     4.039            37        58%        42%            3.541             275               8%             17          0,4%*
+    26     3.115            37        55%        45%            2.601             229               9%              6          0,2%*
+  *Daten noch nicht aussagekräftig, da Ausgang der Erkrankungen in diesen Wochen noch unklar
+  In Tabelle 3 sind der Altersdurchschnitt, die Geschlechtsverteilung, der Anteil der Hospitalisierten und
+  der Anteil der Verstorbenen nach Meldewochen dargestellt. Die Anteile der Verstorbenen in den
+  Meldewochen 25 und 26 sind noch nicht aussagekräftig, da der Ausgang der in diesen Meldewochen
+  übermittelten COVID-19-Fälle noch unklar ist.
+  Die Darstellung der übermittelten COVID-19-Fälle in Deutschland nach Anteil der Fälle pro
+  Altersgruppe und Meldewoche zeigt eine seit Meldewoche 17 kontinuierliche, deutliche Abnahme des
+  relativen Anteils der über 80-Jährigen. Im Vergleich dazu nimmt der Anteil der Fälle in den jüngeren
+  Altersgruppen im Alter zwischen 0 und 29 Jahren zu (s. Abbildung 8).
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 8 ----
+
+8 COVID-19-Lagebericht vom 30.06.2020
+    Abbildung 8: Darstellung des Anteils der übermittelten COVID-19-Fälle in Deutschland nach Altersgruppe und Meldewoche (n=193.725
+    Fälle mit entsprechenden Angaben in den Meldewochen KW10-26; Stand 30.06.2020, 0:00 Uhr). Die Fallzahlen pro Woche werden durch
+    die rote Linie dargestellt.
+    Klinische Aspekte
+    Für 166.073 (85%) der übermittelten Fälle liegen klinische Informationen vor. Häufig genannte
+    Symptome waren Husten (48%), Fieber (41%) und Schnupfen (21%). Für 5.029 Fälle (3,0%) ist bekannt,
+    dass sie eine Pneumonie entwickelt haben. Seit der 17. Kalenderwoche kann für die COVID-19-Fälle
+    auch Geruchs- und Geschmacksverlust als Symptom in einer eigenen Übermittlungskategorie
+    angegeben werden. Von 22.833 Fällen, die neu in dieser Kategorie erfasst wurden und Angaben zur
+    Klinik enthalten, haben 3.320 (15%) mindestens eines dieser beiden Symptome angegeben.
+    Eine Hospitalisierung wurde bei 29.242 (17%) der 169.019 übermittelten COVID-19-Fälle mit
+    diesbezüglichen Angaben angegeben.
+    Geschätzte 179.100 Personen sind von ihrer COVID-19-Infektion genesen. Ein genaues Datum der
+    Genesung liegt für die meisten Fälle nicht vor. Daher wird ein Algorithmus zur Schätzung der Anzahl
+    der Genesenen verwendet.
+    Insgesamt sind 8.973 Personen in Deutschland (4,6% aller bestätigten Fälle) im Zusammenhang mit
+    einer COVID-19-Erkrankung verstorben (Tabelle 4). Es handelt sich um 4.961 (55%) Männer und 4.007
+    (45%) Frauen, für 5 Personen ist das Geschlecht unbekannt. Der Altersdurchschnitt liegt bei 81 Jahren
+    (Median: 82 Jahre). Von den Todesfällen waren 7.689 (86%) Personen 70 Jahre und älter. Im
+    Unterschied dazu beträgt der Anteil der über 70-Jährigen an der Gesamtzahl der übermittelten COVID-
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 9 ----
+
+9                                                                                                COVID-19-Lagebericht vom 30.06.2020      9
+  19-Fälle nur 18%. Es wird weiterhin von COVID-19-bedingten Ausbrüchen in Alters- und Pflegeheimen
+  sowie in Krankenhäusern berichtet. In einigen dieser Ausbrüche ist die Zahl der Verstorbenen
+  vergleichsweise hoch. Bislang sind dem RKI drei COVID-19-Todesfälle bei unter 20-Jährigen übermittelt
+  worden. Die verstorbenen Personen waren im Alter zwischen 3 und 18 Jahren, alle hatten
+  Vorerkrankungen.
+  Tabelle 4: An das RKI übermittelte COVID-19-Todesfälle nach Altersgruppe und Geschlecht (Angaben verfügbar für 8.956 Todesfälle;
+  30.06.2020, 0:00 Uhr)
+                        Altersgruppe (in Jahren)
+  Geschlecht
+                           0-9 10-19 20-29              30-39     40-49       50-59      60-69      70-79     80-89     90-99      100+
+  männlich                          2         7          17         50         233        631      1.359      2.094      562         6
+  weiblich                 1                  3           6         22          84        226        660      1.888     1.072       45
+  gesamt                   1        2        10          23         72         317        857      2.019      3.982     1.634       51
+  Betreuung, Unterbringung und Tätigkeit in Einrichtungen
+  Gemäß Infektionsschutzgesetz kann für die COVID-19-Fälle auch übermittelt werden, ob sie in einer für
+  den Infektionsschutz relevanten Einrichtung betreut, untergebracht oder tätig sind. Es wird dabei
+  zwischen verschiedenen Arten von Einrichtungen unterschieden (s. Tabelle 5).
+  Da Angaben zu Betreuung, Unterbringung und Tätigkeit bei 25% der Fälle noch fehlen, sind die Anteile
+  der Fälle mit einer Betreuung, Unterbringung oder Tätigkeit in den einzelnen Einrichtungen als
+  Mindestangaben zu verstehen. Für die übermittelten COVID-19-Fälle aus allen genannten
+  Einrichtungen ist jedoch unbekannt, wie hoch der Anteil derer ist, die sich auch in dieser Einrichtung
+  angesteckt haben.
+  Tabelle 5: An das RKI übermittelte COVID-19-Fälle nach Tätigkeit oder Betreuung in Einrichtungen mit besonderer Relevanz für die
+  Transmission von Infektionskrankheiten (193.146* Fälle, davon 48.707 ohne diesbezügliche Angaben; 30.06.2020, 0:00 Uhr)
+                                                                                                                                Genesen
+  Einrichtung gemäß                                                      Gesamt            Hospitalisiert Verstorben
+                                                                                                                             (Schätzung)
+  § 23 IfSG (z.B. Krankenhäuser,                  Betreut/
+                                                                            3.367                   2.409             623           2.611
+  ärztliche Praxen,                               untergebracht
+  Dialyseeinrichtungen und                        Tätigkeit in
+                                                                          13.834                      636              20          13.700
+  Rettungsdienste)                                Einrichtung
+                                                  Betreut/
+                                                                            3.187                       67              1           2.800
+  § 33 IfSG (z.B. Kitas, Kinderhorte,             untergebracht*
+  Schulen, Heime und Ferienlager)                 Tätigkeit in
+                                                                            2.730                     141               8           2.700
+                                                  Einrichtung
+  § 36 IfSG (z.B. Pflegeeinrichtungen,
+                                                  Betreut/
+  Obdachlosenunterkünfte,                                                 17.869                    4.061           3.536          14.000
+                                                  untergebracht
+  Einrichtungen zur gemeinschaftlichen
+  Unterbringung von Asylsuchenden,
+                                                  Tätigkeit in
+  sonstige Massenunterkünfte,                                               9.893                     422              45           9.800
+                                                  Einrichtung
+  Justizvollzugsanstalten)
+  § 42 IfSG (z.B. Fleischindustrie oder
+  Küchen von Gaststätten und                      Tätigkeit in
+                                                                            4.377                     191               6           3.400
+  sonstigen Einrichtungen der                     Einrichtung
+  Gemeinschaftsverpflegung)
+  Ohne Tätigkeit, Betreuung oder
+  Unterbringung in genannten                                              89.182                  15.805            3.418          83.700
+  Einrichtungen
+  *für Betreuung nach § 33 IfSG werden nur Fälle < 18 Jahren berücksichtigt, da bei anderer Angabe von Fehleingaben ausgegangen wird
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 10 ----
+
+10 COVID-19-Lagebericht vom 30.06.2020
+     Abbildung 9: Anzahl der übermittelten COVID-19-Fälle nach Meldewoche (Meldewoche 10-26) und Tätigkeit bzw. Unterbringung in einer
+     Einrichtung gemäß § 36 IfSG und gemäß § 33 IfSG bzw. Tätigkeit in einer Einrichtung gemäß § 23 IfSG und gemäß § 36 IfSG.
+     Abbildung 9 zeigt die Entwicklung der Fallzahlen der in ausgewählten Einrichtungsgruppen tätigen
+     beziehungsweise betreuten Personen über die Meldewochen hinweg.
+     Unter den nach IfSG übermittelten COVID-19-Fällen wurde bisher für 13.834 Fälle übermittelt, dass sie
+     in einer medizinischen Einrichtung gemäß § 23 Abs. 3 IfSG tätig waren. Zu den Einrichtungen zählen
+     z.B. Krankenhäuser, ärztliche Praxen, Dialyseeinrichtungen und Rettungsdienste. Von den Fällen unter
+     Personal in medizinischen Einrichtungen waren 73% weiblich und 27% männlich. Der Altersmedian
+     liegt bei 41 Jahren, 20 Personen sind verstorben.
+     Die relativ niedrigen Zahlen bei Betreuten in Gemeinschaftseinrichtungen gemäß § 33 IfSG spiegeln die
+     auch insgesamt verhältnismäßig niedrigen übermittelten COVID-19-Fallzahlen bei Kindern wider.
+     Von den insgesamt 17.869 übermittelten COVID-19-Fällen, die in einer unter § 36 IfSG fallenden
+     Einrichtung betreut werden, sind 3.536 verstorben. Von den 9.893 in einer unter § 36 IfSG fallenden
+     Einrichtungen Tätigen sind 45 verstorben. Die hohen Fallzahlen bei Betreuten und Tätigen in diesen
+     Einrichtungen stehen im Einklang mit der Anzahl der berichteten Ausbrüche in Alters- und
+     Pflegeheimen der letzten Wochen. Der Anstieg der Fallzahlen bei Tätigen im Lebensmittelbereich (§42)
+     ist größtenteils auf Ausbrüche in fleischverarbeitenden Betrieben zurückzuführen.
+     Ausbrüche
+     In drei Stadt- bzw. Landkreis (SK bzw. LK) wurde eine hohe 7-Tage-Inzidenz mit über 25 Fällen/ 100.000
+     Einwohner beobachtet (siehe Abbildung 2): LK Gütersloh, SK Delmenhorst und LK Oldenburg.
+     Die hohe 7-Tage-Inzidenz im LK Gütersloh ist auf einen Ausbruch in einem fleischverarbeitenden
+     Betrieb zurückzuführen. Mit dem Ausbruchsgeschehen in Gütersloh stehen auch erhöhte Fallzahlen in
+     benachbarten Kreisen in Verbindung, da Mitarbeiterinnen und Mitarbeiter der fleischverarbeitenden
+     Firma ihren Wohnsitz hier haben. Mehr als 1.500 Mitarbeiterinnen und Mitarbeiter wurden positiv auf
+     SARS-CoV-2 getestet. Der betroffene Betrieb wurde vorübergehend geschlossen. Das Land Nordrhein-
+     Westfalen hat mit Wirkung zum 24.06.2020 offiziell die zweite Stufe des Lockdowns für die Kreise
+     Gütersloh und Warendorf bis vorerst zum 30.06.2020 aktiviert. Die Schulen und
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 11 ----
+
+11                                                                                                                             COVID-19-Lagebericht vom 30.06.2020          11
+     Kindertageseinrichtungen sind seit 18.06.2020 im LK Gütersloh geschlossen, im LK Warendorf seit dem
+     25.06.2020. In der betroffenen Region werden die Testungen auf SARS-CoV-2 deutlich ausgeweitet.
+     Pflegeeinrichtungen, Krankenhäuser, Beschäftigte im Lebensmitteleinzelhandel, Kioskpersonal sowie
+     Bewohner zentraler Gemeinschaftsunterkünfte werden in Gütersloh und Warendorf getestet. Die
+     Bevölkerung kann kostenlos einen SARS-CoV-2-Test durchführen lassen.
+     Auch in anderen Bundesländern gibt es Ausbrüche in fleischverarbeitenden Betrieben, darunter der LK
+     Wesel in Nordrhein-Westfalen und der LK Oldenburg in Niedersachsen. Beide betroffenen Betriebe
+     wurden vorläufig geschlossen. Mit dem Ausbruch im LK Oldenburg hängt die erhöhte Inzidenz in
+     Delmenhorst zusammen, da hier im benachbarten Kreis COVID-19 positive Mitarbeitende des
+     betroffenen Betriebes wohnen.
+     COVID-19-bedingte Ausbrüche in Alters- und Pflegeheimen sowie in Krankenhäusern und
+     Flüchtlingseinrichtungen werden ebenfalls vereinzelt weiterhin berichtet.
+     Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+     Reproduktionszahl (R)
+     Die an das RKI übermittelten und ausgewiesenen Fallzahlen spiegeln den Verlauf der COVID-19-
+     Neuerkrankungen nicht vollständig wider, da es unterschiedlich lange dauert, bis es nach dem
+     Erkrankungsbeginn eines Falles zu einer COVID-19-Diagnose, zur Meldung und zur Übermittlung des
+     Falls an das RKI kommt. Es wird daher versucht, den tatsächlichen Verlauf der Anzahl von bereits
+     erfolgten COVID-19-Erkrankungen nach ihrem Erkrankungsbeginn durch ein sogenanntes Nowcasting
+     zu modellieren (Abbildung 10)
+                                                                        Fälle:                   Erkrankungsbeginn angegeben
+                                                                                                 Erkrankungsbeginn imputiert                                      95%-PI
+                                                                                                 Nowcast                                                          95%-PI
+                             6.000
+        Anzahl neuer Fälle
+                             4.000
+                             2.000
+                                0
+                                      2.       3.    3.       3.    3.       3.       4.    4.       4.    4.       5.    5.       5.    5.       6.    6.       6.    6.
+                                     .0    .0       .0    .0       .0     .0      .0       .0    .0       .0    .0       .0    .0       .0    .0       .0    .0       .0
+                                 24       02    09       16    23       30       06    13       20    27       04    11       18    25       01    08       15    22
+                                                                                      Datum des Erkrankungsbeginn
+     Abbildung 10: Darstellung der an das RKI übermittelten COVID-19-Fälle mit bekanntem Erkrankungsbeginn (dunkelblau), geschätztem
+     Erkrankungsbeginn für Fälle mit fehlender Eingabe des Erkrankungsbeginns (grau) und geschätzter Verlauf der noch nicht übermittelten
+     Fälle (hellblau) (Stand 30.06.2020, 0:00 Uhr, unter Berücksichtigung der Fälle bis 26.06.2020).
+     Die Reproduktionszahl R bezeichnet die Anzahl der Personen, die im Durchschnitt von einem Fall
+     angesteckt werden. Diese lässt sich nicht aus den Meldedaten ablesen, sondern nur durch statistische
+     Verfahren schätzen, zum Beispiel auf der Basis des Nowcastings.
+     Der berichtete sensitive R-Wert kann durch Verwendung eines gleitenden 4-Tage-Mittels der durch
+     das Nowcasting geschätzten Anzahl von Neuerkrankungen geschätzt werden. Dieser 4-Tage-Wert
+     bildet das Infektionsgeschehen vor etwa einer bis zwei Wochen ab. Dieser Wert reagiert auf
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 12 ----
+
+12 COVID-19-Lagebericht vom 30.06.2020
+     kurzfristige Änderungen der Fallzahlen empfindlich, wie sie etwa durch einzelne Ausbruchsgeschehen
+     verursacht werden können. Dies kann insbesondere bei einer insgesamt kleinen Anzahl von
+     Neuerkrankungen zu verhältnismäßig großen Schwankungen führen. Mit Datenstand 30.06.2020, 0:00
+     Uhr wird der 4-Tage-R-Wert auf 0,83 (95%-Prädiktionsintervall: 0,68 – 0,97) geschätzt.
+     Analog dazu wird das 7-Tage-R durch Verwendung eines gleitenden 7-Tage-Mittels der Nowcasting-
+     Kurve geschätzt. Schwankungen werden dadurch stärker ausgeglichen, da dieser Wert das
+     Infektionsgeschehen vor etwa einer bis etwas mehr als zwei Wochen abbildet. Mit Datenstand
+     30.06.2020, 0:00 Uhr wird der 7-Tage-R-Wert auf 0,67 (95%- Prädiktionsintervall: 0,61 – 0,74)
+     geschätzt.
+     Nach einem vorübergehendem deutlichen Anstieg der geschätzten Reproduktionszahlen (R-Wert und
+     7-Tage R-Wert), sind diese seit einigen Tagen wieder auf einen Wert um oder unter 1 gesunken. Die
+     stark erhöhten Werte in den Tagen davor hängen mit lokalen Häufungen zusammen, wobei
+     insbesondere der Ausbruch in Nordrhein-Westfalen eine große Rolle spielt zusammen (s. Abschnitt
+     "Ausbrüche"). Die Dynamik der verschiedenen Ausbruchgeschehen wird z.T. auch durch veranlasste
+     Reihentestungen im Umkreis der erkannten Ausbrüche beeinflusst, die zeitnah zum Erkennen einer
+     größeren Zahl weiterer infizierter Personen geführt haben. Da die Fallzahlen in Deutschland insgesamt
+     auf niedrigem Niveau liegen, beeinflussen diese lokalen Ausbrüche den Wert der Reproduktionszahl
+     relativ stark. Daher können die Reproduktionszahlen auch weiterhin stark schwanken.
+     Unter www.rki.de/covid-19-nowcasting werden Beispielrechnungen und beide täglich aktualisierten R-
+     Werte als Excel-Tabelle zur Verfügung gestellt. Dort ist seit dem 15.05.2020 auch eine ausführliche
+     Erläuterung des stabileren 7-Tage-R-Werts zu finden. Allgemeinere Informationen und
+     Beispielrechnungen für beide R-Werte sind in den Antworten auf häufig gestellte Fragen abrufbar
+     (https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html).
+     Eine detaillierte Beschreibung der Methodik ist verfügbar unter
+     https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html (Epid. Bull. 17 | 2020
+     vom 23.04.2020).
+     Hinweise zur Datenerfassung und -bewertung
+     Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
+     laborbestätigten COVID-19-Fällen dargestellt. COVID-19-Verdachtsfälle und -Erkrankungen sowie
+     Nachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz an das zuständige Gesundheitsamt
+     gemeldet.
+     Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+     notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+     vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+     übermittelt. Am RKI werden sie mittels weitgehend automatisierter Algorithmen validiert. Es werden
+     nur Fälle veröffentlicht, bei denen eine labordiagnostische Bestätigung unabhängig vom klinischen Bild
+     vorliegt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+     Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens des
+     Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich der
+     Fallzahlen zu anderen Quellen geben kann.
+    DIVI-Intensivregister
+     Die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI) führt gemeinsam mit
+     dem RKI das DIVI-Intensivregister https://www.intensivregister.de/#/intensivregister
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 13 ----
+
+13                                                                                                 COVID-19-Lagebericht vom 30.06.2020 13
+    Das Register erfasst intensivmedizinisch behandelte COVID-19-Patienten und Bettenkapazitäten auf
+    Intensivstationen von allen Krankenhäusern in Deutschland und gibt einen Überblick darüber, in
+    welchen Kliniken aktuell wie viele Kapazitäten auf Intensivstationen zur Verfügung stehen. Seit dem
+    16.04.2020 ist die Meldung für alle intensivbettenführenden Krankenhausstandorte verpflichtend.
+    Mit Stand 30.06.2020 (12:15 Uhr) beteiligen sich 1.275 Klinikstandorte an der Datenerhebung.
+    Insgesamt wurden 32.502 Intensivbetten registriert, wovon 20.997 (65%) belegt sind; 11.505 (35%)
+    Betten sind aktuell frei. Im Rahmen des DIVI-Intensivregisters wird außerdem die Anzahl der
+    intensivmedizinisch behandelten COVID-19-Fälle erfasst (siehe Tabelle 6).
+    Tabelle 6: Im DIVI-Intensivregister erfasste intensivmedizinisch behandelte COVID-19-Fälle (30.06.2020, 12:15 Uhr)
+                                                                Anzahl Fälle          Anteil           Änderung Vortag*
+      In intensivmedizinischer Behandlung                                      337                                           +5
+       - davon beatmet                                                         174             52%                           -9
+      Abgeschlossene Behandlung                                            14.781                                          +67
+       - davon verstorben                                                    3.744             25%                         +28
+    * Bei der Interpretation der Zahlen muss beachtet werden, dass die Anzahl der meldenden Standorte (die auch
+    große Unterschiede in der Bettenzahl aufweisen) täglich schwankt. Dadurch kann es an einzelnen Tagen auch zu
+    einer Abnahme der kumulativen abgeschlossenen Behandlungen und Todesfälle im Vergleich zum Vortag
+    kommen.
+   Risikobewertung durch das RKI
+    Allgemein
+    Es handelt sich weltweit und in Deutschland um eine sehr dynamische und ernst zu nehmende
+    Situation. Die Anzahl der neu übermittelten Fälle ist aktuell rückläufig. Das Robert Koch-Institut schätzt
+    die Gefährdung für die Gesundheit der Bevölkerung in Deutschland derzeit weiterhin insgesamt als
+    hoch ein, für Risikogruppen als sehr hoch. Diese Einschätzung kann sich kurzfristig durch neue
+    Erkenntnisse ändern.
+    Übertragbarkeit
+    Das Infektionsrisiko ist stark von der regionalen Verbreitung, von den Lebensbedingungen
+    (Verhältnissen) und auch vom individuellen Verhalten abhängig.
+    Krankheitsschwere
+    Bei der überwiegenden Zahl der Fälle verläuft die Erkrankung mild. Die Wahrscheinlichkeit für schwere
+    und auch tödliche Krankheitsverläufe nimmt mit zunehmendem Alter und bestehenden
+    Vorerkrankungen zu.
+    Ressourcenbelastung des Gesundheitssystems
+    Die Belastung des Gesundheitswesens hängt maßgeblich von der regionalen Verbreitung der Infektion,
+    den vorhandenen Kapazitäten und den eingeleiteten Gegenmaßnahmen (Isolierung, Quarantäne,
+    physische Distanzierung) ab. Sie ist aktuell in weiten Teilen Deutschlands gering, kann aber örtlich hoch
+    sein.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 14 ----
+
+14 COVID-19-Lagebericht vom 30.06.2020
+    Empfehlungen und Maßnahmen in Deutschland
+     Aktuelles
+     •    Corona-Warn-App: Infektionsketten digital unterbrechen
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Warn_App.html
+     •    Zu aktuellen Entwicklungen und Maßnahmen informiert das Bundesgesundheitsministerium auf
+          seinen Internetseiten: https://www.bundesgesundheitsministerium.de/coronavirus.html
+     Neue Dokumente
+     •    Inanspruchnahme deutscher Notaufnahmen während der COVID-19-Pandemie – der
+          Notaufnahme-Situationsreport (SitRep), Epid Bull 27/2020 online vorab (25.06.2020)
+          https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/27/Art_01.html
+     •    Nutzung von Routinedaten aus Not­auf­nahmen: Beschreibung zweier Häufungen von
+          Notaufnahmevorstellungen in Wolfsburg und Stuttgart während der COVID-19-Pandemie, Epid
+          Bull 27/2020 online vorab (25.06.2020)
+          https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/27/Art_02.html
+     •    Corona-Warn-App: Empfehlungen für niedergelassene Ärzte zum Umgang mit Personen mit der
+          Meldung "erhöhtes Risiko" einer SARS-CoV-2-Infektion (24.06.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Handreichung-
+          Arzt.html
+     •    Praxisberichte der Fachgruppe COVRIIN zu Biomarker bei COVID-19 (23.06.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/COVRIIN_Dok/Biomarker_covid
+          19.pdf
+     •    Informationen zur Ausweisung internationaler Risikogebiete (aktualisierte Liste 26.06.2020 12:30
+          Uhr):
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+     Aktualisierte Dokumente
+     •    Corona-Warn-App: Infektionsketten digital unterbrechen (26.06.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Warn_App.html
+     •    STAKOB: Hinweise zu Erkennung, Diagnostik und Therapie (24.06.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Warn_App.html
+     •    RKI-Newsletter Infektionsschutz: Ausgabe vom (22.06.2020)
+          https://www.rki.de/SharedDocs/Newsletter/Infektionsschutz/2020/200622-
+          NewsletterInfektionsschutz.html?view=renderNewsletterHtml
+     •    Aktuelle Datenlage zur Behandlung von COVID-19 mit antiviraler Therapie (19.06.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/COVRIIN_Dok/Antivirale_Thera
+          pien.pdf
+    Epidemiologische Lage global
+     Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+     Internetseiten des ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+     Das WHO Regionalbüro für Europa, die Europäische Kommission und das Europäische Observatorium
+     für Gesundheitssysteme und Gesundheitspolitik haben den COVID-19 Health System Response
+     Monitor (HSRM) veröffentlicht. Er dient dazu, aktuelle Informationen aus den europäischen Ländern zu
+     sammeln und deren Reaktionen auf die Krise zu dokumentieren. Der Fokus liegt dabei auf
+     Gesundheitssystemen und Public-Health-Initiativen (Zugang auf Englisch):
+     https://www.covid19healthsystem.org/mainpage.aspx
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 15 ----
+
+15                                                                            COVID-19-Lagebericht vom 30.06.2020 15
+   Empfehlungen und Maßnahmen global
+    Europa
+    •    Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+         https://www.ecdc.europa.eu/en/covid-19-pandemic
+    •    Daten zu Fallzahlen und 7-Tage-Inzidenzen weltweit findet man auf dem Dashboard des ECDC:
+         https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+    Weltweit
+    •    WHO COVID-19-Dashboard https://covid19.who.int
+    •    Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+         https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+    •    Tägliche Situation Reports der WHO:
+         https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.

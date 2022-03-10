@@ -1,0 +1,57 @@
+# 2021-09-16-en.pdf date: 2021-09-16 lang: en
+
+# ---- page 1 ----
+
+
+
+# ---- page 2 ----
+
+
+
+# ---- page 3 ----
+
+
+
+# ---- page 4 ----
+
+4 COVID-19 situation report as of 16/09/2021
+    Sample calculations as well as an excel sheet presenting the daily updated R-value can be retrieved
+    under www.rki.de/covid-19-nowcasting. A detailed description of the methodology is available at
+    https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art 02.html (Epid. Bull. 17 | 2020 from
+    23/04/2020).
+    Annex:
+    Notes on data collection and evaluation
+    The data presented in this situation report represent a snapshot. Information on cases can be obtained
+    and added by the health authorities in the course of the disease. It is not possible to obtain complete
+    data for all variables.
+    If necessary, the local public health departments collect additional information, evaluate reported cases
+    and initiate the necessary infection control measures. In accordance with the Infection Protection Act,
+    the data are transmitted electronically by the local public health departments to the federal state health
+    authority and from there to the RKI on the next working day at the latest. The data is updated at the RKI
+    once a day at 0:00 AM.
+    Due to the data entry and data transmission, there is a time lag from the time the case is reported to the
+    local health department until publication by the RKI, so that there may be deviations with regard to the
+    case numbers from other sources.
+    For the calculation of the incidences, the data of the population statistics of the Federal Statistical Office
+    from 31.12.2020 are used. The calculation of the 7-day incidence is based on the reporting date, i.e. the
+    date on which the local health department became aware of the case and recorded it electronically. For
+    the 7-day incidence, the cases with a reporting date of the last 7 days are counted.
+    The difference from the previous day, on the other hand, as shown in the situation report and
+    dashboard, refers to the date when the case is first published in the RKI's reporting. Thus, it may occur
+    that, e.g. due to transmission delays, cases with a reporting date more than 7 days ago are still included
+    in the situation report. At the same time, the difference from the previous day also takes into account
+    cases that were subsequently deleted due to data quality checks, so that the 7-day incidence cannot be
+    readily inferred from this difference.
+    Notes
+    1    The difference from the previous day refers to the date of receipt at the RKI; due to the delay in transmission,
+         cases from previous days may be included.
+    2    The active cases result from the number of transmitted cases minus the deaths and the estimated number of
+         recovered cases.
+    3    The algorithm for estimating the number of people who have recovered considers information on the onset of
+         the disease and hospitalisation, but not whether there are any late sequelae of the disease, because these
+         data are not regularly recorded in the reporting system.
+    4    The total number of persons vaccinated at least once includes persons who received initial vaccinations with
+         BioNTech, Moderna or AstraZeneca vaccines or vaccination with Janssen vaccine.
+    5    Fully vaccinated against COVID-19 means: two vaccine doses with a vaccine from AstraZeneca, BioNTech,
+         Moderna or one dose with the vaccine from Janssen or a single dose in the case of COVID-19 recovered
+         patients.

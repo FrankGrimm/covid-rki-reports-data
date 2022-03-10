@@ -1,0 +1,253 @@
+# 2020-07-04-en.pdf date: 2020-07-04 lang: en
+
+# ---- page 1 ----
+
+                                                   Coronavirus Disease 2019
+                                                                (COVID-19)
+                          Daily Situation Report of the Robert Koch Institute
+                                              04/07/2020 - UPDATED STATUS FOR GERMANY
+    Confirmed cases                                     Deaths             Deaths (%)                    Recovered
+          196,096                                       9,010                 4.6%                    ca. 181,300
+          (+ 422*)                                      (+7*)
+                                                                                               *Change from previous day; **Estimate
+COVID-19 cases are notified to the local public health department in the respective districts, in accordance with the
+German Protection against Infection Act (IfSG). The data are further transmitted through the respective federal state
+health authority to the Robert Koch Institute (RKI). This situation report presents the uniformly recorded nationwide data
+on laboratory-confirmed COVID-19 cases transmitted to RKI.
+        – Changes since the last report are marked blue in the text –
+        Summary (as of 04/07/2020 12:00 AM)
+        •     The cumulative nationwide incidence over the past 7 days was 3.0 cases per 100,000 inhabitants. A
+              total of 119 districts transmitted zero cases.
+        •     In total, 196,096 laboratory-confirmed COVID-19 cases and 9,010 deaths due to COVID-19 have
+              been electronically reported to the RKI in Germany.
+        •     COVID-19 outbreaks continue to be reported sporadically in nursing homes, hospitals refugee
+              facilities and religious communities.
+        •     Outbreaks of COVID-19 in meat processing plants have been reported in several federal states. In
+              the district of Guetersloh in North Rhine-Westphalia, such an outbreak has led to a high 7-day
+              incidence of over 50 cases per 100,000 inhabitants.
+      Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 2 ----
+
+      COVID-19 Situation Report 04/07/2020
+2
+  Epidemiological Situation in Germany
+     Geographical distribution of cases
+    Epidemiological analyses are based on validated cases notified electronically to the RKI in line with the
+    Protection Against Infection Law (Data closure: 12:00 AM daily). Since January 2020, a total of 196,096
+    (+422) laboratory-confirmed cases of coronavirus disease 2019 (COVID-19) have been electronically
+    reported to and validated by the RKI (see Table 1). A total of 119 districts reported no cases in the past 7
+    days. Information on laboratory-confirmed cases is also available on the RKI website at
+    https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html and https://corona.rki.de.
+      Table 1: Number and cumulative incidence (per 100,000 population) of laboratory-confirmed COVID-19 cases and deaths for
+      each federal state electronically reported to RKI, Germany (04/07/2020, 12:00 AM). The number of new cases covers positive
+      cases, which have been sent to the local health department at the same day, but also at previous days.
+                                                                                            7-day
+                                     Total        Number                     Cases in                              Number of
+                                                                   Cases/                 incidence      Number
+      Federal State                 number         of new                    the last                                deaths/
+                                                                100,000 pop.             per 100,000 of deaths
+                                    of cases        cases                     7 days                              100,000 pop.
+                                                                                             pop.
+       Baden-Wuerttemberg           35,807            36            323        190            1.7          1,837      16.6
+               Bavaria              48,655            68            372        373            2.9          2,600      19.9
+                Berlin               8,393            48            224        224            6.0            214       5.7
+            Brandenburg              3,459             9            138         29            1.2            167       6.6
+               Bremen                1,675             0            245         16            2.3            53        7.8
+              Hamburg                5,217             5            283         24            1.3            260      14.1
+                Hesse               10,918            24            174        166            2.6            511       8.2
+       Mecklenburg-Western
+             Pomerania
+                                      804              1             50          5            0.3            20        1.2
+           Lower Saxony             13,647            15            171        150            1.9            635       8.0
+            North Rhine-
+             Westphalia
+                                    43,853           193            245       1,138           6.3          1,688       9.4
+       Rhineland-Palatinate          7,080            12            173        103            2.5            235       5.8
+              Saarland               2,805             0            283          4            0.4            174      17.6
+               Saxony                5,458             5            134         16            0.4            224       5.5
+           Saxony-Anhalt             1,880             2             85         12            0.5            59        2.7
+        Schleswig-Holstein           3,178             2            110         30            1.0            152       5.2
+              Thuringia              3,267             2            152         18            0.8            181       8.4
+                Total               196,096          422            236       2,498           3.0          9,010      10.8
+    Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 3 ----
+
+                                                                                         COVID-19 Situation Report 04/07/2020
+3                                                                                                                                3
+    Distribution of cases over time
+    The first COVID-19 cases in Germany were notified in January 2020. In Figure 1 shows COVID-19
+    transmitted to RKI according to date of illness onset from 01.03.2020 onwards. Of these cases, the onset
+    of symptoms is unknown in 58,587 cases (30%), thus their date of reporting is provided.
+    Figure 1: Number of COVID-19 cases in Germany electronically reported to the RKI by date of symptom onset or –if unknown–
+    alternatively by date of reporting from 01/03/2020 (04/07/2020, 12:00 AM).
+    Clinical aspects
+    Approximately 181,300 people have recovered from their COVID-19 infection. Since the exact date of
+    recovery is unknown in most cases, an algorithm was developed to estimate this number.
+    Table 2: Number of notified COVID-19 deaths by age group and gender electronically reported to RKI (Data available for 9,005
+    of notified deaths; 04/07/2020, 12:00 AM)
+    Gender                                                     Age group (in years)
+                         0-9      10-19       20-29     30-39 40-49   50-59    60-69     70-79    80-89      90-99     100+
+         Male                        2           7        17   52      234      635      1,366    2,101       563         6
+       Female             1                      3         6   22       85      226       663     1,896      1,076       44
+         Total            1          2          10        23   74      319      861      2,029    3,997      1,639       50
+    In total, 9,010 COVID-19-related deaths have been reported in Germany (4.6% of all confirmed cases).
+    So far, three deaths among COVID-19 cases under 20 years of age have been reported to the RKI. Pre-
+    existing medical conditions were reported for all three.
+    Occupation, accommodation or care in facilities
+    In accordance with the Protection Against Infection Act, the RKI receives information on occupation,
+    accommodation or care in a facility relevant for infection control for reported COVID-19 cases
+    Since information on occupation, accommodation or care in these facilities is missing in 25% of cases,
+    the proportion of cases working, accommodated or cared for in these facilities reported here should be
+    considered minimum values. Among the COVID-19 cases reported from the above mentioned facilities,
+    the proportion of cases that actually acquired their infection in these facilities is unknown.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 4 ----
+
+   COVID-19 Situation Report 04/07/2020
+4
+    Table 3: Notified COVID-19-cases according to possible occupation, accommodation or care in facilities relevant for
+    transmission of infectious diseases electronically reported to RKI (194.968* cases, no data available for 48.854 cases;
+    04/07/2020, 12:00 AM)
+    Facility according to                                                              Total        Hospitalised Deaths Recovered
+                                                                                                                                  (estimate)
+                                                 Cared for / accommodated
+    § 23 IfSG (e.g. hospitals, outpatient                                                 3,401               2,440         628             2,700
+                                                 in facility
+    clinics and practices, dialysis clinics or
+    outpatient nursing services)
+                                                 Occupation in facility                  13,925                  637         20            13,800
+    § 33 IfSG (e.g. day care facilities,         Cared for / accommodated
+    kindergartens, facilities for after                                                   3,329                   72          1             3,000
+                                                 in facility*
+    school care, schools or other
+    educational facilities, children’s
+    homes, holiday camps)                        Occupation in facility                   2,756                  145          7             2,700
+    § 36 IfSG (e.g. facilities for the care of
+                                                 Cared for / accommodated
+    older, disabled, or other persons in                                                 18,009               4,085      3,557             14,100
+                                                 in facility
+    need of care, homeless shelters,
+    community facilities for asylum-
+    seekers, repatriates and refugees as
+    well as other mass accommodation
+                                                 Occupation in facility                   9,952                  423         43             9,800
+    and prisons)
+    § 42 IfSG (e.g. meat processing plants
+    or kitchens in the catering trade, in
+    inns, restaurants, canteens, cafés, or Occupation in facility                         4,532                  192          6             3,800
+    other establishments with or for
+    communal catering)
+    Neither cared for, accommodated in
+    nor working in a facility                                                            90,210              15,933      3,436             84,700
+    *for care according to § 33 IfSG only cases under 18 years of age are taken into account, as other information may be assumed to be incorrect.
+    IfSG: Protection Against Infection Law
+    Outbreaks
+    A high 7-day incidence with more than 25 cases per 100,000 inhabitants was observed in two districts,
+    the district of Guetersloh (North Rhine-Westphalia) and the district of Germersheim (Rhineland-
+    Palatinate) .
+    The high 7-day incidence in the district Guetersloh is due to an outbreak in a meat processing plant.
+    Increased case numbers in neighboring districts are linked to this outbreak, as employees of the meat
+    processing company are residents of these districts. More than 1,500 employees were tested positive
+    for SARS-CoV-2. The first employees were discharge from quarantine 14 days after being tested positive
+    for SARS-CoV-2 and 48 hours after resolution of symptoms.
+    In the district of Germersheim, an increase in COVID-19 cases was observed in connection with a
+    religious community.
+    A few COVID-19 outbreaks continue to be reported in nursing homes and hospitals, refugee facilities as
+    well as religious communities.
+    Estimation of the reproduction number (R)
+    The presented case numbers do not fully reflect the temporal progression of incident COVID-19-cases,
+    since the time intervals between actual onset of illness and diagnosis, reporting, as well as data
+    transmission to the RKI vary greatly. Therefore, a nowcasting approach is applied to model the true
+    temporal progression of COVID-19 cases according to illness onset. Figure 2 shows the result of this
+    analysis.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 5 ----
+
+                                                                                             COVID-19 Situation Report 04/07/2020
+5                                                                                                                                 5
+    The reproduction number, R, is defined as the mean number of people infected by one infected person.
+    R can only be estimated based on statistical analyses such as nowcasting and not directly extracted from
+    the notification system.
+    Figure 2: Number of notified COVID-19 cases with known date of illness onset (dark blue), estimated date of illness onset for
+    cases without reported date of onset (grey) and estimated number of not yet notified cases according to illness onset
+    electronically reported to RKI (light blue) (as of 04/07/2020, 12 AM, taking into account cases up to 30/06/2020).
+    The sensitive R-value reported can be estimated by using a 4-day moving average of the number of new
+    cases estimated by nowcasting. This 4-day value reflects the infection situation about one to two weeks
+    ago. This value reacts sensitively to short-term changes in case numbers, such as those caused by
+    individual outbreaks. This can lead to relatively large fluctuations, especially if the total number of new
+    cases is small. The current estimate of the 4-day R-value is 0.93 (95%-prediction interval: 0.75 – 1.12)
+    and is based on electronically notified cases as of 04/07/2020, 12:00 AM.
+    Similarly, the 7-day R-value is estimated by using a moving 7-day average of the nowcasting curve. This
+    compensates for fluctuations more effectively, as this value represents a slightly later course of infection
+    of about one to a little over two weeks ago. The 7-day R-value is estimated at 0.94 (95% prediction
+    interval: 0.85 – 1.06) and is based on electronically notified cases as of 04/07/2020, 12:00 AM.
+    In Mid-June, the estimated reproduction numbers (R-value and 7-day R-value) temporarily increased,
+    but have since again decreased to a value of 1 or below. The marked increase was related to increased
+    case numbers mainly due to local, outbreak-related COVID-19 transmission with the outbreak in North
+    Rhine-Westphalia playing a particularly important role (see section “Outbreaks”, above). The outbreak
+    dynamics are also influenced in part by serial tests performed among possibly exposed persons, which
+    led to the rapid detection of large numbers of additional COVID-19 cases in some of the outbreak
+    settings. Since the case numbers in Germany are at a low level overall, local outbreaks have a relatively
+    strong influence on the value of the reproduction number. For this reason, the reproduction numbers
+    may continue to fluctuate markedly.
+    Sample calculations as well as an excel sheet presenting both R-values with daily updates can be found
+    under www.rki.de/covid-19-nowcasting. A detailed methodological explanation of the more stable 7day
+    R-value is also available there. More general information and sample calculations for both R-values can
+    also be found in our FAQs (http://www.rki.de/covid-19-faq).
+    A detailed description of the methodology is available at
+    https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html (Epid. Bull. 17 | 2020 from
+    23/04/2020)
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 6 ----
+
+      COVID-19 Situation Report 04/07/2020
+6
+  Risk Assessment by the RKI
+       General assessment
+       At the global and the national level, the situation is very dynamic and must be taken seriously. The
+       number of newly reported cases has been declining since mid of March. Currently, many districts are
+       transmitting very few or no cases to the RKI. COVID-19 outbreaks continue to be reported sporadically.
+       The RKI currently assesses the risk to the health of the German population overall as high and as very
+       high for risk groups. This assessment may change at short notice based on new insights.
+       Infection risk
+       The risk of infection depends heavily on the regional spread, living conditions and also on individual
+       behaviour.
+       Disease severity
+       In most cases, the disease is mild. The probability of progression towards serious disease increases with
+       increasing age and underlying illnesses.
+       Burden on health system
+       The burden on the health care system depends on the geographical distribution of cases, health care
+       capacity and initiation of containment measures (isolation, quarantine, physical distancing etc.). The
+       burden is currently low in many regions, but may be high in some locations.
+  Measures taken by Germany
+   -   Information on the designation of international risk areas (03.07.2020)
+       https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+   -   Guidance for the public „Do I have it and what should I do?“ in three languages (26.06.2020) (in English,
+       French and German)
+       https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Orientierungshilfe_Buerger.html
+   -   Corona-Warn-App
+       https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Warn_App.html
+   -   Regulations for persons entering Germany in connection with the novel coronavirus SARS-CoV-2
+       (15.06.2020) https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/BMG_Merkbl
+       att_Reisende_Tab.html
+   -   Information on additional regulations at the regional level regarding control measures such as physical
+       distancing or quarantine regulations for persons entering from other countries can be accessed here:
+       https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-bundeslaender-1745198 (in
+       German)
+   -   (Non-medical) face masks must be worn on public transport and in shops in all federal states.
+   -   Data on current disease activity can be found in the daily situation reports and on the RKI dashboard:
+       https://corona.rki.de/
+   -   A distance of 1.5 metres to other indivduals must be maintained in public spaces:
+       https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-mit-
+       den-regierungschefinnen-und-regierungschefs-der-laender-1733248 (in German)
+     Note: The report is a snapshot and is continuously updated.

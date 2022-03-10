@@ -1,0 +1,35 @@
+"0","1","2","3","4","5","6"
+"","Alter <18","","Alter 18-59","","Alter ≥60 Jahre",""
+"","Kumuliert 
+seit 
+01.02.2021 
+(KW05)","KW  
+23-26","Kumuliert 
+seit 
+01.02.2021 
+(KW05)","KW  
+23-26","Kumuliert 
+seit 
+01.02.2021 
+(KW05)","KW  
+23-26"
+"COVID-19 Fälle mit vollständiger 
+Impfung a)","15","5","3.297","403","4.604","296"
+"Impfdurchbrüche (symptomatisch) 
+b)","7","1","1.966","265","1.833","117"
+"-davon Angaben zu VOC 
+vorhanden","6","1","1.137","146","1.040","56"
+"Impfdurchbrüche mit B.1.1.7  
+(n / [%]) c)","5 / 83%","0 / 0%","934 / 82%","56 / 38%","911 / 88%","27 / 48%"
+"hospitalisierte Impfdurchbrüche 
+mit B.1.1.7, (n / [%]) c, d)","0 / 0%","0 / 0%","25 / 2%","1 / 1%","247 / 26%","1 / 2%"
+"Impfdurchbrüche mit B.1.617.2 
+(n / [%]) c)","1 / 17%","1 / 100%","92 / 8%","81 / 55%","28 / 3%","25 / 45%"
+"hospitalisierte Impfdurchbrüche 
+mit B.1.617.2, (n / [%]) c, d)","0 / 0%","0 / 0%","0 / 0%","0 / 0%","5 / 1%","5 / 10%"
+"COVID-19 Fälle mit klinischer 
+Symptomatik e)","135.051","3.896","676.808","12.310","163.294","1.742"
+"Anteil Impfdurchbrüche unter 
+COVID-19 Fällen [%] f)","0,01","0,03","0,29","2,15","1,12","6,72"
+"Anteil vollständig Geimpfte in der 
+Bevölkerung (Impfquote) [%] g)","0,40","-","22,20","-","49,40","-"

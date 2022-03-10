@@ -1,0 +1,366 @@
+# 2020-11-18-en.pdf date: 2020-11-18 lang: en
+
+# ---- page 1 ----
+
+                                                      Coronavirus Disease 2019
+                                                                      (COVID-19)
+                             Daily Situation Report of the Robert Koch Institute
+                                                  18/11/2020 - UPDATED STATUS FOR GERMANY
+                                                                                                                      DIVI -Intensive care
+          Confirmed cases                                       7-day incidence (7-di)
+                                                                                                                              register
+                                                                             No. of districts with 7-di
+      Total1             Active cases2             Total population                                                   Cases currently in ICU
+                                                                                 > 50/100,000 pop
+     +17,561                 +1,000                  139 cases/                            +0                                    + 44
+    (833,307)              [273,700]                100,000 EW                           [375]                                 [3,517]
+                                                         People              No. of districts with 7-di                 Ended treatment;
+   Recovered3                Deaths
+                                                       ≥ 60 years               > 100/100,000 pop                     thereof deceased [%]
+     +16,400                  +305                   103 cases/                            -8                                    + 406
+  (ca. 564,500)             (13,119)                100,000 EW                           [266]                                    13%
+Numbers in () brackets show cumulative values, numbers in [] brackets show current values.
+1
+  The difference to previous day relates to data entry at RKI; due to delay of data transmission former cases may be included.
+2
+  Active cases were calculated from the number of transmitted cases minus deaths and the estimated number of recovered cases.
+3 The algorithm for estimation of recovered cases considers information about disease onset and hospitalization but not for late effects because such
+  data were not recorded regularly.
+  COVID-19 cases are notified to the local public health department in the respective districts, in accordance with the German Protection against
+  Infection Act (IfSG). The data are further transmitted through the respective federal state health authority to the Robert Koch Institute (RKI). This
+  situation report presents the uniformly recorded nationwide data on laboratory-confirmed COVID-19 cases transmitted to RKI.
+    – Changes since the last report are marked blue in the text –
+    Summary (as of 18/11/2020, 12:00 AM)
+    • Currently, an increase of transmissions in the population in Germany can be observed. Therefore, the entire population is
+        strongly encouraged to commit itself to infection prevention and control.
+    • The nationwide incidence over the past 7 days is 139 cases per 100,000 population.
+    • Since the beginning of September, the proportion of cases in older age groups has been increasing again. The 7-day
+        incidence of people ≥ 60 years is currently 103 cases/100,000 population.
+    • The 7-day incidence in Bavaria, Berlin, Bremen, Hesse, North Rhine-Westphalia, Saarland, Rhineland-Palatinate and Saxony
+        is higher than the national total 7-day incidence.
+    • Almost all districts have a high 7-day incidence. Only 6 districts have an incidence of ≤ 25 cases/100,000 population. In
+        comparison, 266 districts have an incidence of >100 cases/100,000 population and of these, 21 districts have an incidence
+        of >250 cases/100,000 population.
+    • The high nationwide number of cases is caused by increasingly diffuse transmission, with numerous clusters in households,
+        but also in community institutions, nursing and long-term care homes, as well as in occupational settings or related to
+        religious events. For a large proportion of cases the transmission setting remains unclear.
+    • Since mid of October, the number of COVID-19 patients requiring intensive care has strongly increased, from 655 patients
+        on October 15th to 3,561 patients on 18/11/2020.
+    • On 18/11/2020, 17,561 new laboratory-confirmed COVID-19 cases and 305 new deaths associated with COVID-19 have
+        been transmitted to the RKI in Germany.
+
+
+# ---- page 2 ----
+
+      COVID-19 Situation Report 18/11/2020
+2
+  Epidemiological Situation in Germany
+      In accordance with the international standards of WHO 1 and ECDC², RKI considers all laboratory
+      confirmations of SARS-CoV-2, irrespective of the presence and severity of clinical symptoms, as COVID-19
+      cases. Thus, in the following report the term "COVID-19 cases" covers acute SARS-CoV-2 infections as
+      well as cases of COVID-19 disease.
+      General current assessment
+      After a temporary stabilisation of case numbers at a higher level in late August and early September,
+      there is currently an increase of transmission within the population in all federal states. The proportion
+      of COVID-19 cases in older age groups is currently increasing. The reported R-values were stable well
+      above 1 since the beginning of October. Over the past few days the R-value has been fluctuating and is
+      currently around 1. This means that, on average, each person infected with SARS-CoV-2 infects another
+      person. As the number of infected persons is currently very high in Germany, this means that there is still
+      a high number of new cases every day.
+      The data table on page 1 was adapted on November 11. The aim of the change is to focus on the current
+      situation primarily. Therefore, changes to the previous day are given priority. Reporting data from other
+      surveillance systems will become more visible. In particular data on ICU capacities are of great
+      importance in the current situation.
+      There are outbreaks in various districts throughout Germany, which are associated with different
+      situations, including households and in old people’s and nursing homes. In addition, in many districts
+      there is an increasingly diffuse spread of SARS-CoV-2, without traceable transmission chains.
+      Currently, however, the number of illnesses among older people is on the rise again. As they more often
+      have a severe course due to COVID-19, the number of serious cases and deaths is also increasing. These
+      can be avoided if we prevent the spread of the SARS-CoV-2 virus with the help of infection control
+      measures.
+      It is therefore still necessary for the entire population to be committed to infection prevention and
+      control, e.g. by consistently observing rules of distance and hygiene - also outdoors -, by ventilating
+      indoor spaces and, where indicated, by wearing a community mask correctly. Crowds of people -
+      especially indoors - should be avoided.
+      1
+         World Health Organization, https://www.who.int/publications/i/item/WHO-2019-nCoV-Surveillance_Case_Definition-2020.1
+      ² European Centre for Disease Prevention and Control, https://www.ecdc.europa.eu/en/covid-19/surveillance/case-definition
+      Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 3 ----
+
+                                                                                              COVID-19 Situation Report 18/11/2020
+3                                                                                                                                  3
+  Geographical distribution of cases
+  Epidemiological analyses are based on validated cases notified electronically to the RKI in line with the
+  Protection Against Infection Law (Data closure: 12:00 AM daily). Since January 2020, a total of 833,307
+  (+17,561) laboratory-confirmed cases of COVID-19 have been reported to and validated by the RKI
+  (Table 1).
+  Table 1: Number and cumulative incidence (per 100,000 population) of laboratory-confirmed COVID-19 cases and deaths for
+  each federal state electronically reported to RKI, Germany (18/11/2020, 12:00 AM). The number of new cases includes positive
+  cases notified to the local health department at the same day, but also at previous days.
+                                                                                             7-day
+                                                                                                                    Number of
+                                             Total      Number      Cases/    Cases in incidence Number
+   Federal State                                                                                                      deaths/
+                                           number        of new    100,000     the last       per           of
+                                                                                                                      100,000
+                                           of cases       cases*     pop.       7 days     100,000 deaths
+                                                                                                                         pop.
+                                                                                             pop.
+   Baden-Wuerttemberg                       120,870          2,274    1,089      14,614          132       2,333              21.0
+   Bavaria                                  164,288          3,559    1,252      22,444          171       3,262              24.9
+   Berlin                                     50,611         1,572    1,379       7,855          214         394              10.7
+   Brandenburg                                13,517           257      536       1,883            75        253              10.0
+   Bremen                                      8,447           170    1,240       1,074          158         102              15.0
+   Hamburg                                    20,830           425    1,128       1,889          102         315              17.1
+   Hesse                                      68,070         1,567    1,083       9,970          159         935              14.9
+   Mecklenburg-
+                                               4,620           156      287         698            43          44              2.7
+   Western Pomerania
+   Lower Saxony                               56,924           742      712       7,045            88        935              11.7
+   North Rhine-Westphalia                   211,380          4,156    1,178      29,598          165       2,766              15.4
+   Rhineland-Palatinate                       34,144           685      834       5,724          140         381               9.3
+   Saarland                                   10,524           224    1,066       1,339          136         228              23.1
+   Saxony                                     36,891           808      906       6,539          161         567              13.9
+   Saxony-Anhalt                               8,669           286      395       1,367            62        108               4.9
+   Schleswig-Holstein                         11,917           294      410       1,435            49        227               7.8
+   Thuringia                                  11,605           386      544       2,044            96        269              12.6
+   Total                                    833,307        17,561     1,002 115,518              139      13,119              15.8
+  Quality checks and data cleaning by the health authorities and regional offices can lead to corrections to cases previously
+  transmitted (e,g, detection of duplicate reports). This can occasionally lead to negative values for the number of new cases.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 4 ----
+
+  COVID-19 Situation Report 18/11/2020
+4
+  Distribution of cases over time
+  The first COVID-19 cases in Germany were notified in January 2020, Figure 1 shows COVID-19 cases
+  transmitted to RKI according to date of illness onset from 01/03/2020 onwards. Of these cases, the onset
+  of symptoms is unknown for 438,667 cases (53%) thus their date of reporting is provided in Figure 1.
+  Figure 1: Number of COVID-19 cases in Germany electronically reported to the RKI by the date of symptoms onset or – if
+  unknown – alternatively by date of reporting since 01/03/2020 (18/11/2020, 12:00 AM).
+  Occupation, accommodation or care in facilities
+  In accordance with the Protection Against Infection Act (Infektionsschutzgesetz, IfSG), the RKI receives
+  information on occupation, accommodation or care in a facility relevant for infection control for
+  reported COVID-19 cases.
+  Since information on occupation, accommodation or care in these facilities is missing in many cases, the
+  numbers of cases working, accommodated or cared for in these facilities reported here should be
+  considered minimum values. Among the COVID-19 cases reported from the above-mentioned facilities,
+  the proportion of cases that actually acquired their infection in these facilities is unknown.
+  The number of COVID-19 cases was highest among persons cared for or employed in care facilities
+  according to § 36 IfSG, among persons employed in medical facilities according to § 23 IfSG and among
+  persons cared for in educational facilities according to § 33 IfSG (Table 2). The number of deaths was
+  particularly high among persons cared for in facilities according to §§ 23 and 36.
+  As of today, the number and proportion of persons ≥ 60 years old are reported in each category of Table
+  2.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 5 ----
+
+                                                                                                        COVID-19 Situation Report 18/11/2020
+5                                                                                                                                                     5
+  Table 2: Notified COVID-19-cases according to possible occupation, accommodation or care in facilities relevant for transmission
+  of infectious diseases according to the Protection Against Infection Act (IfSG), reported to RKI (n=115,128 cases; 18/11/2020,
+  12:00 AM)
+                                                                                       ≥60 years
+   Einrichtung gemäß                                                        Total        Number        Hospitalised          Deaths Recovered
+                                                                                                                                           (Estimate)
+                                                                                     Proportion
+                                                 Cared for /
+                                                                                             4,788
+   § 23 IfSG (e.g. hospitals, outpatient         accommodated                7,330                             4,692           940              5,000
+                                                                                              65%
+   clinics and practices, dialysis clinics or in facility
+   outpatient nursing services)                  Occupation in                               1,954
+                                                                           24,831                                913             25           22,200
+                                                 facility                                       8%
+   § 33 IfSG (e.g. day care facilities,          Cared for /
+   kindergartens, facilities for after           accommodated              24,216                ―               274              3           19,600
+   school care, schools or other                 in facility*
+   educational facilities, children’s            Occupation in                                 861
+                                                                           11,299                                319              9             9,600
+   homes, holiday camps)                         facility                                       8%
+   § 36 IfSG (e.g. facilities for the care of Cared for /
+                                                                                            21,053
+   older, disabled, or other persons in          accommodated              30,654                              5,808         4,533            21,500
+                                                                                              69%
+   need of care, homeless shelters,              in facility
+   community facilities for asylum-
+   seekers, repatriates and refugees as          Occupation in                               1,905
+                                                                           16,798                                596             48           14,800
+   well as other mass accommodation              facility                                     11%
+   and prisons)
+  *for care according to § 33 IfSG only cases under 18 years of age are taken into account, as other information may be assumed to be incorrect.
+  Due to changes in the variables, no notifications according to §42 are listed in Table 5.
+  Outbreaks
+  An increased incidence of >25 cases in 7 days/100,000 population was reported for almost every district
+  (406 of 412). There are 21 districts in the group of the highest incidence of >250 to 500 cases/100,000 in
+  the last 7 days. The dashboard (https://corona.rki.de) shows all affected districts.
+  In most districts the transmission is diffuse, with several cases clustering in households. Many small
+  outbreaks in retirement and nursing homes, in hospitals and facilities for asylum seekers and refugees,
+  and community facilities, kindergartens and schools, various occupational settings and in the context of
+  religious gatherings continue to contribute to the increase of incidence.
+  Estimation of the reproduction number (R)
+  The reproduction number, R, is defined as the mean number of people infected by one infected person,
+  The estimation of the R-value is based on the so-called nowcasting (Figure 2), a statistical procedure that
+  shows the development of the number of cases after the onset of the disease and also forecasts it for
+  the last few days, This forecast is subject to uncertainty, which is also reflected in the prediction intervals
+  given for the R-value, After other case reports have been received at the RKI, the R-value is adjusted for
+  the past days and, if necessary, corrected upwards or downwards, In recent weeks, values reported at
+  the beginning of a week were typically corrected slightly upwards, They had thus slightly underestimated
+  the real COVID-19 events in Germany, values estimated towards the end of a week were more stable,
+  The currently estimated course of the R-value is shown in Figure 3,
+                          4-day R-value                                                               7-day R-value
+                                 0.88                                                                       0.95
+          (95%-prediction interval: 0.73 – 1.06)                                      (95%- Prädiktionsintervall: 0.87 – 1.02)
+  Delays in reporting of case numbers at weekend days can lead to cyclical fluctuations of the 4-day R-value, The 7-day R-value is
+  less affected because all week days are used to determine the value,
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 6 ----
+
+  COVID-19 Situation Report 18/11/2020
+6
+  Figure 2: Number of notified COVID-19 cases with known date of illness onset (dark blue), estimated date of illness onset for
+  cases without reported date of onset (grey) and estimated number of not yet notified cases according to illness onset
+  electronically reported to RKI (orange) (as of 18/11/2020, 12 AM, taking into account cases up to 14/11/2020),
+  Figure 3: The estimated R-values (in green and orange) over the last 60 days, against the background of estimated number of
+  COVID-19 cases according to illness onset (as of 18/11/2020, 12 AM, taking into account cases up to 14/11/2020),
+  The reported R-values have been stable well above 1 in October. Over the past few days the R-value has
+  been fluctuating and is currently around 1. This means that, on average, each person infected with SARS-
+  CoV-2 infects another person. As the number of infected persons is currently very high in Germany, this
+  means that there is still a high number of new cases every day.
+  Sample calculations as well as an excel sheet presenting both R-values with daily updates can be found
+  under www.rki.de/covid-19-nowcasting. A detailed description of the methodology is available at
+  https://ww.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html (Epid. Bull, 17 | 2020 from
+  23/04/2020).
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 7 ----
+
+                                                                                              COVID-19 Situation Report 18/11/2020
+7                                                                                                                                  7
+ DIVI intensive care register
+    The German Interdisciplinary Association for Intensive and Emergency Medicine (DIVI) has in
+    collaboration with RKI established a registry to document the number of available intensive care beds as
+    well as the number of COVID-19 cases treated in participating hospitals on a daily basis. Since
+    16/04/2020, all hospitals with intensive care beds are required to report
+    (https://www.intensivregister.de/#/intensivregister).
+    As of 18/11/2020, a total of 1,288 hospitals or departments reported to the DIVI registry. Overall, 28,281
+    intensive care beds were registered, of which 22,056 (78%) are occupied, and 6,225 (22%) are currently
+    available. The number of COVID-19 cases treated in participating hospitals is shown in Table 3.
+    Table 3: COVID-19 patients requiring intensive care (ICU) recorded in the DIVI register (18/11/2020, 12:15 PM).
+                                                             Number of patients  Percentage          Change to previous day*
+        Currently in ICU                                                 3,561                                                 +44
+            - of these: with invasive                                    2,024           56%                                   +14
+            mechanical ventilation
+        Discharged from ICU                                             27,210                                               +406
+            - of these: deaths                                           6,046           22%                                   +52
+    *The interpretation of these numbers must take into account the number of reporting hospitals and therefore the number of
+    reported patients may change from day to day. On certain days, this can explain an occasionally important decrease or increase
+    in the cumulative number of discharged patients or deaths compared with the day before.
+ Surveys on SARS-CoV-2 laboratory tests in Germany
+    To assess the SARS-CoV-2 test numbers, data from university hospitals, research institutions as well as
+    clinical and outpatient laboratories throughout Germany are merged weekly at the RKI. These data are
+    ascertained on a voluntary basis and are transmitted to RKI via an internet-based RKI test laboratory
+    survey, via the network for respiratory viruses (RespVir), via the laboratory-based SARS-CoV-2
+    Surveillance established at the RKI (an extension of the Antibiotic Resistance Surveillance (ARS)) and via
+    the enquiry of a professional association of laboratory medicine.
+    Since the beginning of testing in Germany up to and including week 46/2020, 26,456,866 laboratory tests
+    have been recorded to date, 865,595 of which have tested positive for SARS-CoV-2.
+    Up to and including week 46, 255 laboratories have registered for the RKI test laboratory survey or in
+    one of the other transmitting networks and transmit data upon reminder largely on a weekly basis. Since
+    laboratories can register and correct the tests of the previous calendar weeks at a later date, it is
+    possible that the ascertained numbers can increase retrospectively. It should be noted that the number
+    of tests is not the same as the number of persons tested, as the data may include multiple tests of
+    individual patients (Table 4 with data for the last 10 weeks – complete data since beginning of testing are
+    available at www.rki.de/covid-19-testzahlen (in German)).
+    As testing criteria were adapted to the current situation of limited testing capacities in face of high case
+    numbers and to take into account the common cold season, in week 46 the proportion of positive tests
+    cannot be compared directly to former weeks (Adapted testing criteria:
+    https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Testkriterien_Herbst_W
+    inter.html in German).
+    Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 8 ----
+
+      COVID-19 Situation Report 18/11/2020
+8
+      Table 4: Number of SARS-CoV-2-laboratory tests in Germany (as of 03/11/2020)
+                                               Number of                               Proportion   Number of reporting
+            Calendar week 2020                                    Tested positive
+                                                   tests                               positive (%)    laboratories
+        Up to & including week 36              13,406,144            290,267
+        37                                     1,164,932              10,046              0.86             194
+        38                                     1,146,565              13,261              1.16             203
+        39                                     1,155,995              14,094              1.22             189
+        40                                     1,112,967              19,407              1.74             193
+        41                                     1,188,338              29,567              2.49             191
+        42                                     1,263,716              44,759              3.54             200
+        43                                     1,409,437              77,575              5.50             203
+        44                                     1,626,132             116,411              7.16             203
+        45                                     1,597,697             125,626              7.86             200
+        46*                                    1,384,943             124,582              9.00             193
+        Total                                 26,456,866             865,595
+         * Change of testing criteria on 11/11/2020 – Limited comparability to former weeks
+  Risk Assessment by the RKI
+      In view of the recent increase in case numbers with severe disease, which have to be treated in ICUs and
+      the increasingly tense situation in the health system the risk assessment of the RKI was adapted to the
+      situation on 11/11/2020, The current version can be found here:
+      https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung,html (in German)
+  Measures taken in Germany
+      -    Recommendations on distribution of COVID-19-vaccines by The Standing Committee on
+           Immunisation (STIKO). The German Ethics Council and German National Academy of Sciences
+           Leopoldina (09/11/2020, in German) https://www.ethikrat.org/fileadmin/Publikationen/Ad-hoc-
+           Empfehlungen/deutsch/gemeinsames-positionspapier-stiko-der-leopoldina-
+           impfstoffpriorisierung.pdf
+      -    National Testing Strategy – who will be tested for SARS-CoV-2 in Germany (14/10/2020, in German)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Nat-Teststrat.html
+      -    SARS-CoV-2 test criteria for schools during the COVID 19 pandemic (12/10/2020, in German)
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Testkriterien-
+           Schulen.pdf
+      -    Preventive measures in schools during the COVID 19 pandemic (12/10/2020) (in German)
+      -    https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Praevention-Schulen.pdf
+      -    Selected and regularly updated information on COVID-19 (in English)
+           https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/COVID19.html
+      -    Information on the designation of international risk areas
+           https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+      -    The ministry of health has published a record of all measures implemented in Germany since
+           27/01/2020 (in German)
+           https://www.bundesgesundheitsministerium.de/coronavirus/chronik-coronavirus.html
+      Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 9 ----
+
+                                                                             COVID-19 Situation Report 18/11/2020
+9                                                                                                                 9
+  -    Information from the Ministry of Health for travellers entering Germany: Frequently asked questions
+       and answers (in German)
+       https://www.bundesgesundheitsministerium.de/coronavirus-infos-reisende/faq-tests-
+       einreisende.html
+  -    Corona-Warn-App
+       https://www.rki.de/EN/Content/infections/epidemiology/outbreaks/COVID-19/CWA/CWA.html
+  -    Orders concerning travel after the determination of an epidemic situation of national significance by
+       the German Bundestag (29/09/2020)
+       https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Transport/BMG_Merkblatt_Reise
+       nde_Tab.html
+  -    Information on additional regulations at the regional level regarding control measures such as
+       physical distancing or quarantine regulations for persons entering from other countries can be
+       accessed here: (in German)
+       https://www.bundesregierung.de/breg-de/themen/coronavirus/corona-bundeslaender-1745198
+  -    Data on current disease activity can be found on the RKI dashboard:
+       https://corona.rki.de/
+  -    A distance of 1.5 metres to other individuals must be maintained in public spaces: (in German)
+       https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-
+       mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248
+  -    (Non-medical) face masks must be worn on public transport and in shops in all federal states.
+  Note: The report is a snapshot and is continuously updated.

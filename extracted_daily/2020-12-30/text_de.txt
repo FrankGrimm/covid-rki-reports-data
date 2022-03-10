@@ -1,0 +1,653 @@
+# 2020-12-30-de.pdf date: 2020-12-30 lang: de
+
+# ---- page 1 ----
+
+                                      Täglicher Lagebericht des RKI
+                                  zur Coronavirus-Krankheit-2019
+                                                              (COVID-19)
+                                    30.12.2020 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+        Bestätigte Fälle                                  7-Tage-Inzidenz (7-TI)                       Impfmonitoring               DIVI-Intensivregister
+                                                                          Anzahl Kreise                   Anzahl erster                     Fälle in
+                                                    Gesamt-
+    Gesamt1            aktive Fälle2                                         mit 7-TI                   Impfungen seit             intensivmedizinischer
+                                                 Bevölkerung
+                                                                        > 50/ 100.000 EW                   dem Vortag                     Behandlung
+    +22.459                 -3.400                      141                       -1                        +37.273                            -1
+ (1.687.185)           [ca. 352.500]             Fälle/ 100.000 EW          [390/412]                                                       [5.648]
+                                                                                                                                              Aus
+                                                                          Anzahl Kreise              Anzahl Geimpfter
+                                                60-79         80+                                                                  intensivmedizinischer
+  Genesene3           Verstorbene1                                           mit 7-TI                    insgesamt mit
+                                                Jahre        Jahre                                                                 Behandlung entlassen,
+                                                                       > 100/ 100.000 EW                 einer Impfung
+                                                                                                                                    davon % verstorben
+    +24.800                +1.129                114          276                -18                         78.109                           +966
+(ca. 1.302.600)            (32.107)              Fälle/ 100.000 EW          [290/412]                                                         28%
+     Zahlen in () Klammern zeigen kumulative Werte, Zahlen in [] Klammern zeigen die aktuellen Werte.
+  1  Die Differenz zum Vortag bezieht sich auf das Eingangsdatum am RKI; aufgrund des Übermittlungsverzugs können Fälle aus vorangegangenen
+     Tagen darunter sein.
+  2
+     Die aktiven Fälle ergeben sich aus der Zahl der übermittelten Fälle abzüglich der Todesfälle und der geschätzten Zahl der Genesenen.
+  3  Der Algorithmus zur Schätzung der Genesenen berücksichtigt Angaben zum Erkrankungsbeginn und zur Hospitalisierung, jedoch nicht, ob ggf.
+     Spätfolgen der Erkrankung vorliegen, weil diese Daten nicht regulär im Meldesystem erfasst werden.
+    COVID-19-Verdachtsfälle und COVID-19-Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an
+    das Gesundheitsamt gemeldet. Das Gesundheitsamt übermittelt diese Daten über die zuständige Landesbehörde an das Robert Koch-Institut
+    (RKI). Im vorliegenden Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu laborbestätigten COVID-
+    19-Fällen dargestellt.
+       •     Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+       Zusammenfassung der aktuellen Lage
+       • Nach wie vor ist eine hohe Anzahl an Übertragungen in der Bevölkerung in Deutschland zu beobachten. Das RKI schätzt die Gefährdung für
+         die Gesundheit der Bevölkerung in Deutschland insgesamt als sehr hoch ein.
+       • Gestern wurden 22.459 neue Fälle und 1.129 neue Todesfälle übermittelt. Die Inzidenz der letzten 7 Tage liegt deutschlandweit bei 141
+         Fällen pro 100.000 Einwohner (EW). In Sachsen und Thüringen liegt sie sehr deutlich über der Gesamtinzidenz.
+       • Aktuell weisen fast alle der 412 Kreise eine hohe 7-Tage-Inzidenz auf. Die 7-Tage-Inzidenz liegt in 290 Kreisen bei >100 Fällen/100.000 EW,
+         davon in 34 Kreisen bei >250-500 Fällen/100.000 EW und in 3 Kreisen bei über 500 Fällen/100.000 EW
+       • Die 7-Tage-Inzidenz bei Personen 60-79 Jahre liegt aktuell bei 114 und bei Personen ≥ 80 Jahre bei 276 Fällen/100.000 EW.
+       • Die hohen bundesweiten Fallzahlen werden durch zumeist diffuse Geschehen, mit zahlreichen Häufungen insbesondere in Haushalten und
+         Alten- und Pflegeheimen verursacht.
+       • Am 30.12.2020 (12:15) befanden sich 5.648 COVID-19-Fälle in intensivmedizinischer Behandlung (-1 zum Vortag). Seit dem Vortag erfolgten
+         965 Neuaufnahmen von COVID-19-Fällen auf eine Intensivstation. +966 Patienten haben ihre Behandlung abgeschlossen, davon sind 28%
+         verstorben.
+       • Am 19.12.2020 wurde im Vereinigten Königreich über eine neue Virusvariante (B1.1.1.7) berichtet. Das ECDC hat am 20.12.2020 hierzu ein
+         Rapid Risk Assessment veröffentlicht. Es ist noch nicht abschließend geklärt, wie sich die neue Variante auf das Infektionsgeschehen auswirkt.
+         In Deutschland wurde dem RKI bisher vereinzelt Fälle mit dieser Virusvariante übermittelt. Es ist zu erwarten, dass weitere bekannt werden.
+       • Seit 26.12.2020 wurden in Deutschland insgesamt 78.109 Personen einmal gegen COVID-19 geimpft (http://www.rki.de/covid-19-
+         impfquoten)
+       • Am 01.01.2021 wird kein Lagebericht des RKI herausgebracht werden. Während der Weihnachtsfeiertage, zum Jahreswechsel und an den
+         umgebenden Tagen ist bei der Interpretation der Fallzahlen zu beachten, dass zum einen meist weniger Personen einen Arzt aufsuchen,
+         dadurch werden weniger Proben genommen und weniger Laboruntersuchungen durchgeführt. Dies führt dazu, dass weniger
+         Erregernachweise an die zuständigen Gesundheitsämter gemeldet werden. Zum anderen kann es sein, dass nicht alle Gesundheitsämter und
+         zuständigen Landesbehörden an allen Tagen an das RKI übermitteln.
+       Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+
+
+# ---- page 2 ----
+
+2 COVID-19-Lagebericht vom 30.12.2020
+    Epidemiologische Lage in Deutschland (Datenstand 30.12.2020, 0:00 Uhr)
+    In Einklang mit den internationalen Standards der WHO 1 und des ECDC 2 wertet das RKI alle
+    labordiagnostischen Nachweise von SARS-CoV-2 mittels Nukleinsäurenachweis (z.B. PCR) oder
+    Erregerisolierung unabhängig vom Vorhandensein oder der Ausprägung einer klinischen Symptomatik
+    als COVID-19-Fälle. Im folgenden Bericht sind somit unter COVID-19-Fällen sowohl akute SARS-CoV-2-
+    Infektionen als auch COVID-19-Erkrankungen zusammengefasst. Weitere Erläuterungen finden sich
+    unter „Hinweise zur Datenerfassung und -bewertung“.
+    Allgemeine aktuelle Einordnung
+    Nach einer vorübergehenden Stabilisierung der Fallzahlen auf einem erhöhten Niveau Ende August und
+    Anfang September ist es im Oktober in allen Bundesländern zu einem steilen Anstieg der Fallzahlen
+    gekommen. Durch die Maßnahmen seit Anfang November stagnierte zwar die Zunahme der Fallzahlen,
+    ohne dass jedoch ein nennenswerter Rückgang erreicht werden konnte. Seit Anfang Dezember ist ein
+    erneuter starker Anstieg der Fallzahlen zu verzeichnen (Abbildung 3).
+    Der R-Wert liegt aktuell unter 1. Aufgrund der nach wie vor sehr hohen Zahl an infizierten Personen in
+    Deutschland bedeutet dies jedoch weiterhin eine hohe Zahl von täglichen Neuinfektionen. Während der
+    Feiertage und zum Jahreswechsel werden COVID-19-Fälle nur verzögert detektiert, erfasst und
+    übermittelt, so dass der R-Wert zudem ggf. unterschätzt wird.
+    Bundesweit gibt es in verschiedenen Kreisen Ausbrüche, die mit unterschiedlichen Situationen in
+    Zusammenhang stehen. So werden zunehmend COVID-19-bedingte Ausbrüche in Haushalten und Alten-
+    und Pflegeheimen übermittelt, aber auch im beruflichen Setting sowie in Schulen und Kitas. Zusätzlich
+    kommt es in zahlreichen Kreisen zu einer zunehmend diffusen Ausbreitung von SARS-CoV-2-Infektionen
+    in die Bevölkerung, ohne dass Infektionsketten eindeutig nachvollziehbar sind. Das genaue
+    Infektionsumfeld lässt sich häufig nicht ermitteln.
+    Aktuell ist in allen Altersgruppen ein Anstieg der 7-Tage-Inzidenzen zu beobachten, insbesondere in den
+    Altersgruppen ab 80 Jahren. Da ältere Personen häufiger von schweren Erkrankungsverläufen von
+    COVID-19 betroffen sind, steigt die Anzahl an schweren Fällen und Todesfällen weiter an. Diese können
+    vermieden werden, wenn alle mit Hilfe der Infektionsschutzmaßnahmen die Ausbreitung des SARS-CoV-
+    2-Virus verlangsamen.
+    Daher ist es weiterhin notwendig, dass sich die gesamte Bevölkerung für den Infektionsschutz engagiert,
+    z. B. indem sie Abstands- und Hygieneregeln konsequent – auch im Freien – einhält, Innenräume lüftet
+    und, wo geboten, eine Mund-Nasen-Bedeckung korrekt trägt. Menschenansammlungen – besonders in
+    Innenräumen – sollten möglichst gemieden werden.
+    Am 19.12.2020 wurde im Vereinigten Königreich über eine neue Virusvariante (B1.1.1.7) berichtet. Das
+    ECDC hat am 20.12.2020 hierzu ein Rapid Risk Assessment veröffentlicht. Es ist noch nicht abschließend
+    geklärt, wie sich die neue Variante auf das Infektionsgeschehen auswirkt. Vertreter dieser Linie sind
+    weltweit in zahlreichen Ländern identifiziert worden. Es ist zu erwarten, dass in weiteren Ländern
+    Infektionen mit der neuen Variante detektiert werden. In Deutschland wurden dem RKI vereinzelt Fälle
+    dieser Variante übermittelt. Es ist zu erwarten, dass weitere Fälle bekannt werden, die durch die
+    Virusvariante bedingt sind. Die WHO berichtet außerdem von einer weiteren, neuen Virusvariante in
+    Südafrika, die ebenfalls möglicherweise mit einer höheren Übertragbarkeit einhergeht.
+    Hinweis: Am 01.01.2021 wird kein Lagebericht des RKI erscheinen.
+    1 World Health Organization https://www.who.int/publications/i/item/WHO-2019-nCoV-Surveillance_Case_Definition-2020.1
+    2 European Centre for Disease Prevention and Control https://www.ecdc.europa.eu/en/covid-19/surveillance/case-definition
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 3 ----
+
+3                                                                                                 COVID-19-Lagebericht vom 30.12.2020 3
+  Während der Weihnachtsfeiertage, zum Jahreswechsel und an den umgebenden Tagen ist bei der
+  Interpretation der Fallzahlen zu beachten, dass zum einen meist weniger Personen einen Arzt
+  aufsuchen, dadurch werden weniger Proben genommen und weniger Laboruntersuchungen
+  durchgeführt. Dies führt dazu, dass weniger Erregernachweise an die zuständigen Gesundheitsämter
+  gemeldet werden. Zum anderen kann es sein, dass nicht alle Gesundheitsämter und zuständigen
+  Landesbehörden an allen Tagen an das RKI übermitteln.
+  Geografische Verteilung
+  Es wurden 1.687.185 (+22.459) labordiagnostisch bestätigte COVID-19-Fälle an das RKI übermittelt (s.
+  Tabelle 1). Die geografische Verteilung der Fälle der letzten 7 Tage ist in Abbildung 1 dargestellt.
+  Abbildung 1: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten 7 Tage in Deutschland nach Kreis und
+  Bundesland (n = 117.551, 30.12.2020, 0:00 Uhr). Die Fälle werden in der Regel nach dem Kreis ausgewiesen, aus dem sie übermittelt
+  wurden. Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher Infektionsort müssen nicht übereinstimmen.
+  *Während der Feiertage und zum Jahreswechsel werden COVID-19-Fälle nur verzögert detektiert, erfasst und übermittelt.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 4 ----
+
+4 COVID-19-Lagebericht vom 30.12.2020
+    Tabelle 1: An das RKI übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (30.12.2020, 0:00 Uhr). Die Differenz zum
+    Vortag bezieht sich auf Fälle, die dem RKI täglich übermittelt werden. Dies beinhaltet Fälle, die am gleichen Tag oder bereits an früheren
+    Tagen an das Gesundheitsamt gemeldet worden sind.
+                                               Fälle kumulativ                             Letzte 7 Tage                Todesfälle kumulativ
+                                                     Differenz             Fälle/                              Fälle/                           Fälle/
+     Bundesland                       Fälle                                              Fälle                              Fälle
+                                                      Vortag        100.000 EW                         100.000 EW                         100.000 EW
+     Baden-Württemberg                234.498             2.812           2.113           15.695                141           4.695              42,3
+     Bayern                           318.339             3.405           2.425           20.309                155           6.549              49,9
+     Berlin                            95.729             1.287           2.609             5.145               140           1.213              33,1
+     Brandenburg                       39.627             1.807           1.571             3.884               154              884             35,1
+     Bremen                            13.411               152           1.969               646                 95             191             28,0
+     Hamburg                           35.947               463           1.946             1.917               104              614             33,2
+     Hessen                           133.475             1.271           2.123             7.949               126           2.711              43,1
+     Mecklenburg-                      11.623               455              723            1.324                 82             161             10,0
+     Vorpommern
+     Niedersachsen                    104.768             1.018           1.311             6.362                 80          1.908              23,9
+     Nordrhein-Westfalen              387.437             4.429           2.159           23.782                133           6.451              35,9
+     Rheinland-Pfalz                   70.749               725           1.728             4.713               115           1.378              33,7
+     Saarland                          19.539               198           1.980             1.112               113              421             42,7
+     Sachsen                          128.785             2.364           3.163           13.436                330           3.003              73,7
+     Sachsen-Anhalt                    28.316               562           1.290             3.440               157              560             25,5
+     Schleswig-Holstein                24.284               500              836            2.395                 82             411             14,2
+     Thüringen                         40.658             1.011           1.906             5.442               255              957             44,9
+     Gesamt                         1.687.185            22.459           2.029         117.551                 141          32.107              38,6
+     Im Rahmen von Qualitätsprüfungen und Datenbereinigungen der Gesundheitsämter kann es gelegentlich vorkommen, dass bereits übermittelte
+     Fälle im Nachhinein korrigiert bzw. wieder gelöscht werden. So kann es dazu kommen, dass in dieser Tabelle negative Werte bei der Differenz der
+     im Vergleich zum Vortag übermittelten Fällen aufgeführt werden. *Während der Feiertage und zum Jahreswechsel werden COVID-19-Fälle nur
+     verzögert detektiert, erfasst und übermittelt.
+    Zeitlicher Verlauf
+    Die dem RKI übermittelten Fälle mit Erkrankungsdatum seit dem 01.03.2020 sind in Abbildung 2
+    dargestellt. Bezogen auf diese Fälle ist bei 938.673 Fällen (56%) der Erkrankungsbeginn nicht bekannt
+    bzw. sind diese Fälle nicht symptomatisch erkrankt. Für diese Fälle wird in Abbildung 2 daher das
+    Meldedatum angezeigt.
+    Abbildung 2: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Erkrankungsbeginn, ersatzweise nach Meldedatum. Dargestellt
+    werden nur Fälle mit Erkrankungsbeginn oder Meldedatum seit dem 01.03.2020 (30.12.2020, 0:00 Uhr)*.
+    *Während der Feiertage und zum Jahreswechsel werden COVID-19-Fälle nur verzögert detektiert, erfasst und übermittelt.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 5 ----
+
+5                                                                                               COVID-19-Lagebericht vom 30.12.2020        5
+  Abbildung 3 zeigt den Verlauf über die an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner
+  der jeweils letzten 7 Tage in den Bundesländern und in Deutschland. Die Gesamtinzidenz lag seit Mitte
+  November stabil auf hohem Niveau und stieg seit Anfang Dezember stark an. In Sachsen beträgt die 7-
+  Tage-Inzidenz mehr als das Doppelte des Bundesdurchschnitts. Auch in Thüringen ist die 7-Tage-Inzidenz
+  deutlich höher als die bundesweite Gesamtinzidenz. Ein gegenüber der Gesamtinzidenz leicht erhöhter
+  Wert ist außerdem in Bayern, Sachsen-Anhalt und Brandenburg zu verzeichnen.
+  Abbildung 3: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland (30.12.2020,
+  0:00 Uhr). In Bundesländern mit vergleichsweise niedrigen Bevölkerungszahlen können auch schon kleinere Anstiege der Fallzahlen zu einer
+  deutlichen Erhöhung der 7-Tage-Inzidenz führen.
+  *Während der Feiertage und zum Jahreswechsel werden COVID-19-Fälle nur verzögert detektiert, erfasst und übermittelt.
+  Betreuung, Unterbringung und Tätigkeit in Einrichtungen
+  Gemäß Infektionsschutzgesetz kann für COVID-19-Fälle auch übermittelt werden, ob sie in einer für den
+  Infektionsschutz relevanten Einrichtung betreut, untergebracht oder tätig sind. Es wird dabei zwischen
+  verschiedenen Arten von Einrichtungen unterschieden s. Tabelle 2).
+  Da Angaben zu Betreuung, Unterbringung und Tätigkeit bei vielen Fällen fehlen, ist die Anzahl der Fälle
+  mit einer Betreuung, Unterbringung oder Tätigkeit in den einzelnen Einrichtungen als Mindestangabe zu
+  verstehen. Für die übermittelten COVID-19-Fälle aus allen genannten Einrichtungen ist jedoch
+  unbekannt, wie hoch der Anteil derer ist, die sich auch in dieser Einrichtung angesteckt haben.
+  Die Zahl der COVID-19-Fälle war am höchsten unter den Betreuten und Tätigen in Einrichtungen nach
+  § 36 IfSG, den Tätigen in Einrichtungen nach § 23 IfSG und den Betreuten in Einrichtungen nach § 33
+  IfSG (s. Tabelle 2). Die Zahl verstorbener Fälle war unter den in Einrichtungen nach §§ 23 und 36 IfSG
+  Betreuten besonders hoch. Die hohen Fallzahlen bei Betreuten und Tätigen in Einrichtungen nach § 36
+  IfSG stehen im Einklang mit der Anzahl der berichteten Ausbrüche in Alten- und Pflegeheimen.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 6 ----
+
+6 COVID-19-Lagebericht vom 30.12.2020
+    Tabelle 2: An das RKI übermittelte COVID-19-Fälle nach Tätigkeit oder Betreuung in Einrichtungen mit besonderer Relevanz für die
+    Transmission von Infektionskrankheiten (n=220.822 Fälle; Stand 30.12.2020, 0:00 Uhr)
+                                                                                ≥ 60 Jahre                                           Genesen
+     Einrichtung gemäß                                          Gesamt                           Hospitalisiert     Verstorben
+                                                                             Anzahl / Anteil                                       (Schätzung)
+     § 23 IfSG                                Betreut/                           9.741 / 71%              8.724           1.874          9.400
+                                           untergebracht
+                                                                 13.716
+     (z.B. Krankenhäuser, ärztliche
+     Praxen, Dialyseeinrichtungen            Tätigkeit in        44.371           3.421 / 8%              1.400               43       39.300
+     und Rettungsdienste)                    Einrichtung
+                                              Betreut/           44.227                   n.a.              485                3       41.200
+     § 33 IfSG
+                                           untergebracht*
+     (z.B. Kitas, Kinderhorte, Schulen,
+                                             Tätigkeit in        21.876           1.713 / 8%                480               17       20.000
+     Heime und Ferienlager)
+                                             Einrichtung
+     § 36 IfSG
+                                              Betreut/           64.369        49.195 / 76%              10.250           9.062        42.700
+     (z. B. Pflegeeinrichtungen,
+                                           untergebracht
+     Einr. zur gemeinschaftlichen
+     Unterbringung von Asyl-
+     suchenden, Obdachlosenunter-            Tätigkeit in        32.263          3.779 / 12%                886               96       28.000
+     künfte, Justizvollzugsanstalten)        Einrichtung
+    *für Betreuung nach § 33 IfSG werden nur Fälle < 18 Jahren berücksichtigt, da bei anderer Angabe von Fehleingaben ausgegangen wird. Bedingt
+    durch eine Umstellung der Variablen werden hier keine Meldungen nach § 42 IfSG aufgeführt.
+    *Während der Feiertage und zum Jahreswechsel werden COVID-19-Fälle nur verzögert detektiert, erfasst und übermittelt.
+    Ausbrüche
+    In fast allen Kreisen (411/412) liegt eine erhöhte 7-Tage-Inzidenz mit über 25 Fällen/100.000 EW vor. In
+    der Kategorie der Inzidenz von >250 bis 500 Fällen/100.000 EW in den letzten 7 Tagen liegen 34 Kreise,
+    in 3 Kreisen liegt sie bei über 500 Fällen/100.000 EW. Abbildung 1 weist sowohl die Anzahl der Kreise
+    pro Inzidenzgruppe aus als auch die am stärksten betroffenen 15 Kreise. Die genauen Inzidenzwerte der
+    weiteren Kreise können dem Dashboard entnommen werden (https://corona.rki.de/).
+    In den meisten Kreisen handelt es sich zumeist um ein diffuses Geschehen, mit zahlreichen Häufungen
+    in Haushalten, aber auch in Gemeinschaftseinrichtungen, Schulen und Alten- und Pflegeheimen. In
+    einigen Fällen ist ein konkreter größerer Ausbruch als Ursache für die hohen Inzidenzen in den
+    betroffenen Kreisen bekannt. Zu der hohen Inzidenz tragen aber nach wie vor auch viele kleinere
+    Ausbrüche in Krankenhäusern, Einrichtungen für Asylbewerber und Geflüchtete, verschiedenen
+    beruflichen Settings sowie im Zusammenhang mit religiösen Veranstaltungen bei.
+    Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+    Reproduktionszahl
+    Die Reproduktionszahl R bezeichnet die Anzahl der Personen, die im Durchschnitt von einem Fall
+    angesteckt werden. Die Schätzung des R-Wertes basiert auf dem sogenannten Nowcasting (Abbildung 4)
+    einem statistischen Verfahren, das die Entwicklung der Fallzahlen nach Erkrankungsbeginn darstellt und
+    für die letzten Tage auch prognostiziert. Diese Prognose ist mit Unsicherheit behaftet, die sich auch in
+    den zum R-Wert angegebenen Prädiktionsintervallen spiegelt. Nach Eingang weiterer Fallmeldungen am
+    RKI wird der R-Wert im Verlauf für die zurückliegenden Tage angepasst und ggf. nach oben oder unten
+    korrigiert. In den letzten Wochen wurden Werte, die am Anfang einer Woche berichtet wurden,
+    typischerweise leicht nach oben korrigiert. Sie hatten also das reale COVID-19 Geschehen in
+    Deutschland leicht unterschätzt. Gegen Ende einer Woche geschätzte Werte verhielten sich stabiler.
+    Den aktuell geschätzten Verlauf des R-Werts zeigt Abbildung 5.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 7 ----
+
+7                                                                                                  COVID-19-Lagebericht vom 30.12.2020       7
+                           4-Tage-R-Wert                                                        7-Tage-R-Wert
+                                0,54                                                                   0,68
+         (95%-Prädiktionsintervall: 0,45 – 0,62)                                  (95%- Prädiktionsintervall: 0,64 – 0,72)
+  Durch Verzögerungen bei der Übermittlung der Fallzahlen an Wochenendtagen kommt es zu zyklischen Schwankungen des 4-Tage-R-Wertes.
+  Der 7-Tages-R-Wert verläuft deutlich gleichmäßiger, da jeweils alle Wochentage in die Bestimmung eines Wertes eingehen.
+  *Während der Feiertage und zum Jahreswechsel werden COVID-Fälle nur verzögert detektiert, erfasst und übermittelt, so dass der R-Wert
+  ggf. unterschätzt wird.
+  Abbildung 4: Darstellung der an das RKI übermittelten COVID-19-Fälle mit bekanntem Erkrankungsbeginn (dunkelblau), geschätztem
+  Erkrankungsbeginn für Fälle mit fehlender Eingabe des Erkrankungsbeginns (grau) und geschätzter Verlauf der noch nicht übermittelten Fälle
+  (orange) (Stand 30.12.2020, 0:00 Uhr, unter Berücksichtigung der Fälle mit Erkrankungsbeginn bis 26.12.2020).
+  Abbildung 5: Darstellung der geschätzten R-Werte (in grün und orange) in den letzten 60 Tagen, vor dem Hintergrund der durch das
+  Nowcasting geschätzten Fallzahlen nach Erkrankungsbeginn (Stand 30.12.2020, 0:00 Uhr, unter Berücksichtigung der Fälle mit
+  Erkrankungsbeginn bis 26.12.2020).
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 8 ----
+
+8 COVID-19-Lagebericht vom 30.12.2020
+    Der R-Wert liegt aktuell unter 1. Aufgrund der nach wie vor sehr hohen Zahl an infizierten Personen in
+    Deutschland bedeutet dies jedoch weiterhin eine hohe Zahl von täglichen Neuinfektionen. Während der
+    Feiertage werden COVID-19-Fälle nur verzögert detektiert, erfasst und übermittelt, so dass der R-Wert
+    zudem ggf. unterschätzt wird.
+    Unter http://www.rki.de/covid-19-nowcasting werden Beispielrechnungen und beide täglich
+    aktualisierten R-Werte als Excel-Tabelle zur Verfügung gestellt. Eine detaillierte Beschreibung der
+    Methodik ist unter https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html
+    verfügbar (Epid. Bull. 17 | 2020 vom 23.04.2020).
+    Hinweise zur Datenerfassung und -bewertung
+    Im Lagebericht werden die bundesweit einheitlich erfassten und an das RKI übermittelten Daten zu
+    laborbestätigten COVID-19-Fällen (COVID-19-Erkrankungen und akute SARS-CoV-2-Infektionen)
+    dargestellt. COVID-19-Verdachtsfälle und -Erkrankungen sowie Nachweise von SARS-CoV-2 werden
+    gemäß Infektionsschutzgesetz an das zuständige Gesundheitsamt gemeldet. Die Daten stellen eine
+    Momentaufnahme dar. Informationen zu Fällen können im Verlauf der Erkrankung nachermittelt und im
+    Meldewesen nachgetragen werden. Nicht für alle Variablen gelingt eine vollständige Erfassung.
+    Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+    notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+    vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+    übermittelt. Es werden nur Fälle vom RKI veröffentlicht, bei denen eine labordiagnostische Bestätigung
+    mittels Nukleinsäurenachweis (z.B. PCR) oder Erregerisolierung unabhängig vom klinischen Bild vorliegt.
+    Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+    Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens des
+    Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich der
+    Fallzahlen zu anderen Quellen geben kann.
+    Für die Berechnung der Inzidenzen werden die Daten der Bevölkerungsstatistik des Statistischen
+    Bundesamtes mit Datenstand 31.12.2019 verwendet. Die Berechnung der 7-Tage-Inzidenz erfolgt auf
+    Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kenntnis über den Fall
+    erlangt und ihn elektronisch erfasst hat. Für die heutige 7-Tage-Inzidenz werden die Fälle mit
+    Meldedatum der letzten 7 Tage gezählt.
+    Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+    dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird. Es
+    kann sein, dass z.B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldedatum vor
+    mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt, die aufgrund
+    von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Differenz nicht ohne
+    weiteres auf die 7-Tage-Inzidenz geschlossen werden kann.
+    DIVI-Intensivregister
+    Die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Notfallmedizin (DIVI) führt gemeinsam mit
+    dem RKI das DIVI-Intensivregister https://www.intensivregister.de/#/index .
+    Das Register erfasst intensivmedizinisch behandelte COVID-19-Patienten und Bettenkapazitäten auf
+    Intensivstationen von allen Krankenhäusern in Deutschland und gibt einen Überblick darüber, in
+    welchen Kliniken aktuell wie viele Kapazitäten auf Intensivstationen zur Verfügung stehen. Seit dem
+    16.04.2020 ist die Meldung für alle intensivbettenführenden Krankenhausstandorte verpflichtend.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 9 ----
+
+9                                                                                                  COVID-19-Lagebericht vom 30.12.2020  9
+  Mit Stand 30.12.2020 (12:15 Uhr) beteiligen sich 1.287 Klinikstandorte an der Datenerhebung.
+  Insgesamt wurden 26.691 Intensivbetten registriert, wovon 21.976 (82%) belegt sind; 4.715 (18%)
+  Betten sind aktuell frei. Im Rahmen des DIVI-Intensivregisters wird außerdem die Anzahl der
+  intensivmedizinisch behandelten COVID-19-Fälle erfasst (Tabelle 3).
+  Tabelle 3: Im DIVI-Intensivregister erfasste intensivmedizinisch behandelte COVID-19-Fälle (30.12.2020, 12:15 Uhr)
+                                                                            Anzahl Fälle            Veränderung zum Vortag*
+                    In intensivmedizinischer Behandlung                           5.648                              -1
+    Aktuell                 - davon invasiv beatmet                           3.063 (54%)                            -8
+                             Neuaufnahmen auf ITS                                                                 +965
+                        Abgeschlossene ITS-Behandlung                            49.711                           +966
+    Gesamt
+                               - davon verstorben                            12.828 (26%)                      +267 (28%)
+  *Bei der Interpretation der Zahlen muss beachtet werden, dass die Anzahl der meldenden Standorte und der damit verbundenen gemeldeten
+  Behandlungen täglich schwankt. Dadurch kann es an einzelnen Tagen auch zu einer (starken) Abnahme oder Zunahme der kumulativen
+  abgeschlossenen Behandlungen und Todesfälle im Vergleich zum Vortag kommen.
+  Erhebungen zu SARS-CoV-2-Labortestungen in Deutschland
+  Das RKI erfasst wöchentlich die SARS-CoV-2 PCR-Testzahlen. Hierfür werden deutschlandweit Daten von
+  Universitätskliniken, Forschungseinrichtungen sowie klinischen und ambulanten Laboren
+  zusammengeführt. Die Erfassung basiert auf einer freiwilligen Mitteilung der Labore und erfolgt über
+  eine webbasierte Plattform (VOXCO, RKI-Testlaborabfrage) oder in Zusammenarbeit mit der am RKI
+  etablierten, laborbasierten SARS-CoV-2-Surveillance (eine Erweiterung der Antibiotika-Resistenz-
+  Surveillance, ARS), dem Netzwerk für respiratorische Viren (RespVir) sowie der Abfrage eines
+  labormedizinischen Berufsverbands. Bei den erhobenen Daten handelt es sich um eine freiwillige und
+  keine verpflichtende Angabe der Labore, sodass eine Vollerfassung der in Deutschland durchgeführten
+  PCR-Tests auf SARS-CoV-2 zum jetzigen Zeitpunkt nicht vorliegt. Die hier veröffentlichten Daten liefern
+  daher Hinweise zur aktuellen Situation in den Laboren, erlauben aber keine detaillierten oder regionalen
+  Auswertungen sowie Vergleiche mit den gemeldeten Fallzahlen.
+  Seit Beginn der Testungen in Deutschland bis einschließlich KW 52/2020 wurden bisher 34.801.593 PCR-
+  Labortests erfasst, davon wurden 1.750.584 positiv auf SARS-CoV-2 getestet.
+  Bis einschließlich KW 52 haben sich 257 Labore für die RKI-Testlaborabfrage oder in einem der anderen
+  übermittelnden Netzwerke registriert und übermitteln nach Aufruf überwiegend wöchentlich. Da Labore
+  in der RKI-Testzahlabfrage die Tests der vergangenen Kalenderwochen nachmelden bzw. korrigieren
+  können, ist es möglich, dass sich die ermittelten Zahlen nachträglich ändern. Es ist zu beachten, dass die
+  Zahl der Tests nicht mit der Zahl der getesteten Personen gleichzusetzen ist, da z. B. in den Angaben
+  Mehrfachtestungen von Patienten enthalten sein können (s. Tabelle 4). In KW 52 wurden im Vergleich
+  zu den Vorwochen deutlich weniger PCR-Tests durchgeführt. Es ist zu vermuten, dass dies einerseits mit
+  der Schließung vieler Arztpraxen, andererseits auch mit einer geringeren Frequenz von Arztbesuchen in
+  den Feiertagswochen zu begründen ist. Daher ist auch anzunehmen, dass im Vergleich zu den
+  Vorwochen eine geringere Anzahl von Personen mit leichter bis mittelschwerer Symptomatik und
+  lediglich Personen mit deutlicher Symptomatik, während der Feiertage einen Arzt aufgesucht haben. Es
+  ist anzunehmen, dass sich dies in den geringeren Testzahlen und in der erhöhten Positivquote
+  widerspiegelt.
+  Auf Grund der begrenzt zur Verfügung stehenden PCR-Testkapazitäten und der zeitweise starken
+  Überlastung der Labore in den KW 43–45 wurden die Testkriterien mit Blick auf die Anzahl der zu
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 10 ----
+
+10 COVID-19-Lagebericht vom 30.12.2020
+     erwartenden akuten respiratorischen Erkrankungen (ARE) am 03. November 2020 angepasst (diese sind
+     unter:
+     https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Testkriterien_Herbst_
+     Winter.html nachzulesen). Indikationen für eine Testung ergeben sich, sofern ein hinreichendes
+     klinisches Bild (schwere Symptomatik) vorliegt und/oder ein epidemiologischer Zusammenhang zu
+     einem Infektionsgeschehen oder einer Risikogruppe besteht. Personen mit leichter Symptomatik sollen
+     sich hingegen zunächst für fünf Tage isolieren und mindestens 48 Stunden vor Beendigung der
+     Isolierung symptomfrei sein.
+     Des Weiteren wurden Antigen-Point-of-Care-Tests (AG-POCT) in bestimmten Settings eingeführt. Dies
+     kann zur Folge haben, dass die Grundgesamtheit der getesteten Personen sich von der der Vorwochen
+     unterscheidet und daher die Positivquoten der Vorwochen nicht direkt mit den Positivquoten ab KW46
+     vergleichbar sind. Eine eindeutige Bewertung über die Größe des Einflusses der geänderten Testkriterien
+     und AG-POCT Einführung ist zum jetzigen Zeitpunkt noch nicht möglich.
+     In KW 46 war die Anzahl der erfassten durchgeführten PCR-Tests erstmals im Vergleich zu den
+     Vorwochen wieder gesunken. Je höher die Positivquote bei gleichzeitig hoher Fallzahl ist, desto höher
+     wird die Anzahl unentdeckter infizierter in einer Population (Untererfassung) geschätzt. In KW 52 lag die
+     Positivquote der erfassten Tests bei 12,96%.
+     Eine Auswertung der Positivquoten der Vorwochen auf Laborebene im zeitlichen Verlauf (KW12 bis KW
+     48) finden Sie im Epidemiologischen Bulletin 49/2020. Ab KW 42/2020 werden im Lagebericht die
+     Testzahlen der letzten 10 Wochen dargestellt. Die vollständigen Testzahlen seit Beginn der Erfassung
+     finden Sie unter: http://www.rki.de/covid-19-testzahlen.
+     Tabelle 4: Anzahl der SARS-CoV-2-Testungen in Deutschland (Stand 29.12.2020, 12:00 Uhr); KW=Kalenderwoche
+                 KW* 2020                   Anzahl                 Positiv getestet            Positiven-   Anzahl übermittelnde
+                                          Testungen                                            quote (%)           Labore
+       Bis einschließlich KW42           20.438.657                    421.401
+       43                                 1.418.726                     78.106                    5,51              204
+       44                                 1.631.343                    116.673                    7,15              204
+       45                                 1.608.125                    126.141                    7,84              203
+       46*                                1.422.301                    126.181                    8,87              201
+       47*                                1.394.255                    128.668                    9,23              201
+       48*                                1.379.859                    126.140                    9,14              205
+       49*                                1.347.625                    135.136                   10,03              204
+       50*                                1.504.313                    170.200                   11,31              201
+       51*                                1.599.120                    184.940                   11,57              202
+       52*                                1.057.269                    136.998                   12,96              188
+       Summe                             34.801.593                  1.750.584
+     *Ab 03. November 2020 geänderte Testkriterien, Daten nicht direkt mit Vorwochen vergleichbar
+     Testkapazitäten
+     Zusätzlich zur Anzahl durchgeführter Tests werden in der RKI-Testlaborabfrage und durch einen
+     labormedizinischen Berufsverband Angaben zur täglichen (aktuellen) PCR-Testkapazität erfragt. Diese
+     Angabe ist freiwillig und stellt nur eine Momentaufnahme für die jeweilige Kalenderwoche dar.
+     Es gaben 173 Labore in KW 52 prognostisch an, in der folgenden Woche (KW 53) Kapazitäten für
+     insgesamt 208.790 PCR-Tests pro Tag zu haben (Durchschnittswert für die Feiertagswoche). Alle 173
+     übermittelnden Labore machten Angaben zu ihren Arbeitstagen pro Woche, die zwischen 4 - 7
+     Arbeitstagen lagen, daraus resultiert eine errechnete theoretische maximale PCR-Testkapazität von
+     1.355.677 durchführbaren PCR-Tests zum Nachweis von SARS-CoV-2 in KW 53 (Tabelle 5).
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 11 ----
+
+11                                                                                              COVID-19-Lagebericht vom 30.12.2020 11
+   Tabelle 5: Testkapazitäten der übermittelnden Labore pro Tag und Kalenderwoche (Stand 29.12.2020, 12:00 Uhr); KW=Kalenderwoche
+                                                                                     Theoretische
+         KW, für die die                  Anzahl                                                                Reale Testkapazität
+                                                            Testkapazität            wöchentliche
+     Angabe prognostisch             übermittelnde                                                               zum Zeitpunkt der
+                                                                pro Tag        Kapazität anhand von
+             erfolgt ist                 Labore                                                                       Abfrage
+                                                                                Wochenarbeitstagen
+               KW44                        184                 272.397                1.828.061                     1.612.826
+               KW45                        176                 289.310                1.900.642                     1.596.042
+               KW46                        170                 292.639                1.959.403                     1.677.221
+               KW47                        175                 307.336                2.063.178                     1.812.210
+               KW48                        169                 313.746                2.100.608                     1.837.984
+               KW49                        168                 318.746                2.136.828                     1.918.794
+               KW50                        175                 331.036                2.219.158                     1.944.190
+               KW51                        175                 339.156                2.268.312                     2.019.604
+               KW52                        181                 204.862                1.364.843                     1.203.721
+               KW53                        173                 208.790                1.355.677                     1.227.355
+   Reichweite
+   In der RKI-Testlaborabfrage und durch einen labormedizinischen Berufsverband werden die SARS-CoV-2-
+   testenden Labore zusätzlich nach ihrer aktuellen Reichweite befragt. Die Reichweite gibt an, wie viele
+   Arbeitstage ein Labor unter Vollauslastung der angegebenen maximalen PCR-Testkapazität unter
+   Berücksichtigung aller notwendigen Ressourcen (Entnahmematerial, Testreagenzien, Personal u. a.) zum
+   Zeitpunkt der Abfrage arbeiten kann. Da die Reichweite stark vom Vorhandensein von Testreagenzien
+   abhängig ist, stellt die Angabe eine Momentaufnahme in einem dynamischen System dar. In KW 53
+   gaben 173 Labore zum Zeitpunkt der Abfrage eine Reichweite von 1 - 60 Arbeitstagen (Median: 7 Tage)
+   an, daraus resultiert eine zum Zeitpunkt der Abfrage reelle PCR-Testkapazität von 1.227.355 Tests in
+   KW 53.
+   Die Differenz zwischen aktueller und theoretischer maximaler Testkapazität ist überwiegend durch
+   Lieferengpässe für Materialien/Reagenzien und auch durch Personalausfälle begründet.
+   Fachliche Einordnung hinsichtlich der Testkapazitäten bzw. Reichweite:
+   Verbrauchsmaterialen und Reagenzien werden in Laboren nur für kurze Zeiträume bevorratet (u. a.
+   wegen begrenzter Haltbarkeit bestimmter Reagenzien). Bei steigender Anzahl durchgeführter Tests und
+   aufgrund von Lieferengpässen bei weltweit steigender Nachfrage können sich die freien Kapazitäten in
+   den nächsten Wochen reduzieren. Die Situation wird ferner dadurch verschärft, dass gerade bei
+   Hochdurchsatzverfahren eine starke Abhängigkeit von einzelnen Herstellern besteht.
+   Mit steigenden Probenzahlen verlängern sich auch die durchschnittlichen Bearbeitungszeiten, mit
+   möglichen Konsequenzen für die zeitnahe Mitteilung des Ergebnisses an die betroffenen Personen,
+   sowie einem größeren Verzug bei der Meldung an das Gesundheitsamt. Dies kann mit Nachteilen für
+   eine zeitnahe Abklärung von SARS-CoV-2-Infektionen und Einleitung von Infektionsschutzmaßnahmen
+   durch die Gesundheitsämter einhergehen (siehe Abschnitt Rückstau).
+   Fachliche Einordnung der aktuellen Laborsituation in Deutschland
+   Seit Anpassung der Testkriterien sowie der Einführung von AG-POCT in bestimmten Settings hat sich die
+   Auslastung der PCR-Testkapazitäten in den letzten drei Wochen entspannt. Dennoch kann es aus
+   vielerlei Gründen (z. B. Ausbruchsuntersuchungen) zu verlängerten Bearbeitungszeiten und
+   Verzögerungen bei der Ergebnisübermittlung an die Gesundheitsämter kommen. Die Mitarbeitenden
+   der Labore arbeiten seit Beginn der Pandemie teils 7 Tage die Woche. Sie sind fachlich sehr gut
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 12 ----
+
+12 COVID-19-Lagebericht vom 30.12.2020
+     ausgebildet und können nicht ohne weiteres ersetzt werden. Es ist damit zu rechnen, dass es in den
+     kommenden Wochen und Monaten auch hier krankheitsbedingt oder auf Grund von epidemiologisch
+     begründeten Maßnahmen zu Personalausfällen kommen kann.
+     Auch die Durchführung von anderer notwendiger Diagnostik muss in Deutschland flächendeckend
+     gewährleistet bleiben. Einzelne Labore berichteten, dass aufgrund von Mangel an Verbrauchsmaterialen
+     (überwiegend Pipettenspitzen) nun nicht nur infektiologische Differentialdiagnostik, sondern auch die
+     nicht-infektiologische Diagnostik eingeschränkt werden muss.
+     Des Weiteren können für die Wintermonate wöchentlich bis zu 2,5 - 3 Millionen Personen mit
+     Symptomatik einer akuten respiratorischen Erkrankung (ARE) erwartet werden (in starken Grippewellen,
+     siehe wöchentlicher Influenzabericht des RKI https://influenza.rki.de/Wochenberichte.aspx). In KW 51
+     wurden am RKI auf Basis der erfassten Daten 810.000 Arztbesuche aufgrund einer ARE-Symptomatik
+     geschätzt (ARE-Konsultationsinzidenz); dieser Wert befindet sich leicht unter dem Niveau der letzten
+     beiden Vorsaisons. Dem Wert der ARE-Konsultationsinzidenz stehen die aktuellen SARS-CoV-2 PCR-
+     Testkapazitäten gegenüber. Die Schätzungen für KW 52/53 werden aufgrund der vielen geschlossenen
+     Arztpraxen in den Feiertagswochen erst in der kommenden Woche veröffentlicht.
+     Daher ist es, auch um die Verbreitung von anderen respiratorischen Erkrankungen zu vermeiden, die die
+     Testkapazitäten zusätzlich belasten, dringend geboten, dass sich die gesamte Bevölkerung weiterhin für
+     den Infektionsschutz engagiert, indem sie Kontakte weitestgehend reduziert und die AHA+L-Regeln
+     befolgt. Es erscheint deshalb ebenfalls dringend geboten, den Einsatz der Teste im Hinblick auf den
+     angestrebten Erkenntnisgewinn in Abhängigkeit freier Testkapazitäten zu priorisieren.
+     Die Nationale Teststrategie sieht eine solche Priorisierung des Einsatzes vorhandener Testkapazitäten
+     vor: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Teststrategie/Nat-Teststrat.html;
+     Bericht zur Optimierung der Laborkapazitäten zum direkten und indirekten Nachweis von SARS-CoV-2
+     im Rahmen der Steuerung von Maßnahmen
+     https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Laborkapazitaeten.pdf?__blob=public
+     ationFile
+     Rückstau
+     Insgesamt hat sich der Rückstau an PCR-Proben in KW 52 im Vergleich zur Vorwoche wieder
+     abgenommen. Es gaben 43 Labore einen Rückstau von insgesamt 11.321 abzuarbeitenden Proben an
+     (Abbildung 6). 36 Labore nannten Lieferschwierigkeiten, hierbei vermehrt Plastikverbrauchsmaterialien
+     und Pipettenspitzen.
+     Abbildung 6: Rückstau an PCR-Proben zur SARS-CoV-2 Diagnostik, Kalenderwoche 15-52, 2020
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 13 ----
+
+13                                                                                                COVID-19-Lagebericht vom 30.12.2020      13
+   Das RKI möchte sich an dieser Stelle bei allen an den Abfragen teilnehmenden Laboren für ihre
+   Unterstützung, sowie bei den Mitarbeiterinnen und Mitarbeitern der Testlabore für Ihren Einsatz
+   bedanken.
+   Laborbasierte Surveillance SARS-CoV-2
+   Über diese aggregierte wöchentliche Erfassung von SARS-CoV-2-Labortestungen hinaus werden bei den
+   Laboren, die sich an der laborbasierten Surveillance SARS-CoV-2 (einer Erweiterung von ARS) beteiligen
+   seit dem 01.01.2020 detailliertere Daten zu SARS-CoV-2-Testungen erhoben. Weitere Labore werden
+   hierfür zudem noch rekrutiert (bei Interesse zur Teilnahme wenden Sie sich bitte an ars@rki.de ). Bei
+   den derzeit 73 Laboren waren 704.990 (4,8%) der 14.592.313 übermittelten Testergebnisse positiv auf
+   SARS-COV-2 (Datenstand 29.12.2020). In Abbildung 7 und Abbildung 8 werden die Ergebnisse über die
+   Zeit genauer dargestellt.
+   Abbildung 7: Anteil der positiven Testungen von allen im Rahmen der laborbasierten Surveillance SARS-CoV-2 übermittelten Testungen nach
+   dem Datum der Probenentnahme für Deutschland unter Berücksichtigung der Anzahl der Testungen. Die Punktgröße spiegelt die Anzahl der
+   gesamtgetesteten Proben pro Tag wieder (Datenstand 29.12.2020)
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 14 ----
+
+14 COVID-19-Lagebericht vom 30.12.2020
+     Abbildung 8: Anteil der positiven Testungen von allen im Rahmen der laborbasierten Surveillance SARS-CoV-2 übermittelten Testungen nach
+     dem Datum der Probenentnahme und nach Bundesland unter Berücksichtigung der Anzahl der Testungen. Die Punktgröße spiegelt die
+     Anzahl der gesamtgetesteten Proben pro Tag wieder. Bei der Interpretation der Daten ist zu berücksichtigen, dass die Repräsentativität der
+     Daten aktuell nicht für jedes Bundesland gegeben ist (Datenstand 29.12.2020).
+     Weiterführende Informationen und ein ausführlicherer wöchentlicher Bericht zu der laborbasierten
+     Surveillance SARS-CoV-2 sind unter https://ars.rki.de/Content/COVID19/Main.aspx zu finden.
+     Risikobewertung durch das RKI
+     Das Robert Koch-Institut schätzt aufgrund der anhaltend hohen Fallzahlen die Gefährdung für die
+     Gesundheit der Bevölkerung in Deutschland insgesamt als sehr hoch ein. Hervorgehoben wird das
+     zunehmend diffuse Infektionsgeschehen sowie das Auftreten von Ausbrüchen vor allem in Haushalten,
+     beruflichen Settings sowie Alten- und Pflegeheimen. Daher ist eine konsequentere Umsetzung der
+     Fallfindung und Kontaktpersonennachverfolgung als auch der Schutz der Risikogruppen notwendig. Nur
+     wenn die Zahl der neu Infizierten deutlich sinkt, können auch Risikogruppen zuverlässig geschützt
+     werden. Die aktuelle Version findet sich unter folgendem Link:
+     https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikobewertung.html
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 15 ----
+
+15                                                                           COVID-19-Lagebericht vom 30.12.2020 15
+   Empfehlungen und Maßnahmen in Deutschland
+   Aktuelles
+   •    Pressekonferenz zur Corona-Lage und zum Start der Impfkampagne (30.12.2020)
+        https://twitter.com/tagesschau/status/1344221746249961473?s=20
+   •    Informationen zu neuen SARS-CoV-2-Virusvarianten in Großbritannien und Südafrika (24.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Virusvariante_Grossbritannien.ht
+        ml
+   •    Pressebriefing: Aktuelle Informationen zu COVID-19 in Deutschland mit RKI-Präsident Prof. Lothar H.
+        Wieler und PD Dr. Ole Wichmann (22.12.2020)
+        https://twitter.com/tagesschau/status/1341307601435299842
+   •    Allgemeinverfügung des BMVI zum Verbot von Flügen aus dem Vereinigten Königreich von
+        Großbritannien und Nordirland in die Bundesrepublik Deutschland zum Schutz vor
+        einreisebedingten Infektionsgefahren in Bezug auf neuartige Mutationen des Coronavirus SARS-
+        CoV-2 (20.12.2020) https://www.bmvi.de/SharedDocs/DE/Anlage/LF/allgemeinverfuegung-
+        flugverbot-uk.pdf
+   •    Zu aktuellen Entwicklungen und Maßnahmen informiert das Bundesgesundheitsministerium auf
+        seinen Internetseiten
+        https://www.bundesgesundheitsministerium.de/coronavirus.html
+        https://www.bundesgesundheitsministerium.de/coronavirus/chronik-coronavirus.html
+   Neue Dokumente
+   •    Digitales Impfquotenmonitoring: aktuelle Daten (29.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Impfquoten-Tab.html
+   •    Sicherer feiern: 8 einfache Tipps für die Feiertage (22.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Buerger/Tipps_Feiertage
+   •    Aufklärungsmerkblatt inkl. Einwilligungserklärung zur COVID-19-Impfung mit mRNA-Impfstoff
+        (30.12.2020)
+        https://www.rki.de/DE/Content/Infekt/Impfen/Materialien/COVID-19-Aufklaerungsbogen-Tab.html
+   Aktualisierte Dokumente
+   •    COVID-19: Entlassungskriterien aus der Isolierung (29.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Entlassmanagement.html
+   •    Informationen zu neuen SARS-CoV-2-Virusvarianten in Großbritannien und Südafrika (28.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Virusvariante_Grossbritannien
+   •    Gesamtstand: Antworten auf häufig gestellte Fragen zum Coronavirus SARS-CoV-2 / Krankheit
+        COVID-19 (29.12.2020)
+         https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html
+   •    Informationen zur Ausweisung internationaler Risikogebiete durch das Auswärtige Amt, BMG und
+        BMI (24.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Risikogebiete_neu.html
+   •    Hinweise zur Testung von Patienten auf Infektion mit dem neuartigen Coronavirus SARS-CoV-2
+        (23.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Vorl_Testung_nCoV.html
+   •    Falldefinition COVID-19 (23.12.2020)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Falldefinition.pdf
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 16 ----
+
+16 COVID-19-Lagebericht vom 30.12.2020
+     •    STAKOB: Hinweise zu Erkennung, Diagnostik und Therapie (23.12.2020)
+          https://www.rki.de/DE/Content/Kommissionen/Stakob/Stellungnahmen/Stellungnahme-Covid-
+          19_Therapie_Diagnose.pdf
+     •    Fachgruppe COVRIIN: Therapieübersicht bei COVID-19 (23.12.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/COVRIIN_Dok/Therapieuebersich
+          t.pdf
+     •    SARS-CoV-2: Virologische Basisdaten sowie Virusvarianten (23.12.2020)
+          https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Virologische_Basisdaten.html
+     •    COVID-19 und Impfen: Antworten auf häufig gestellte Fragen (23.12.2020)
+          https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/gesamt.html
+     Epidemiologische Lage global
+     Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+     Internetseiten des ECDC: https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+     Das WHO Regionalbüro für Europa, die Europäische Kommission und das Europäische Observatorium für
+     Gesundheitssysteme und Gesundheitspolitik haben den COVID-19 Health System Response Monitor
+     (HSRM) veröffentlicht. Er dient dazu, aktuelle Informationen aus den europäischen Ländern zu sammeln
+     und deren Reaktionen auf die Krise zu dokumentieren. Der Fokus liegt dabei auf Gesundheitssystemen
+     und Public-Health-Initiativen (Zugang auf Englisch):
+     https://www.covid19healthsystem.org/mainpage.aspx
+     Empfehlungen und Maßnahmen global
+     Europa
+     •    In Unterstützung zur „Empfehlung zur Koordinierung von Maßnahmen mit Auswirkungen auf die
+          Freizügigkeit“ des Europäischen Rates stellt das ECDC Karten zu Indikatoren zur Verfügung
+          https://www.ecdc.europa.eu/en/covid-19/situation-updates/weekly-maps-coordinated-restriction-
+          free-movement
+     •    Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+          https://www.ecdc.europa.eu/en/covid-19-pandemic
+     •    Daten zu Fallzahlen und 7-Tage-Inzidenzen weltweit findet man auf dem Dashboard des ECDC:
+          https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+     Weltweit
+     •    WHO/Europa: Informationen zu COVID-19
+          https://www.euro.who.int/de/health-topics/health-emergencies/coronavirus-covid-19
+     •    WHO COVID-19-Dashboard: https://covid19.who.int/
+     •    Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+          https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+     •    Wöchentliche Situation Reports der WHO:
+          https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.

@@ -1,0 +1,266 @@
+# 2020-05-04-en.pdf date: 2020-05-04 lang: en
+
+# ---- page 1 ----
+
+                                        Coronavirus Disease 2019
+                                                     (COVID-19)
+                Daily Situation Report of the Robert Koch Institute
+                                    04/05/2020 - UPDATED STATUS FOR GERMANY
+Confirmed cases                             Deaths              Deaths (%)                  Recovered
+     163,175                                6,692                 4.1%                  ca. 132,700**
+     (+679*)                               (+43*)
+  – Changes since the last report are marked blue in the text –     *Change from previous day; **Estimate
+ Summary (as of 04/05/2020, 12:00 AM)
+     In total, 163,175 COVID-19 cases and 6,692 deaths due to COVID-19 have been
+      electronically reported to the Robert Koch Institute in Germany.
+     The cumulative incidence (cases per 100,000) of COVID-19 is thus far highest in Bavaria
+      (329), Baden-Wuerttemberg (293), Saarland (263) and Hamburg (252).
+     Most cases (67%) are between 15 and 59 years old; women (52%) and men (48%) are
+      almost equally affected.
+     87% of deaths, but only 19% of all cases, occurred in persons aged 70 years or older.
+     COVID-19 related outbreaks in nursing homes and hospitals continue to be reported. In
+      some of these outbreaks, the number of deaths is relatively high.
+
+
+# ---- page 2 ----
+
+2    COVID-19 Situation Report 04/05/2020
+  Epidemiological Situation in Germany
+      Geographical distribution of cases
+      Epidemiological analyses are based on validated cases notified electronically to the Robert Koch
+      Institute (RKI) according to the Protection Against Infection Law (Data closure: 12:00 AM daily). Since
+      January 2020, a total of 163,175 (+679) laboratory-confirmed cases of coronavirus disease 2019 (COVID-
+      19) have been electronically reported to and validated at the RKI, including 6,692 deaths (see Table 1
+      and Figure 1). Information on confirmed cases is also available on the RKI website at
+      https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Fallzahlen.html and https://corona.rki.de.
+      Table 1: Number and cumulative incidence (per 100,000 population) of notified laboratory-confirmed COVID-19 cases and
+      deaths per federal state, Germany (04/05/2020, 12:00 AM).
+                                                      Total
+                                                                Number of Cases/100,000  Number of      Number of deaths/
+      Federal State                             Number of
+                                                                new cases          pop.       deaths          100,000 pop.
+                                                      cases
+      Baden-Wuerttemberg                           32,411            120           293         1,421                  12.8
+      Bavaria                                      42,997            205           329         1,926                  14.7
+      Berlin                                         6,010            34           160           154                    4.1
+      Brandenburg                                    2,914              9          116           122                    4.9
+      Bremen                                            893           18           131            30                    4.4
+      Hamburg                                        4,636              5          252           166                    9.0
+      Hesse                                          8,549            25           136           372                    5.9
+      Mecklenburg-Western
+                                                        699             1            43           18                    1.1
+      Pomerania
+      Lower Saxony                                 10,325             42           129           456                    5.7
+      North Rhine-Westphalia                       33,560            132           187         1,290                    7.2
+      Rhineland-Palatinate                           6,150            17           151           177                    4.3
+      Saarland                                       2,608              3          263           139                  14.0
+      Saxony                                         4,702              6          115           167                    4.1
+      Saxony-Anhalt                                  1,578              2            71           45                    2.0
+      Schleswig-Holstein                             2,788            50             96          113                    3.9
+      Thuringia                                      2,355            10           110            96                    4.5
+      Total                                       163,175            679           196         6,692                    8.1
+    Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 3 ----
+
+3                                                                                                         COVID-19 Situation Report 04/05/2020   3
+      Figure 1: Number and cumulative incidence (per 100,000 population) of the 163,175 electronically reported COVID-19 cases in
+      Germany by county and federal state (04/05/2020, 12:00 AM). Please see the COVID-19 dashboard (https://corona.rki.de/) for
+      information on number of COVID-19 cases by county (local health authority).
+      Distribution of cases over time
+      COVID-19 cases were first notified in Germany in January 2020. In 55,057 cases, onset of symptoms is
+      unknown and therefore date of reporting is shown (see Figure 2).
+                                  7000
+                                  6000
+       Number of reported cases
+                                  5000
+                                  4000
+                                  3000
+                                  2000
+                                  1000
+                                    0
+                                                     Onset of symptoms, alternatively date of reporting (2020)
+                                                                  Onset of symptoms   Date of reporting
+      Figure 2: Number of electronically reported COVID-19 cases in Germany by date of symptom onset and alternatively by date of
+      reporting from 01/03/2020 (04/05/2020, 12:00 AM).
+    Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 4 ----
+
+4  COVID-19 Situation Report 04/05/2020
+    Demographic distribution of cases
+    Of reported cases, 52% are female and 48% are male. Among notified cases, 2,871 were children under
+    10 years of age (1.8%), 6,877 children and youth aged 10 to 19 years (4.2%), 69,964 persons aged 20 to
+    49 years (43%), 52,172 persons aged 50 to 69 years (32%), 26,474 persons aged 70 to 89 years (16%)
+    and 4,629 persons aged 90 years and older (2.8%). The age of 187 notified cases is unknown. The mean
+    and median age of cases are both 50 years. The highest incidences are seen in persons 90 years and
+    older (see Figure 3).
+    Figure 3: Electronically reported COVID-19 cases/100,000 population in Germany by age group and sex (n=162,553) for cases
+    with information available (04/05/2020, 12:00 AM).
+    Clinical aspects
+    Information on symptoms is available for 132,649 (81%) of the notified cases. Common symptoms are
+    cough (50%), fever (41%) and rhinorrhoea (21%). Pneumonia was reported in 3,689 cases (2.8%).
+    Hospitalisation was reported for 23,140 (18%) of 132,004 COVID-19 cases with information on
+    hospitalisation available. Since week 17, cases can be documented as a distinct surveillance category for
+    COVID-19 in the reporting software from which they are transmitted to RKI, similar to other notifiable
+    infectious diseases. Since then, loss of smell and taste can also be entered as symptoms. At least one of
+    these two symptoms was reported in 543 of 3,571 cases recorded in the COVID-19 category with clinical
+    information (15%).
+    Approximately 132,700 persons have recovered from their COVID-19 infection. As the exact date of
+    recovery is unknown in most cases, an algorithm was developed to estimate the number of recovered
+    cases.
+    The 6,692 COVID-19 related deaths reported in Germany concerned 3,751 (56%) men and 2,935 (44%)
+    women (sex was unknown in six cases, age was unknown in four cases) (see Table 2). The median age
+    was 82 years. Of all deaths, 5,796 (87%) were in persons 70 years or older, but only 19% of all cases
+    were in this age group. COVID-19 related outbreaks continue to be reported in nursing homes and
+    hospitals. In some of these outbreaks, the number of deaths is relatively high.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 5 ----
+
+5                                                                                                       COVID-19 Situation Report 04/05/2020       5
+    Table 2: Number of notified COVID-19 deaths by age group and sex (Data available for 6,682 of notified deaths;
+    04/05/2020, 12:00 AM)
+    Sex                                                                 Age group (in years)
+                           0-9      10-19       20-29     30-39       40-49 50-59 60-69 70-79 80-89                          90-99      100+
+    Male                  1*          1          4          9          37         167       446         1,035 1,609          437          4
+    Female                 1                     2          5          11          54       152          484      1,427      759         37
+    Total                  2          1          6         14          48         221       598         1,519     3,036     1,196        41
+  *Incorrect data entry suspected at local level regarding age of case
+  Occupation, accommodation or care in facilities
+    In accordance with the Protection Against Infection Law (IfSG), information on occupation,
+    accommodation or care in a facility relevant for infection control is documented and electronically
+    transmitted to RKI for notified COVID-19 cases (see Table 3).
+    Table 3: Notified COVID-19-cases according to possible occupation, accommodation or care in facilities relevant for
+    transmission of infectious diseases (162,228*cases, no data available for 59,782 cases; 04/05/2020, 12:00 AM)
+    Facility according to                                                              Total        Hospitalised Deaths Recovered
+                                                                                                                                    (estimate)
+    § 23 IfSG (e.g. hospitals,                   Cared for /
+    outpatient clinics and practices,            accommodated in facility              2,231              1,447           387         1,200
+    dialysis clinics or outpatient
+    nursing services)                            Occupation in facility                9,885               438             15         8,700
+    § 33 IfSG (e.g. day care facilities,         Cared for /
+    kindergartens, facilities for after          accommodated in facility             1,672*                49             1          1,500
+    school care, schools or other
+    educational facilities, children’s
+    homes, holiday camps)                        Occupation in facility                1,983               100             7          1,800
+    § 36 IfSG (e.g. facilities for the
+    care of older, disabled, or other            Cared for /
+    persons in need of care,                     accommodated in facility             12,434              2,749          2,420        6,600
+    homeless shelters, community
+    facilities for asylum-seekers,
+    repatriates and refugees as well
+    as other mass accommodation                  Occupation in facility                7,433               300             30         6,200
+    and prisons)
+    § 42 IfSG (e.g. kitchens in the
+    catering trade, in inns,
+    restaurants, canteens, cafés, or             Occupation in facility                1,182                78             6            800
+    other establishments with or for
+    communal catering)
+    Neither cared for, accommodated
+    in nor working in a facility                                                      65,626             11,801          2,560        57,800
+    *for care according to § 33 IfSG only cases under 18 years of age are taken into account, as other information may be assumed to be incorrect.
+    IfSG: Protection Against Infection Law
+    Since information on care, accommodation and occupation in these facilities is missing in 37% of cases,
+    the proportion of cases cared for, accommodated in or working in facilities should be considered as
+    minimum values. Among the COVID-19 cases reported as being cared for, accommodated in or working
+    in all of the above mentioned facilities, the proportion of cases that actually acquired their infection in
+    these settings is unknown.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 6 ----
+
+6  COVID-19 Situation Report 04/05/2020
+    Thus far, 9,885 cases with a SARS-CoV-2 infection have been notified among staff working in medical
+    facilities as defined by Section 23 IfSG. Among the cases reportedly working in medical facilities, 72%
+    were female and 28% male. The median age was 41 years.
+    The high number of cases among persons cared for or working in various care facilities (Section 36 IfSG)
+    is consistent with numerous reported outbreaks, especially in nursing homes. The low number of cases
+    attending or working in facilities concerned with child care or education (Section 33 IfSG) reflects the
+    low incidence in children observed thus far.
+    Estimation of the reproduction number (R)
+    The presented case numbers do not fully reflect the temporal progression of incident COVID-19 cases,
+    since the time intervals between actual onset of illness and diagnosis, reporting, as well as transmission
+    to the RKI vary greatly. Therefore, a nowcasting approach is applied to model the true temporal
+    progression of COVID-19 cases according to illness onset. Figure 4 shows the result of this analysis. A
+    detailed description of the methodology is available at
+    https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2020/17/Art_02.html (Epid. Bull. 17 | 2020 from
+    23/04/2020)
+    Figure 4: Display of cases with known onset of the disease (dark blue), estimated onset of the disease for cases where the onset
+    of the disease has not beed reported (grey) and estimated course of already symptomatic cases (light blue) (as of 04/05/2020
+    12 AM, taking into account cases up to 30/04/2020).
+    The reproduction number, R, is defined as the mean number of persons infected by a case. R can only be
+    estimated based on statistical analyses such as nowcasting and not directly extracted from the
+    notification system. The nowcasting analysis and the R-estimate are based on all COVID-19 cases
+    transmitted to RKI with an illness onset up to 3 days before data closure. Cases with a more recent
+    illness onset are excluded from this analysis as their as yet low number would lead to unstable
+    estimates.
+    The number of incident cases estimated using the nowcasting approach is presented as a moving 4-day
+    average to compensate for random effects of individual days (Fig. 4). With this approach, the point
+    estimate of R for a given day is estimated as the quotient of the number of incident cases on this day
+    divided by the number of incident cases four days earlier. The current estimate is R= 0.76 (95%
+    prediction interval: 0.66-0.89) and is based on electronically notified cases as of 04/05/2020, 12:00 AM.
+  Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 7 ----
+
+7                                                                                              COVID-19 Situation Report 04/05/2020 7
+      DIVI intensive care register
+      A registry of the German Interdisciplinary Association for Intensive and Emergency Medicine (DIVI), the
+      RKI and the German Hospital Federation (DKG) was established to document the capacities for intensive
+      care as well as the number of COVID-19 cases treated in participating hospitals
+      (https://www.intensivregister.de/#/intensivregister). The DIVI intensive care register documents the number
+      of available intensive care beds in the reporting hospitals on a daily basis. Since 16/04/2020, reporting is
+      compulsory for all hospital sites with intensive care beds.
+      As of 04/05/2020, a total of 1,199 hospitals or departments reported to the DIVI registry. Overall,
+      31,334 intensive care beds were registered, of which 18,596 (59%) are occupied, and 12,738 beds (41%)
+      are currently available. The number of COVID-19 cases treated in participating hospitals are shown in
+      Table 4.
+      Table 4: COVID-19 patients requiring intensive care (ICU) recorded in the DIVI register (04/05/2020, 9:15 AM).
+                                                                  Number of           Percentage                  Change to
+                                                                     patients                                 previous day
+      Currently in ICU                                                 1,949                                              -30
+           - of these: mechanically ventilated                         1,396                   72%                        -45
+      Discharged from ICU                                              9,729                                           +217
+           - of these: deaths                                          2,826                   29%                       +91
+  Assessment by the RKI
+      At the global and the national level, the situation is very dynamic and must be taken seriously. Severe
+      and fatal courses occur in some cases. The number of newly transmitted cases, hospitalisations and
+      fatalities in Germany is decreasing. The RKI currently assesses the risk to the health of the German
+      population overall as high and as very high for risk groups. The probability of serious disease
+      progression increases with increasing age and underlying illnesses. The risk of disease varies from region
+      to region. The burden on the health care system depends on the geographical and age distribution of
+      cases, health care capacity and initiation of containment measures (isolation, quarantine, physical
+      distancing etc.), and may be very high in some geographical regions. This assessment may change on
+      short notice as a result of new findings.
+  Measures taken by Germany
+      -     The wearing of (non-medical) face masks in public transport and in shops is now obligatory in all
+            federal states.
+      -     Data on current disease activity can be found in the daily situation reports and on the RKI dashboard
+            https://corona.rki.de/.
+      -     RKI teams are currently supporting outbreak containment measures with a focus on outbreaks in
+            retirement and health care homes as well as hospitals in several federal states.
+      -     As of 23/03/2020, gatherings of more than 2 persons (with the exception of families and household
+            members) are banned in all federal states. Restaurants and businesses concerned with body care
+    Note: The report is a snapshot and is continuously updated.
+
+
+# ---- page 8 ----
+
+8  COVID-19 Situation Report 04/05/2020
+          were closed. In public spaces, all persons must maintain a distance of 1.5 metres to other indivduals
+          https://www.bundesregierung.de/breg-de/themen/coronavirus/besprechung-der-bundeskanzlerin-
+          mit-den-regierungschefinnen-und-regierungschefs-der-laender-1733248 (in German)
+    -     A new federal law was implemented on 28/03/2020 for the protection of the public in the event of
+          epidemic situations, granting the federal government additional competencies for the control of
+          epidemics: https://www.bundesgesundheitsministerium.de/presse/pressemitteilungen/2020/1-
+          quartal/corona-gesetzespaket-im-bundesrat.html (in German)
+    -     On 15/04/2020, the German government and the federal states agreed to gradually reduce social
+          distancing measures https://www.bundesregierung.de/breg-de/themen/coronavirus/fahrplan-
+          corona-pandemie-1744202 (in German)
+  Note: The report is a snapshot and is continuously updated.

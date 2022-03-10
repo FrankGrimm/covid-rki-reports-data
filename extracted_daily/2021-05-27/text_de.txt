@@ -1,0 +1,640 @@
+# 2021-05-27-de.pdf date: 2021-05-27 lang: de
+
+# ---- page 1 ----
+
+                                    Täglicher Lagebericht des RKI
+                                zur Coronavirus-Krankheit-2019
+                                                          (COVID-19)
+                                  27.05.2021 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+        Bestätigte Fälle                            7-Tage-Inzidenz (7-TI)                        Impfmonitoring                  DIVI-Intensivregister
+                                                                                                                                    Veränderung zum
+                                                                      Anzahl Kreise
+                                                 Gesamt-                                     Anzahl Impfungen seit                 Vortag der Fälle in
+    Gesamt1           aktive Fälle2                                      mit 7-TI
+                                              Bevölkerung                                           dem Vortag4                  intensivmedizinischer
+                                                                   > 50/ 100.000 EW
+                                                                                                                                      Behandlung5
+                                                                                                 Impfung begonnen:
+     +6.313                -5.600                    41                      -42                                                           -166
+                                                                                                      + 456.833
+                                                                                                Impfung vollständig:
+  (3.662.490)         [ca. 124.100]         Fälle/100.000 EW             [111/412]                                                       [2.836]
+                                                                                                      + 678.826
+                                                                                           Anzahl Geimpfter insgesamt
+                                                                      Anzahl Kreise           mit mindestens begon-
+                                             60-79        80+                                                                      Auf ITS verstorben
+  Genesene3          Verstorbene1                                        mit 7-TI             nener/mit vollständiger
+                                              Jahre      Jahre                                 Impfung und Anteil an                   zum Vortag
+                                                                  > 100/ 100.000 EW
+                                                                                                    Bevölkerung4
+    +11.600                 +269                21          16                -7              N1: 34.305.216 (41,2%)6                       +65
+(ca. 3.450.400)           (87.995)           Fälle/100.000 EW              [8/412]            N2: 13.053.626 (15,7%)7
+    Zahlen in () Klammern zeigen kumulative Werte, Zahlen in [] Klammern zeigen die aktuellen Werte. Fußnoten werden im Anhang erläutert.
+    COVID-19-Verdachtsfälle und -Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das
+    Gesundheitsamt gemeldet. Dieses übermittelt die Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+    Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen dargestellt. Eine Übersicht, welche Informationen
+    an welchen Tagen im Situationsbericht zur Verfügung gestellt werden, ist unter www.rki.de/covid-19-situationsbericht zu finden.
+      •      Änderungen seit dem letzten Bericht werden im Text in Blau dargestellt –
+      Zusammenfassung der aktuellen Lage
+      • Das Robert Koch-Institut schätzt trotz des aktuell beobachteten Rückgangs aufgrund der noch immer hohen Fallzahlen und der
+         Verbreitung von einigen SARS-CoV-2 Varianten, die Gefährdung für die Gesundheit der Bevölkerung in Deutschland insgesamt
+         weiterhin als sehr hoch ein.
+      • Gestern wurden 6.313 neue Fälle und 269 neue Todesfälle übermittelt. Die Inzidenz der letzten 7 Tage liegt deutschlandweit bei 41
+         Fällen pro 100.000 Einwohner (EW). Aktuell liegen die 7-Tage-Inzidenzen in folgenden Bundesländern über der bundesweiten
+         Gesamtinzidenz: Baden-Württemberg, Hessen, Nordrhein-Westfalen, Saarland und Thüringen. Hiervon liegt insbesondere Thüringen
+         deutlich über dem bundesweiten Wert.
+      • Aktuell weisen 111/412 Kreise eine hohe 7-Tage-Inzidenz von >50 auf. Die 7-Tage-Inzidenz liegt in 8 Kreisen bei >100 Fällen/100.000
+         EW.
+      • Die 7-Tage-Inzidenz bei Personen 60-79 Jahre liegt aktuell bei 21 und bei Personen ≥ 80 Jahre bei 16 Fällen/100.000 EW.
+      • Die bundesweiten Fallzahlen werden durch zumeist diffuse Geschehen mit zahlreichen Häufungen insbesondere in Haushalten, im
+         beruflichen Umfeld sowie in Kitas und Horteinrichtungen verursacht.
+      • Am 27.05.2021 (12:15) befanden sich 2.836 COVID-19-Fälle in intensivmedizinischer Behandlung (-166 zum Vortag). Seit dem Vortag
+         erfolgten +116 Neuaufnahmen von COVID-19-Fällen auf eine Intensivstation. +65 COVID-19-Fälle sind seit dem Vortag verstorben.
+      • Seit dem 26.12.2020 wurden insgesamt 47.358.842 Impfungen verabreicht. Insgesamt haben 41,2% der Bevölkerung mindestens
+         eine der zwei notwendigen Impfungen gegen COVID-19 bekommen.6 15,7% wurden bereits vollständig gegen COVID-19 geimpft.7
+      • Aufgrund des Feiertags am 24.05.2021 ist bei der Interpretation der Fallzahlen zu beachten, dass an Feiertagen weniger Personen
+         einen Arzt aufsuchen, wodurch auch weniger Proben genommen und weniger Laboruntersuchungen durchgeführt werden. Dies
+         führt dazu, dass weniger Erregernachweise an die zuständigen Gesundheitsämter gemeldet werden.
+      Der Bericht stellt eine Momentaufnahme dar und wird fortlaufend aktualisiert.
+
+
+# ---- page 2 ----
+
+2 COVID-19-Lagebericht vom 27.05.2021
+    Epidemiologische Lage in Deutschland (Datenstand 27.05.2021, 0:00 Uhr)
+    COVID-19-Verdachtsfälle, COVID-19-Erkrankungen sowie Labornachweise von SARS-CoV-2 werden
+    gemäß Infektionsschutzgesetz (IfSG) an das Gesundheitsamt gemeldet. Das Gesundheitsamt übermittelt
+    diese Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+    Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten COVID-19-Fällen mittels
+    Nukleinsäure-Nachweis (z. B. PCR) oder Erregerisolierung unabhängig von der klinischen Symptomatik
+    dargestellt. Im folgenden Bericht sind somit unter COVID-19-Fällen sowohl akute SARS-CoV-2-
+    Infektionen als auch COVID-19-Erkrankungen zusammengefasst. Weitere Erläuterungen finden sich
+    unter „Hinweise zur Datenerfassung und -bewertung“.
+    Allgemeine aktuelle Einordnung
+    Die 7-Tages-Inzidenz für ganz Deutschland stieg seit Mitte Februar 2021 stark an. Seit Mitte April hat
+    sich die Zunahme zunächst abgeschwächt und seit Anfang der Kalenderwoche 17 haben die Zahlen
+    deutlich abgenommen. Auch die Anzahl der Landkreise mit einer 7-Tages-Inzidenz über 100/100.000
+    Einwohner hat deutlich abgenommen. Die Gesamtinzidenz in Deutschland liegt unter 50/100.000
+    Einwohner. Der 7-Tage-R-Wert liegt unter 1. In den letzten Wochen sank die 7-Tage-Inzidenz in allen
+    Altersgruppen. Beim Großteil der Fälle ist der Infektionsort nicht bekannt. COVID-19-bedingte
+    Ausbrüche betreffen insbesondere private Haushalte, aber auch das berufliche Umfeld sowie Kitas und
+    Schulen, während die Anzahl der Ausbrüche in Alters- und Pflegeheimen insbesondere aufgrund der
+    fortschreitenden Durchimpfung deutlich zurückgegangen ist.
+    Um einen möglichst kontinuierlichen Betrieb von Kitas und Schulen gewährleisten zu können, erfordert
+    die aktuelle Situation trotz der sinkenden Inzidenz weiterhin den Einsatz aller organisatorischer und
+    individueller Maßnahmen zur Infektionsprävention (s. u. a. Maßnahmen zur Prävention und Kontrolle
+    der SARS-CoV-2-Übertragung in Schulen - Lebende Leitlinie). Darüber hinaus muss der Eintrag von SARS-
+    CoV-2 in die Einrichtungen möglichst verhindert werden, d. h. Familien und Beschäftigte sollten ihr
+    Infektionsrisiko außerhalb der Kita oder Schule entsprechend der Empfehlungen des RKI (AHA + L)
+    minimieren und bei Zeichen einer Erkrankung 5-7 Tage zuhause bleiben. Falls es zu Erkrankungen in
+    einer Einrichtung kommt, sollte eine frühzeitige reaktive Schließung erwogen werden, um eine weitere
+    Ausbreitung innerhalb und außerhalb der Einrichtung zu verhindern.
+    Im Deutschen elektronischen Sequenzdaten-Hub (DESH) (www.rki.de/covid-19-desh) werden im
+    Rahmen der Integrierten Molekularen Surveillance (IMS) 4 besorgniserregende Varianten erfasst. Hierzu
+    zählen die Linien B.1.1.7 (erstmals nachgewiesen in Großbritannien), B.1.351 (erstmals nachgewiesen in
+    Südafrika), P.1 (erstmals nachgewiesen in Brasilien) und B.1.617 (erstmals nachgewiesen in Indien). Die
+    aktuellen Zahlen zu den Virusvarianten werden regelmäßig in den Berichten zu Virusvarianten von SARS-
+    CoV-2 in Deutschland dargestellt. Insgesamt ist die VOC B.1.1.7 inzwischen in Deutschland der
+    vorherrschende COVID-19-Erreger. VOC B.1.1.7 ist nach bisherigen Erkenntnissen deutlich ansteckender
+    und verursacht vermutlich schwerere Krankheitsverläufe als andere Varianten.
+    Der Anstieg der Fallzahlen und der Infektionen durch die VOC B.1.1.7 führte ab Mitte März zu einer
+    erneut ansteigenden Anzahl von Hospitalisierungen insbesondere bei den 35- bis 79-Jährigen. Aktuell ist
+    die Anzahl der hospitalisierten und intensivpflichtigen Patientinnen und Patienten rückläufig. Alle
+    Impfstoffe, die aktuell in Deutschland zur Verfügung stehen, schützen nach derzeitigen Erkenntnissen
+    sehr gut vor einer Erkrankung durch die in Deutschland hauptsächlich zirkulierende VOC B.1.1.7, und sie
+    schützen auch vor schweren Erkrankungen durch die anderen Varianten. Nicht notwendige Reisen in
+    Risikogebiete sollten weiterhin, insbesondere aufgrund der zunehmenden Verbreitung der
+    besorgniserregenden Virusvarianten, vermieden werden.
+    Unter dem Link www.rki.de/inzidenzen stellt das RKI die tagesaktuellen Fallzahlen und Inzidenzen,
+    (einschließlich des Verlaufs nach Berichtsdatum) nach Landkreisen und Bundesländern zur Verfügung.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 3 ----
+
+3                                                                                                 COVID-19-Lagebericht vom 27.05.2021      3
+  Geografische Verteilung
+  Es wurden 3.662.490 (+6.313) labordiagnostisch bestätigte COVID-19-Fälle an das RKI übermittelt (s.
+  Tabelle 1). Die geografische Verteilung der Fälle der letzten 7 Tage ist in Abbildung 1 dargestellt. Die
+  genauen Inzidenzwerte der Kreise können dem Dashboard entnommen werden (https://corona.rki.de/).
+  Abbildung 1: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten 7 Tage in Deutschland nach Kreis und
+  Bundesland (n = 34.116, 27.05.2021, 0:00 Uhr). Die Fälle werden in der Regel nach dem Kreis ausgewiesen, aus dem sie übermittelt wurden.
+  Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher Infektionsort müssen nicht übereinstimmen.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 4 ----
+
+4 COVID-19-Lagebericht vom 27.05.2021
+    Tabelle 1: An das RKI übermittelte COVID-19-Fälle und -Todesfälle pro Bundesland in Deutschland (27.05.2021, 0:00 Uhr). Die Differenz zum
+    Vortag bezieht sich auf Fälle, die dem RKI täglich übermittelt werden. Dies beinhaltet Fälle, die am gleichen Tag oder bereits an früheren
+    Tagen an das Gesundheitsamt gemeldet worden sind.
+                                               Fälle kumulativ                           Letzte 7 Tage                Todesfälle kumulativ
+                                                                      Fälle/                           Fälle/                           Fälle/
+                                                    Differenz
+     Bundesland                       Fälle                         100.000           Fälle           100.000          Fälle           100.000
+                                                      Vortag
+                                                                       EW                               EW                                EW
+     Baden-Württemberg                489.136            1.000          4.406             5.708               51          9.893                89
+     Bayern                           636.237            1.018          4.848             5.355               41        14.893                113
+     Berlin                           177.655              120          4.841             1.252               34          3.460                94
+     Brandenburg                      107.911                88         4.279               683               27          3.710               147
+     Bremen                             26.935               35         3.954               226               33            473                69
+     Hamburg                            75.932               76         4.111               469               25          1.548                84
+     Hessen                           284.916              797          4.531             3.136               50          7.282               116
+     Mecklenburg-
+                                        43.700               80         2.717               359               22          1.116                69
+     Vorpommern
+     Niedersachsen                    256.768              434          3.212             2.231               28          5.584                70
+     Nordrhein-Westfalen              800.759            1.469          4.462             8.290               46        16.639                 93
+     Rheinland-Pfalz                  151.909              262          3.711             1.616               39          3.716                91
+     Saarland                           40.542               63         4.108               533               54          1.003               102
+     Sachsen                          282.413              393          6.936             1.604               39          9.612               236
+     Sachsen-Anhalt                     97.958             124          4.463               764               35          3.304               151
+     Schleswig-Holstein                 62.760             104          2.161               632               22          1.586                55
+     Thüringen                        126.959              250          5.951             1.258               59          4.176               196
+     Gesamt                        3.662.490             6.313          4.404           34.116                41        87.995                106
+     Im Rahmen von Qualitätsprüfungen und Datenbereinigungen der Gesundheitsämter kann es gelegentlich vorkommen, dass bereits
+     übermittelte Fälle im Nachhinein korrigiert bzw. wieder gelöscht werden. So kann es dazu kommen, dass in dieser Tabelle negative Werte bei
+     der Differenz der im Vergleich zum Vortag übermittelten Fällen aufgeführt werden.
+    Zeitlicher Verlauf
+    Die dem RKI übermittelten Fälle mit Erkrankungsdatum seit dem 01.03.2020 sind tagesaktuell auf dem
+    Dashboard verfügbar (https://corona.rki.de/). Ein Wochenvergleich wird im Lagebericht nur noch
+    dienstags dargestellt.
+    Abbildung 2 zeigt den Verlauf der an das RKI übermittelten COVID-19-Fälle pro 100.000 Einwohner der
+    jeweils letzten 7 Tage in den Bundesländern und in Deutschland. Aktuell liegen die 7-Tage-Inzidenzen in
+    folgenden Bundesländern über der bundesweiten Gesamtinzidenz: Baden-Württemberg, Hessen,
+    Nordrhein-Westfalen, Saarland und Thüringen. Hiervon liegt insbesondere Thüringen deutlich über dem
+    bundesweiten Wert.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 5 ----
+
+5                                                                                              COVID-19-Lagebericht vom 27.05.2021 5
+  Abbildung 2: Darstellung der übermittelten COVID-19-Fälle/100.000 Einwohner über 7 Tage in Deutschland nach Bundesland und
+  Meldedatum in den Gesundheitsämtern (27.05.2021, 0:00 Uhr). Für den grau markierten Bereich ist in den Folgetagen noch mit
+  nachübermittelten Fällen und damit mit einer Erhöhung der Inzidenz zu rechnen.
+  Betreuung, Unterbringung und Tätigkeit in Einrichtungen
+  Gemäß Infektionsschutzgesetz kann für COVID-19-Fälle auch übermittelt werden, ob sie in einer für den
+  Infektionsschutz relevanten Einrichtung betreut, untergebracht oder tätig sind. Es wird dabei zwischen
+  verschiedenen Arten von Einrichtungen unterschieden (s. Tabelle 2 und Tabelle 3).
+  Da Angaben zu Betreuung, Unterbringung und Tätigkeit bei vielen Fällen fehlen, ist die Anzahl der Fälle
+  mit einer Betreuung, Unterbringung oder Tätigkeit in den einzelnen Einrichtungen als Mindestangabe zu
+  verstehen. Für die übermittelten COVID-19-Fälle der genannten Einrichtungen ist jedoch unbekannt, wie
+  hoch der Anteil derer ist, die sich in diesen Einrichtungen angesteckt haben.
+  Bei den erfassten COVID-19-Fällen mit Unterbringung in einer Einrichtung war die Zahl der COVID-19-
+  Fälle mit Abstand am höchsten in Einrichtungen nach § 36 IfSG, gefolgt von Betreuten in Einrichtungen
+  nach § 33 IfSG. Tätige in Einrichtungen nach § 23 IfSG verzeichneten die meisten COVID-19-Fälle, gefolgt
+  von Tätigen in Einrichtungen nach § 36 IfSG (s. Tabelle 3). Der Anteil verstorbener Fälle unter den
+  Betreuten in Einrichtungen nach §§ 23 und 36 IfSG ist in Tabelle 2 dargestellt.
+  Seit Herbst 2020 können zu den Einrichtungen auch differenziertere Angaben erfasst werden. Diese
+  werden nun auch im Lagebericht veröffentlicht. Bei der Bewertung ist zu berücksichtigen, dass diese
+  Informationen nur für eine Teilmenge der COVID-19-Fälle vorliegen und nicht repräsentativ für alle Fälle
+  sind.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 6 ----
+
+6 COVID-19-Lagebericht vom 27.05.2021
+    Tabelle 2: An das RKI übermittelte COVID-19-Fälle nach Betreuung oder Unterbringung in Einrichtungen mit besonderer Relevanz für die
+    Transmission von Infektionskrankheiten (n= 279.544 Fälle; Stand 27.05.2021, 0:00 Uhr).
+                                                                                60+ Jahre Hospitalisiert Verstorben Genesen
+   Betreut/untergebracht in Einrichtung                          Gesamt
+                                                                                Anzahl / %       Anzahl / %       Anzahl / % (Schätzung)
+   § 23 IfSG (z.B. Krankenhäuser, ärztliche Praxen,
+                                                                    32.274       23.395/72%        22.427/69%       5.421/17%           26.000
+   Dialyseeinrichtungen und Rettungsdienste)
+     - Davon mit differenzierten Angaben                            19.727       14.656/74%             14.768            3.356         15.600
+        - Krankenhäuser                                             15.984       11.934/75%             13.611            3.000         12.300
+        - Rehabilitationseinrichtungen                                1.266          878/69%                520              63          1.200
+        - sonstige                                                    2.477       1.844/74%                 637             293          2.100
+   § 33 IfSG (z.B. Kitas, Kinderhorte, Schulen,
+                                                                   113.993            -              1.055/1%             2/0%         109.700
+   Heime und Ferienlager) *
+     - Davon mit differenzierten Angaben                            74.597            -                     645               1         70.700
+        - Kitas                                                     20.012            -                     183               0         19.100
+        - Schulen                                                   53.260            -                     446               1         50.300
+        - sonstige                                                    1.325           -                      16               0          1.300
+   § 36 IfSG (z.B. Pflegeeinrichtungen,
+   Obdachlosenunterkünfte, Einrichtungen zur
+   gemeinschaftlichen Unterbringung von                            133.277 103.467/78%             21.137/16%      22.508/17%          109.400
+   Asylsuchenden, sonstige Massenunterkünfte,
+   Justizvollzugsanstalten)
+     - Davon mit differenzierten Angaben                            81.502       64.861/80%             11.872           13.697         66.500
+        - Pflegeeinrichtungen                                       70.116       63.504/91%             10.935           13.493         56.100
+        - Ambulante Pflegedienste                                     1.033          976/94%                393             168            800
+        - Gemeinschaftsunterkünfte für Asylsuchende                   9.142           213/2%                432              11          8.500
+        - sonstige                                                    1.211          168/14%                112              25          1.100
+    *Für Betreuung nach § 33 IfSG werden nur Fälle < 18 Jahren berücksichtigt, da bei anderer Angabe von Fehleingaben ausgegangen wird.
+    Tabelle 3: An das RKI übermittelte COVID-19-Fälle nach Tätigkeit in Einrichtungen mit besonderer Relevanz für die Transmission von
+    Infektionskrankheiten (n= 199.765 Fälle; Stand 27.05.2021, 0:00 Uhr).
+                                                                                60+ Jahre Hospitalisiert Verstorben Genesen
+   Tätig in Einrichtung                                          Gesamt
+                                                                                Anzahl / %       Anzahl / %       Anzahl / % (Schätzung)
+   § 23 IfSG (z.B. Krankenhäuser, ärztliche Praxen,
+                                                                    87.651          6.548/7%         2.573/3%            85/0%          86.800
+   Dialyseeinrichtungen und Rettungsdienste)
+     - Davon mit differenzierten Angaben                            50.114          3.581/7%              1.248              38         49.400
+        - Krankenhäuser                                             33.991          2.085/6%                902              21         33.600
+        - Rehabilitationseinrichtungen                                1.946          195/10%                 42               0          1.900
+        - sonstige                                                  14.177          1.301/9%                304              17         13.900
+   § 33 IfSG (z.B. Kitas, Kinderhorte, Schulen,
+                                                                    46.473       3.494/8%              897/2%            34/0%          45.700
+   Heime und Ferienlager) *
+     - Davon mit differenzierten Angaben                            28.164       2.082/7%                   453              13         27.600
+        - Kitas                                                     14.698         907/6%                   223               9         14.400
+        - Schulen                                                     9.840        846/9%                   161               3          9.600
+        - sonstige                                                    3.626        329/9%                    69               1          3.600
+   § 36 IfSG (z.B. Pflegeeinrichtungen,
+   Obdachlosenunterkünfte, Einrichtungen zur
+   gemeinschaftlichen Unterbringung von                             65.641        7.507/11%          1.602/2%           175/0%          65.000
+   Asylsuchenden, sonstige Massenunterkünfte,
+   Justizvollzugsanstalten)
+     - Davon mit differenzierten Angaben                            37.228        4.345/12%                 744              93         36.700
+        - Pflegeeinrichtungen                                       33.783        3.990/12%                 644              88         33.400
+        - Ambulante Pflegedienste                                     2.485          266/11%                 67               3          2.400
+        - Gemeinschaftsunterkünfte für Asylsuchende                      388            33/9%                21               0            400
+        - sonstige                                                       572          56/10%                 12               2            500
+    Bedingt durch eine Umstellung der Variablen werden hier keine Meldungen nach § 42 IfSG aufgeführt.
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 7 ----
+
+7                                                                                                                                                                   COVID-19-Lagebericht vom 27.05.2021                     7
+    Schätzung der Fallzahlen unter Berücksichtigung des Verzugs (Nowcasting) und der
+    Reproduktionszahl
+    Die Reproduktionszahl R bezeichnet die Anzahl der Personen, die im Durchschnitt von einem Fall
+    angesteckt werden. Die Schätzung des R-Wertes basiert auf dem sogenannten Nowcasting (s. Abbildung
+    3) einem statistischen Verfahren, das die Entwicklung der Fallzahlen nach Erkrankungsbeginn darstellt
+    und für die letzten Tage auch prognostiziert. Diese Prognose ist mit Unsicherheit behaftet, die sich auch
+    in den zum R-Wert angegebenen Prädiktionsintervallen spiegelt. Nach Eingang weiterer Fallmeldungen
+    am RKI wird der R-Wert im Verlauf für die zurückliegenden Tage angepasst und ggf. nach oben oder
+    unten korrigiert. In den letzten Wochen wurden Werte, die am Anfang einer Woche berichtet wurden,
+    typischerweise leicht nach oben korrigiert. Sie hatten also das reale COVID-19 Geschehen in
+    Deutschland leicht unterschätzt. Gegen Ende einer Woche geschätzte Werte verhielten sich stabiler.
+    Den aktuell geschätzten Verlauf des R-Werts zeigt Abbildung 4.
+                                     4-Tage-R-Wert                                                                                              7-Tage-R-Wert
+                                           0,52                                                                                                      0,70
+                           (95%-Prädiktionsintervall: 0,45 - 0,57)                                                                   (95%- Prädiktionsintervall: 0,67 - 0,73)
+    Durch Verzögerungen bei der Übermittlung der Fallzahlen an Wochenendtagen kommt es zu zyklischen Schwankungen des 4-Tage-R-Wertes.
+    Der 7-Tages-R-Wert verläuft deutlich gleichmäßiger, da jeweils alle Wochentage in die Bestimmung eines Wertes eingehen.
+                                                                                         Fälle:                            Erkrankungsbeginn angegeben
+                                                                                                                           Erkrankungsbeginn imputiert                                                           95%-PI
+                                                                                                                           Nowcast                                                                               95%-PI
+                           20.000
+      Anzahl neuer Fälle
+                           15.000
+                           10.000
+                            5.000
+                               0
+                                       .          .          .          .          .          .          .          .          .          .          .          .           .          .          .          .          .
+                                   .01        .02        .02        .02        .02        .03        .03        .03        .03        .03        .04        .04         .04        .04        .05        .05        .05
+                                25         01         08         15         22         01         08         15         22         29         05         12          19         26         03         10         17
+                                                                                                    Datum des Erkrankungsbeginns
+    Abbildung 3: Darstellung der an das RKI übermittelten COVID-19-Fälle mit bekanntem Erkrankungsbeginn (dunkelblau), geschätztem
+    Erkrankungsbeginn für Fälle mit fehlender Eingabe des Erkrankungsbeginns (grau) und geschätzter Verlauf der noch nicht übermittelten Fälle
+    (orange) (Stand 27.05.2021, 0:00 Uhr, unter Berücksichtigung der Fälle mit Erkrankungsbeginn bis 23.05.2021).
+    Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 8 ----
+
+8   COVID-19-Lagebericht vom 27.05.2021
+                                                                                                   Nowcast                     95%-PI
+                                                                                                   4-Tages R-Wert              95%-PI
+                                                                                                   7-Tages R-Wert              95%-PI
+                                        2
+                                                                                                                                        20.000
+        Effektive Reproduktionszahl R                                                                                                            Anzahl neuer Fälle (Nowcast)
+                                                                                                                                        15.000
+                                        1
+                                                                                                                                        10.000
+                                                                                                                                        5.000
+                                        0                                                                                               0
+                                                 3.        4.        4.            4.       4.        5.        5.        5.
+                                              .0        .0        .0            .0       .0        .0        .0        .0
+                                            29        05        12            19        26       03        10        17
+                                                                          Datum des Erkrankungsbeginns
+      Abbildung 4: Darstellung der geschätzten R-Werte (in grün und orange) in den letzten 60 Tagen, vor dem Hintergrund der durch das
+      Nowcasting geschätzten Fallzahlen nach Erkrankungsbeginn (Stand 27.05.2021, 0:00 Uhr, unter Berücksichtigung der Fälle mit
+      Erkrankungsbeginn bis 23.05.2021).
+      Der 7-Tage-R-Wert liegt unter 1.
+      Unter http://www.rki.de/covid-19-nowcasting werden Beispielrechnungen und beide täglich
+      aktualisierten R-Werte als Excel-Tabelle zur Verfügung gestellt. Eine detaillierte Beschreibung der
+      Methodik ist unter Schätzung der aktuellen Entwicklung der SARS-CoV-2-Epidemie in Deutschland -
+      Nowcasting verfügbar (Epid. Bull. 17 | 2020 vom 23.04.2020).
+      DIVI-Intensivregister
+      Das RKI betreibt gemeinsam mit der Deutschen Interdisziplinären Vereinigung für Intensiv- und
+      Notfallmedizin (DIVI) das DIVI-Intensivregister (https://www.intensivregister.de). Das Register erfasst
+      Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen und Patienten sowie Behandlungs-
+      und Bettenkapazitäten von etwa 1.300 Akut-Krankenhäusern Deutschlands. Damit ermöglicht das
+      Intensivregister in der Pandemie, sowie darüber hinaus, Engpässe in der intensivmedizinischen
+      Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft somit eine wertvolle
+      Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in Echtzeit. Seit dem 16.04.2020
+      ist laut Intensivregister-Verordnung die Meldung für alle intensivbettenführenden
+      Krankenhausstandorte verpflichtend.
+      Mit Stand 20.05.2021 (12:15 Uhr) beteiligten sich 1.275 Krankenhaus-Standorte an der Datenerhebung.
+      Insgesamt wurden 23.306 Intensivbetten (Low- und High-Care) als betreibbar gemeldet für Erwachsene,
+      wovon 19.979 (86%) belegt sind. 3.327 (14%) Erwachsenen-ITS-Betten werden als aktuell frei und
+      betreibbar angegeben. Das DIVI-Intensivregister erfasst außerdem die Anzahl der intensivmedizinisch
+      behandelten COVID-19-Fälle (siehe Tabelle 4).
+      Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 9 ----
+
+9                                                                                                  COVID-19-Lagebericht vom 27.05.2021   9
+  Tabelle 4: Im DIVI-Intensivregister erfasste intensivmedizinisch behandelte COVID-19-Fälle (27.05.2021, 12:15 Uhr)
+                                                                                     Anzahl Fälle                Veränderung zum Vortag*
+                           In intensivmedizinischer Behandlung                           2.836                              -166
+                                  - davon invasiv beatmet                             1.831 (65%)                            -63
+    Aktuell
+                                   Neuaufnahmen auf ITS                                                                     +116
+                                     Verstorben auf ITS                                                                      +65
+    Gesamt               Abgeschlossene Behandlungen auf ITS*                           109.264
+  Bei der Interpretation der Zahlen muss beachtet werden, dass die Anzahl der meldenden Standorte täglich schwankt, dies kann z. B. die
+  Zahlen im Vergleich zum Vortag beeinflussen.
+  * Aufgrund von Verlegungen von Patientinnen/Patienten von einer ITS zur Weiterbehandlung auf eine andere ITS kann pro
+  Patientin/Patient mehr als eine Behandlung gemeldet werden ( Mehrfachzählung möglich)
+  Abbildung 5: Anzahl der gemeldeten COVID-19 Fallzahlen des jeweiligen Beobachtungstages (Stand 27.05.2021, 12:15 Uhr). Zur
+  Interpretation der Kurve im März/April 2020 ist zu beachten, dass noch nicht alle Meldebereiche im Register angemeldet waren. Generell
+  kann sich die zugrundeliegende Gruppe der COVID-19-Intensivpatientinnen und -patienten von Tag zu Tag verändern (Verlegungen und
+  Neuaufnahmen), während die Fallzahl ggf. gleich bleibt.
+  Ergebnisse aus weiteren Surveillance-Systemen des RKI zu akuten
+  respiratorischen Erkrankungen
+  Das RKI betreibt mehrere syndromische und virologische Surveillance-Systeme zur Erfassung von
+  infektiösen Atemwegserkrankungen: GrippeWeb, die Arbeitsgemeinschaft Influenza (AGI) und die ICD-
+  10-Code basierte Krankenhaus-Surveillance (ICOSARI).
+  GrippeWeb ist das deutsche Web-Portal, welches die Aktivität akuter Atemwegserkrankungen
+  beobachtet und dazu Informationen aus der Bevölkerung selbst verwendet. In GrippeWeb ist die Rate
+  akuter Atemwegserkrankungen (ARE-Rate) in der 20. KW 2021 im Vergleich zur Vorwoche gestiegen.
+  Dabei ist die ARE-Rate sowohl bei Kindern (0 bis 14 Jahre) als auch bei Erwachsenen (ab 15 Jahre)
+  angestiegen. Die ARE-Rate befindet sich auf dem gleichen niedrigen Niveau, das nach dem abrupten
+  Rückgang der ARE-Rate im Jahr 2020 zum Lockdown aufgrund der Corona-Pandemie beobachtet wurde.
+  Weitere Informationen sind abrufbar unter https://grippeweb.rki.de/.
+  Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 10 ----
+
+10   COVID-19-Lagebericht vom 27.05.2021
+       Die Arbeitsgemeinschaft Influenza (AGI) überwacht im ambulanten Bereich mit ihrem Netzwerk aus
+       primärversorgenden Sentinelärztinnen und -ärzten akute Atemwegserkrankungen. In der 20. KW 2021
+       wurden im Vergleich zur Vorwoche insgesamt mehr Arztbesuche wegen akuter Atemwegserkrankungen
+       (ARE-Konsultationsinzidenz) registriert. Dabei sind die Werte der ARE-Konsultationsinzidenz in allen
+       Altersgruppen gestiegen. Die Werte der Konsultationsinzidenz liegen in der 20. KW 2021 auf dem
+       gleichen Niveau wie in 2020 und unter den Werten der Vorsaisons. In der virologischen Surveillance der
+       AGI wurden in der 20. KW 2021 in insgesamt 52 von 113 eingesandten Proben (46%) respiratorische
+       Viren identifiziert, darunter 27 mit humanen saisonalen Coronaviren (hCoV) (24%), 16 mit Rhinoviren
+       (14%), acht mit Parainfluenzaviren (7%) und drei mit SARS-CoV-2 (3%). Weitere, auch regionale
+       Informationen sind abrufbar unter https://influenza.rki.de/wochenberichte.aspx sowie unter
+       https://influenza.rki.de/Diagrams.aspx?agiRegion=0.
+       In der ICD-10-Code basierten Krankenhaus-Surveillance von schweren akuten respiratorischen
+       Infektionen (SARI) (ICD-10-Codes J09 bis J22: Hauptdiagnosen Influenza, Pneumonie oder sonstige akute
+       Infektionen der unteren Atemwege) werden neu im Krankenhaus aufgenommene Patientinnen und
+       Patienten mit einem ICD-10-Code für SARI in der DRG-Hauptdiagnose und (aufgrund der
+       Datenverfügbarkeit) einer maximalen Verweildauer von einer Woche erfasst. In der 19. KW 2021 ist die
+       Zahl der SARI-Fälle insgesamt leicht gesunken, vorwiegend in den Altersgruppen 15 bis 34, 35 bis 59
+       Jahre sowie 60 bis 79 Jahre. Trotz des Rückgangs lag die Anzahl der SARI-Fälle in der Altersgruppe 35 bis
+       59 Jahre weiter auf einem hohen Niveau deutlich über den Werten der Vorjahre.
+       In der 19. KW 2021 ist der Anteil an COVID-19-Erkrankungen bei SARI-Fällen weiter leicht gesunken. Bei
+       49% aller neu im Krankenhaus aufgenommenen SARI-Fälle (Hauptdiagnose Influenza, Pneumonie oder
+       sonstige akute Infektionen der unteren Atemwege) wurde eine COVID-19-Diagnose vergeben (s.
+       Abbildung 6). Zu beachten ist, dass aufgrund der Verfügbarkeit qualitätsgesicherter Entlassdiagnosen in
+       der obigen Auswertung nur Patientinnen und Patienten mit einer SARI in der DRG-Hauptdiagnose und
+       einer maximalen Verweildauer von einer Woche berücksichtigt wurden.
+                                 800                                                                                                    80
+                                 700                                                                                                    70
+                                                                                                                                             Anteil COVID-19 an SARI-Fällen (in %)
+                                 600                                                                                                    60
+         Gesamtzahl SARI-Fälle
+                                 500                                                                                                    50
+                                 400                                                                                                    40
+                                 300                                                                                                    30
+                                 200                                                                                                    20
+                                 100                                                                                                    10
+                                   0                                                                                                    0
+                                       12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 01 03 05 07 09 11 13 15 17 19
+                                                                           Kalenderwoche 2020/2021
+                                                  Gesamtzahl SARI-Fälle (absolute Zahlen)       Anteil COVID-19 an SARI-Fällen (in %)
+       Abbildung 6: Wöchentliche Anzahl der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09 – J22) sowie Anteil der Fälle mit
+       einer zusätzlichen COVID-19-Diagnose (ICD-10-Code U07.1!) unter SARI-Fällen mit einer Verweildauer bis zu einer Woche von der 12. KW
+       2020 bis zur 19. KW 2021, Daten aus 72 Sentinelkliniken.
+       Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 11 ----
+
+11                                                                                                                            COVID-19-Lagebericht vom 27.05.2021                                                           11
+     Für eine erweiterte Auswertung wurden über die für die zeitnahe Surveillance gewählte Falldefinition
+     hinaus alle neu stationär aufgenommenen SARI-Fälle mit COVID-Diagnose (COVID-SARI-Patienten)
+     betrachtet, einschließlich noch hospitalisierter Patientinnen und Patienten und unabhängig von der
+     Dauer der Hospitalisierung. Zu beachten ist deshalb, dass es sich im Folgenden um eine Auswertung
+     vorläufiger Daten handelt, die sich durch nachträglich eingehende Informationen noch ändern können.
+     Dabei wurde für COVID-SARI-Patienten in der 19. KW 2021 ein medianes Alter von 61 Jahren berechnet
+     (Vorwoche: 63 Jahre). Seit dem Sommer 2020 ist der wöchentliche Altersmedian bei COVID-SARI-
+     Patienten nicht mehr so niedrig gewesen. Im Zeitraum von der 47. KW 2020 bis zur 8. KW 2021 lag
+     dieser Wert durchgehend bei über 70 Jahren. In den vergangenen Monaten seit dem Jahreswechsel war
+     bereits ein deutlicher Rückgang des medianen Alters der neu aufgenommenen COVID-SARI-Patienten
+     beobachtet worden.
+     Intensivpflichtige COVID-19-Patienten mit einer SARI
+     Bei der Betrachtung von COVID-SARI-Patienten mit Intensivbehandlung zeigte sich ebenfalls ein
+     vergleichsweise niedriges medianes Alter von 62 Jahre in der 19. KW 2021 (Vorwoche: 61 Jahre). Im
+     Zeitraum von der 48. KW 2020 bis zur 5. KW 2021 lag dieser Wert durchgehend bei über 70 Jahren. In
+     Abbildung 7 ist der Anteil von COVID-19-Patienten unter allen intensivpflichtigen SARI-Patienten
+     dargestellt. Dieser Anteil war in der 19. KW 2021 mit 81% weiterhin hoch (Vorwoche: 78%), bei einem
+     gleichzeitigen Rückgang der Zahl intensivpflichtiger SARI-Patienten.
+       Gesamtzahl SARI-Fälle mit INTENSIVBEHANDLUNG
+                                                      300                                                                                                           100
+                                                                                                                                                                          Anteil COVID-19 an SARI mit INTENSIVbeh. (in %)
+                                                                                                                                                                    90
+                                                      250
+                                                                                                                                                                    80
+                                                                                                                                                                    70
+                                                      200
+                                                                                                                                                                    60
+                                                      150                                                                                                           50
+                                                                                                                                                                    40
+                                                      100
+                                                                                                                                                                    30
+                                                                                                                                                                    20
+                                                       50
+                                                                                                                                                                    10
+                                                        0                                                                                                           0
+                                                            12 14 16 18 20 22 24 26 28 30 32 34 36 38 40 42 44 46 48 50 52 01 03 05 07 09 11 13 15 17 19
+                                                                                               Kalenderwoche 2020/2021
+                                                                                 Gesamtzahl SARI-Fälle mit INTENSIVBEHANDLUNG (absolute Zahlen)
+                                                                                 Anteil COVID-19 an SARI-Fällen mit INTENSIVBEHANDLUNG (in %)
+     Abbildung 7: Wöchentliche Anzahl der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09-J22) mit Intensivbehandlung
+     sowie Anteil der Fälle mit einer zusätzlichen COVID-19-Diagnose (ICD-10-Code U07.1!) unter SARI-Fällen mit Intensivbehandlung und
+     unabhängig von der Verweildauer, einschließlich noch hospitalisierter Patientinnen/Patienten, von der 12. KW 2020 bis zur 19. KW 2021,
+     Daten aus 72 Sentinelkliniken.
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 12 ----
+
+12 COVID-19-Lagebericht vom 27.05.2021
+     Daten zur Inanspruchnahme von Notaufnahmen
+     Gemeinsam mit dem AKTIN-Notaufnahmeregister (http://www.aktin.org/de-de/) und mit den ESEG-
+     Projektpartnern (https://www.rki.de/DE/Content/Infekt/Ausbrueche/ESEG/ESEG_node.html) werden
+     am RKI Daten zur Inanspruchnahme von Notaufnahmen ausgewertet und ein wöchentlicher
+     Notaufnahme-Situationsreport erstellt: http://www.rki.de/sumo.
+     Im Notaufnahme-Situationsreport vom 26.05.2021 werden Daten aus 21 Notaufnahmen vom
+     01.01.2019 bis einschließlich 23.05.2021 berücksichtigt. In KW 20-2021 wurden 13.332
+     Notaufnahmevorstellungen gezählt; das entspricht einer Veränderung von +1,4% im Vergleich zur
+     Vorwoche, sowie einer durchschnittlichen Veränderung von -10,2% zum Mittelwert des
+     Vorpandemiejahres 2019 (s. Abbildung 8).
+     Abbildung 7: Relative Abweichung von Vorstellungen in Notaufnahmen zu ihrem jeweiligen Mittelwert in 2019, zwischen Januar 2019 und
+     Mai 2021 (Stand 26.05.2021), gemittelt über alle Notaufnahmen.
+     Risikobewertung durch das RKI
+     Das Robert Koch-Institut schätzt aufgrund der trotz des Rückgangs noch immer hohen Fallzahlen und
+     der Verbreitung von einigen SARS-CoV-2 Varianten die Gefährdung für die Gesundheit der Bevölkerung
+     in Deutschland insgesamt als weiterhin sehr hoch ein. Die anhaltende Viruszirkulation in der
+     Bevölkerung (Community Transmission) mit zahlreichen Ausbrüchen in Privathaushalten, Kitas und auch
+     in Schulen sowie dem beruflichen Umfeld erfordert die konsequente Umsetzung kontaktreduzierender
+     Maßnahmen und Schutzmaßnahmen, insbesondere die regelmäßige und intensive Lüftung von
+     Innenräumen sowie massive Anstrengungen zur Eindämmung von Ausbrüchen und Infektionsketten.
+     Dies ist vor dem Hintergrund der raschen Ausbreitung leichter übertragbarer besorgniserregender
+     Varianten (VOC) von entscheidender Bedeutung, um die Zahl der neu Infizierten deutlich zu senken und
+     schwere Krankheitsverläufe, intensivmedizinische Behandlungen und Todesfälle zu vermeiden.
+     Solange die Impfstoffe noch nicht in ausreichenden Mengen für alle Altersgruppen zur Verfügung
+     stehen, können Antigentests als zusätzliches Element zur frühzeitigen Erkennung der Virusausscheidung
+     die Sicherheit erhöhen.
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 13 ----
+
+13                                                                           COVID-19-Lagebericht vom 27.05.2021 13
+   Am 26.05.2021 erfolgte eine Aktualisierung der Risikobewertung unter Berücksichtigung der aktuellen
+   Entwicklung der Fallzahlen und besorgniserregenden Varianten. Die aktuelle Version findet sich unter
+   folgendem Link: www.rki.de/covid-19-risikobewertung.
+   Empfehlungen und Maßnahmen in Deutschland
+   Aktuelles
+   •    Zu aktuellen Entwicklungen und Maßnahmen informiert das Bundesgesundheitsministerium auf
+        seinen Internetseiten
+        https://www.bundesgesundheitsministerium.de/coronavirus.html
+        https://www.bundesgesundheitsministerium.de/coronavirus/chronik-coronavirus.html
+   •    Beschluss der STIKO zur 5. Aktualisierung der COVID-19-Impfempfehlung und die dazugehörige
+        wissenschaftliche Begründung (12.05.2021)
+        https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2021/19/Art_03.html
+   Neue Dokumente
+   •     Bericht zu Virusvarianten von SARS-CoV-2 in Deutschland (26.05.2021)
+         https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/DESH/Bericht_VOC_2021-05-
+         26.pdf?__blob=publicationFile
+   •     Bundespressekonferenz am 21.5.2021 zur Corona-Lage mit Bundesgesundheitsminister Jens Spahn,
+         Oberbürgermeisterin der Stadt Köln Henriette Reker und RKI-Präsident Lothar H. Wieler
+         https://www.youtube.com/watch?v=ufL8Tyhrg3Q
+   •     10. Bericht zu Virusvarianten von SARS-CoV-2 in Deutschland (19.05.2021)
+         http://www.rki.de/covid-19-voc-berichte
+   Aktualisierte Dokumente
+   •    SARS-CoV-2: Virologische Basisdaten sowie Virusvarianten (27.05.2021)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Virologische_Basisdaten.html;jse
+        ssionid=575287A88A7028EEE2BA38FD71292173.internet061?nn=13490888#doc14716546bodyText
+        1
+   •    Risikobewertung zu COVID-19 (26.5.2021)
+         https://www.rki.de/covid-19-risikobewertung
+   •    Informationen zur Ausweisung internationaler Risikogebiete durch das Auswärtige Amt, BMG und
+        BMI (21.05.2021)
+        www.rki.de/covid-19-europa
+   •    COVID-19 und Impfen: Antworten auf häufig gestellte Fragen (FAQ) (20.05.2021)
+        https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/gesamt.html
+   •    Übersicht zu besorgniserregenden SARS-CoV-2-Virusvarianten (VOC) (26.05.2021)
+        http://www.rki.de/covid-19-varianten
+   •    Kennzahlen zur Corona-Warn-App (21.05.2021)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/WarnApp/Archiv_Kennzahlen/Ke
+        nnzahlen_21052021.pdf?__blob=publicationFile
+   •    Infobrief für Gesundheitsämter zur Beauftragung einer Genomsequenzierung bei Verdacht auf das
+        Vorliegen einer VOC (20.05.2021)
+        https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/DESH/CorSurV_Brief_Gesundheit
+        samt.pdf?__blob=publicationFile
+   •    Management von Kontaktpersonen (20.05.2021)
+        www.rki.de/covid-19-kontaktpersonen
+   •    Prävention und Management von COVID-19 in Alten- und Pflegeeinrichtungen und Einrichtungen für
+        Menschen mit Beeinträchtigungen und Behinderungen (19.05.2021)
+        www.rki.de/covid-19-pflegeeinrichtungen
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 14 ----
+
+14 COVID-19-Lagebericht vom 27.05.2021
+     Epidemiologische Lage global
+     Zahlen und weitere Informationen zu COVID-19-Fällen in anderen Ländern finden Sie auf den
+     Internetseiten des ECDC:
+     https://www.ecdc.europa.eu/en/geographical-distribution-2019-ncov-cases
+     Das WHO Regionalbüro für Europa, die Europäische Kommission und das Europäische Observatorium für
+     Gesundheitssysteme und Gesundheitspolitik haben den COVID-19 Health System Response Monitor
+     (HSRM) veröffentlicht. Er dient dazu, aktuelle Informationen aus den europäischen Ländern zu sammeln
+     und deren Reaktionen auf die Krise zu dokumentieren. Der Fokus liegt dabei auf Gesundheitssystemen
+     und Public-Health-Initiativen (Zugang auf Englisch):
+     https://www.covid19healthsystem.org/mainpage.aspx
+     Empfehlungen und Maßnahmen global
+     Europa
+     •    In Unterstützung zur „Empfehlung zur Koordinierung von Maßnahmen mit Auswirkungen auf die
+          Freizügigkeit“ des Europäischen Rates stellt das ECDC Karten zu Indikatoren zur Verfügung:
+          https://www.ecdc.europa.eu/en/covid-19/situation-updates/weekly-maps-coordinated-restriction-
+          free-movement
+     •    Das ECDC stellt zudem zahlreiche Dokumente und Informationen zur Verfügung unter:
+          https://www.ecdc.europa.eu/en/covid-19-pandemic
+     •    Daten zu Fallzahlen und 14-Tage-Inzidenzen weltweit findet man auf dem Dashboard des ECDC:
+          https://qap.ecdc.europa.eu/public/extensions/COVID-19/COVID-19.html
+     Weltweit
+     •    WHO/Europa Informationen zu COVID-19:
+          https://www.euro.who.int/de/health-topics/health-emergencies/coronavirus-covid-19
+     •    WHO COVID-19-Dashboard:
+          https://covid19.who.int/
+     •    Die WHO stellt umfangreiche Informationen und Dokumente zur Verfügung unter:
+          https://www.who.int/emergencies/diseases/novel-coronavirus-2019
+     •    Wöchentliche Situation Reports der WHO:
+          https://www.who.int/emergencies/diseases/novel-coronavirus-2019/situation-reports
+     Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.
+
+
+# ---- page 15 ----
+
+15                                                                                  COVID-19-Lagebericht vom 27.05.2021 15
+   Anhang:
+   Hinweise zur Datenerfassung und -bewertung
+   Die in diesem Lagebericht dargestellten Daten stellen eine Momentaufnahme dar. Informationen zu
+   Fällen können im Verlauf der Erkrankung nachermittelt und im Meldewesen nachgetragen werden.
+   Nicht für alle Variablen gelingt eine vollständige Erfassung.
+   Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+   notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+   vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+   übermittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+   Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens des
+   Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich der
+   Fallzahlen zu anderen Quellen geben kann.
+   Für die Berechnung der Inzidenzen werden die Daten der Bevölkerungsstatistik des Statistischen
+   Bundesamtes mit Datenstand 31.12.2019 verwendet. Die Berechnung der 7-Tage-Inzidenz erfolgt auf
+   Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kenntnis über den Fall
+   erlangt und ihn elektronisch erfasst hat. Für die heutige 7-Tage-Inzidenz werden die Fälle mit
+   Meldedatum der letzten 7 Tage gezählt.
+   Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+   dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird. Es
+   kann sein, dass z.B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldedatum vor
+   mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt, die aufgrund
+   von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Differenz nicht ohne
+   weiteres auf die 7-Tage-Inzidenz geschlossen werden kann.
+   Anmerkungen zur Starttabelle Seite 1
+   1    Die Differenz zum Vortag bezieht sich auf das Eingangsdatum am RKI; aufgrund des Übermittlungsverzugs
+        können Fälle aus vorangegangenen Tagen darunter sein.
+   2    Die aktiven Fälle ergeben sich aus der Zahl der übermittelten Fälle abzüglich der Todesfälle und der
+        geschätzten Zahl der Genesenen.
+   3    Der Algorithmus zur Schätzung der Genesenen berücksichtigt Angaben zum Erkrankungsbeginn und zur
+        Hospitalisierung, jedoch nicht, ob ggf. Spätfolgen der Erkrankung vorliegen, weil diese Daten nicht regulär im
+        Meldesystem erfasst werden.
+   4    Die Daten des Impfquotenmonitorings werden werktäglich aktualisiert. Sonntags werden keine aktuellen
+        Daten berichtet.
+   5    Die Daten des Intensivregisters werden werktäglich aktualisiert. Am Wochenende werden im Lagebericht
+        keine aktuellen Daten berichtet, diese sind jedoch unter https://www.intensivregister.de/ abrufbar.
+   6    Mindestens eine der zwei notwendigen Impfungen gegen COVID-19 betreffen Impfstoffe von AstraZeneca,
+        BioNTech und Moderna.
+   7    Vollständig gegen COVID-19 geimpft heißt: Zwei Impfdosen mit einem Impfstoff von AstraZeneca, BioNTech,
+        Moderna oder eine Dosis mit dem Impfstoff von Janssen bzw. eine einzelne Dosis bei COVID-19-Genesenen.
+   Der Bericht stellt eine Momentaufnahme dar und wird täglich aktualisiert.

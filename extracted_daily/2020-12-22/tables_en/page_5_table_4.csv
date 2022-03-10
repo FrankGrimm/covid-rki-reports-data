@@ -1,0 +1,11 @@
+"0","1","2","3"
+"Clinical feature 
+N with information 
+N with clinical feature 
+% with clinical feature","","",""
+"cough","942,503","373,329","40%"
+"fever","942,503","263,569","28%"
+"rhinorrhoea","942,503","249,445","26%"
+"sore throat","942,503","199,978","21%"
+"pneumonia","942,503","12,634","1%"
+"ageusia and anosmia*","797,710","168,154","21%"

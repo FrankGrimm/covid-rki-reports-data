@@ -1,0 +1,533 @@
+# Wochenbericht_2021-12-30.pdf lang: de
+
+# ---- page 1 ----
+
+                           Wöchentlicher Lagebericht des RKI
+                               zur Coronavirus-Krankheit-2019
+                                                         (COVID-19)
+                  30.12.2021 – AKTUALISIERTER STAND FÜR DEUTSCHLAND, VERKÜRZTER BERICHT
+Korrektur: Auf S. 14 wurde die Zahl der Ungeimpften unter den gemeldeten Omikronfällen am 03.01.2022 korrigiert
+(vorher: 186; nachher: 1.097). Am 05.01.2022 wurde in Tabelle 3 Anzahl und Anteil von Delta und Omikron korri-
+giert.
+  COVID-19-Verdachtsfälle und -Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das Ge-
+  sundheitsamt gemeldet. Dieses übermittelt die Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im vorliegenden
+  Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten (Nukleinsäurenachweis oder Erregerisolierung) COVID-19-Fällen
+  dargestellt. Ebenso werden Daten aus weiteren Surveillancesystemen und Erhebungen dargestellt.
+    Die dem RKI übermittelten Fälle sind tagesaktuell auf dem Dashboard (https://corona.rki.de/) und als
+    werktäglicher Situationsbericht (www.rki.de/covid-19-situationsbericht) verfügbar. Ein Wochenver-
+    gleich mit aktueller Einordnung wird im heutigen Wochenbericht (immer donnerstags) dargestellt.
+    Die Darstellungen in diesem Wochenbericht beziehen sich überwiegend auf Daten bis zur 51. Kalen-
+    derwoche 2021.
+    Unter dem Link www.rki.de/inzidenzen stellt das RKI die tagesaktuellen Fallzahlen und Inzidenzen,
+    (einschließlich des Verlaufs nach Berichtsdatum) nach Landkreisen und Bundesländern zur Verfü-
+    gung. Werktäglich aktualisierte Trendberichte relevanter Indikatoren stehen ebenfalls zur Verfügung.
+    Des Weiteren bietet SurvStat@RKI die Möglichkeit übermittelte COVID-19-Fälle sowie andere nach
+    dem Infektionsschutzgesetz (IfSG) meldepflichtige Krankheitsfälle und Erregernachweise individuell
+    abzufragen. Die aktuelle Version der Risikobewertung findet sich unter https://www.rki.de/covid-19-
+    risikobewertung.
+    Während der Feiertage und zum Jahreswechsel ist bei der Interpretation der Fallzahlen zu beachten, dass zum
+    einen meist weniger Personen einen Arzt aufsuchen und keine Screening-Tests am Arbeitsplatz, in der Schule
+    und in Kitas durchgeführt werden, weswegen weniger Proben genommen und weniger Laboruntersuchungen
+    durchgeführt werden. Nicht alle Arztpraxen und Labore haben durchgehend über die Feiertage und „zwischen
+    den Jahren“ geöffnet. Dies führt dazu, dass weniger Erregernachweise an die zuständigen Gesundheitsämter
+    gemeldet werden. Zum anderen kann es sein, dass nicht alle Gesundheitsämter und zuständigen Landesbe-
+    hörden an allen Tagen an das RKI übermitteln. Dadurch kann es sein, dass die Darstellung der epidemiologi-
+    schen Lage in diesem Zeitraum weniger vollständig ist; der Wochenbericht erscheint daher heute in verkürzter
+    Form. Eine grundsätzliche Einschätzung der allgemeinen epidemiologischen Lage ist jedoch gewährleistet.
+    Heute stehen folgende Datentabellen aktualisiert zum Download zur Verfügung:
+    http://www.rki.de/covid-19-altersverteilung.
+    http://www.rki.de/covid-19-tabelle-klinische-aspekte
+    https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/Ausbruchsdaten.html
+    https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/COVID-19_Todesfaelle.html
+          //                /    /           /        / /                                  /       /
+
+
+# ---- page 2 ----
+
+                                                                                         Wöchentlicher COVID-19-Lagebericht vom 30.12.2021                     2
+Inhalt
+Epidemiologische Lage in Deutschland ................................................................................................... 3
+   Zusammenfassende Bewertung der aktuellen Situation .....................................................................3
+   Demografische Verteilung ....................................................................................................................4
+   Zeitlicher Verlauf ..................................................................................................................................4
+   Geografische Verteilung .......................................................................................................................5
+      Wochenvergleich der Bundesländer ............................................................................................... 5
+Klinische Aspekte und syndromische Surveillance .................................................................................. 6
+   Hospitalisierungen................................................................................................................................6
+   Daten aus dem Intensivregister ...........................................................................................................7
+   Todesfälle, Mortalitätssurveillance, EuroMomo ..................................................................................8
+      EuroMOMO und Destatis ................................................................................................................ 9
+Impfen ..................................................................................................................................................... 9
+   Digitales Impfquotenmonitoring (DIM) ................................................................................................9
+Variants of Concern (VOC)....................................................................................................................... 9
+      Datenquellen ................................................................................................................................. 10
+   SARS-CoV-2-Varianten Verteilung in Deutschland ............................................................................ 10
+      Genomsequenzdaten zu SARS-CoV-2 Varianten ........................................................................... 10
+      IfSG-Meldedaten zu SARS-CoV-2-Varianten.................................................................................. 12
+      Omikron (B.1.1.529) ...................................................................................................................... 13
+Empfehlungen und Maßnahmen in Deutschland ................................................................................. 14
+Anhang .................................................................................................................................................. 15
+   Hinweise zur Datenerfassung und -bewertung ................................................................................. 15
+
+
+# ---- page 3 ----
+
+3 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+  Epidemiologische Lage in Deutschland
+  Zusammenfassende Bewertung der aktuellen Situation
+  Die aktuelle epidemiologische Entwicklung lässt sich aufgrund der feiertagsbedingt geänderten Inan-
+  spruchnahme der medizinischen Versorgung, geänderter Testhäufigkeiten, Melde- und Übermitt-
+  lungsverzügen nur eingeschränkt einschätzen. Zum einen suchen zwischen Weihnachten und Neujahr
+  meist weniger Personen einen Arzt auf und es werden keine Screening-Tests am Arbeitsplatz, in der
+  Schule und in Kitas durchgeführt. Deswegen werden weniger Proben genommen und weniger La-
+  boruntersuchungen durchgeführt. Nicht alle Arztpraxen und Labore haben durchgehend über die Fei-
+  ertage und „zwischen den Jahren“ geöffnet. Dies führt dazu, dass weniger Erregernachweise an die
+  zuständigen Gesundheitsämter gemeldet werden. Obwohl viele Gesundheitsämter auch während
+  der Feiertage die ihnen von den Ärzten und Labore gemeldeten Fälle unmittelbar an das RKI übermit-
+  teln, ist zu erwarten, dass es zu Korrekturen und Nachmeldungen kommt. Die dargestellten Zahlen
+  stellen mit hoher Wahrscheinlichkeit eine saisonbedingte Untererfassung dar, da insbesondere die
+  Anzahl von Testungen und damit Labormeldungen reduziert sind.
+  Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der Bevölkerung
+  in Deutschland insgesamt als sehr hoch ein. Ursächlich hierfür ist das Auftreten und die rasante Ver-
+  breitung der Omikronvariante, die sich nach derzeitigem Kenntnisstand (aus anderen Ländern) deut-
+  lich schneller und effektiver verbreitet als die bisherigen Virusvarianten. Dadurch ist mit einer schlag-
+  artigen Erhöhung der Infektionsfälle zu rechnen und es kann zu einer schnellen Überlastung des Ge-
+  sundheitssystems und ggf. weiterer Versorgungsbereiche kommen. Die Infektionsgefährdung wird
+  für die Gruppe der Ungeimpften als sehr hoch, für die Gruppen der Genesen und Geimpften mit
+  Grundimmunisierung (zweimalige Impfung) als hoch und für die Gruppe der Geimpften mit Auf-
+  frischimpfung (dreimalige Impfung) als moderat eingeschätzt. Diese Einschätzung kann sich kurzfris-
+  tig durch neue Erkenntnisse ändern. Die aktuelle Version der Risikobewertung findet sich unter
+  https://www.rki.de/covid-19-risikobewertung.
+  Es ist unbedingt erforderlich, bei Symptomen einer neu auftretenden Atemwegserkrankung wie z.B.
+  Schnupfen, Halsschmerzen oder Husten (unabhängig vom Impfstatus) zuhause zu bleiben, die
+  Hausarztpraxis zu kontaktieren und einen PCR-Test durchführen zu lassen.
+  Grundsätzlich sollten alle nicht notwendigen Kontakte reduziert und Reisen vermieden werden. So-
+  fern Kontakte nicht gemieden werden können, sollten sie auf einen engen, gleichbleibenden Kreis
+  beschränkt werden, Masken getragen, Mindestabstände eingehalten und die Hygiene beachtet wer-
+  den. Innenräume sind vor, während und nach dem Aufenthalt mehrerer Personen regelmäßig und
+  gründlich zu Lüften (AHA+L-Regel). Das RKI rät dringend dazu, größere Veranstaltungen und enge
+  Kontaktsituationen, z.B. Tanzveranstaltungen und andere Feiern im öffentlichen und privaten Be-
+  reich abzusagen oder zu meiden. Es wird empfohlen, die Corona Warn App zu nutzen. Insbesondere
+  vor Kontakt zu besonders gefährdeten Personen sollte ein vollständiger Impfschutz vorliegen und ein
+  Test gemacht werden. Alle diese Empfehlungen gelten auch für Geimpfte und Genesene.
+  Es wird insbesondere den noch nicht grundimmunisierten Personen dringend empfohlen, sich ge-
+  gen COVID-19 impfen zu lassen und hierbei auf einen vollständigen Impfschutz zu achten. Auch die
+  Möglichkeit der Auffrischimpfung (Boosterimpfung) sollte von allen Personengruppen gemäß den
+  STIKO-Empfehlungen genutzt werden.
+
+
+# ---- page 4 ----
+
+                                                                             Wöchentlicher COVID-19-Lagebericht vom 30.12.2021      4
+Demografische Verteilung
+Die altersgruppenspezifische Inzidenz wird in Abbildung 1 als 7-Tage-Inzidenz pro 100.000 Einwohne-
+rinnen und Einwohner in der jeweiligen Altersgruppe nach Meldewoche mit Hilfe einer sogenannten
+Heatmap gezeigt. Daten zu altersgruppenspezifischen Fallzahlen können zusammen mit den alters-
+spezifischen 7-Tage-Inzidenzen zusätzlich hier abgerufen werden: http://www.rki.de/covid-19-alters-
+verteilung.
+Abbildung 1. Darstellung der 7-Tage-Inzidenz der COVID-19-Fälle in Deutschland nach Altersgruppe und Meldewoche (n= 5.489.325 Fälle
+mit entsprechenden Angaben in den Meldewochen 52/2020 bis 51/2021; Datenstand 29.12.2021, 00:00 Uhr).
+Im gezeigten Zeitraum sind die COVID-19-Wellen über den Jahreswechsel 2020/21 (2. Erkrankungs-
+welle in Deutschland) und im Frühjahr 2021 (3. Erkrankungswelle) zu erkennen. In der 4. Welle sind
+alle Altersgruppen unter 60 Jahren stärker von Infektionen betroffen als in der 2. Welle, mit Inziden-
+zen von über 900 bzw. über 1.000 in den Altersgruppen der 5- bis 9- und 10- bis 14-Jährigen. Die 7-
+Tage-Inzidenz sank in allen Altersgruppen im Vergleich zur Vorwoche. Der Altersmedian aller Fälle
+pro Meldewoche war seit Jahresbeginn (MW 03/2021: 49 Jahre) kontinuierlich gesunken und lag in
+den MW 28 - 34/2021 bei ca. 27 Jahren. Nach einem leichten Anstieg auf 37 Jahre in MW 44 sinkt der
+Altersmedian derzeit wieder und lag in MW 51/2021 bei 33 Jahren. Abbildung 2 zeigt die Anzahl der
+an das RKI übermittelten COVID-19-Fälle nach Woche des Erkrankungsbeginns bzw. Meldewoche ab
+KW 10/2020.
+Zeitlicher Verlauf
+Abbildung 2: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Woche des Erkrankungsbeginns, ersatzweise nach Meldewoche.
+Dargestellt werden nur Fälle mit Erkrankungsbeginn oder Meldewoche seit MW 10/2020 (Datenstand 29.12.2021, 00:00 Uhr).
+
+
+# ---- page 5 ----
+
+5 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+  Geografische Verteilung
+  Die geografische Verteilung der Fälle der aktuellen Woche und der Vorwoche ist in Abbildung 3 dar-
+  gestellt. Bei fast allen Stadt- und Landkreisen (380 von 411 mit entsprechenden Angaben) liegt die 7-
+  Tage-Inzidenz über 100 pro 100.000 Einwohner. In Brandenburg, Sachsen, Sachsen-Anhalt und Thü-
+  ringen weist der überwiegende Teil der Landkreise 7-Tage-Inzidenzen von über 250 pro 100.000 Ein-
+  wohner auf. In der aktuellen Woche wies kein Landkreis mehr eine 7-Tage-Inzidenz von über 1.000
+  pro 100.000 Einwohner auf, wie dies in der Vorwoche noch der Fall war. Im Süden Deutschlands
+  nimmt die Zahl der Landkreise mit 7-Tage-Inzidenzen über 500 pro 100.000 Einwohner im Vergleich
+  zur Vorwoche weiterhin ab.
+  Abbildung 3: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten Kalenderwoche in Deutschland nach
+  Kreis und Bundesland (n = 193.118, Datenstand 29.12.2021, 00:00 Uhr) im Vergleich zur Vorwoche. Die Fälle werden in der Regel nach
+  dem Kreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher
+  Infektionsort müssen nicht übereinstimmen.
+  Wochenvergleich der Bundesländer
+  In Tabelle 1 sind die Fallzahlen und Inzidenzen der vergangenen zwei Meldewochen für die einzelnen
+  Bundesländer dargestellt. Der sinkende Trend der Gesamtinzidenz, der in erster Linie durch den
+  Rückgang der Inzidenz in den Bundesländern mit besonders hohen Ausgangswerten (TH, SN, ST, BB)
+  zustande kommt, setzt sich im Vergleich zur Vorwoche fort. Von MW 50 auf MW 51/2021 stiegen die
+  Fallzahlen nur in Hamburg auf niedrigerem Niveau weiter an.
+
+
+# ---- page 6 ----
+
+                                                                              Wöchentlicher COVID-19-Lagebericht vom 30.12.2021    6
+Tabelle 1: Übermittelte Anzahl der COVID-19-Fälle sowie 7-Tage-Inzidenz (Fälle/100.000 Einwohner) pro Bundesland in Deutschland in
+den MW 50 und 51/2021 (Datenstand 29.12.2021, 00:00 Uhr).
+                                         Meldewoche 50                    Meldewoche 51               Änderung im Vergleich
+ Bundesland                                            7-Tage-                          7-Tage-
+                                        Anzahl                         Anzahl                          Anzahl           Anteil
+                                                      Inzidenz                         Inzidenz
+ Baden-Württemberg                    39.179          353            25.264           228           -13.915          -36%
+ Bayern                               38.233          291            25.792           196           -12.441          -33%
+ Berlin                               12.404          339            11.485           313           -919             -7%
+ Brandenburg                          15.670          619            10.145           401           -5.525           -35%
+ Bremen                               1.880           276            1.857            273           -23              -1%
+ Hamburg                              6.050           327            6.443            348           393              +6%
+ Hessen                               13.519          215            11.036           175           -2.483           -18%
+ Mecklenburg-Vorpommern               6.811           423            4.837            300           -1.974           -29%
+ Niedersachsen                        14.796          185            10.713           134           -4.083           -28%
+ Nordrhein-Westfalen                  44.175          246            34.285           191           -9.890           -22%
+ Rheinland-Pfalz                      9.334           228            6.250            152           -3.084           -33%
+ Saarland                             2.711           276            1.802            183           -909             -34%
+ Sachsen                              30.568          753            18.098           446           -12.470          -41%
+ Sachsen-Anhalt                       15.390          706            9.068            416           -6.322           -41%
+ Schleswig-Holstein                   4.985           171            4.310            148           -675             -14%
+ Thüringen                            17.678          834            11.733           553           -5.945           -34%
+ Gesamt                               273.383         329            193.118          232           -80.265          -29%
+Klinische Aspekte und syndromische Surveillance
+Hospitalisierungen
+Für 4.683.917 (66 %) der übermittelten Fälle lagen klinische Informationen vor. Aufgrund der unvoll-
+ständigen Erfassung klinischer Daten, z. B. zur Hospitalisierung stellen die nachfolgend aufgeführten
+Fallzahlen eine Mindestangabe dar. Seit dem 13.07.2021 (MW 28/2021) müssen Ärzte und Ärztinnen
+auch die Aufnahme von COVID-19-Fällen ins Krankenhaus an das Gesundheitsamt melden, nicht nur
+den Verdacht, die Erkrankung und den Tod in Bezug auf COVID-19. Die entsprechenden Daten sind
+verfügbar unter www.rki.de/covid-19-tabelle-klinische-aspekte.
+In Abbildung 4 ist die absolute Anzahl der in der jeweiligen Meldewoche neu hospitalisierten Fälle
+stratifiziert nach Altersgruppen dargestellt. Die Zahl der hospitalisierten Fälle in den Altersgruppen ab
+60 Jahren ist von MW 39 - 47 stark gestiegen. Seit der MW 48 zeichnet sich, in der Nachfolge der ab-
+nehmenden Inzidenz, in allen Altersgruppen eine Abnahme der Hospitalisierungen ab. Nach wie vor
+werden in den Altersgruppen ab 60 Jahren die meisten Hospitalisierungen verzeichnet. Der Altersme-
+dian der hospitalisierten Fälle, der über den Sommer deutlich auf 47 Jahre in MW 31 gesunken war,
+stieg seitdem deutlich an und liegt in MW 51/2021 bei 68 Jahren. Zu Jahresbeginn und damit auf dem
+Gipfel der 2. COVID-19-Welle lag der Altersmedian der hospitalisierten Fälle bei 76 Jahren. Es ist zu
+beachten, dass in allen Altersgruppen Fälle auch noch ein bis zwei Wochen nach der Diagnose hospi-
+talisiert werden und mit entsprechenden Nachübermittlungen gerechnet werden muss.
+
+
+# ---- page 7 ----
+
+7 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+  Abbildung 4: Darstellung der Anzahl der neu hospitalisierten COVID-19-Fälle in Deutschland nach Altersgruppen ab MW 31/2021
+  (Datenstand 29.12.2021, 00:00 Uhr). Für den grau markierten Bereich ist noch mit Nachübermittlungen in erheblichem Umfang und
+  damit mit einer Erhöhung der Anzahl zu rechnen.
+  In Abbildung 5 ist anstelle der absoluten Anzahl der neu hospitalisierten Fälle die Hospitalisierungsin-
+  zidenz in der jeweiligen Altersgruppe dargestellt. Auch wenn in der Altersgruppe der hospitalisierten
+  über 80-Jährigen zuletzt ähnlich hohe absolute Fallzahlen auftraten wie in der Altersgruppe der hos-
+  pitalisierten 60- bis 79-Jährigen, haben Personen in der Altersgruppe der über 80-Jährigen nach wie
+  vor das höchste Risiko, nach einer Infektion einen schweren Krankheitsverlauf zu entwickeln, der
+  dann auch zu einer Krankenhauseinweisung führen kann. Für diese Altersgruppe ist es seit der MW
+  38/2021 (8 hospitalisierte Fälle/100.000 Einwohner) zu einem sehr schnellen Anstieg der Hospitalisie-
+  rungsinzidenz (MW 47/2021: 52 Fälle /100.000 Einwohner) gekommen.
+  Abbildung 5: Wöchentliche Inzidenz der hospitalisierten COVID-19-Fälle in Deutschland nach Altersgruppen ab MW 31/2021
+  (Datenstand 29.12.2021, 00:00 Uhr). Für den grau markierten Bereich ist noch mit Nachübermittlungen in erheblichem Umfang und
+  damit mit einer Erhöhung der Inzidenz zu rechnen.
+  Daten aus dem Intensivregister
+  Das RKI betreibt mit Beratung durch die Deutsche Interdisziplinäre Vereinigung für Intensiv- und Not-
+  fallmedizin (DIVI) das DIVI-Intensivregister (https://www.intensivregister.de). Das Register erfasst
+  Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen und -Patienten sowie Behand-
+  lungs- und Bettenkapazitäten von etwa 1.300 Akutkrankenhäusern Deutschlands. Die Zahl der beleg-
+  ten Intensivbetten erreichte bei geringeren Kapazitäten ähnlich hohe Werte wie in der zweiten und
+  dritten Welle. Bundesweit ist der Anteil der betreibbare ITS Betten, die mit Covid-19-Patienten belegt
+
+
+# ---- page 8 ----
+
+                                                                             Wöchentlicher COVID-19-Lagebericht vom 30.12.2021        8
+sind, mit nahezu 20 % immer noch sehr hoch. Regional ist die Belastung der ITS-Bettenkapazität
+deutlich höher.
+Seit dem 16.04.2020 ist laut Intensivregister-Verordnung die Meldung für alle intensivbettenführen-
+den Krankenhausstandorte verpflichtend. Abbildung 6 zeigt die absolute Anzahl der im Intensivregis-
+ter gemeldeten intensivmedizinisch behandelten COVID-19-Fälle zum Stand des jeweiligen Beobach-
+tungstages. Ein täglicher Bericht über die Lage der Intensivbettenkapazität in Deutschland wird unter
+https://www.intensivregister.de/#/aktuelle-lage/reports veröffentlicht.
+Abbildung 6: Anzahl im Intensivregister gemeldeter intensivmedizinisch behandelter COVID-19-Fälle des jeweiligen Beobachtungstages
+(Stand 29.12.2021, 12:15 Uhr). Zur Interpretation der Kurve im März/April 2020 ist zu beachten, dass noch nicht alle Meldebereiche im
+Register angemeldet waren. Generell kann sich die zugrundeliegende Gruppe der COVID-19-Intensivpatientinnen und -patienten von
+Tag zu Tag verändern (Verlegungen und Neuaufnahmen), während die Fallzahl ggf. gleich bleibt.
+Todesfälle, Mortalitätssurveillance, EuroMomo
+In Abbildung 7 werden die übermittelten COVID-19-Todesfälle nach dem Sterbedatum über die Ster-
+bewochen akkumuliert dargestellt. Todesfälle treten meist erst 2 - 3 Wochen nach der Infektion auf.
+Für die MW 49 - 51/2021 werden noch nachträglich Todesfälle übermittelt werden. Seit MW 42 kam
+es zu einem erneuten deutlichen Anstieg der übermittelten Todesfälle. Ob der Höhepunkt des An-
+stiegs bereits erreicht ist kann aufgrund des Meldeverzugs noch nicht sicher beurteilt werden.
+Abbildung 7: An das RKI übermittelte COVID-19-Todesfälle nach Sterbewoche (KW 37/2020 – KW 51/2021: 100.837.310 COVID-19-
+Todesfälle mit Angabe des Sterbedatums, 29.12.2021, 0:00 Uhr). Insbesondere für die vergangenen drei Wochen ist mit
+Nachübermittlungen zu rechnen.
+
+
+# ---- page 9 ----
+
+9 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+  Von allen übermittelten Todesfällen seit KW10/2020 waren 94.397 (85 %) Personen 70 Jahre und äl-
+  ter, der Altersmedian lag bei 83 Jahren. Im Unterschied dazu beträgt der Anteil der über 70-Jährigen
+  an der Gesamtzahl der übermittelten COVID-19-Fälle etwa 10 %. Weitere Informationen sind abruf-
+  bar unter: https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/COVID-
+  19_Todesfaelle.html
+  Bislang sind dem RKI 38 validierte COVID-19-Todesfälle bei unter 20-Jährigen übermittelt worden.
+  Diese Kinder und Jugendlichen waren zwischen 0 - 19 Jahre alt. Bei 27 Fällen lagen Angaben zu be-
+  kannten Vorerkrankungen vor. Die Todesfälle bei <20-Jährigen werden einzeln vom RKI geprüft und
+  validiert, so dass es bei der Anzahl der Todesfälle in dieser Altersgruppe in den veröffentlichten Da-
+  ten noch zu Veränderungen kommen kann.
+  EuroMOMO und Destatis
+  Insgesamt 27 europäische Staaten oder Regionen stellen dem europäischen EuroMOMO-Projekt (Eu-
+  ropean monitoring of excess mortality for public health action) wöchentlich offizielle Daten zur Mor-
+  talität zur Verfügung, sodass auf dieser Basis die sogenannte Exzess-Mortalität oder Übersterblichkeit
+  (unabhängig von der Todesursache) erfasst und verfolgt werden kann (https://www.euromomo.eu/).
+  Seit MW 15/2021 stellt auch Deutschland rückwirkend Mortalitätsdaten für alle Bundesländer zur
+  Verfügung. Die Darstellung erfolgt in Form von Grafiken und Landkarten (https://www.euro-
+  momo.eu/graphs-and-maps/).
+  Auch auf der Seite des Statistischen Bundesamtes werden die täglichen Sterbefallzahlen registriert:
+  https://service.destatis.de/DE/bevoelkerung/sterbefallzahlen_bundeslaender.html. Der zeitliche Ver-
+  zug der Sterbefallmeldung wird durch eine Schätzung ausgeglichen. Es zeigt sich eine Parallelität im
+  zeitlichen Verlauf zwischen dem momentanen Anstieg der Anzahl gemeldeter COVID-19 Todesfälle
+  und der höheren Zahl von Sterbefällen.
+  Impfen
+  Digitales Impfquotenmonitoring (DIM)
+  Die Daten der Impfinanspruchnahme werden montags bis freitags auf http://www.rki.de/covid-19-
+  impfquoten aktualisiert. Die Impfdaten werden auch vom Covid-19-Impfdashbord verwendet. Im RKI-
+  GitHub-Datenportal stehen drei CSV-Dateien mit aggregierten Impfdaten zum Download bereit: nach
+  Impftag, Bundesland, Impfstoff und Impfstoffdosis bzw. nach Bundesland mit Impfquoten für min-
+  destens eine und vollständige Impfung; sowie nach Impftag, Landkreis der impfenden Stelle, Alters-
+  gruppe (12- bis 17-Jährige, 18- bis 59-Jährige, ≥60-Jährige ) und Impfschutz (unvollständig/vollstän-
+  dig). Die Daten im Dashboard und auf der Datenplattform werden montags bis samstags aktualisiert.
+  Weitere Daten zur Impfinanspruchnahme und zur Impfakzeptanz finden sich auf den Websites der
+  RKI-Projekte COVIMO und KROCO.
+  Variants of Concern (VOC)
+  Seit Beginn der Pandemie wurden sowohl weltweit als auch in Deutschland verschiedene SARS-CoV-
+  2-Varianten beobachtet, darunter die besorgniserregenden Varianten (Variants of Concern, VOC) Al-
+  pha (B.1.1.7), Beta (B.1.351), Gamma (P.1), Delta (B.1.617.2) und seit Ende November 2021 Omikron
+  (B.1.1.529). Die Definition als VOC erfolgt, wenn Hinweise auf eine erhöhte Übertragbarkeit, einen
+  schwereren Krankheitsverlauf und/oder eine immunevasive Wirkung vorliegen.
+
+
+# ---- page 10 ----
+
+                                                          Wöchentlicher COVID-19-Lagebericht vom 30.12.2021 10
+Datenquellen
+Das RKI hat die Systeme zur bundesweiten Integrierten Molekularen Surveillance (IMS) erweitert, um
+einen detaillierten Überblick über die Ausbreitungsmuster spezifischer SARS-CoV-2-Mutationen zu
+erhalten. So werden auch neue Varianten und deren Ausbreitung frühzeitig entdeckt. Die IMS be-
+steht aus zwei Komponenten: (1) der Gesamtgenomsequenzierung der SARS-CoV-2-positiven Proben
+und (2) der Verknüpfung der dabei gewonnenen Sequenzdaten mit den klinisch-epidemiologischen
+Daten, welche bereits über die Gesundheitsämter an das RKI weitergeleitet werden. Im Rahmen der
+IMS wertet das RKI also die deutschlandweit zusammengeführten Sequenzdaten gemeinsam mit den
+klinisch-epidemiologischen Daten aus.
+Die Analyse der Genomsequenzen beinhaltet Daten aus der Gesamtgenomsequenzierung, die am RKI
+direkt durchgeführt wird, sowie jene, die dem RKI im Rahmen der Coronavirus-Surveillanceverord-
+nung (CorSurV) übermittelt werden. Die übermittelten Sequenzdaten wiederum können zwei Grup-
+pen zugeordnet werden: (A) Sequenzierungen, die aus einem bestimmten klinisch-epidemiologi-
+schen oder labordiagnostischen Verdacht auf Besonderheiten (anlassbezogene Proben; z.B. Hin-
+weise auf das Vorliegen einer VOC aufgrund der Reiseanamnese oder Laboridagnostik, Reinfektion,
+Impfdurchbruch, oder eines Ausbruchs) durchgeführt wurden, sowie (B) Sequenzierungen von zufäl-
+lig aus dem Gesamtvorkommen an SARS-CoV-2-positiven Proben in den Laboren ausgewählten
+Proben. Gruppe A bildet eine anlassbezogene Probe, Gruppe B bildet die sogenannte Stichprobe.
+Für etwa die Hälfte der eingereichten Gesamtgenomsequenzen stehen zusätzlich klinisch-epidemio-
+logische Informationen aus dem Meldesystem zur Verfügung, da sie konkreten Fällen zugeordnet
+werden können. Die im Abschnitt Genomsequenzdaten zu SARS-CoV-2-Varianten gezeigte Auswer-
+tung basiert auf der o.g. Stichprobe.
+Aufgrund der prozessbedingten langen Dauer bis zur Übermittlung der Sequenzierungsergebnisse an
+das RKI (z. B. Einsendung der Proben an sequenzierende Labore, Sequenzierung der Proben, Genom-
+analyse) wird über die Genomsequenzdaten aus der Vorvorwoche berichtet. Für den Berichtszeit-
+raum werden jene Sequenzen ausgewählt, deren zugehörige Probennahme in der berichteten Woche
+stattfand. Das Datum der Probennahme entspricht ungefähr dem Meldedatum.
+Sowohl die Genomsequenzdaten, das heißt anlassbezogene Proben und Stichproben, als auch Ver-
+dachtsfälle von VOC, die mittels variantenspezifischer PCR bestimmt wurden, finden Eingang in die
+IfSG-Meldedaten bei den Gesundheitsämtern, wo sie mit den zugehörigen klinisch-epidemiologi-
+schen Daten verknüpft werden. Damit fließt ein großer Teil der Genomsequenzdaten in die IfSG-Mel-
+dedaten ein. Im Abschnitt IfSG-Meldedaten zu SARS-CoV-2-Varianten werden die Fallzahlen und An-
+teile zu den VOC aus dem Meldesystem aufgezeigt.
+SARS-CoV-2-Varianten Verteilung in Deutschland
+Genomsequenzdaten zu SARS-CoV-2 Varianten
+Das aktuelle Geschehen in Deutschland wird weiterhin fast ausschließlich durch die VOC Delta be-
+stimmt. Die ehemals stark verbreitete Variante Alpha ist, wie alle anderen zuvor zirkulierenden Vari-
+anten, nahezu vollständig durch Delta verdrängt worden.
+Neben den VOC gibt es weiterhin die Gruppe der unter Beobachtung stehenden Varianten (Variant of
+Interest; VOI). Diese weisen charakteristische Mutationen auf, welche mit einer erhöhten Übertrag-
+barkeit, Virulenz und/oder veränderter Immunantwort assoziiert sind. Aktuell sind die SARS-CoV-2
+Varianten Lambda (C.37) und My (B.1.621) als VOI eingestuft. Das RKI richtet sich bei der Bewertung
+von Virusvarianten nach der WHO. Auf den Internetseiten des RKI zu den virologischen Basisdaten
+sowie Virusvarianten finden Sie nähere Informationen zu den Varianten und zur Nomenklatur als
+auch Fallzahlen aus verschiedenen Datenquellen in Deutschland.
+
+
+# ---- page 11 ----
+
+11 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+   Im Rahmen der international verwendeten Pangolin-Nomenklatur für SARS-CoV-2-Virusvarianten
+   wurde eine Reihe einzelner Sublinien definiert, unter anderem auch für VOC und VOI. Die Untertei-
+   lung in Sublinien ermöglicht eine differenziertere Überwachung ihrer Ausbreitung und basiert neben
+   genomischen Veränderungen auch auf einer signifikanten geografischen Häufung. Für verschiedene
+   Virusvarianten wurden Sublinien eingeführt, z.B. die VOC Alpha (B.1.1.7; Q Linien) und Delta
+   (B.1.617.2; AY Linien) und seit KW 49/2021 auch für Omikron mit den BA Linien (bisher BA.1, BA.2
+   und BA.3). Im Gegensatz zu BA.1 tritt bei BA.2 die Deletion delH69/V70 nicht auf. Alle drei Sublinien
+   sowie die ursprünglich definierte B.1.1.529 Linie werden unter Omikron zusammengefasst und be-
+   richtet. Bis zum Vorliegen weiterer Daten und dem Beweis des Gegenteils müssen für die Sublinien
+   dieselben besorgniserregenden Erregereigenschaften wie für die Elternlinie angenommen werden,
+   weshalb die Sublinien im vorliegenden Bericht zu den jeweils übergeordneten Linien gezählt werden.
+   Demnach beinhalten die Angaben zu allen VOC und VOI, sofern vorhanden, in Tabelle 2 und Abbil-
+   dung 8 auch die Daten der jeweiligen Sublinien.
+   Tabelle 2: Anzahl sequenzierter VOC Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1), Delta (B.1.617.2) und Omikron (B.1.1.529). Die VOI
+   Lambda (C.37) und My (B.1.621) (einschließlich der jeweiligen Sublinien) wurden seit KW 39 nicht mehr nachgewiesen. Datenstand
+   27.12.2021. Die vollständige Tabelle ab KW 01/2021 findet sich hier:
+   www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/VOC_VOI_Tabelle.html
+      KW             B.1.1.7                  B.1.351                     P.1               B.1.617.2                B.1.1.529
+     2021            (Alpha)                   (Beta)                (Gamma)                  (Delta)               (Omikron)
+       41                 0                       0                        0                   2.790                      0
+       42                 0                       0                        0                   3.747                      0
+       43                 0                       0                        0                   3.869                      0
+       44                 0                       0                        0                   4.238                      0
+       45                 2                       1                        0                   4.791                      0
+       46                 0                       0                        0                   6.444                      0
+       47                 1                       1                        0                   8.436                     12
+       48                 0                       0                        0                   8.036                     57
+       49                 0                       0                        0                   7.575                     198
+       50                 0                       0                        0                   3.433                     274
+   Abbildung 8: Prozentuale Anteile der VOC und VOI bezogen auf die Genomsequenzen aus der Stichprobe - siehe Tabelle 2, absteigend
+   sortiert nach Anteil. Die Abbildung zeigt auch Varianten, die deeskaliert wurden und damit nicht mehr als VOI gelten.
+
+
+# ---- page 12 ----
+
+                                                                             Wöchentlicher COVID-19-Lagebericht vom 30.12.2021        12
+Wie aus Tabelle 2 ersichtlich handelt es sich bei den Nachweisen in der Stichprobe überwiegend um
+die Variante Delta, deren Anteil in KW 50/2021 bei 92,6 % lag. Dabei wurden in KW 50/2021 noch
+häufiger als die Elternlinie B.1.617.2, die Sublinien AY.43, AY.122 und AY.4 nachgewiesen. In der
+Stichprobe wurde Omikron (B.1.1.529) 274-mal nachgewiesen, der Anteil stieg damit in KW 50/2021
+deutlich an und liegt bei 7,4 % (2,5 % in KW 49/2021).
+In KW 50/2021 wurden insgesamt – also sowohl in der Stichprobe als auch in der anlassbezogenen
+Probe – 895 Omikron-Gesamtgenomsequenzen in Deutschland nachgewiesen und an das RKI über-
+mittelt. Die neue VOC Omikron machte dabei unter allen eingereichten Sequenzen in der genannten
+Woche einen Anteil von 10 % aus. Bei diesem Anteil ist aufgrund des kombinierten Datensatzes nicht
+von einer repräsentativen Auswahl auszugehen.
+IfSG-Meldedaten zu SARS-CoV-2-Varianten
+In Tabelle 3 sind die übermittelten Fälle nach VOC und nach Bundesländern nur für MW 51/2021 auf-
+geschlüsselt. Die übermittelten Informationen (Anzahl und Anteile) beziehen sich auf SARS-CoV-2-
+positive Proben, die aufgrund von Punktmutationsanalysen (variantenspezifischer PCR) unter dem
+labordiagnostischen Verdacht stehen, der entsprechenden Variante anzugehören, oder für die der
+Nachweis mittels Gesamtgenomsequenzierung erbracht wurde.
+Tabelle 3 [korrigierte Version]: Anzahl und Anteil der VOC in den Bundesländern für die MW 51/2021. Die Daten setzen sich aus den
+Nachweisen mittels Gesamtgenomsequenzierung sowie den labordiagnostischen Verdachtsfällen aufgrund von variantenspezifischer
+PCR zusammen. Nicht gezeigt sind andere Varianten. Die Varianten, die sich aus den aufgeführten ableiten (Sublinien) werden unter den
+VOC zusammengefasst (Datenstand 28.12.2021). Anzahl und Anteile für die letzten 5 Wochen können unter:
+http://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/VOC_VOI_Tabelle.html abgerufen werden.
+                                 Alpha                    Beta              Gamma                Delta                 Omikron
+Bundesland                     (B.1.1.7)                (B.1.351)             (P.1)           (B.1.617.2)            (B.1.1.529)
+                        Anteil      Anzahl     Anteil      Anzahl     Anteil     Anzahl     Anteil     Anzahl      Anteil     Anzahl
+Baden-
+                         0,0%          0         0%           0        0%          0      87,3%         4847       12,6%        700
+Württemberg
+Bayern                   0,2%         21        0,1%          5        0%          2      85,3%         7205       14,1%       1193
+Berlin                   1,6%         24         0%           0        0%          0      68,3%         1006       16,1%        237
+Brandenburg              0,2%          1         0%           0        0%          0      82,4%          463       11,9%         67
+Bremen                   0,0%          0         0%           0        0%          0      34,7%           41       65,3%         77
+Hamburg                  0,0%          0         0%           0        0%          0      73,1%         1359       26,7%        496
+Hessen                   0,0%          0         0%           0        0%          0      79,1%          709       20,5%        184
+Mecklenburg-
+                         0,1%          1         0%           0        0%          0      98,6%         1207        1,3%         16
+Vorpommern
+Niedersachsen            0,5%          6         0%           0        0%          0      76,7%          913       22,6%        269
+Nordrhein-
+                         0,0%          4         0%           0        0%          0      78,8%         6686       20,9%       1776
+Westfalen
+Rheinland-Pfalz          0,5%          4         0%           0        0%          0      78,8%          616       20,6%        161
+Saarland                 0,0%          0         0%           0        0%          0      94,7%          142        4,0%          6
+Sachsen                  0,1%          4         0%           0       0,2%         6      98,7%         3079        0,9%         27
+Sachsen-Anhalt           0,0%          0         0%           0        0%          0      97,5%          393        2,2%          9
+Schleswig-
+                         0,0%          0         0%           0        0%          0      65,1%          687       34,5%        364
+Holstein
+Thüringen                0,0%          0         0%           0        0%          0      94,8%          146        3,2%          5
+Gesamt                   0,2%         65         0%           5        0%          8      83,2%        29499       15,8%       5587
+Die Ausbreitung von Omikron ist in den Bundesländern sehr unterschiedlich, sie liegt in MW 51 zwi-
+schen 1% in Sachsen und 65% in Bremen. Die Schwankungen ergeben sich aus den zum Teil noch
+niedrigen Omikron-Fallzahlen, der unterschiedlichen Häufigkeit von Testungen auf das
+
+
+# ---- page 13 ----
+
+13 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+   Vorhandensein von VOC in den einzelnen Bundesländern sowie Verzögerungen in der labordiagnosti-
+   schen Erfassung und Übermittlung. Daher liegt mit einem Omikronanteil von 16 % auch eine Unter-
+   schätzung vor. In Abbildung 9 sieht man, dass die Verteilung in und um Ballungsräume am stärksten
+   ist.
+   Unter www.rki.de/covid-19-varianten sind weitere Informationen zu Omikron und allen VOC zu fin-
+   den. Eine aktuelle Übersicht zu den übermittelten Omikron-Fällen findet sich unter
+   http://www.rki.de/covid-19-omikronbericht. Darüber hinaus stellt das RKI eine Hilfestellung zur Ab-
+   leitung variantenspezifischer PCR-Testungen aus charakteristischen Aminosäure-Austauschen und
+   Deletionen bei SARS-CoV-2 zur Verfügung.
+   Omikron (B.1.1.529)
+   Verbreitung
+   Zwischen dem 21.11.2021 und 27.12.2021 wurden in Deutschland (Datenstand 28.12.2021) insge-
+   samt 10.443 (Verdachts-) Fälle der Omikronvariante über das Meldesystem nach IfSG übermittelt,
+   davon wurden 1.555 per Gesamtgenomsequenzierung zweifelsfrei bestätigt, während 8.888 mittels
+   variantenspezifische PCR-Testung als Verdacht auf Omikron eingestuft wurden. Die VOC-Zahlen für
+   KW 51/2021 sind in Tabelle 3 zu sehen, eine Tabelle ab KW 47/2021 kann unter
+   http://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/VOC_VOI_Tabelle.html ab-
+   gerufen werden. Eine aktuelle Übersicht zu den übermittelten Omikron-Fällen findet sich unter
+   http://www.rki.de/covid-19-omikronbericht.
+   Abbildung 9: Verteilung nach Landkreisen der seit KW 46/2021 mittels variantenspezifischer PCR oder Gesamtgenomsequenzierung
+   detektierter Omikronfälle (B.1.1.529). Es handelt sich um 10.443 Fälle seit dem 21.11.2021 (Datenstand 28.12.2021).
+
+
+# ---- page 14 ----
+
+                                                           Wöchentlicher COVID-19-Lagebericht vom 30.12.2021 14
+Klinisch-epidemiologische Daten
+Zu den im Meldesystem vorliegenden Omikronfällen sind zum Teil Zusatzinformationen bekannt. Für
+6.788 Fälle wurden Angaben zu den Symptomen übermittelt, es wurden überwiegend keine oder
+milde Symptome angegeben. Am häufigsten wurde von Patientinnen und Patienten mit Symptomen
+Schnupfen (54 %), Husten (57 %) und Halsschmerzen (39 %) genannt. 124 Patientinnen und Patienten
+wurden hospitalisiert, vier Person sind verstorben. Für 543 (5 %) Fälle wurde eine Exposition im Aus-
+land angegeben. 1.097 Patientinnen und Patienten waren ungeimpft, 4.020 waren vollständig ge-
+impft, von diesen wurde für 1.137 eine Auffrischimpfung angegeben. Auf Basis der übermittelten Da-
+ten wurden unter allen übermittelten Omikron-Infektionen 148 Reinfektionen ermittelt, zu keiner
+der von Reinfektion betroffenen Person wurden Vorerkrankungen übermittelt. Abbildung 9 zeigt die
+Verteilung der bisher übermittelten Omikronfälle in Deutschland. In allen Bundesländern wurden O-
+mikronfälle nachgewiesen.
+Empfehlungen und Maßnahmen in Deutschland
+Dokumente und Informationen zu Empfehlungen und Maßnahmen finden sie unter:
+http://www.rki.de/covid-19
+
+
+# ---- page 15 ----
+
+15 Wöchentlicher COVID-19-Lagebericht vom 30.12.2021
+   Anhang
+   Hinweise zur Datenerfassung und -bewertung
+   Die in diesem Lagebericht dargestellten Daten stellen eine Momentaufnahme dar. Informationen zu
+   Fällen können im Verlauf der Erkrankung nachermittelt und im Meldewesen nachgetragen werden.
+   Nicht für alle Variablen gelingt eine vollständige Erfassung.
+   Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die not-
+   wendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+   vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI über-
+   mittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+   Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens
+   des Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich
+   der Fallzahlen zu anderen Quellen geben kann.
+   Für die Berechnung der Inzidenzen werden seit 26.08.2021 die Daten der Bevölkerungsstatistik des
+   Statistischen Bundesamtes mit Datenstand 31.12.2020 verwendet. Die Berechnung der 7-Tage-Inzi-
+   denz erfolgt auf Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt Kennt-
+   nis über den Fall erlangt und ihn elektronisch erfasst hat. Für die heutige 7-Tage-Inzidenz werden die
+   Fälle mit Meldedatum der letzten 7 Tage gezählt.
+   Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+   dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird.
+   Es kann sein, dass z. B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein Meldeda-
+   tum vor mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle berücksichtigt,
+   die aufgrund von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass von dieser Diffe-
+   renz nicht ohne weiteres auf die 7-Tage-Inzidenz geschlossen werden kann. Die Meldewoche ent-
+   spricht der Kalenderwoche nach den Regeln des internationalen Standards ISO 8601 (entspricht DIN
+   1355). Sie beginnt montags und endet sonntags. Die Meldewochen eines Jahres sind fortlaufend
+   nummeriert, beginnend mit der ersten Woche, die mindestens 4 Tage des betreffenden Jahres ent-
+   hält. Meldejahre können 52 oder gelegentlich 53 Wochen haben. Die Zuordnung zur Meldewoche
+   wird durch den Tag bestimmt, an dem das Gesundheitsamt offiziell Kenntnis von einem Fall erlangt.
+   Für hier aufgeführte Daten aus Meldesystemen wird die Bezeichnung „MW“ für Meldewoche ver-
+   wendet. Für unabhängige Surveillancesysteme und solche in dem unterschiedliche Datenquellen zu-
+   sammenfließen wird die Bezeichnung „KW“ für Kalenderwoche verwendet.
