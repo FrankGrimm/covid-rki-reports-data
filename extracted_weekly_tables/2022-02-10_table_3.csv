@@ -1,0 +1,42 @@
+0,1,2,3,4
+Altersgruppe,,,,
+5 bis 11,12 bis 17,18 bis 59,60 Jahre,
+Jahre,Jahre,Jahre,und älter,
+Symptomatische COVID-19-Fälle,62.058,40.885,242.501,29.956
+davon… ungeimpft,60.748,25.291,74.245,8.205
+grundimmunisiert,1.048,14.180,95.602,7.655
+mit Auffrischimpfung,262,1.414,72.654,14.096
+Hospitalisierte symptomatische COVID-19-Fälle,236,171,2.003,1.786
+davon… ungeimpft,232,114,979,958
+grundimmunisiert,4,50,686,367
+mit Auffrischimpfung,0,7,338,461
+Auf Intensivstation betreute symptomatische COVID-19-Fälle,2,0,103,225
+davon… ungeimpft,2,0,70,157
+grundimmunisiert,0,0,19,37
+mit Auffrischimpfung,0,0,14,31
+Verstorbene symptomatische COVID-19-Fälle,1,0,38,327
+davon… ungeimpft,1,0,27,204
+grundimmunisiert,0,0,8,58
+mit Auffrischimpfung,0,0,3,65
+"Alle symptomatischen Fälle, für welche zu „Klinische Information vorhanden“ ein „Ja“ angegeben wurde, und für die aus den übermittel-",,,,
+"ten Angaben hervorgeht, dass sie entweder ungeimpft waren, eine abgeschlossene Grundimmunisierung oder eine Auffrischimpfung",,,,
+"erhalten haben. Symptomatische Fälle mit unbekanntem Impfstatus und Fälle, für die nur eine unvollständige Impfserie angegeben war,",,,,
+wurden ausgeschlossen.,,,,
+Insbesondere für Todesfälle ist in den Folgewochen mit Änderungen der Fallzahl zur rechnen.,,,,
+"Der Impfstatus der symptomatischen COVID-19-Fälle, für die als Erreger die Omikron-Variante ange-",,,,
+"geben wurde, wird ab 10.02.2022 nicht mehr gesondert ausgewiesen. Da inzwischen > 90 % aller",,,,
+Fälle durch Omikron bedingt sind und nur für einen kleinen Teil aller gemeldeten Fälle eine Angabe,,,,
+"zur Variante vorliegt, beschreibt Tabelle 3 das Geschehen nach Impfstatus zuverlässiger.",,,,
+2.2.3,Impfeffektivität,,,
+Durch den Vergleich des Anteils Geimpfter unter COVID-19-Fällen (Impfdurchbrüche) mit dem Anteil,,,,
+"Geimpfter in der Bevölkerung ist es möglich, die Wirksamkeit der Impfung grob abzuschätzen (sog.",,,,
+"Screening-Methode nach Farrington11 sowie FAQ „Wie lässt sich erklären, dass es mit steigender",,,,
+Impfquote zu immer mehr Impfdurchbrüchen kommt?“ und Infografik „Warum steigende Zahlen von,,,,
+Impfdurchbrüchen kein Zeichen für fehlenden Impfschutz sind“). Exemplarisch ist die Impfeffektivität,,,,
+gegenüber einer Hospitalisierung mit den jeweiligen Anteilen Geimpfter in Tabelle 4 dargestellt (alle,,,,
+dargestellten Werte sind gerundete Mittelwerte der letzten 4 Wochen). Dabei wurden bei der Be-,,,,
+rechnung der Anteile der Geimpften sowohl unter den Fällen als auch in der Bevölkerung jeweils nur,,,,
+die Ungeimpften und die Grundimmunisierten bzw. nur die Ungeimpften und die Personen mit Auf-,,,,
+frischimpfung berücksichtigt12.,,,,
+11,𝑃𝐶𝑉,1−𝑃𝑃𝑉,,
+VE = 1 − 1−𝑃𝐶𝑉 ∗,𝑃𝑃𝑉,,,

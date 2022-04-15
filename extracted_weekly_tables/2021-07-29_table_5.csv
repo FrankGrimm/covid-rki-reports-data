@@ -1,0 +1,40 @@
+0,1,2,3,4,5,6
+Alter <18,Alter 18-59,Alter ≥60 Jahre,,,,
+Kumuliert,Kumuliert,Kumuliert,,,,
+seit,MW,seit,MW,seit,MW,
+01.02.2021,26-29 a),01.02.2021,26-29a),01.02.2021,26-29 a),
+(MW 05),(MW 05),(MW 05),,,,
+COVID-19 Fälle mit vollständiger,50,28,6.726,2.122,6.914,453
+Impfung a),,,,,,
+Impfdurchbrüche (symptomatisch) b),33,19,4.513,1734,2.683,275
+-davon Angaben zu VOC vorhanden,22,13,2.505,932,1.542,143
+Impfdurchbrüche mit,,,,,,
+Alpha-Variante (B.1.1.7),8/36%,0/0%,1360/54%,16/2%,1248/81%,9/6%
+(n /%) c),,,,,,
+hospitalisierte Impfdurchbrüche mit,,,,,,
+Alpha-Variante (B.1.1.7),0/0%,0/0%,33/1%,2/0%,318/22%,2/1%
+"(n /%) c, d)",,,,,,
+Impfdurchbrüche mit,,,,,,
+Delta-Variante (B.1.617.2),14/64%,13/100%,970/39%,887/95%,155/10%,128/90%
+c),,,,,,
+(n /%),,,,,,
+hospitalisierte Impfdurchbrüche mit,,,,,,
+Delta-Variante (B.1.617.2),0/0%,0/0%,16/1%,15/2%,28/2%,26/19%
+"(n /%) c, d)",,,,,,
+COVID-19 Fälle mit klinischer,140.360,3.374,702.878,16.312,166.414,1.288
+Symptomatik e),,,,,,
+Anteil Impfdurchbrüche unter COVID-,"0,02%","0,6%","0,6%","10,6%","1,6%","21,4%"
+19 Fällen [%] f),,,,,,
+Anteil vollständig Geimpfte in der,"1,5%",-,"40,7%",-,"70,3%",-
+Bevölkerung (Impfquote) [%] g),,,,,,
+a),Anzahl der asymptomatischen und symptomatischen COVID-19 Fälle mit abgeschlossener Impfserie und einem Mindestabstand,,,,,
+von 14 Tagen zwischen Erkrankungsbeginn bzw. Diagnose nach der letzten Impfung,,,,,,
+b),Anzahl der symptomatischen COVID-19 Fälle mit abgeschlossener Impfserie und einem Mindestabstand von 14 Tagen zwischen,,,,,
+Erkrankung bzw. Diagnose nach der letzten Impfung,,,,,,
+c),"Der Anteil weiterer Virusvarianten wird ausgewertet, ist bislang aber sehr klein und wird daher derzeit nicht berichtet",,,,,
+d),Die Bezugsmenge zu diesen Angaben bezieht sich auf Fälle wo sowohl Angaben zur VOC als auch Angaben zur Hospitalisierung,,,,,
+vorliegen. Dies führt teilweise zu geringen Abweichungen zu „-davon Angaben zu VOC vorhanden“.,,,,,,
+e),"Bezugsmenge für die Impfdurchbrüche zur Bestimmung des relativen Anteils, berechnet ab Zeitpunkt des möglichen Auftretens",,,,,
+erster Impfdurchbrüche (Beginn Impfkampagne plus 3 Wochen Impfintervall plus 2 Wochen nach zweiter Impfstoffdosis),,,,,,
+f),Zähler und Nenner berücksichtigen nur die symptomatischen Fälle,,,,,
+g),"Dazu zählen alle Impfserien in Deutschland mit 1 Dosis (Janssen-Vakzine) bzw. 2 Dosen (Moderna-, BioNTech- oder AstraZeneca-",,,,,

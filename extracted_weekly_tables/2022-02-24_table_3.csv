@@ -1,0 +1,38 @@
+0,1,2,3,4
+Altersgruppe,,,,
+5 bis 11,12 bis 17,18 bis 59,60 Jahre,
+Jahre,Jahre,Jahre,und älter,
+Symptomatische COVID-19-Fälle,68.038,43.295,269.326,36.408
+davon… ungeimpft,64.660,26.843,81.877,9.563
+grundimmunisiert,3.029,13.900,85.425,6.852
+mit Auffrischimpfung,349,2.552,102.024,19.993
+Hospitalisierte symptomatische COVID-19-Fälle,251,169,1.703,1.980
+davon… ungeimpft,243,117,844,1.024
+grundimmunisiert,8,44,472,358
+mit Auffrischimpfung,0,8,387,598
+Auf Intensivstation betreute symptomatische COVID-19-Fälle,1,1,56,222
+davon… ungeimpft,1,0,39,142
+grundimmunisiert,0,1,8,40
+mit Auffrischimpfung,0,0,9,40
+Verstorbene symptomatische COVID-19-Fälle,1,0,16,341
+davon… ungeimpft,1,0,10,203
+grundimmunisiert,0,0,3,58
+mit Auffrischimpfung,0,0,3,80
+"Alle symptomatischen Fälle, für welche zu „Klinische Information vorhanden“ ein „Ja“ angegeben wurde, und für die aus den übermittel-",,,,
+"ten Angaben hervorgeht, dass sie entweder ungeimpft waren, eine abgeschlossene Grundimmunisierung oder eine Auffrischimpfung",,,,
+"erhalten haben. Symptomatische Fälle mit unbekanntem Impfstatus und Fälle, für die nur eine unvollständige Impfserie angegeben war,",,,,
+wurden ausgeschlossen.,,,,
+Insbesondere für Todesfälle ist in den Folgewochen mit Änderungen der Fallzahl zur rechnen.,,,,
+2.2.3,Impfeffektivität,,,
+Durch den Vergleich des Anteils Geimpfter unter COVID-19-Fällen (Impfdurchbrüche) mit dem Anteil,,,,
+"Geimpfter in der Bevölkerung ist es möglich, die Wirksamkeit der Impfung grob abzuschätzen (sog.",,,,
+"Screening-Methode nach Farrington12 sowie FAQ „Wie lässt sich erklären, dass es mit steigender",,,,
+Impfquote zu immer mehr Impfdurchbrüchen kommt?“ und Infografik „Warum steigende Zahlen von,,,,
+Impfdurchbrüchen kein Zeichen für fehlenden Impfschutz sind“). Exemplarisch ist die Impfeffektivität,,,,
+gegenüber einer Hospitalisierung mit den jeweiligen Anteilen Geimpfter in Tabelle 4 dargestellt (alle,,,,
+dargestellten Werte sind gerundete Mittelwerte der letzten 4 Wochen). Dabei wurden bei der Be-,,,,
+rechnung der Anteile der Geimpften sowohl unter den Fällen als auch in der Bevölkerung jeweils nur,,,,
+die Ungeimpften und die Grundimmunisierten bzw. nur die Ungeimpften und die Personen mit Auf-,,,,
+frischimpfung berücksichtigt13.,,,,
+12,𝑃𝐶𝑉,1−𝑃𝑃𝑉,,
+VE = 1 − 1−𝑃𝐶𝑉 ∗,𝑃𝑃𝑉,,,

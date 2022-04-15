@@ -1,0 +1,45 @@
+0,1,2,3,4,5,6
+Alter 12-17,Alter 18-59,Alter ≥60 Jahre,,,,
+Kumuliert,KW,Kumuliert,KW,Kumuliert,KW,
+seit KW 05,36-39,seit KW 05,36-39,seit KW 05,36-39,
+Symptomatische COVID-19-Fälle,,,,,,
+80.365,15.901,723.740,87.348,145.281,13.345,
+(mit Angabe Impfstatus),,,,,,
+Wahrscheinliche Impfdurchbrüche unter,637,357,52.294,24.780,14.730,7.015
+symptomatischen COVID-19-Fällen,,,,,,
+Anteil wahrscheinliche Impfdurchbrüche,"0,8%","2,2%","7,2%","28,4%","10,1%","52,6%"
+unter symptomatischen COVID-19-Fällen,,,,,,
+Anteil vollständig Geimpfte in der Bevöl-,"29,3%",-,"68,5%",-,"83,8%",-
+kerung (Impfquote) [%] a),,,,,,
+Wahrscheinliche Impfdurchbrüche und VOC b),,,,,,
+Wahrscheinliche Impfdurchbrüche mit,,,,,,
+340,186,29.064,13.242,8.346,3863,
+Angaben zu VOC b),,,,,,
+-,davon mit Delta-Variante,,,,,
+324/95%,181/97%,27163/93%,13076/99%,6837/82%,3811/99%,
+(B.1.617.2),,,,,,
+Wahrscheinliche Impfdurchbrüche und Krankheitsschwere,,,,,,
+Hospitalisierte COVID-19-Fälle (sympto-,,,,,,
+769,111,29.591,3.212,33.204,2.585,
+matisch mit Angabe Impfstatus),,,,,,
+Hospitalisierte COVID-19-Fälle mit wahr-,5,3,971,427,2.477,952
+scheinlichem Impfdurchbruch,,,,,,
+Anteil wahrscheinliche Impfdurchbrüche,"0,7%","2,7%","3,3%","13,3%","7,5%","36,8%"
+an hospitalisierten COVID-19-Fällen,,,,,,
+COVID-19-Fälle auf Intensivstation,,,,,,
+(symptomatisch mit Angabe zum,28,3,3.276,428,5.195,507
+Impfstatus),,,,,,
+Auf Intensivstation betreute COVID-19-,,,,,,
+Fälle mit wahrscheinlichem Impfdurch-,0,0,72,33,313,122
+bruch,,,,,,
+Anteil wahrscheinliche Impfdurchbrüche,"0,0%","0,0%","2,2%","7,7%","6,0%","24,1%"
+an COVID-19-Fällen auf Intensivstation,,,,,,
+Verstorbene COVID-19-Fälle (symptoma-,2,1,1.219,52,10.049,437
+tisch mit Angabe zum Impfstatus),,,,,,
+COVID-19-Fälle mit wahrscheinlichem,0,0,6,1,716,144
+"Impfdurchbruch, die verstorben sind",,,,,,
+Anteil wahrscheinliche Impfdurchbrüche,"0,0%","0,0%","0,5%","1,9%","7,1%","33,0%"
+an verstorbenen COVID-19-Fällen,,,,,,
+a),"Dazu zählen alle Impfserien in Deutschland mit 1 Dosis (Janssen-Vakzine) bzw. 2 Dosen (Moderna-, BioNTech- oder AstraZeneca-",,,,,
+"Vakzine), wenn mindestens zwei Wochen seit der letzten Dosis vergangen sind.",,,,,,
+b),Aufgrund der in Deutschland vorherrschenden Delta-Variante werden die anderen VOC seit 19.08.2021 nicht mehr ausgewie-,,,,,

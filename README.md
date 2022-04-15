@@ -14,3 +14,5 @@ All folders contain [pdftotext](https://pypi.org/project/pdftotext/) results for
 ## weekly reports (2022)
 
 Data in `extracted_weekly` is extracted via `pdftotext` from PDFs available from the [RKI](https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Situationsberichte/Wochenbericht/Wochenberichte_Tab.html).
+
+*Note*: `extracted_weekly_tables` contains isolated table data from the reports **without** preprocessing. Most of these will contain some metadata (such as additional header rows) and none of them are properly aligned with the identified header rows yet. Use with caution.
