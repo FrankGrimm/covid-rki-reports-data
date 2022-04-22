@@ -1,0 +1,1509 @@
+# Wochenbericht_2022-04-21.pdf lang: de
+
+# ---- page 1 ----
+
+                     Wöchentlicher Lagebericht des RKI
+                         zur Coronavirus-Krankheit-2019
+                                                   (COVID-19)
+                           21.04.2022 – AKTUALISIERTER STAND FÜR DEUTSCHLAND
+  COVID-19-Verdachtsfälle und -Erkrankungen sowie Labornachweise von SARS-CoV-2 werden gemäß Infektionsschutzgesetz (IfSG) an das
+  Gesundheitsamt gemeldet. Dieses übermittelt die Daten über die zuständige Landesbehörde an das Robert Koch-Institut (RKI). Im
+  vorliegenden Lagebericht werden die an das RKI übermittelten Daten zu laborbestätigten (Nukleinsäurenachweis oder Erregerisolierung)
+  COVID-19-Fällen dargestellt. Ebenso werden Daten aus weiteren Surveillancesystemen und Erhebungen dargestellt.
+Die dem RKI übermittelten Fälle sind tagesaktuell auf dem Dashboard (https://corona.rki.de/) und als
+werktäglicher Situationsbericht (www.rki.de/covid-19-situationsbericht) verfügbar. Ein
+Wochenvergleich mit aktueller Einordnung wird im heutigen Wochenbericht (immer donnerstags)
+dargestellt. Die meisten Ergebnisse in diesem Wochenbericht beziehen sich auf Daten bis zur 15.
+Kalenderwoche 2022.
+Unter dem Link www.rki.de/inzidenzen stellt das RKI die tagesaktuellen Fallzahlen und Inzidenzen,
+(einschließlich des Verlaufs nach Berichtsdatum) nach Landkreisen und Bundesländern zur
+Verfügung. Werktäglich aktualisierte Trendberichte relevanter Indikatoren stehen ebenfalls zur
+Verfügung. Des Weiteren bietet SurvStat@RKI die Möglichkeit übermittelte COVID-19-Fälle sowie
+andere nach dem Infektionsschutzgesetz (IfSG) meldepflichtige Krankheitsfälle und Erregernachweise
+individuell abzufragen. Die aktuelle Version der Risikobewertung findet sich unter
+https://www.rki.de/covid-19-risikobewertung.
+
+
+# ---- page 2 ----
+
+                                                                                      Wöchentlicher COVID-19-Lagebericht vom 21.04.2022                    2
+Inhalt
+1.   Epidemiologische Lage in Deutschland ........................................................................................... 3
+   1.1. Zusammenfassende Bewertung der aktuellen Situation .........................................................3
+   1.2.   Demografische Verteilung ........................................................................................................4
+   1.3.   Zeitlicher Verlauf ......................................................................................................................5
+   1.4.   Geografische Verteilung ...........................................................................................................6
+     1.4.1. Wochenvergleich der Bundesländer ..................................................................................... 6
+   1.5. Ausbrüche.................................................................................................................................7
+     1.5.1. Ausbrüche in medizinischen Behandlungseinrichtungen und Alten- und Pflegeheimen ..... 7
+     1.5.2. Ausbrüche in Kindergärten, Horten und Schulen.................................................................. 9
+   1.6. Ergebnisse aus den Surveillance-Systemen zu akuten respiratorischen Erkrankungen ....... 10
+     1.6.1. Erfassung akuter Atemwegserkrankungen auf Bevölkerungsebene .................................. 11
+     1.6.2. Erfassung akuter Atemwegserkrankungen in der ambulanten Versorgung ....................... 12
+     1.6.3. Erfassung akuter Atemwegserkrankungen im stationären Bereich.................................... 13
+   1.7. Weitere Datenquellen zum Aspekt Hospitalisierung ............................................................ 16
+     1.7.1. Hospitalisierungen in den Meldedaten ............................................................................... 16
+     1.7.2. Adjustierte 7-Tage-Hospitalisierungsinzidenz ..................................................................... 17
+     1.7.3. Daten aus dem Intensivregister .......................................................................................... 18
+     1.7.4. Interpretation der verschiedenen Aspekte zur Krankheitsschwere und ITS-Belastung ..... 20
+   1.8. Todesfälle, Mortalitätssurveillance, EuroMomo ................................................................... 20
+2.   Impfen ........................................................................................................................................... 21
+   2.1. Digitales Impfquotenmonitoring (DIM) ................................................................................. 21
+     2.1.1. Stand der Impfquoten nach Meldedaten ............................................................................ 21
+   2.2. Wirksamkeit der COVID-19-Impfung ..................................................................................... 24
+     2.2.1. Inzidenzen der symptomatischen und hospitalisierten COVID-19-Fälle nach Impfstatus .. 25
+     2.2.2. Impfdurchbrüche ................................................................................................................. 26
+     2.2.3. Impfeffektivität.................................................................................................................... 27
+     2.2.4. Interpretation ...................................................................................................................... 30
+3. SARS-CoV-2-Labortestungen und Variants of Concern (VOC)....................................................... 31
+   3.1. Testzahlentwicklung und Positivenanteil .............................................................................. 31
+   3.2.   Testkapazitäten und Reichweite ........................................................................................... 32
+   3.3.   Fachliche Einordnung der aktuellen Laborsituation in Deutschland..................................... 33
+     3.3.1. Positivenanteile nach Bundesland und Altersgruppen ....................................................... 33
+   3.4. SARS-CoV-2 Variants of Concern ........................................................................................... 34
+     3.4.1. Datenquellen ....................................................................................................................... 34
+   3.5. SARS-CoV-2-Varianten Verteilung in Deutschland ................................................................ 36
+     3.5.1. Genomsequenzdaten zu SARS-CoV-2-Varianten................................................................. 36
+     3.5.2. IfSG-Meldedaten zu SARS-CoV-2-Varianten........................................................................ 38
+4. Empfehlungen und Maßnahmen in Deutschland ......................................................................... 39
+   4.1. Aktuelles ................................................................................................................................ 39
+5.   Anhang .......................................................................................................................................... 40
+   5.1. Hinweise zur Datenerfassung und -bewertung ..................................................................... 40
+
+
+# ---- page 3 ----
+
+3 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+       1. Epidemiologische Lage in Deutschland
+       1.1.       Zusammenfassende Bewertung der aktuellen Situation
+  In der 15. Kalenderwoche (KW) 2022 sank die bundesweite 7-Tage-Inzidenz im Vergleich zur
+  Vorwoche um 23 %. Der Gipfel der aktuellen Welle ist jetzt klar überschritten und auch viele
+  Hospitalisierungsindikatoren und die Zahl der institutionellen Ausbrüche nehmen ab. Der
+  Infektionsdruck bleibt aber trotzdem mit mehr als 750.000 innerhalb einer Woche an das RKI
+  übermittelten COVID-19-Fällen noch hoch. 1
+  Auch wenn es bei sehr hohen Inzidenzen weder möglich noch notwendig ist, dass jeder Einzelfall im
+  Meldesystem erfasst wird, ermöglicht die Auswertung aller vorliegenden Daten, einschließlich der
+  etablierten, das Meldesystem ergänzenden syndromischen und virologischen Surveillance (siehe
+  dazu Abschnitt 1.6. Ergebnisse aus den Surveillance-Systemen zu akuten respiratorischen
+  Erkrankungen), eine zuverlässige Einschätzung der Gesamtentwicklung der epidemiologischen
+  Situation von COVID-19 in Deutschland.
+  In allen Altersgruppen sank die 7-Tage-Inzidenz im Vergleich zur Vorwoche um 17 % bis 39 %,
+  insbesondere in den jüngeren Altersgruppen zwischen 5 und 19 Jahren. Auch die Zahl der
+  übermittelten aktiven Ausbrüche in medizinischen Behandlungseinrichtungen und in Alten- und
+  Pflegeheimen, sowie in Schulen, Kindergärten und Horten, ging gegenüber der Vorwoche weiter
+  zurück. Die Omikron-Variante ist in Deutschland mit über 99 % die dominierende SARS-CoV-2-
+  Variante; der Anteil der Omikron-Sublinie BA.2 ist bis KW 14 weiter auf über 95 % angestiegen.
+  Rekombinationen verschiedener Varianten wurden bisher nur vereinzelt nachgewiesen.
+  Die Gesamtzahl akuter Atemwegserkrankungen (ARE) ist in der Bevölkerung in KW 15/2022 leicht
+  gestiegen und wird auf ca. 4,7 Millionen geschätzt. Etwa 900.000 bis 1,7 Millionen Menschen sind in
+  KW 15/2022 neu an einer COVID-19-bedingten ARE erkrankt. Für die Lagebewertung in der aktuellen
+  Situation der Pandemie ist die Entwicklung der Anzahl und Schwere der Erkrankungen wichtig. Dabei
+  zeigte sich in den Systemen der syndromischen Surveillance akuter Atemwegserkrankungen in den
+  ersten vier COVID-19-Wellen eine hohe Zahl an schweren Krankheitsverläufen im stationären und
+  intensivmedizinischen Bereich. In der aktuellen fünften (Omikron-)Welle ist die Zahl der schweren
+  Krankheitsverläufe, bei gleichzeitig hohen Infektionszahlen, deutlich niedriger. Erstmals im Jahr 2022
+  ging in der vergangenen KW (KW 14/2022) auch die Zahl der Krankenhausneuaufnahmen von
+  Patientinnen und Patienten mit COVID-19 und einer schweren Atemwegserkrankung in allen
+  Altersgruppen zurück; auch in KW 15/2022 ist dieser Wert mit 2.700 neuen Krankenhausaufnahmen
+  deutlich gesunken.
+  Die Belastung der Kapazitäten des Gesundheitsversorgungssystems, insbesondere im stationären
+  und intensivmedizinischen Bereich, ist durch die eingeschränkte Verfügbarkeit des medizinischen
+  Personals aufgrund infektionsbedingter Ausfälle (Erkrankung, Quarantäne) aber nach wie vor hoch.
+  Die Zahl von auf einer Intensivstation behandelten Personen mit COVID-19-Diagnose ist wie bereits
+  in den Vorwochen leicht gesunken und lag am 20.04.2022 bei 1.733 Fällen.
+  Der geringere Anteil schwerer Erkrankungen ist zurückzuführen auf den zunehmenden Aufbau der
+  Immunität in der Bevölkerung, insbesondere aufgrund der sehr gut wirksamen Impfung, in
+  Kombination mit einem grundsätzlich geringeren Anteil schwerer Erkrankungen bei Infektionen
+  hervorgerufen durch die Omikron-Variante. Die Anzahl der mit Omikron assoziierten Todesfälle bleibt
+  1
+    Bei der Interpretation der aktuellen Fallzahlen ist zu beachten, dass es aufgrund der Feiertage und Ferien und der damit
+  verbundenen geringeren Test-, Melde- und Übermittlungsaktivität kurzfristig zu einer erhöhten Untererfassung der Fälle im
+  Meldesystem gekommen sein kann.
+
+
+# ---- page 4 ----
+
+                                                           Wöchentlicher COVID-19-Lagebericht vom 21.04.2022 4
+im Verhältnis zu den Neuinfektionen auf einem niedrigeren Niveau als in den früheren Wellen. Für
+die letzten drei Wochen muss noch mit Nachmeldungen gerechnet werden.
+Die Impfquote hat sich im Vergleich zur Vorwoche nicht verändert: Es waren zum 20.04.2022 ca.
+77 % der Bevölkerung mindestens einmal und 76 % vollständig geimpft; 59 % der Bevölkerung
+erhielten bereits eine Auffrischimpfung. Die Mehrzahl der aktuell verabreichten Impfungen sind
+zweite Auffrischimpfungen. Es sind weiterhin hochgerechnet rund 7,6 Millionen Bürgerinnen und
+Bürger (17 %) in der Altersgruppe 18-59 Jahre und rund 2,2 Millionen (9 %) in der Altersgruppe ab 60
+Jahre noch nicht geimpft.
+Auch aktuell bei Dominanz der Omikron-Variante kann für vollständig geimpfte Personen aller
+Altersgruppen - insbesondere für Personen mit Auffrischimpfung - weiterhin von einem sehr guten
+Impfschutz gegenüber einer schweren COVID-19-Erkrankung ausgegangen werden. Weiterhin zeigt
+sich für ungeimpfte Personen aller Altersgruppen ein deutlich höheres Risiko für eine schwere
+Verlaufsform der COVID-19-Erkrankung.
+Der weitere Verlauf der Pandemie hängt wesentlich davon ab, ob sich größere Teile der
+Bevölkerung auch bei Reduktion staatlich angeordneter Maßnahmen weiterhin umsichtig und
+rücksichtsvoll verhalten bzw. in welchem Umfang mögliche infektionsrelevante Kontakte
+zunehmen. Die Impfung hat aufgrund ihrer hohen Schutzwirkung vor einem schweren Verlauf auch
+bei Erkrankungen durch die Omikron-Variante nicht an Bedeutung verloren. Insbesondere
+Risikogruppen und hochaltrige Menschen ab 70 Jahren sollten sich mit der von der STIKO
+empfohlenen 2. Auffrischimpfung vor einer schweren Erkrankung schützen.
+Personen mit Symptomen einer akuten Atemwegsinfektion, wie z. B. Schnupfen, Halsschmerzen
+oder Husten, sollten (unabhängig vom Impfstatus) zu Hause bleiben, gegebenenfalls die
+Hausarztpraxis kontaktieren und sich je nach ärztlicher Einschätzung testen lassen. Bitte befolgen
+Sie auch bei Treffen mit Freunden und Verwandten die Verhaltenstipps für das Frühjahr 2022
+(https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Buerger/Flyer-Verhaltenstipps-
+Fruehjahr-2022.pdf).
+Das Robert Koch-Institut schätzt die Gefährdung durch COVID-19 für die Gesundheit der Bevölkerung
+in Deutschland insgesamt als sehr hoch ein. Die Infektionsgefährdung wird für die Gruppe der
+Ungeimpften als sehr hoch, für die Gruppen der Genesenen und Geimpften mit Grundimmunisierung
+(zweimalige Impfung) als hoch und für die Gruppe der Geimpften mit Auffrischimpfung (dreimalige
+Impfung) als moderat eingeschätzt. Diese Einschätzung kann sich kurzfristig durch neue Erkenntnisse
+ändern.
+     1.2.    Demografische Verteilung
+Die altersgruppenspezifische Inzidenz wird in Abbildung 1 als 7-Tage-Inzidenz pro 100.000
+Einwohnerinnen und Einwohnern (Einw.) in der jeweiligen Altersgruppe nach Meldewoche (MW)
+gezeigt.
+Wie schon in der Vorwoche sanken die Inzidenzen in allen Altersgruppen um 17 - 39 %, vor allem bei
+den 5- bis 19-Jährigen. Mit jeweils über 30 % Differenz im Vergleich zur Vorwoche war der stärkste
+Rückgang in der Altersgruppe der 5- bis 14-Jährigen zu verzeichnen. Der Altersmedian aller Fälle lag
+in der MW 15/2022 weiterhin bei 38 Jahren.
+
+
+# ---- page 5 ----
+
+5 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+  Abbildung 1. Darstellung der 7-Tage-Inzidenz der COVID-19-Fälle in Deutschland nach Altersgruppe und Meldewoche (n= 20.364.917
+  Fälle mit entsprechenden Angaben in den Meldewochen 16/2021 bis 15/2022; Datenstand 20.04.2022, 00:00 Uhr).
+        1.3.       Zeitlicher Verlauf
+  Abbildung 2 zeigt die Anzahl der dem RKI übermittelten COVID-19-Fälle pro Meldewoche seit Beginn
+  der Pandemie in Deutschland in MW 10/2020. Am rechten Rand der Abbildung ist die Delta-Welle
+  (vierte Welle) vor dem Jahreswechsel 2021/2022 und die zweigipflige Omikron-Welle (fünfte Welle)
+  danach deutlich erkennbar. Mit MW 15/2022 gingen die Fallzahlen in der vierten Woche in Folge
+  zurück.
+  Abbildung 2: Anzahl der an das RKI übermittelten COVID-19-Fälle nach Woche des Erkrankungsbeginns, ersatzweise nach Meldewoche.
+  Dargestellt werden nur Fälle mit Erkrankungsbeginn oder Meldewoche seit MW 10/2020 (Datenstand 20.04.2022, 00:00 Uhr).
+
+
+# ---- page 6 ----
+
+                                                                            Wöchentlicher COVID-19-Lagebericht vom 21.04.2022      6
+      1.4.      Geografische Verteilung
+Die geografische Verteilung der Fälle der letzten Woche (KW 15) und der Vorwoche (KW14) ist in
+Abbildung 3 dargestellt. Die Zahl der Kreise mit hohen Inzidenzen ist weiterhin deutlich
+zurückgegangen. In 53 von 411 Kreisen lag die die 7-Tage-Inzidenz bei über 1.000/100.000 Einw., in 5
+davon über 1.500/100.000 Einw. In 90 Kreisen lag der Wert bei unter 500/100.000 Einw.
+Abbildung 3: An das RKI übermittelte COVID-19-Fälle mit einem Meldedatum innerhalb der letzten Kalenderwoche in Deutschland nach
+Kreis und Bundesland (n = 753.754, Datenstand 20.04.2022, 00:00 Uhr) im Vergleich zur Vorwoche. Die Fälle werden in der Regel nach
+dem Kreis ausgewiesen, aus dem sie übermittelt wurden. Dies entspricht in der Regel dem Wohnort. Wohnort und wahrscheinlicher
+Infektionsort müssen nicht übereinstimmen.
+      1.4.1. Wochenvergleich der Bundesländer
+In Tabelle 1 sind die Fallzahlen und Inzidenzen der vergangenen zwei Meldewochen für die einzelnen
+Bundesländer dargestellt. Die 7-Tage-Inzidenz lag in MW 15/2022 in der Mehrzahl der Bundesländer
+wieder zwischen 500 und 1.000/100.000 Einw. (11 von 16 Bundesländern), mit Rückgängen zwischen
+2 % (Bremen) und 42 % (Thüringen). Die Gesamtinzidenz sank im Vergleich zur Vorwoche um 23 %.
+
+
+# ---- page 7 ----
+
+7 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+  Tabelle 1: Übermittelte Anzahl der COVID-19-Fälle sowie 7-Tage-Inzidenz (Fälle/100.000 Einwohner) pro Bundesland in Deutschland in
+  den MW 14 und 15/2022 (Datenstand 20.04.2022, 00:00 Uhr).
+                                        Meldewoche 14                     Meldewoche 15               Änderung im Vergleich
+                                                       7-Tage-                          7-Tage-
+     Bundesland                       Anzahl                           Anzahl                           Anzahl        Anteil
+                                                      Inzidenz                         Inzidenz
+     Baden-Württemberg                 125,329             1,129          96,662              871         -28,667           -23 %
+     Bayern                            170,975             1,301        126,698               964         -44,277           -26 %
+     Berlin                             26,709               729          18,540              506          -8,169           -31 %
+     Brandenburg                        21,160               836          14,169              560          -6,991           -33 %
+     Bremen                              7,712             1,134            7,569           1,113            -143             -2 %
+     Hamburg                            25,484             1,376          19,978            1,078          -5,506           -22 %
+     Hessen                             71,786             1,141          61,255              973         -10,531           -15 %
+     Mecklenburg-
+                                        22,041             1,368          14,977              930          -7,064           -32 %
+     Vorpommern
+     Niedersachsen                     115,305             1,441          96,574            1,207         -18,731           -16 %
+     Nordrhein-Westfalen               189,003             1,054        153,233               855         -35,770           -19 %
+     Rheinland-Pfalz                    52,770             1,288          38,292              934         -14,478           -27 %
+     Saarland                           15,348             1,560          11,775            1,197          -3,573           -23 %
+     Sachsen                            45,119             1,112          29,962              739         -15,157           -34 %
+     Sachsen-Anhalt                     23,166             1,062          17,242              791          -5,924           -26 %
+     Schleswig-Holstein                 34,599             1,189          29,215            1,004          -5,384           -16 %
+     Thüringen                          30,410             1,434          17,613              831         -12,797           -42 %
+     Gesamt                            976,916             1,175        753,754               906       -223,162            -23 %
+       1.5.       Ausbrüche
+       1.5.1. Ausbrüche in medizinischen Behandlungseinrichtungen und Alten- und Pflegeheimen
+  Aktive Ausbrüche, also Ausbrüche für die jeweils ein neuer Fall in MW 15/2022 übermittelt wurde,
+  kommen in 94 medizinischen Behandlungseinrichtungen (Vorwoche: 147) und in 314 Alten- und
+  Pflegeheimen (Vorwoche: 514) vor. Es wurden dem RKI 693 neue COVID-19-Fälle in MW 15/2022 in
+  Ausbrüchen in medizinischen Behandlungseinrichtungen und 3.904 Fälle in Ausbrüchen in Alten- und
+  Pflegeheimen übermittelt.
+  Seit Beginn der Pandemie bis Ende MW 15/2022 wurden dem RKI 9.925 Ausbrüche in medizinischen
+  Behandlungseinrichtungen (Abbildung 4) und 11.674 Ausbrüche in Alten- und Pflegeheimen
+  (Abbildung 5) mit mindestens 2 Fällen pro Ausbruch übermittelt (Datenstand 19.04.2022, 00:00 Uhr).
+  Diesen Ausbrüchen wurden 85.452 COVID-19-Fälle (Median: 4, Spannbreite: 2-342 Fälle pro
+  Ausbruch) in medizinischen Behandlungseinrichtungen und 255.249 COVID-19-Fälle (Median: 14,
+  Spannbreite: 2-273 Fälle pro Ausbruch) in Alten- und Pflegeheimen zugeordnet, davon 184.104 Fälle
+  (72,1 %) bei Personen ab 60 Jahren.
+
+
+# ---- page 8 ----
+
+                                                                           Wöchentlicher COVID-19-Lagebericht vom 21.04.2022     8
+Abbildung 4: Übermittelte COVID-19-Ausbrüche in medizinischen Behandlungseinrichtungen mit mindestens 2 Fällen nach Meldedatum
+des ersten Ausbruchsfalls seit MW 10/2020 (Datenstand 19.04.2022, 00:00 Uhr). Insbesondere für die letzten drei Meldewochen sind
+Nachübermittlungen für Ausbrüche zu erwarten (graue Balken). Die Ausbruchsfälle umfassen nicht nur Patientinnen und Patienten,
+sondern auch Personal und Besucherinnen und Besucher.
+Abbildung 5: Übermittelte COVID-19-Ausbrüche in Alten- und Pflegeheimen mit mindestens 2 Fällen nach Meldedatum des ersten
+Ausbruchsfalls seit MW 10/2020 (Datenstand 19.04.2022, 00:00 Uhr). Insbesondere für die letzten drei Meldewochen sind
+Nachübermittlungen für Ausbrüche zu erwarten (graue Balken). Die Ausbruchsfälle mit der Angabe unter 60 Jahre umfassen auch
+Besucherinnen und Besucher sowie Mitarbeitende der Einrichtungen.
+Die kumulative Anzahl an Todesfällen in diesen Ausbrüchen bis MW 15/2022 betrug 7.015 (8,2 % der
+Ausbruchsfälle) in medizinischen Behandlungseinrichtungen (+ 14 Todesfälle im Vergleich zur
+Vorwoche) und 27.686 Todesfälle (10,8 % der Ausbruchsfälle) in Alten-/Pflegeheimen (+ 94
+Todesfälle im Vergleich zur Vorwoche). Unter den Ausbruchsfällen in Alten-/Pflegeheimen in der
+Altersgruppe der ab 60-Jährigen gab es insgesamt 27.445 Todesfälle (14,9 % der ab 60-Jährigen
+Ausbruchsfälle 2).
+2
+  Die Altersgruppe ab 60-Jährigen dient, bezogen auf die Ausbruchsfälle, als Annäherung für Bewohnende der Pflegeheime, da
+in den Meldedaten nicht immer für jeden Einzelfall der Status Bewohnende bzw. Beschäftigte dokumentiert wurde und auch
+Angehörige und Besucherinnen und Besucher den Ausbrüchen zugeordnet werden.
+
+
+# ---- page 9 ----
+
+9 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+        1.5.2. Ausbrüche in Kindergärten, Horten und Schulen
+  Der seit Mitte Januar 2022 zu beobachtende Rückgang an übermittelten Kita-Ausbrüchen pro Woche
+  hielt bisher weiterhin an (durchgezogene Linie in Abbildung 6). Für die letzten vier Wochen (MW 12 -
+  15/2022) wurden bislang insgesamt 284 Ausbrüche übermittelt. Der weitere Trend bei Kita-
+  Ausbrüchen kann wegen Nachmeldungen aber noch nicht gut bewertet werden. Der Anteil der 0- bis
+  5-jährigen Fälle an allen in Kita-Ausbrüchen beteiligten Fällen blieb seit Mitte Februar 2022 relativ
+  konstant bei etwa 55 %.
+  Abbildung 6: An das RKI übermittelte Ausbrüche (ab 2 Fällen) in Kindergärten und Horteinrichtungen für 2021/22 (durchgezogene Linie)
+  im Vergleich zu den Vorjahren (gestrichelte bzw. gepunktete Linie) und Anteil der 0- bis 5-jährigen Fälle an allen Kita-Ausbruchsfällen
+  (geglättet über 3 Wochen) sowie die bundesweite Feriendichte 3. Der hellgraue Bereich markiert die letzten zwei Berichtswochen in 2022,
+  in denen noch mit Nacherfassungen von Ausbrüchen zu rechnen ist. Der dunkelgraue Bereich markiert die weiteren Wochen in 2022, für
+  die noch keine Daten vorliegen. Der senkrechte Strich markiert den Jahreswechsel. Für die Vergleichbarkeit mit den Jahren ohne KW 53
+  wurde die KW 53/2020 nicht abgebildet. (Datenstand: 19.04.2022; n=10.581 Ausbrüche)
+  Die Zahl an übermittelten Schulausbrüchen bewegte sich im März 2022 in einem Bereich von etwa
+  200 bis 260 Ausbrüchen pro Woche (Abbildung 7). Bisher wurden 374 Schulausbrüche für die letzten
+  vier Wochen (MW 12 - 15/2022) übermittelt. Doch auch hier muss insbesondere für die letzten zwei
+  Wochen noch mit Nachmeldungen gerechnet werden. Es werden weiterhin überwiegend Fälle im
+  Alter von 6 bis 10 Jahren in Schulausbrüchen übermittelt. Ihr Anteil lag Anfang April 2022 bei etwa
+  47 % (dunkelblaue Fläche in Abbildung 7). Der Anteil der anderen Altersgruppen lag bei: 11- bis 14-
+  Jährige: 27 %; 15- bis 20-Jährige: 19 %; ≥ 21-Jährige: 7 %. Das im Vergleich zu den älteren Kindern und
+  Jugendlichen besonders ausgeprägte Infektionsgeschehen bei 6- bis 10-jährigen Kindern könnte mit
+  deren niedrigerer Impfquote assoziiert sein.
+  Im März 2022 waren in Kita-Ausbrüchen mit durchschnittlich 5 Fällen pro Ausbruch etwas mehr
+  Personen involviert als in Schulausbrüchen (Mittelwert 4 Fälle pro Ausbruch; Median = 4 bzw. 3). Es
+  wurden sowohl bei Schulen als auch bei Kitas vereinzelt größere Ausbrüche mit 10 oder mehr Fällen
+  pro Ausbruch übermittelt (etwa 6 bzw. 11 % der Ausbrüche im März 2022).
+  Wegen der sehr hohen Inzidenz können die Gesundheitsämter nicht mehr alle Infektionsketten
+  ermitteln und zusammenhängende Geschehen als Ausbruch zusammenfassen, zumal Kinder sich
+  sowohl beim täglichen Besuch von Kita oder Schule als auch außerhalb infiziert haben können. Daher
+  3 Die Feriendichte beschreibt den Anteil der Bevölkerung in Deutschland, der in der jeweiligen Woche Schulferien (inkl.
+  Feiertage) hatte. Es wurde ein Durchschnitt der fünf Arbeitstage gebildet. Die Feriendichte (Schulferien) wird auch in der
+  Abbildung der Kita/Hort-Ausbrüche dargestellt, da einige Kitas auch während der Ferien (zumindest teilweise) schließen oder
+  Kita-Kinder gemeinsam mit Geschwistern im Schulalter während der Ferien zu Hause betreut werden. Quelle:
+  https://www.schulferien.org/deutschland/feriendichte/
+
+
+# ---- page 10 ----
+
+                                                                               Wöchentlicher COVID-19-Lagebericht vom 21.04.2022      10
+muss davon ausgegangen werden, dass die Zahl der Ausbrüche in diesen Settings nicht mehr genau
+angegeben werden kann.
+Abbildung 7: An das RKI übermittelte Ausbrüche (ab 2 Fällen) in Schulen für 2021/22 (durchgezogene Linie) im Vergleich zu den
+Vorjahren (gestrichelte bzw. gepunktete Linie) und Anteil der 6- bis 10- bzw. 6- bis 14-jährigen Fälle an allen Schul-Ausbruchsfällen
+(geglättet über 3 Wochen) sowie die bundesweite Feriendichte. Der hellgraue Bereich markiert die letzten zwei Berichtswochen in 2022,
+in denen noch mit Nacherfassungen von Ausbrüchen zu rechnen ist. Der dunkelgraue Bereich markiert die weiteren Wochen in 2022, für
+die noch keine Daten vorliegen. Der senkrechte Strich markiert den Jahreswechsel. Für die Vergleichbarkeit mit den Jahren ohne KW 53
+wurde die KW 53/2020 nicht abgebildet. (Datenstand: 19.04.2022; n=15.413 Ausbrüche)
+     1.6.        Ergebnisse aus den Surveillance-Systemen zu akuten respiratorischen
+                 Erkrankungen
+Ergänzend zu den über das gesetzlich verpflichtende Meldewesen gemäß IfSG erhaltenen Daten
+stehen dem RKI weitere wichtige Informationsquellen über akute respiratorische Erkrankungen
+(ARE) zur Verfügung. Hierbei handelt es sich um syndromische und virologische Surveillance-
+Systeme, die seit mehreren Jahren am RKI etabliert sind. Mit Hilfe dieser zusätzlichen Surveillance-
+Systeme kann auch in Hochinzidenzsituationen, wie z. B. bei der Pandemie oder dem Höhepunkt
+saisonaler Erkrankungswellen, die Krankheitslast zuverlässig erfasst und diese miteinander verglichen
+werden. Die Surveillance-Systeme erfassen die Krankheitslast akuter Atemwegsinfektionen auf drei
+Ebenen: A) auf der Bevölkerungsebene (GrippeWeb), B) in der ambulanten Versorgung
+(Arbeitsgemeinschaft Influenza (AGI) mit dem Sentinel zur elektronischen Erfassung von
+Diagnosecodes (SEEDARE)) sowie C) im stationären Bereich (ICD-10-Code-basierte Krankenhaus-
+Surveillance ICOSARI).
+Neben der allgemeinen Krankheitslast von ARE kann aufgrund der Eigenschaften der Systeme auch
+die Krankheitslast von ARE mit COVID-19 (COVID-ARE) in der Bevölkerung und in der ambulanten
+Versorgung sowie von schweren ARE mit COVID-19 (COVID-SARI) auf Krankenhausebene berechnet
+werden. Die Daten haben zwar eine eingeschränkte geographische Auflösung, dafür sind sie jedoch
+robust und erlauben altersstratifizierte Aussagen zur Gesamtkrankheitslast akuter
+Atemwegsinfektionen und den jeweils vorherrschend zirkulierenden Atemwegserregern. Sie werden
+wöchentlich erhoben und können durch Nachmeldungen noch ergänzt werden. Weiterhin sind diese
+Systeme weitgehend unabhängig von Teststrategien, dem Testverhalten in der Bevölkerung und im
+Gesundheitswesen und der Verfügbarkeit von Tests (weitere Informationen mit detaillierteren
+Ergebnissen aus diesen Surveillance-Systemen können abgerufen werden unter
+https://grippeweb.rki.de, https://influenza.rki.de/wochenberichte.aspx sowie unter
+https://influenza.rki.de/Diagrams.aspx).
+
+
+# ---- page 11 ----
+
+11     Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+                     1.6.1. Erfassung akuter Atemwegserkrankungen auf Bevölkerungsebene
+       Im Web-Portal GrippeWeb wird seit 2011 die Aktivität akuter Atemwegserkrankungen mit
+       Informationen direkt aus der Bevölkerung beobachtet. In der Bevölkerung ist die Rate akuter
+       Atemwegserkrankungen (ARE-Rate) in KW 15/2022 im Vergleich zur Vorwoche insgesamt leicht
+       gestiegen und liegt aktuell im Bereich der Werte aus den vorpandemischen Jahren. Dabei ist die ARE-
+       Rate bei den Kindern gesunken, während sie bei den Erwachsenen leicht gestiegen ist. Vor und nach
+       dem Jahreswechsel 2021/22 zeigten sich die vierte (Delta-Variante) und die fünfte COVID-19-Welle
+       (Omikron-Variante) deutlich auf Bevölkerungsebene (Abbildung 8, rote Linie). Ein Gipfel in den
+       Erkrankungszahlen zeigte sich hier jeweils 1 bis 2 Wochen vor dem Gipfel der SARS-CoV-2-Meldefälle,
+       in KW 3 bzw. KW 11. Dagegen bildeten sich die vorhergehende zweite und dritte Welle (Alpha-
+       Variante) im Herbst/Winter 2020/21 (gelbe Linie) nicht ab, da durch die strikteren Maßnahmen
+       insgesamt weniger Erreger von Atemwegserkrankungen in der Bevölkerung zirkulierten. Aktuell liegt
+       die Gesamt-ARE-Rate in KW 15/2022 bei 5,6 % und damit bei ca. 5.600 ARE/100.000 Einw. Dies
+       entspricht einer Gesamtzahl von ca. 4,7 Millionen akuten Atemwegserkrankungen in der Bevölkerung
+       in Deutschland.
+                     12
+                     10
+                      8
+     ARE-Rate in %
+                      6
+                      4
+                      2
+                      0
+                          27          36                    46              3                            13                    23
+                                                                  Kalenderwoche
+       Abbildung 8: Vergleich der für die Bevölkerung in Deutschland geschätzten ARE-Raten (in Prozent) in den Saisons 2017/18 bis 2021/22,
+       bis KW 15/2022. Der senkrechte Strich markiert den Jahreswechsel. Für die letzten Wochen können sich durch Nachmeldungen noch
+       Änderungen ergeben.
+       In GrippeWeb geben die Teilnehmenden auch an, ob sie wegen einer ARE eine Arztpraxis aufgesucht
+       haben. Im Jahr 2021 hatten 16 % der 0- bis 14-Jährigen und 13 % der ab 15-Jährigen mit einer ARE
+       eine Arztpraxisaufgesucht; bei Teilnehmenden mit einer fieberhaften ARE waren es 30 % bzw. 32 %.
+       ARE mit COVID-19: Über das SEEDARE-System kann die Inzidenz der ARE-Fälle mit COVID-19 (COVID-
+       ARE) in der Gesamtbevölkerung hochgerechnet werden
+       (https://www.eurosurveillance.org/content/10.2807/1560-7917.ES2014.19.4.20684).
+       So wurde für die KW 15/2022 berechnet, dass etwa 0,5 bis 1,2 % der Kinder und Jugendlichen bis
+       14 Jahre und 1,2 bis 2,1 % der Bevölkerung ab 15 Jahre an COVID-19 mit akuten
+       Atemwegssymptomen erkrankten. Das entspricht einer wöchentlichen COVID-ARE-Inzidenz in der
+       Bevölkerung von etwa 1.100 bis 2.000 Erkrankten/100.000 Einw. oder, als Anzahl Erkrankter
+       ausgedrückt, 900.000 bis 1,7 Millionen SARS-CoV-2-Infizierte mit Symptomen einer akuten
+       Atemwegsinfektion in der KW 15/2022 in Deutschland.
+
+
+# ---- page 12 ----
+
+                                                                                                  Wöchentlicher COVID-19-Lagebericht vom 21.04.2022   12
+                                           1.6.2. Erfassung akuter Atemwegserkrankungen in der ambulanten Versorgung
+     Auch in der ambulanten Versorgung fielen insbesondere die vierte COVID-19-Welle (Delta-Variante)
+     zum Jahreswechsel 2021/22 und die aktuelle fünfte Welle (Omikron-Variante) durch die deutliche
+     Zunahme der Arztbesuche wegen ARE auf (Abbildung 9, rote Linie).
+     In KW 15/2022 wurden im Vergleich zur Vorwoche insgesamt erneut weniger Arztbesuche im
+     ambulanten Bereich wegen akuter Atemwegserkrankungen (ARE-Konsultationsinzidenz) registriert.
+     Dabei ist die Zahl der ARE-Konsultationen in allen Altersgruppen gesunken. Der Wert (gesamt) lag in
+     KW 15/2022 bei rund 1.200 Arztkonsultationen wegen ARE/100.000 Einw. Auf die Bevölkerung in
+     Deutschland bezogen entspricht das einer Gesamtzahl von knapp einer Million Arztbesuche wegen
+     akuter Atemwegserkrankungen. Der zweigipflige Verlauf der Werte nach dem Jahreswechsel ähnelt
+     dem Verlauf in der Saison 2019/20. Vor zwei Jahren spiegelte das ARE-Konsultationsverhalten im
+     ersten Gipfel die Grippewelle und im zweiten Gipfel die erste COVID-19-Welle wieder, während sich
+     in der aktuellen Saison die beiden Gipfel durch die Verbreitung der Omikron-Sublinien BA.1 gefolgt
+     von BA.2 erklären lassen. Die Werte lagen in KW 15/2022 in den Altersgruppen der 15- bis 59-
+     Jährigen in einem Bereich, der etwas höher ist als vor der Pandemie, da in den meisten
+     vorpandemischen Saisons die Grippe-Aktivität zu dieser Zeit bereits deutlich zurückging. Bei den
+     Kindern (0 bis 14 Jahre) und den ab 60-Jährigen liegen die Werte in KW 15/2022 im Bereich der
+     früheren Werte.
+                                           3.000
+ARE-Konsultationen pro 100.000 Einwohner
+                                                                                                                                            2017/18
+                                           2.500                                                                                            2018/19
+                                                                                                                                            2019/20
+                                           2.000                                                                                            2020/21
+                                                                                                                                            2021/22
+                                           1.500
+                                           1.000
+                                            500
+                                              0
+                                                   40 42 44 46 48 50 52   2   4   6   8   10 12 14 16 18 20 22 24 26 28 30 32 34 36 38
+                                                                                           Kalenderwoche
+     Abbildung 9: Wöchentliche Inzidenz der Arztkonsultationen wegen einer neu aufgetretenen ARE in den Saisons 2017/18 bis 2021/22, bis
+     KW 15/2022. Für die letzten Wochen können sich durch Nachmeldungen noch Änderungen ergeben.
+     In der virologischen Surveillance der AGI wurden in KW 15/2022 in insgesamt 47 von 68
+     eingesandten Proben (69 %) respiratorische Viren identifiziert. Darunter befanden sich 16 Proben mit
+     humanen Metapneumoviren (24 %), 16 mit SARS-CoV-2 (24 %), 8 mit Rhinoviren (12 %), 6 mit
+     Influenzaviren (9 %) sowie 3 mit humanen saisonalen Coronaviren (hCoV) (4 %). Respiratorische
+     Synzytialviren (RSV) und Parainfluenzaviren wurden in keiner Probe nachgewiesen. In KW 15/2022
+     war die SARS-CoV-2-Positivenrate bei den ab 60-Jährigen mit 50 % und bei den 15- bis 34-Jährigen
+     mit 42 % am höchsten. Die ARE-Aktivität ist gemäß den virologischen Ergebnissen in KW 15/2022
+     weiterhin auf die Zirkulation von SARS-CoV-2 in der Bevölkerung zurückzuführen, darüber hinaus
+     werden aktuell auch humane Metapneumoviren (insbesondere bei 0- bis 4-jährigen Kindern),
+     Influenza- (insbesondere bei den 2- bis 14-Jährigen) sowie Rhinoviren relativ häufig nachgewiesen.
+     Die Influenza-Positivenrate ist seit KW 06/2022 bis KW 14/2022 kontinuierlich gestiegen, jedoch hat
+     sich der Anstieg in KW 15/2022 zunächst nicht fortgesetzt. Eine Grippewelle hat in dieser Saison
+     bisher nicht begonnen. Seit KW 48/2021 wurden bisher insgesamt 442 SARS-CoV-2-positive
+     Sentinelproben mittels Omikron-spezifischer PCR untersucht. Die ersten Omikron-Nachweise im
+     Sentinel gab es in KW 50/2021, seitdem ist der Anteil Omikron-positiver Proben von 8 % auf 100 %
+
+
+# ---- page 13 ----
+
+13 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   gestiegen. Seit KW 02/2022 wurde in Sentinelproben die Omikron-Sublinie BA.2 nachgewiesen. Der
+   Anteil von BA.2 an Omikron-positiven Proben ist seitdem von 9 % auf aktuell 100 % gestiegen (Stand
+   19.04.2022).
+   Arztbesuche wegen ARE mit COVID-19: Mithilfe des ICD-10-Code-basierten SEEDARE-Moduls der AGI
+   wird die Konsultationsinzidenz wegen einer neu aufgetretenen akuten Atemwegserkrankung (ICD-10-
+   Codes J00 - J22, J44.0, B34.9) mit zusätzlicher COVID-19-Diagnose (ICD-10-Code U07.1) berechnet
+   (COVID-ARE Arztkonsultationen)
+   (https://www.rki.de/DE/Content/Infekt/EpidBull/Archiv/2021/30/Art_01.html). Durch
+   Nachmeldungen können sich für die letzten Wochen noch Änderungen ergeben.
+   Nachdem die Anzahl der Arztkonsultationen wegen COVID-ARE ab KW 09/2022 insgesamt
+   angestiegen war, wird seit KW 12/2022 wieder ein Rückgang der Werte beobachtet. In KW 15/2022
+   gab es ca. 400 COVID-ARE Arztkonsultationen/100.000 Einw. Dies entspricht einer Gesamtzahl von
+   etwa 340.000 Arztkonsultationen wegen COVID-ARE in Deutschland. Die Anzahl der
+   Arztkonsultationen wegen COVID-ARE ist in KW 15/2022 in allen Altersgruppen weiter
+   zurückgegangen, insbesondere bei den Kindern bis 14 Jahre.
+        1.6.3. Erfassung akuter Atemwegserkrankungen im stationären Bereich
+   In der ICD-10-Code-basierten Krankenhaus-Surveillance (ICOSARI) von schweren akuten
+   respiratorischen Infektionen (SARI) (ICD-10-Codes J09 bis J22: Influenza, Pneumonie oder sonstige
+   akute Infektionen der unteren Atemwege) werden neu im Krankenhaus aufgenommene Patientinnen
+   und Patienten mit einem ICD-10-Code für SARI in der DRG-Hauptdiagnose erfasst, einschließlich noch
+   hospitalisierter Personen. Daher handelt es sich um eine Auswertung vorläufiger Daten, die sich
+   durch nachträglich eingehende Informationen, insbesondere für die letzten Wochen, noch ändern
+   können.
+   Die Zahl der SARI-Fälle ist seit KW 14/2022 insgesamt gesunken. Zuvor waren die Werte seit dem
+   Jahreswechsel 2021/22 weitestgehend stabil. Es zeigte sich im stationären Bereich während der
+   fünften COVID-19-Welle (Omikron-Variante) erstmals keine höhere Krankheitslast durch schwere
+   Atemwegsinfektionen (Abbildung 10, rote Linie). Dagegen hatten die vorherigen Wellen jeweils zu
+   einer deutlichen Erhöhung der Fallzahlen im stationären Bereich geführt; trotz der strikten
+   Maßnahmen gegen COVID-19 wurde die Anzahl der SARI-Fälle während früherer Grippewellen
+   erreicht (Abbildung 10, rote und gelbe Linie). Die SARI-Fallzahlen sind in der KW 15/2022 in allen
+   Altersgruppen zum Teil deutlich gesunken.
+   Abbildung 10: Wöchentliche Inzidenz der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09-J22 in DRG-Hauptdiag-
+   nose), einschließlich noch hospitalisierter Patientinnen und Patienten, in den Saisons 2017/18 bis 2021/22, bis zur KW 15/2022, Daten
+   aus 71 Kliniken der syndromischen Krankenhaussurveillance. Der senkrechte Strich markiert den Jahreswechsel. In Jahren mit 52 KW
+   wird der Wert für KW 53 als Mittelwert der KW 52 und KW 1 dargestellt. Für die letzten Wochen können sich durch Nachmeldungen
+   noch Änderungen ergeben.
+
+
+# ---- page 14 ----
+
+                                                                              Wöchentlicher COVID-19-Lagebericht vom 21.04.2022        14
+In den Inzidenzwerten der intensivpflichtigen SARI-Fälle sind die erste COVID-19-Welle (dunkelblaue
+Linie, Höhepunkt KW 13/2020), die zweite und die dritte Welle (gelbe Linie, Höhepunkt KW 52/2020
+bzw. KW 13 bis 17/2021) sowie die vierte Welle (rote Linie, Höhepunkt KW 48/2021) gut zu erkennen
+(Abbildung 11). Die Krankheitslast durch intensivpflichtige SARI-Patientinnen und Patienten war
+insbesondere in der zweiten und in der vierten COVID-19-Welle deutlich höher als selbst in sehr
+starken Grippewellen vor der Pandemie (graue Linie, Höhepunkt KW 10/2018 während der
+Grippewelle 2017/18). Seit KW 05/2022 liegt die Inzidenz intensivmedizinisch behandelter SARI-Fälle
+insgesamt unter den Werten der Vorsaisons (Abbildung 11Abbildung 11).
+Abbildung 11: Wöchentliche Inzidenz der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09-J22 in DRG-Hauptdiag-
+nose) mit Intensivbehandlung, einschließlich noch hospitalisierter Patientinnen und Patienten, in den Saisons 2017/18 bis 2021/22, bis
+zur KW 15/2022, Daten aus 71 Kliniken der syndromischen Krankenhaussurveillance. Der senkrechte Strich markiert den Jahreswechsel.
+In Jahren mit 52 KW wird der Wert für die KW 53 als Mittelwert der KW 52 und KW 1 dargestellt. Für die letzten Wochen können sich
+durch Nachmeldungen noch Änderungen ergeben.
+SARI mit COVID-19: Mit dem ICOSARI-System wird die Inzidenz der Fälle berechnet, die mit einer
+schweren akuten Atemwegsinfektion und COVID-19 (COVID-SARI) im Krankenhaus behandelt wurden
+(https://www.medrxiv.org/content/10.1101/2022.02.11.22269594v1). Bei dieser Schätzung werden
+Fälle berücksichtigt, die einen ICD-10-Code für SARI in der DRG-Haupt- oder Nebendiagnose sowie
+eine COVID-19-Diagnose erhalten haben. Im Vergleich zum Meldesystem wurden hierbei in den
+Hochinzidenzphasen – wie der zweiten, dritten und vierten COVID-19-Welle – höhere Werte
+ermittelt. In der aktuellen fünften Welle übersteigt die Hospitalisierungsinzidenz der Meldedaten die
+COVID-SARI-Hospitalisierungsinzidenz, weil in den Meldedaten zunehmend auch Fälle an das RKI
+übermittelt werden, bei denen die SARS-CoV-2-Infektionen nicht ursächlich für die
+Krankenhauseinweisung ist (siehe dazu auch Abschnitt 1.7.4.). Nachdem die Anzahl der
+Krankenhausneuaufnahmen wegen COVID-SARI seit KW 05/2022 insgesamt weitestgehend stabil
+war, geht die COVID-SARI-Inzidenz seit KW 13/2022 wieder deutlich zurück. So gab es in KW 15/2022
+ca. 3,2 Hospitalisierungen wegen COVID-SARI/100.000 Einw. (Abbildung 12). Dies entspricht einer
+Gesamtzahl von etwa 2.700 neuen Krankenhausaufnahmen wegen COVID-SARI in Deutschland.
+Die COVID-SARI-Hospitalisierungsinzidenz in den einzelnen Altersgruppen zeigte in den vergangenen
+Wellen für die Altersgruppen ab 35 Jahre deutlich höhere Werte als für die jüngeren Altersgruppen
+(Abbildung 13). Seit dem Jahreswechsel gehen die Zahlen bei den 35- bis 59-Jährigen zurück. Seit KW
+13/2022 ist auch bei den Altersgruppen ab 60 Jahren ein Rückgang der Hospitalisierungsinzidenz
+wegen COVID-SARI zu beobachten. Die ab 80-Jährigen sind weiterhin am stärksten von schweren
+Krankheitsverläufen betroffen, die im Krankenhaus behandelt werden mussten. So gab es in KW
+15/2022 ca. 22 Hospitalisierungen wegen COVID-SARI/100.000 Einw. in der Altersgruppe ab 80 Jahre.
+Bei den 0- bis 4-Jährigen werden in der aktuellen fünften COVID-19-Welle höhere COVID-SARI-
+Hospitalisierungsraten beobachtet als in den vorherigen COVID-19-Wellen. In den Altersgruppen
+unter 15 Jahren ist der Verlauf der Inzidenz wegen sehr geringer Fallzahlen mit Zurückhaltung zu
+interpretieren.
+
+
+# ---- page 15 ----
+
+15 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Abbildung 12: Wöchentliche Inzidenz der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09-J22 in DRG-Haupt- oder
+   Nebendiagnose) mit einer zusätzlichen COVID-19-Diagnose (ICD-10-Code U07.1!), einschließlich noch hospitalisierter Patientinnen und
+   Patienten, von KW 10/2020 bis KW 15/2022, Daten aus 71 Kliniken der syndromischen Krankenhaussurveillance ICOSARI im Vergleich
+   zur SARS-CoV-2-Hospitalisierungsinzidenz aus den Daten des Meldesystems. Für den grau markierten Bereich ist in den folgenden
+   Wochen noch mit Änderungen in den Fallzahlen zu rechnen.
+   Abbildung 13: Wöchentliche Inzidenz nach Altersgruppen der neu im Krankenhaus aufgenommenen SARI-Fälle (ICD-10-Codes J09-J22 in
+   DRG-Haupt- oder Nebendiagnose) mit einer zusätzlichen COVID-19-Diagnose (ICD-10-Code U07.1!), einschließlich noch hospitalisierter
+   Patientinnen und Patienten, von KW 10/2020 bis KW 15/2022, Daten aus 71 Kliniken der syndromischen Krankenhaussurveillance
+   ICOSARI im Vergleich zur SARS-CoV-2-Hospitalisierungsinzidenz aus den Daten des Meldesystems. Aus Gründen der Darstellbarkeit ist
+   die y-Achse für die Altersgruppen unterschiedlich skaliert. Für den grau markierten Bereich ist in den folgenden Wochen noch mit
+   Änderungen in den Fallzahlen zu rechnen.
+
+
+# ---- page 16 ----
+
+                                                                              Wöchentlicher COVID-19-Lagebericht vom 21.04.2022 16
+     1.7.       Weitere Datenquellen zum Aspekt Hospitalisierung
+     1.7.1. Hospitalisierungen in den Meldedaten
+Für 7.841.734 (33,1 %) der per Meldesystem übermittelten Fälle lagen klinische Informationen vor.
+Aufgrund der unvollständigen Erfassung klinischer Daten, z. B. zur Hospitalisierung stellen die
+nachfolgend aufgeführten Fallzahlen eine Mindestangabe dar. Seit dem 13.07.2021 (MW 28/2021)
+müssen Ärzte und Ärztinnen auch die Aufnahme von COVID-19-Fällen ins Krankenhaus an das
+Gesundheitsamt melden, nicht nur den Verdacht, die Erkrankung und den Tod in Bezug auf COVID-
+19. Die entsprechenden Daten sind verfügbar unter www.rki.de/covid-19-tabelle-klinische-aspekte.
+Den zeitlichen Verlauf der Hospitalisierungsinzidenz in den Meldedaten zeigen Abbildung 14 und
+Abbildung 15. In Abbildung 14 ist die absolute Anzahl der in der jeweiligen Meldewoche neu
+hospitalisierten Fälle stratifiziert nach Altersgruppen dargestellt. Die Daten werden nach
+Meldedatum, also dem Datum, an dem das Gesundheitsamt den Fall elektronisch erfasst hat, jedoch
+nicht nach Hospitalisierungsdatum ausgewiesen. Es ist zu beachten, dass in allen Altersgruppen Fälle
+auch noch ein bis zwei Wochen nach der Diagnose hospitalisiert werden und mit entsprechenden
+Nachübermittlungen gerechnet werden muss. Der Anstieg der Zahl hospitalisierter Fälle, der sich seit
+MW 01/2022 in allen Altersgruppen, besonders aber den 60- bis 79- und über 80-Jährigen,
+abzeichnete, scheint einen Gipfel überschritten zu haben. Es muss aber die nächsten Wochen
+beobachtet werden, ob dieser Rückgang auch unter Einbezug des Meldeverzugs bestehen bleibt. Der
+Altersmedian hospitalisierter Fälle, der in MW 03/2022 zwischenzeitlich auf 56 Jahre gesunken war,
+liegt aktuell bei 72 Jahre.
+Abbildung 14: Darstellung der Anzahl der neu hospitalisierten COVID-19-Fälle in Deutschland nach Altersgruppen ab MW 31/2021
+(Datenstand 20.04.2022, 00:00 Uhr). Für den grau markierten Bereich ist noch mit Nachübermittlungen in erheblichem Umfang und
+damit mit einer Erhöhung der Anzahl zu rechnen.
+In Abbildung 15 ist anstelle der absoluten Anzahl der hospitalisierten Fälle die
+Hospitalisierungsinzidenz in der jeweiligen Altersgruppe dargestellt. Auch hier scheint – unter
+Vorbehalt mit Verweis auf Nachmeldungen – der Anstieg der letzten Wochen, vor allem in der
+Altersgruppe der über 80-Jährigen, aber auch in allen anderen Altersgruppen, abzuschwächen.
+
+
+# ---- page 17 ----
+
+17 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Abbildung 15: Wöchentliche Inzidenz der hospitalisierten COVID-19-Fälle in Deutschland nach Altersgruppen ab MW 31/2021
+   (Datenstand 20.04.2022, 00:00 Uhr). Für den grau markierten Bereich ist noch mit Nachübermittlungen in erheblichem Umfang und
+   damit mit einer Erhöhung der Inzidenz zu rechnen.
+        1.7.2. Adjustierte 7-Tage-Hospitalisierungsinzidenz
+   Zwischen dem Beginn des Krankenhausaufenthalts eines COVID-19-Falles und dem Zeitpunkt, an
+   dem diese Information am RKI eingeht, entsteht ein zeitlicher Verzug. Um den Trend der Anzahl von
+   Hospitalisierungen und der 7-Tage-Hospitalisierungsinzidenz besser bewerten zu können, wird die
+   berichtete Hospitalisierungsinzidenz um eine Hochrechnung der zu erwartenden Anzahl an verzögert
+   berichteten Hospitalisierungen ergänzt (modifizierte Variante der Nowcasting-Berechnung zur 7-
+   Tage-Inzidenz, ursprüngliche Berechnung siehe hier:
+   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/Nowcasting.html). 4
+   In Abbildung 16 zeigt die blaue Linie den Verlauf der tagesaktuell berichteten Anzahl von
+   Hospitalisierungen (fixierte Werte) in den Altersgruppen 0-59 Jahre und ab 60 Jahre. Die graue Linie
+   zeigt den Verlauf aller mit heutigem Datenstand dem RKI bekannten Hospitalisierungen (aktualisierte
+   Werte). Die schwarz gestrichelte Linie mit dem orangen Bereich zeigt eine Hochrechnung, die den
+   Verlauf inklusive der noch in den nächsten Tagen zu erwartenden Informationen zu weiteren
+   Hospitalisierungen enthält (adjustierte Werte). Auf der zweiten y-Achse rechts lässt sich der
+   zugehörige Wert der 7-Tage Hospitalisierungsinzidenz ablesen. Bei den 0- bis 59-Jährigen geht der
+   Wert nach einem leichten Anstieg im März 2022 weiter zurück. Bei den ≥60-Jährigen ist der Rückgang
+   noch deutlicher zu erkennen. Der schlagartige Abfall fixierter Werte in der vergangenen Woche
+   könnte der reduzierten Datenübermittlung über die Osterfeiertage geschuldet sein, es bleibt
+   abzusehen, ob diese Entwicklung unter Berücksichtigung von Nachmeldungen über die nächsten
+   Wochen bestehen bleibt.
+   4
+     Die Ergebnisse dieser Adjustierung ersetzen nicht die werktägliche Berichterstattung der 7-Tage-Hospitalisierungsinzidenz
+   gemäß § 28a IfSG. Sie werden seit dem 02.12.2021 zusätzlich montags bis freitags im Situationsbericht und unter COVID-19-
+   Trends sowie als Daten unter www.rki.de/inzidenzen veröffentlicht. Die Adjustierung soll eine bessere Einordnung des
+   aktuellen Trends der Anzahl Hospitalisierter und der 7-Tage-Hospitalisierungsinzidenz erlauben. Hierbei richtet sich unser Blick
+   auf den Trend in den letzten Wochen, tagesaktuelle Schwankungen spielen eine untergeordnete Rolle. Die werktägliche
+   Bereitstellung des RKI-Nowcast ist auch neben mehreren verschiedenen Modellen zur adjustierten Hospitalisierungsinzidenzen
+   auf der am Karlsruher Institut für Technologie betriebenen Vergleichsplattform verfügbar: https://covid19nowcasthub.de/
+
+
+# ---- page 18 ----
+
+                                                                              Wöchentlicher COVID-19-Lagebericht vom 21.04.2022        18
+Abbildung 16: Berichtete 7-Tage-Hospitalisierungsinzidenz (schwarze Linie) und Schätzung der adjustierten Hospitalisierungsinzidenz
+unter Berücksichtigung von verzögert berichteten Hospitalisierungen (dunkelgraue Linie mit grün ausgewiesenem Schätzbereich) für die
+Altersgruppen 0-59 Jahre und 60+ . Die Skalen geben die jeweilige absolute Anzahl (y-Achse, links) und den Anteil pro 100.000
+Einwohner (y-Achse, rechts) an. Die tagesaktuell berichtete Hospitalisierungsinzidenz wird durch die blaue Linie dargestellt (fixierte
+Werte).
+     1.7.3. Daten aus dem Intensivregister
+Das RKI betreibt mit Beratung durch die Deutsche Interdisziplinäre Vereinigung für Intensiv- und
+Notfallmedizin (DIVI) das DIVI-Intensivregister (https://www.intensivregister.de). Das Register erfasst
+Fallzahlen intensivmedizinisch behandelter COVID-19-Patientinnen und -Patienten sowie
+Behandlungs- und Bettenkapazitäten von etwa 1.300 Akutkrankenhäusern Deutschlands. Damit
+ermöglicht das Intensivregister in der Pandemie, sowie darüber hinaus, Engpässe in der
+intensivmedizinischen Versorgung im regionalen und zeitlichen Vergleich zu erkennen. Es schafft
+somit eine wertvolle Grundlage zur Reaktion und zur datengestützten Handlungssteuerung in
+Echtzeit.
+Seit dem 16.04.2020 ist laut Intensivregister-Verordnung die Meldung für alle
+intensivbettenführenden Krankenhausstandorte verpflichtend.
+Abbildung 17 zeigt die absolute Anzahl der im Intensivregister gemeldeten intensivmedizinisch
+behandelten COVID-19-Fälle zum Stand des jeweiligen Beobachtungstages. Ein täglicher Bericht über
+die Lage der Intensivbettenkapazität in Deutschland wird unter
+https://www.intensivregister.de/#/aktuelle-lage/reports veröffentlicht.
+Mit dem Anstieg der COVID-19-Belegung auf Intensivstationen hatte die freie ITS-Bettenkapazität seit
+Oktober 2021 in der vierten Welle stetig abgenommen, stieg von Dezember 2021 bis Januar 2022
+während der fünften Welle wieder an und bewegt sich seitdem auf einem recht stabilen Niveau
+(Abbildung 18). Die Belastung der Kapazitäten des Gesundheitsversorgungssystems, insbesondere im
+stationären und intensivmedizinischen Bereich durch die eingeschränkte Verfügbarkeit des
+medizinischen Personals aufgrund infektionsbedingter Ausfälle (Erkrankung, Quarantäne) ist nach
+wie vor hoch. Der Anteil freier ITS-Betten an der Gesamtzahl betreibbarer ITS-Betten sollte oberhalb
+von 10 % liegen, was als Grenzwert der Reaktionsfähigkeit der Kliniken gilt, die man versucht, nicht
+zu unterschreiten. In allen Kategorien der freien Betten ist zurzeit ein leichter Anstieg zu erkennen.
+Der Anteil freier ITS-Betten an der Gesamtzahl betreibbarer ITS-Betten liegt im Bundesschnitt aktuell
+etwas über der 10 %-Linie, welche als Grenzlinie der Reaktionsfähigkeit der Kliniken gilt, die man
+versucht, nicht zu unterschreiten.
+
+
+# ---- page 19 ----
+
+19 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Abbildung 17: Anzahl im Intensivregister gemeldeter intensivmedizinisch behandelter COVID-19-Fälle des jeweiligen Beobachtungstages
+   (Stand 20.04.2022, 12:15 Uhr). Zur Interpretation der Kurve im März/April 2020 ist zu beachten, dass noch nicht alle Meldebereiche im
+   Register angemeldet waren. Generell kann sich die zugrundeliegende Gruppe der COVID-19-Intensivpatientinnen und -patienten von
+   Tag zu Tag verändern (Verlegungen und Neuaufnahmen), während die Fallzahl ggf. gleich bleibt.
+   Abbildung 18: 20-Tages-Prognose der intensivmedizinischen Bettenbelegung mit COVID-19 Patienten und Patientinnen mit bisheriger
+   Belegungsentwicklung (rote Punkte) sowie Verlauf der verfügbaren freien ITS-Bettenkapazität für alle Patienten und Patentinnen
+   (COVID und Non-Covid, schwarze Linie), sowie davon freie High-Care Betten (graue Linie) und freie COVID-spezifische ITS-Betten
+   (orange).
+   Seit Mitte Dezember wird im Intensivregister der Impfstatus von neu aufgenommenen COVID-19-
+   Patientinnen und -Patienten auf Intensivstationen erfasst. Die Definitionen der Impfstatus im
+   Intensivregister finden Sie unter folgendem Link:
+   https://diviexchange.blob.core.windows.net/$web/Impfstatus_Definitionen_zum_Download_im_IR.
+   pdf.
+   Es ist zu beachten, dass die Intensivregister-Daten in dieser Form nicht geeignet sind, um die
+   Wirksamkeit der Impfung einzuschätzen. Es muss die generelle Altersverteilung von
+   Intensivpatientinnen und -patienten sowie die Entwicklung der allgemeinen Impfquote der
+   Bevölkerung berücksichtigt werden (siehe dazu Kapitel Impfen).
+   Für den Zeitraum vom 21.03.2022 bis 17.04.2022 (KW 12 - KW 15/2022) wurde der Impfstatus von
+   4.898 COVID-19-Aufnahmen gemeldet, das entspricht etwa 73,2 % der für diesen Zeitraum
+   übermittelten Fälle (6.694). 22,4 % (1.095 Fälle) aller COVID-19-Neuaufnahmen mit bekanntem
+   Impfstatus waren ungeimpft. Rund 7,2 % (352 Fälle) wiesen einen unvollständigen Immunschutz auf
+
+
+# ---- page 20 ----
+
+                                                           Wöchentlicher COVID-19-Lagebericht vom 21.04.2022 20
+(Genesen ohne Impfung oder Teil-Immunisierung). 70,5 % (3.451 Fälle) hatten einen vollständigen
+Impfschutz (Grundimmunisierung oder Booster), der Anteil mit Boosterimpfung lag dabei bei ca. 46,4
+% (2.271 Fälle).
+Für den betrachteten Zeitraum waren 82,7 % (2.160) der vollständig geimpften ITS-Erstaufnahmen
+mindesten 60 Jahre oder älter. Für insgesamt 2.612 der vollständig geimpften ITS-Erstaufnahmen
+lagen Informationen zum Alter vor.
+     1.7.4. Interpretation der verschiedenen Aspekte zur Krankheitsschwere und ITS-Belastung
+Zur Einschätzung der verschiedenen Aspekte muss bei den einzelnen Erhebungssystemen der
+unterschiedliche Blickwinkel berücksichtigt werden. Während in der Hospitalisierungsinzidenz
+basierend auf den Meldefällen alle Fälle betrachtet werden, die neu ins Krankenhaus aufgenommen
+wurden und eine laborbestätigte SARS-CoV-2-Infektion haben, werden in der syndromischen
+Surveillance nur die neu in der jeweiligen Woche aufgenommenen Fälle berechnet, bei denen neben
+der COVID-19-Diagnose auch eine schwere akute Atemwegserkrankung diagnostiziert wurde. Im
+Intensivregister wiederum wird hier im Bericht insbesondere die aktuelle Belegung der
+Intensivstationen mit Patientinnen und Patienten mit COVID-19 gezeigt. Unter dem aktuell sehr
+hohen Infektionsdruck während der Omikron-Welle wird der Anteil der Personen höher, bei denen
+ein positiver SARS-CoV-2 Nachweis vorliegt, die dringende stationäre oder intensivmedizinische
+Behandlung jedoch wegen einer anderen Erkrankung notwendig ist, bei der die SARS-CoV-2 Infektion
+nicht unbedingt ursächlich oder allein maßgeblich ist. Diese Fälle werden bei sowohl der
+Hospitalisierungsinzidenz der Meldedaten als auch bei der Belegung der Intensivbetten mitgezählt, in
+der syndromischen Surveillance ICOSARI jedoch nicht. Abbildung 13 zeigt, dass in den Altersgruppen
+bis 59 Jahre die Hospitalisierungsinzidenz in den Meldedaten insbesondere während der Omikron-
+Welle deutlich höher liegt als die Inzidenz der COVID-SARI Fälle der syndromischen Surveillance. Im
+Unterschied hierzu liegt in den älteren Altersgruppen, die den Großteil der Krankenhauspatienten
+ausmachen (bitte Skalierung beachten), die COVID-SARI-Hospitalisierungsinzidenz auf einem
+vergleichbaren Niveau wie die Hospitalisierungsinzidenz der Meldefälle.
+In der Gesamtschau zeigen sowohl die Hospitalisierungsinzidenz aus den Meldedaten und die COVID-
+SARI-Hospitalisierungsinzidenz als auch die Belegungskapazitäten im Intensivregister, dass es in den
+vergangenen Wochen während der Omikron-Welle zu einem erneuten Anstieg der Neuaufnahmen
+gekommen war. Der Anstieg der Zahl schwerer Atemwegserkrankungen mit einer COVID-19
+Diagnose ist allerdings im Verhältnis zum Anstieg der Gesamtfallzahlen insgesamt eher moderat und
+deutlich schwächer als in den ersten vier COVID-19-Wellen. Dies trifft auch auf die Belastung der
+intensivmedizinischen Kapazitäten zu. Dies ist einerseits auf die gegen schwere Krankheitsverläufe
+wirksame Impfung und andererseits auf die grundsätzlich geringere Krankheitsschwere bei
+Infektionen durch die Omikron-Variante zurückzuführen. Aktuell ist sowohl die
+Hospitalisierungsinzidenz als auch die Inzidenz der Aufnahme von Patienten zur
+intensivmedizinischen Behandlung aufgrund schwerer Atemwegsinfektionen, einschließlich COVID-
+19, deutlich geringer als im Vergleichszeitraum des Vorjahres, und vergleichbar mit Werten der
+vorpandemischen Jahre.
+     1.8.    Todesfälle, Mortalitätssurveillance, EuroMomo
+In Abbildung 19 werden die übermittelten COVID-19-Todesfälle nach Sterbewoche dargestellt.
+Todesfälle treten meist erst 2 bis 3 Wochen nach der Infektion auf. Für die MW 13 - 15/2022 werden
+noch nachträglich Todesfälle übermittelt werden. In der fünften Welle kam es trotz vergleichsweise
+milder Erkrankungsverläufe aufgrund der hohen Infektionszahlen wieder zu einem Anstieg der
+Todesfälle. Seit MW 07 stagniert die Anzahl der Todesfälle, mit einem Maximum von 1.463
+Todesfällen in MW 12.
+
+
+# ---- page 21 ----
+
+21 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Unter all den übermittelten Todesfällen seit KW10/2020 waren 112.607 (85 %) Personen 70 Jahre
+   und älter, der Altersmedian lag bei 83 Jahren. Im Unterschied dazu beträgt der Anteil der über 70-
+   Jährigen an der Gesamtzahl der übermittelten COVID-19-Fälle etwa 7 %.
+   Weitere Informationen sind abrufbar unter:
+   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Projekte_RKI/COVID-
+   19_Todesfaelle.html. Hinweise zu den Mortalitätsdaten in EuroMOMO und Destatis finden Sie hier in
+   der Fußnote. 5
+   Abbildung 19: An das RKI übermittelte COVID-19-Todesfälle nach Sterbewoche (KW 37/2020 – KW 15/2022: 122.686 COVID-19-
+   Todesfälle mit Angabe des Sterbedatums, 20.04.2022, 0:00 Uhr). Insbesondere für die vergangenen drei Wochen ist mit
+   Nachübermittlungen zu rechnen.
+         2. Impfen
+         2.1.      Digitales Impfquotenmonitoring (DIM)
+         2.1.1. Stand der Impfquoten nach Meldedaten
+   Die Meldung aller durchgeführten COVID-19-Impfungen an das RKI ist in §4 der Coronavirus-
+   Impfverordnung für alle Leistungserbringer gesetzlich vorgeschrieben. 6
+   Aus den Impfmeldedaten ergibt sich folgender Stand (wenn nicht anders angegeben, sind die zweite
+   Auffrischimpfungen in allen folgenden Zahlen nicht enthalten): Bis zum Impftag 19.04.2022
+   5 EuroMOMO und Destatis: Insgesamt 27 europäische Staaten oder Regionen stellen dem europäschen EuroMOMO-Projekt
+   (European monitoring of excess mortality for public health action) wöchentlich offizielle Daten zur Mortalität zur Verfügung,
+   sodass auf dieser Basis die sogenannte Exzess-Mortalität oder Übersterblichkeit (unabhängig von der Todesursache) erfasst
+   und verfolgt werden kann (https://www.euromomo.eu/). Seit MW 15/2021 stellt auch Deutschland rückwirkend
+   Mortalitätsdaten für alle Bundesländer zur Verfügung. Die Darstellung erfolgt in Form von Grafiken und Landkarten
+   (https://www.euromomo.eu/graphs-and-maps/). Auch auf der Seite des Statistischen Bundesamtes werden die täglichen
+   Sterbefallzahlen registriert: https://service.destatis.de/DE/bevoelkerung/sterbefallzahlen_bundeslaender.html. Der zeitliche
+   Verzug der Sterbefallmeldung wird durch eine Schätzung ausgeglichen. Es zeigt sich eine Parallelität im zeitlichen Verlauf
+   zwischen dem momentanen Anstieg der Anzahl gemeldeter COVID-19 Todesfälle und der höheren Zahl von Sterbefällen.
+   6 Die Datenübermittlung erfolgt auf unterschiedlichen Wegen: Impfzentren, Gesundheitsämter, mobile Impfteams,
+   Krankenhäuser, Apotheken sowie Betriebe und Betriebsmedizin übermitteln pseudonymisierte individuelle Impfdaten über das
+   vom RKI in Zusammenarbeit mit der Bundesdruckerei bereitgestellte Erhebungssystem zum digitalen Impfquotenmonitoring
+   (DIM). Die Kassenärztliche Bundesvereinigung (KBV) hat ein Meldeportal für alle Impfungen der Vertragsärzte und -ärztinnen
+   seit dem 06.04.21 und die Privatärztlichen Abrechnungsstellen (PVS) ein Portal für alle Privatärzte und -ärztinnen seit dem
+   07.06.21 zur Verfügung gestellt, von denen jeweils aggregierte Daten täglich an das RKI gelangen. Das Impfgeschehen begann
+   in allen Bundesländern in Impfzentren, mobilen Teams und einigen Krankenhäusern am 27.12.2020.
+
+
+# ---- page 22 ----
+
+                                                                          Wöchentlicher COVID-19-Lagebericht vom 21.04.2022  22
+(Datenstand 20.04.2022) wurden insgesamt 172.566.113 COVID-19-Impfungen in Deutschland
+verabreicht; 63.734.027 Menschen (76,6 % der Bevölkerung) sind mindestens einmal geimpft und
+63.270.874 Menschen (76,1 %) sind grundimmunisiert. Darüber hinaus erhielten bisher 49.171.747
+Menschen (59,1 %) eine erste und 3.414.113 Menschen eine zweite Auffrischimpfung. Nach einem
+Maximum der Impfinanspruchnahme von 7,6 Mio. Impfungen in KW 50/2021, ist der Trend der
+wöchentlich verabreichten Impfungen aktuell rückläufig (rund 125.152 Impfungen in KW 15/2022).
+Gegenwärtig ist die Mehrzahl der verabreichten Impfungen zweite Auffrischimpfungen,
+Erstimpfungen werden dagegen am wenigsten verabreicht.
+Mit Datenstand 20.04.2022 unterscheiden sich die Impfquoten der Bundesländer bei den mindestens
+einmal Geimpften sowie bei Grundimmunisierten um jeweils etwa 25 Prozentpunkte und bei
+Geimpften mit erster Auffrischimpfung um etwa 24 Prozentpunkte. Die Spanne reicht von 65,4 % in
+Sachsen bis 90,4 % in Bremen für mindestens eine Impfung und von 64,6 % in Sachsen bis zu 89,3 %
+in Bremen für Grundimmunisierte. Bei ersten Auffrischimpfungen reicht die Spanne von 48,5 % in
+Sachsen bis 72,3 % in Schleswig-Holstein.
+Die Anteile der Geimpften variieren nach Alter: in der Altersgruppe über 60 Jahre ist der Anteil der
+mindestens einmal Geimpften, der Grundimmunisierten und der Personen mit Auffrischimpfungen
+jeweils am höchsten (Tabelle mit den gemeldeten Impfquoten bundesweit und nach Bundesland).
+Noch ohne Impfung sind rund 78 % (rund 4,1 Mio. Menschen) der 5- bis 11-Jährigen und 34 % (rund
+1,6 Mio. Menschen) der 12- bis 17-Jährigen. In der Altersgruppe 18-59 Jahre sind hochgerechnet
+17 % (rund 7,6 Mio. Menschen) und in der Altersgruppe ab 60 Jahre hochgerechnet 9,2 % (rund 2,2
+Mio. Menschen) noch ungeimpft. Der zunächst stark ausgeprägte Anstieg der ersten
+Auffrischimpfungen in den Altersgruppen ab 12 Jahre sowie das Tempo der Grundimmunisierungen
+in der Altersgruppe 5-11 Jahre haben sich in den letzten Wochen deutlich abgeschwächt (Abbildung
+20).
+Es stehen fünf Impfstoffe zur Verfügung, die im Zeitverlauf zum Teil unterschiedlichen
+Personengruppen empfohlen wurden (siehe aktuelle Empfehlungen der Ständigen
+Impfkommissionhttps://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/COVID-
+19/Impfempfehlung-Zusfassung.html). Von den bis Ende KW 15/2022 ausgelieferten Impfstoffdosen
+waren bis zum 19.04.2022 insgesamt 85 % verimpft worden. Für die jeweiligen Impfstoffe lag der
+Anteil bei 88 % für Comirnaty (BioNTech/Pfizer), 82 % für Spikevax (Moderna)9, 88 % für Vaxzevria
+(AstraZeneca), 68 % für Janssen (Johnson & Johnson) und 6 % für Nuvaxovid (Novavax).
+Tabelle 2 gibt einen Überblick über die Anzahl der insgesamt durchgeführten Impfungen nach
+Impfstelle bundesweit und nach Bundesland.
+Mit Datenstand 20.04.2022 unterscheiden sich die Impfquoten der Bundesländer bei den mindestens
+einmal Geimpften sowie bei Grundimmunisierten um jeweils etwa 25 Prozentpunkte und bei
+Geimpften mit erster Auffrischimpfung um etwa 24 Prozentpunkte. Die Spanne reicht von 65,4 % in
+Sachsen bis 90,4 % in Bremen für mindestens eine Impfung und von 64,6 % in Sachsen bis zu 89,3 %
+in Bremen für Grundimmunisierte. Bei ersten Auffrischimpfungen reicht die Spanne von 48,5 % in
+Sachsen bis 72,3 % in Schleswig-Holstein. 7
+7 Limitationen: Von den niedergelassenen Ärztinnen und Ärzten stehen nur aggregierte Daten mit Angaben zur Postleitzahl der
+Praxis, zum Impfstoff, zur Impfstoffdosis und lediglich mit den Alterseinteilungen 5-11 Jahre (ab KW 50), 12-17 Jahre, 18-59
+Jahre und ≥60 Jahre (bei der KBV jedoch ohne Impfstoffbezug) zur Verfügung. Daher kann über das Impfgeschehen nur
+zuverlässig in diesen Aggregationsstufen berichtet werden (vgl. tägliche Tabelle mit den gemeldeten Impfquoten bundesweit
+und nach Bundesland). Der Impffortschritt in differenzierteren Altersgruppen und auch eine Darstellung von Impfquoten nach
+Landkreisen ist mit den verfügbaren Daten nicht abbildbar. Eine konsistente regionale Zuordnung ist nur nach der Impfstelle,
+nicht jedoch nach dem Wohnort der Geimpften möglich. Diese Zuordnung ist auch bei der Interpretation der
+Bundeslandimpfquoten zu beachten. Da die regional nach Impfort zugeordneten Impfdaten zur Berechnung der Impfquote
+
+
+# ---- page 23 ----
+
+23 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Die Anteile der Geimpften variieren nach Alter: in der Altersgruppe über 60 Jahre ist der Anteil der
+   mindestens einmal Geimpften, der Grundimmunisierten und der Personen mit Auffrischimpfungen
+   jeweils am höchsten (Tabelle mit den gemeldeten Impfquoten bundesweit und nach Bundesland).
+   Noch ohne Impfung sind rund 78 % (rund 4,1 Mio. Menschen) der 5- bis 11-Jährigen und 34 % (rund
+   1,6 Mio. Menschen) der 12- bis 17-Jährigen. In der Altersgruppe 18-59 Jahre sind hochgerechnet
+   17 % (rund 7,6 Mio. Menschen) und in der Altersgruppe ab 60 Jahre hochgerechnet 9,2 % (rund 2,2
+   Mio. Menschen) noch ungeimpft 8. Der zunächst stark ausgeprägte Anstieg der ersten
+   Auffrischimpfungen in den Altersgruppen ab 12 Jahre sowie das Tempo der Grundimmunisierungen
+   in der Altersgruppe 5-11 Jahre haben sich in den letzten Wochen deutlich abgeschwächt (Abbildung
+   20).
+   Es stehen fünf Impfstoffe zur Verfügung, die im Zeitverlauf zum Teil unterschiedlichen
+   Personengruppen empfohlen wurden (siehe aktuelle Empfehlungen der Ständigen
+   Impfkommissionhttps://www.rki.de/DE/Content/Infekt/Impfen/ImpfungenAZ/COVID-
+   19/Impfempfehlung-Zusfassung.html). Von den bis Ende KW 15/2022 ausgelieferten Impfstoffdosen
+   waren bis zum 19.04.2022 insgesamt 85 % 9 verimpft worden. Für die jeweiligen Impfstoffe lag der
+   Anteil bei 88 % für Comirnaty (BioNTech/Pfizer), 82 % für Spikevax (Moderna)9, 88 % für Vaxzevria
+   (AstraZeneca), 68 % für Janssen (Johnson & Johnson) 10 und 6 % für Nuvaxovid (Novavax).
+   Tabelle 2: An das RKI übermittelte COVID-19-Impfungen nach Impfstelle pro Bundesland (Datenstand 20.04.2022).
+                                            Impfzentren,
+                                           Mobile Teams,            Arztpraxen
+               Bundesland                  Krankenhäuser,        (Vertragsärzte           Betriebsärzte          Apotheken
+                                          Gesundheitsämte       und Privatärzte)
+                                                   r
+     Baden-Württemberg                        10.480.195            11.309.031                  561.022               3.376
+     Bayern                                   13.651.786            12.213.088                  621.758               4.228
+     Berlin                                     3.726.082             3.891.638                 135.415               3.833
+     Brandenburg                                2.051.720             2.631.993                  31.465                 569
+     Bremen                                     1.024.244                548.829                 44.984                  92
+     Hamburg                                    1.826.196             2.091.837                 182.409               1.526
+     Hessen                                     6.257.766             6.251.823                 361.251               2.207
+     Mecklenburg-Vorpommern                     1.546.293             1.688.218                  21.753                 564
+     Niedersachsen                              7.787.371             9.025.569                 364.925               4.219
+     Nordrhein-Westfalen                      16.938.490            20.920.948                  996.239              18.450
+     Rheinland-Pfalz                            3.929.005             4.365.447                 232.968               2.064
+     Saarland                                   1.083.301             1.093.779                  47.211               1.271
+     Sachsen                                    3.504.659             3.535.954                  98.754               2.559
+     Sachsen-Anhalt                             2.053.499             2.152.270                  47.397               1.103
+     Schleswig-Holstein                         3.061.536             3.485.962                 120.761               1.107
+     Thüringen                                  2.324.878             1.633.962                  31.535                 160
+     Gesamt                                   81.247.021            86.840.348               3.899.847               47.328
+   eines Bundeslandes auf die jeweilige Wohnbevölkerung bezogen werden, können dabei rechnerisch auch Anteile von >100 %
+   kalkuliert werden. Des Weiteren sind Unschärfen in der Zuordnung von Impfdaten zu beachten, insbesondere aufgrund
+   unterschiedlicher Meldewege der Betriebsärztinnen und Betriebsärzte: sie können entweder unter eigener Kennung DIM
+   nutzen oder über Impfzentren mit deren Kennung melden oder auch ihre Daten über das KBV-Portal übermitteln.
+   9 Auffrischimpfungen mit Moderna wurden hierbei als ganze Impfstoffdosen berücksichtigt.
+   10 Wurden Impfungen mit dem Janssen-Impfstoff durchgeführt, reichte zunächst eine Impfstoffdosis für die
+   Grundimmunisierung aus; daher galt entsprechend eine weitere Impfstoffdosis bereits als Auffrischimpfung. Die vorliegenden
+   Auswertungen beziehen sich auf diese Definition. Auf der Homepage des Paul-Ehrlich-Instituts wurde die Definition zum
+   Nachweis eines vollständigen Impfschutzes mit Wirkung vom 15.01.22 geändert. Nunmehr sind auch beim Janssen-Impfstoff
+   zwei Impfungen für die Grundimmunisierung vorgesehen.
+
+
+# ---- page 24 ----
+
+                                                                          Wöchentlicher COVID-19-Lagebericht vom 21.04.2022    24
+Das RKI wertet alle Impfdaten aus, die ihm gemäß §4 der Impfverordnung übermittelt werden. Wie in
+anderen Meldesystemen auch wird bei den über das Digitale Impfquotenmonitoring erfassten
+Impfquoten von einer gewissen Untererfassung ausgegangen. Die berichteten DIM-Meldedaten sind
+daher als Mindest-Impfquoten zu verstehen. Eine Hochrechnung anhand der ausgelieferten
+Impfstoffdosen ergab eine mögliche Unterschätzung der ausgewiesenen Impfquote um maximal 5
+Prozentpunkte (siehe Wochenbericht vom 11.11.2021). Eine Validierung und Hochrechnung der
+Impfdaten anhand abgerechneter Impfleistungen für den Zeitraum des Impfgeschehens bis Ende des
+zweiten Quartals 2021 ergab eine Unterschätzung der ausgewiesenen Impfquote von 0,6-0,8
+Prozentpunkten (siehe Wochenbericht vom 23.12.2021).
+Abbildung 20: Impfquote (%) für die Grundimmunisierung und für Auffrischimpfungen nach Altersgruppe im Zeitverlauf (Datenstand
+20.04.2022).
+     2.2.       Wirksamkeit der COVID-19-Impfung
+Die Effekte der im Dezember 2020 in Deutschland begonnen COVID-19-Impfkampagne werden im
+folgenden Kapitel anhand (i) eines Vergleichs der COVID-19-Inzidenzen in der ungeimpften
+Bevölkerung mit den COVID-19-Inzidenzen in der geimpften Bevölkerung, (ii) der Beschreibung der
+nach IfSG übermittelten Impfdurchbrüche und (iii) der daraus abgeleiteten Wirksamkeiten der
+COVID-19-Impfung dargestellt.
+In den nachfolgend dargestellten Auswertungen werden Gruppen, die sich hinsichtlich ihres
+Impfstatus voneinander unterscheiden, miteinander verglichen. Der Impfstatus beinhaltet die
+Ausprägungen „grundimmunisiert“ (bezeichnet eine abgeschlossene Grundimmunisierung ohne
+Auffrischimpfung), „Auffrischimpfung“ und „ungeimpft“ und wird folgendermaßen definiert:
+     •    COVID-19-Fälle galten als grundimmunisiert, wenn für sie in den übermittelten Daten
+          entweder 2 Impfdosen eines COVID-19-Impfstoffes (Comirnaty (BioNTech/Pfizer), Spikevax
+          (Moderna), Vaxzevria (AstraZeneca) oder eine Kombination daraus) bzw. 1 Dosis des Janssen-
+
+
+# ---- page 25 ----
+
+25 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+             Impfstoffes (Johnson & Johnson) angegeben waren und das Datum der Gabe der letzten
+             Impfdosis mindestens 14 Tage vor Erkrankungsbeginn 11 lag.
+         •   Als Fälle mit Auffrischimpfung galten Personen, für die in den übermittelten Daten
+             mindestens 3 Dosen eines COVID-19-Impfstoffes bzw. mindestens 2 Dosen des Janssen-
+             Impfstoffes angegeben waren und das Datum der Gabe der letzten Impfdosis mindestens 7
+             Tage vor Erkrankungsbeginn11 lag.
+         •   Fälle, bei denen aus den Angaben ersichtlich war, dass sie mindestens vollständig geimpft
+             waren und das Datum der letzten Impfdosis vor dem 01.06.2021 lag, wurden grundsätzlich
+             als grundimmunisiert betrachtet, da eine Durchführung von Auffrischimpfungen vor diesem
+             Zeitpunkt sehr unwahrscheinlich ist und es sich eher um Fehleingaben handeln könnte. Fälle
+             wurden ebenfalls als grundimmunisiert betrachtet, wenn für sie in den übermittelten Daten
+             mindestens 3 Dosen eines COVID-19-Impfstoffes bzw. mindestens 2 Dosen des Janssen-
+             Impfstoffes angegeben waren, aber das Datum der Gabe der letzten Impfdosis weniger als 7
+             Tage vor Erkrankungsbeginn11 lag.
+         •   Fälle galten als ungeimpft, wenn für sie übermittelt wurde, dass sie nicht geimpft waren.
+         •   Fälle, die mit den vorliegenden Angaben nicht zu „grundimmunisiert“, „Auffrischimpfung“
+             oder „ungeimpft“ zugeordnet werden konnten, wurden komplett aus den Analysen
+             ausgeschlossen. Hier konnten also Angaben zum Impfstatus unvollständig sein oder es
+             wurde eine unvollständige Grundimmunisierung angegeben.
+         2.2.1. Inzidenzen der symptomatischen und hospitalisierten COVID-19-Fälle nach Impfstatus
+   Zur Darstellung des Effekts der Impfung auf die COVID-19-Krankheitslast in der Bevölkerung wurde
+   die wöchentliche Inzidenz sowohl der symptomatischen 12 als auch der hospitalisierten 13 COVID-19-
+   Fälle unter grundimmunisierten Personen, Personen mit Auffrischimpfung und ungeimpften
+   Personen getrennt berechnet. Diese werden in Abbildung 21 im Verlauf der MW 28/2021 – 14/2022
+   für die Altersgruppen 18 bis 59 Jahre und ab 60 Jahre bzw. der MW 32/2021 – 14/2022 für die
+   Altersgruppe 12 bis 17 Jahre nach Impfstatus dargestellt (Datenstand vom 19.04.2022). Seit der MW
+   42/2021 werden die Inzidenzen für die Bevölkerung mit Auffrischimpfungen in den Altersgruppen 18
+   bis 59 Jahre und ab 60 Jahre, seit der MW 48/2021 für die Altersgruppe 12-17 Jahre ausgewiesen. Die
+   Schlussfolgerungen zu den Abbildungen befinden sich im Unterkapitel 0.
+   Für die Berechnung der jeweiligen Inzidenzen wurden die Zähler (Anzahl der grundimmunisierten
+   Fälle, der Fälle mit Auffrischimpfung bzw. der ungeimpften Fälle) nach den oben erläuterten
+   Definitionen eingeteilt.
+   Für die Berechnung der Nenner der jeweiligen Inzidenzen wurde die Gesamtzahl grundimmunisierter
+   Personen, Personen mit Auffrischimpfungen und ungeimpfter Personen in der Bevölkerung aus dem
+   Digitalen Impfquotenmonitoring 14 des RKI herangezogen: Als grundimmunisiert galten Personen, die
+   eine Zweitimpfung oder 1 Impfung mit dem Janssen-Impfstoff vor mindestens 14 Tagen und noch
+   keine Auffrischimpfung erhalten haben. Als Personen mit Auffrischimpfung galten Personen, die eine
+   Auffrischimpfung vor mindestens 7 Tagen erhalten haben. Die Anzahl Ungeimpfter wurde aus der
+   11 War das Datum des Erkrankungsbeginns nicht übermittelt, wurde das Diagnosedatum bzw. Meldedatum verwendet.
+   12 Übermittelte COVID-19-Fälle, die der Referenzdefinition des RKI entsprechen und für welche zu „Hospitalisierung“ ein „Ja“
+   angegeben wurde.
+   13 Übermittelte COVID-19-Fälle, die der Referenzdefinition des RKI entsprechen und für welche zu „Hospitalisierung“ ein „Ja“
+   angegeben wurde.
+   14 Eine ausführliche Beschreibung der Datenquellen, der Datenaufbereitung, der Variablen sowie Limitationen der Daten
+   befindet sich auf der GitHub-Seite des Digitalen Impfquotenmonitorings unter https://github.com/robert-koch-institut/COVID-
+   19-Impfungen_in_Deutschland.
+
+
+# ---- page 26 ----
+
+                                                                             Wöchentlicher COVID-19-Lagebericht vom 21.04.2022    26
+Differenz von Bevölkerungszahl und Anzahl der Personen, die mindestens 1 Impfdosis erhalten
+haben, berechnet (Ungeimpfte = Bevölkerungszahl abzüglich einmal geimpfter Personen).
+Für die Berechnung der jeweiligen Inzidenzen wurden die grundimmunisierten Fälle, Fälle mit
+Auffrischimpfung bzw. ungeimpften Fälle zur grundimmunisierten Bevölkerung, Bevölkerung mit
+Auffrischimpfung bzw. zur ungeimpften Bevölkerung ins Verhältnis gesetzt. Für den in Abbildung 21
+dargestellten Zeitraum lagen für 3.080.071 der 4.125.119 (75 %) übermittelten symptomatischen
+COVID-19-Fälle bzw. für 107.058 der 232.062 (46 %) übermittelten hospitalisierten COVID-19-Fälle
+ausreichende Angaben zum Impfstatus vor.
+Abbildung 21: Inzidenz symptomatischer und hospitalisierter COVID-19-Fälle pro 100.000 nach Altersgruppen (Empfehlung zur Impfung
+der 12- bis 17-Jährigen seit MW 33/2021), Impfstatus (Ungeimpfte, Grundimmunisierte, mit Auffrischimpfung) und Meldewoche
+(Datenstand 19.04.2022). Bitte die unterschiedliche Skalierung der y-Achsen beachten. Insbesondere für die letzten beiden
+Kalenderwochen ist aufgrund von zu erwartenden Nachmeldungen mit Änderungen der Werte zu rechnen.
+     2.2.2. Impfdurchbrüche 15
+Für die COVID-19-Impfkampagne in Deutschland werden mehrere COVID-19-Impfstoffe verwendet,
+für die sowohl aus den Zulassungsstudien als auch weiteren epidemiologischen Beobachtungsstudien
+15 Das RKI führt seit Beginn der COVID-19-Impfkampagne ein kontinuierliches Monitoring der Impfdurchbrüche durch. Die
+Impfdurchbrüche werden regelmäßig mit dem Ziel ausgewertet, eine verminderte oder nachlassende Effektivität der in
+
+
+# ---- page 27 ----
+
+27 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   eine hohe bis sehr hohe Schutzwirkung (Schutz vor Infektion, symptomatischer Erkrankung, schwerer
+   Erkrankung und Tod) ermittelt wurde. Da kein Impfstoff eine Impfeffektivität von 100 % aufweist, ist
+   auch bei vollständig geimpften Personen mit sogenannten Impfdurchbrüchen zu rechnen.
+      In den nach IfSG übermittelten Meldedaten werden am RKI regelmäßig die Impfdurchbrüche
+      identifiziert. Dabei wird ein Impfdurchbruch als ein COVID-19-Fall (Nachweis der Infektion
+      mittels PCR oder Erregerisolierung) definiert, für den eine klinische Symptomatik und
+      mindestens eine Grundimmunisierung, die spätestens 2 Wochen vor der Infektion
+      abgeschlossen wurde, angegeben wurde.
+   Im gesamten Zeitraum von MW 05/2021 – 15/2022 war aus den übermittelten Angaben für 85 %
+   der symptomatischen COVID-19-Fälle der Impfstatus bekannt. In diesem Zeitraum wurden insgesamt
+   1.628.359 Impfdurchbrüche identifiziert: 17.279 bei 5- bis 11-Jährigen mit Grundimmunisierung bzw.
+   1.039 mit Auffrischimpfung, 59.908 bei 12- bis 17-Jährigen mit Grundimmunisierung bzw. 16.482 mit
+   Auffrischimpfung, 755.554 bei 18- bis 59-Jährigen mit Grundimmunisierung bzw. 506.441 mit
+   Auffrischimpfung und 159.683 bei Personen ab 60 Jahre mit Grundimmunisierung bzw. 111.973 mit
+   Auffrischimpfung.
+   Der Impfstatus der symptomatischen COVID-19-Fälle in den einzelnen Altersgruppen und nach
+   Krankheitsschwere der letzten 4 Wochen ist in Tabelle 3 dargestellt. Die Anzahl der Impfdurchbrüche
+   muss vor dem Hintergrund der Impfquoten in den entsprechenden Altersgruppen in Deutschland
+   betrachtet werden (s. tägliche Tabelle mit den gemeldeten Impfquoten bundesweit und nach
+   Bundesland).
+         2.2.3. Impfeffektivität
+   Durch den Vergleich des Anteils Geimpfter unter COVID-19-Fällen (Impfdurchbrüche) mit dem Anteil
+   Geimpfter in der Bevölkerung ist es möglich, die Wirksamkeit der Impfung grob abzuschätzen (sog.
+   Screening-Methode nach Farrington 16 sowie FAQ „Wie lässt sich erklären, dass es mit steigender
+   Impfquote zu immer mehr Impfdurchbrüchen kommt?“ und Infografik „Warum steigende Zahlen von
+   Impfdurchbrüchen kein Zeichen für fehlenden Impfschutz sind“).
+   Exemplarisch ist die Impfeffektivität gegen Hospitalisierung mit den jeweiligen Anteilen Geimpfter in
+   Deutschland verwendeten COVID-19-Impfstoffe- eventuell auch nur in einzelnen Altersgruppen- möglichst rasch zu erkennen
+   und aus diesen Erkenntnissen Empfehlungen abzuleiten.
+   Von einem Impfdurchbruch spricht man, wenn eine vollständig geimpfte Person trotz der Impfung erkrankt. Sind nur sehr
+   wenige Personen geimpft, kann man auch nur wenige Impfdurchbrüche beobachten. Je mehr Personen in einer Bevölkerung
+   geimpft sind (hohe Impfquote), desto mehr Impfdurchbrüche beobachtet man. Auch der Anteil der Impfdurchbrüche an allen
+   auftretenden Fällen erhöht sich bei einer hohen Impfquote (siehe FAQ „Wie lässt sich erklären, dass es mit steigender
+   Impfquote zu immer mehr Impfdurchbrüchen kommt?“ und Infografik „Warum steigende Zahlen von Impfdurchbrüchen kein
+   Zeichen für fehlenden Impfschutz sind“). Daher muss der Anteil der Impfdurchbrüche immer vor dem Hintergrund der
+   erreichten Impfquote bewertet werden. Auf die gesamte Bevölkerung bezogen, werden jedoch bei einer hohen Impfquote
+   weniger Personen erkranken als bei einer niedrigen Impfquote. Über Häufigkeit und Verteilung der Impfdurchbrüche kann
+   man wiederum auf die tatsächliche Wirksamkeit der Impfungen („Impfeffektivität“) in einer Bevölkerung Rückschlüsse ziehen.
+   Bei der Ende Dezember 2020 begonnenen Impfkampagne, dem Mindestabstand von 3 Wochen zwischen den zwei Dosen des
+   initial verfügbaren Impfstoffs und der Definition des Impfdurchbruchs, konnten Impfdurchbrüche frühestens ab MW 5/2021
+   (ab 01.02.2021) auftreten. In diesem Kapitel werden Impfdurchbrüche also ab diesem Zeitpunkt berichtet. Aus Studien zur
+   Effektivität von Impfstoffen ist bekannt, dass die berechnete Effektivität je nach gewähltem klinischen Endpunkt variieren
+   kann. Deshalb wurden für diese Auswertungen verschiedene klinische Endpunkte gewählt: COVID-19 mit klinischer
+   Symptomatik, Hospitalisierung, Intensivstationsbehandlung und Tod. Zudem werden für die Auswertungen lediglich die
+   symptomatischen COVID-19-Fälle betrachtet, für die aus den übermittelten Angaben hervorgeht, dass sie entweder
+   grundimmunisiert waren, eine Auffrischimpfung erhalten haben oder ungeimpft waren.
+                 𝑃𝑃𝑃𝑃𝑃𝑃    1−𝑃𝑃𝑃𝑃𝑃𝑃
+   16
+      VE = 1 −           ∗          Dabei ist VE die Impfeffektivität, PCV (proportion of cases vaccinated) der Anteil der geimpften
+                1−𝑃𝑃𝑃𝑃𝑃𝑃    𝑃𝑃𝑃𝑃𝑃𝑃
+   Fälle und PPV (proportion of population vaccinated) der Anteil der geimpften Bevölkerung.
+
+
+# ---- page 28 ----
+
+                                                                                                                Wöchentlicher COVID-19-Lagebericht vom 21.04.2022                                 28
+Tabelle 4 dargestellt (alle dargestellten Werte sind gerundete Mittelwerte der letzten 4 Wochen).
+Dabei wurden bei der Berechnung der Anteile der Geimpften sowohl unter den Fällen als auch in der
+Bevölkerung nur die Ungeimpften und die Grundimmunisierten bzw. nur die Ungeimpften und die
+Personen mit Auffrischimpfung berücksichtigt. 17
+Tabelle 3: Impfstatus der symptomatischen COVID-19-Fälle in MW 12 bis 15/2022 nach Altersgruppe und Krankheitsschwere
+(Datenstand 19.04.2022).
+                                                                                                                                                      Altersgruppe
+                                                                                                                        5 bis 11             12 bis 17                18 bis 59         60 Jahre
+                                                                                                                         Jahre                   Jahre                    Jahre         und älter
+ Symptomatische COVID-19-Fälle*                                                                                             26.503                   20.135                196.624         40.348
+                davon… ungeimpft                                                                                            20.683                     8.682                 37.546         8.148
+                                    grundimmunisiert                                                                           5.565                   6.360                 37.341         3.907
+                                    mit Auffrischimpfung                                                                          255                  5.093               121.737         28.293
+ Hospitalisierte symptomatische COVID-19-Fälle*                                                                                     95                       68                1.002        1.627
+                davon… ungeimpft                                                                                                    85                       39                   343         677
+                                    grundimmunisiert                                                                                  9                      17                   215         179
+                                    mit Auffrischimpfung                                                                              1                      12                   444         771
+ Auf Intensivstation betreute symptomatische COVID-19-Fälle*                                                                          2                       2                    29         132
+                davon… ungeimpft                                                                                                      2                       2                    15          67
+                                    grundimmunisiert                                                                                  0                       0                     4          13
+                                    mit Auffrischimpfung                                                                              0                       0                    10          52
+ Verstorbene symptomatische COVID-19-Fälle* **                                                                                        0                       1                    11         215
+                davon… ungeimpft                                                                                                      0                       1                     8         112
+                                    grundimmunisiert                                                                                  0                       0                     1          21
+                                    mit Auffrischimpfung                                                                              0                       0                     2          82
+*Alle symptomatischen Fälle, für welche zu „Klinische Information vorhanden“ ein „Ja“ angegeben wurde, und für die aus den
+   übermittelten Angaben hervorgeht, dass sie entweder ungeimpft waren, eine abgeschlossene Grundimmunisierung oder eine
+   Auffrischimpfung erhalten haben. Symptomatische Fälle mit unbekanntem Impfstatus und Fälle, für die nur eine unvollständige Impfserie
+   angegeben war, wurden ausgeschlossen.
+** Insbesondere für Todesfälle ist in den Folgewochen mit Änderungen der Fallzahl zur rechnen.
+Tabelle 4: Mittelwerte für den Anteil der Geimpften unter den hospitalisierten COVID-19-Fällen, für den Anteil der Geimpften in der
+Bevölkerung17 sowie für die berechnete Impfeffektivität für die MW 12 bis 15/2022 nach Impfstatus und Altersgruppe (Datenstand
+19.04.2022).
+                                                                                                                                                  Altersgruppe
+                                                                                                                  5 bis 11               12 bis 17              18 bis 59             60 Jahre
+                                                                                                                    Jahre                  Jahre                   Jahre             und älter
+                                                                                      Grundimmunisierung
+ Anteil nur grundimmunisierte Bevölkerung17                                                                              19 %                     49 %                     56 %            52 %
+ Anteil nur grundimmunisierter hospitalisierte Fälle                                        17
+                                                                                                                           9%                     28 %                     38 %            24 %
+ Geschätzte Impfeffektivität gegen Hospitalisierung                                                                      56 %                     58 %                     53 %            69 %
+                                                                                         Auffrischimpfung
+ Anteil Bevölkerung mit Auffrischimpfung                                   17
+                                                                                                                           0%                     46 %                     79 %            89 %
+ Anteil hospitalisierte Fälle mit Auffrischimpfung                                     17
+                                                                                                                           1%                     24 %                     57 %            56 %
+ Geschätzte Impfeffektivität gegen Hospitalisierung                                                                             --                62 %                     63 %            84 %
+17
+   In die Berechnung der Anteile Geimpfter in der Bevölkerung bzw. unter den Fällen geht jeweils die Anzahl der Personen/Fälle
+mit dem Impfstatus von Interesse und die Anzahl der ungeimpften Personen/Fälle ein. Hierbei ist zu beachten, dass die Anteile
+Geimpfter in der Bevölkerung nicht direkt mit den täglich berichteten Impfquoten des Digitalen Impfquotenmonitorings
+verglichen werden können. Beispiel:
+                                                                                                                          𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑚𝑚𝑚𝑚𝑚𝑚 𝑛𝑛𝑛𝑛𝑛𝑛 𝐺𝐺𝐺𝐺
+𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴𝐴 𝐵𝐵𝐵𝐵𝐵𝐵ö𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙𝑙 𝑚𝑚𝑚𝑚𝑚𝑚 𝑛𝑛𝑛𝑛𝑛𝑛 𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺𝐺 (𝑛𝑛𝑛𝑛𝑛𝑛 𝐺𝐺𝐺𝐺) =
+                                                                                                      𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃 𝑚𝑚𝑚𝑚𝑚𝑚 𝑛𝑛𝑛𝑛𝑛𝑛 𝐺𝐺𝐺𝐺 + 𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢𝑢 𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃𝑃
+
+
+# ---- page 29 ----
+
+29 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Abbildung 22 stellt den zeitlichen Verlauf der Impfeffektivität sowohl einer Grundimmunisierung als
+   auch einer Auffrischimpfung gegen verschiedene Endpunkte in den einzelnen Altersgruppen dar.
+   Gezeigt werden die Werte für die Zeiträume, in denen für die jeweilige Altersgruppe die Impfquoten
+   und die Höhe der Fallzahlen Berechnungen erlauben.
+   Abbildung 22: Effektivität der COVID-19-Impfungen gegen symptomatische COVID-19-Erkrankung, COVID-19 assoziierte
+   Hospitalisierung, intensivmedizinische Behandlung und Tod, nach Altersgruppe (Datenstand 19.04.2022).
+   Insbesondere für die letzten beiden Kalenderwochen ist aufgrund von zu erwartenden Nachmeldungen mit Änderungen der
+   berechneten Impfeffektivität zu rechnen. Bei fehlenden Fällen in einzelnen Altersgruppen nach Impfstatus kann für einzelne MW keine
+   Effektivität berechnet werden. Schwankende wöchentliche Werte sprechen für eine Anfälligkeit der Effektivitätsberechnungen für
+   Verzerrungen, die vermutlich den niedrigen wöchentlichen Fallzahlen geschuldet ist.
+
+
+# ---- page 30 ----
+
+                                                           Wöchentlicher COVID-19-Lagebericht vom 21.04.2022 30
+    2.2.4. Interpretation
+Die in der Abbildung 21 dargestellten Inzidenzen nach Impfstatus sowie die mit Hilfe der
+Impfdurchbrüche berechneten Impfeffektivitäten belegen die gute Wirksamkeit der COVID-19-
+Impfung im Hinblick auf die Verhinderung von schweren COVID-19-Verläufen. In der geimpften
+Bevölkerung lag insbesondere die Inzidenz der hospitalisierten Fälle deutlich unter der Inzidenz der
+ungeimpften Bevölkerung, wobei sich für die Bevölkerung mit Auffrischimpfung noch niedrigere
+Inzidenzen als für die grundimmunisierte Bevölkerung beobachten lassen.
+Auffallend ist das deutliche Absinken der berechneten Impfeffektivität sowohl der
+Grundimmunisierung als auch der Auffrischimpfung gegenüber einer symptomatischen Infektion in
+allen Altersgruppen seit Anfang 2022, also mit Dominanz der Omikron-Variante. Diese Entwicklung
+zeigen auch die Inzidenzen symptomatischer COVID-19-Fälle nach Impfstatus. Seit Jahresbeginn sinkt
+auch die berechnete Impfeffektivität gegen Hospitalisierung: diese Entwicklung zeigt sich am
+deutlichsten für die Grundimmunisierung und in den Altersgruppen unter 60 Jahre und weniger
+ausgeprägt für die Auffrischimpfung und in der Altersgruppe ab 60 Jahre. Auch in anderen Ländern
+wurde mit Vorherrschen der Omikron-Variante eine im Vergleich zur Delta-Variante verminderte und
+mit der Zeit weiter nachlassende Effektivität der COVID-19-Impfung hauptsächlich gegen eine
+symptomatische Infektion beobachtet. Besonders niedrige Impfeffektivitäten zeigen sich für die
+Grundimmunisierung bei den Kindern zwischen 5 und 11 Jahren.
+Die hier dargestellten Effektivitätswerte müssen mit Vorsicht interpretiert werden, da unter anderem
+ein unterschiedliches Testverhalten sowie der bei hohen Inzidenzen zunehmende Anteil der Fälle, für
+die eine Angabe zur Symptomatik fehlt, Auswirkungen auf die Berechnungen haben können. Zudem
+muss davon ausgegangen werden, dass bei hoher Virus-Transmission insbesondere in der
+Altersgruppe unter 60 Jahre zunehmend COVID-19-Fälle hospitalisiert werden, bei denen COVID-19
+nicht der Hospitalisierungsgrund war und die Impfung zwar eine milde/asymptomatische Infektion
+nicht verhindert hat, aber wohl einen schweren COVID-19-Verlauf: Dies führt dazu, dass der Schutz
+der Impfung vor Hospitalisierung gerade in dieser Altersgruppe unterschätzt wird. Die Daten belegen,
+dass eine Grundimmunisierung und insbesondere die Auffrischimpfung auch unter der Omikron-
+Variante einen sehr hohen Schutz vor schwersten Verläufen (intensivstationäre Betreuung oder Tod)
+bietet.
+Wöchentlich stark schwankende Werte (z. B. in Bezug auf den Schutz vor Hospitalisierung in den
+Altersgruppen 5-11 Jahre und 12-17 Jahre) sprechen für eine Anfälligkeit der
+Effektivitätsberechnungen für Verzerrungen, die vermutlich den niedrigen wöchentlichen Fallzahlen
+in den jeweiligen Altersgruppen geschuldet ist. Impfeffektivitäten gegen die schwersten Verläufe
+(Intensivstation und Tod) werden für die Altersgruppe 5-11 Jahre und 12-17 Jahre aufgrund der sehr
+niedrigen Fallzahlen bzw. fehlender Fälle in diesen Altersgruppen nicht berechnet. In den
+Altersgruppen 5-11 und 12-17 Jahre kann es bei der Berechnung der Impfeffektivität zu negativen
+Werten kommen. Ein negativer Punktschätzer bedeutet jedoch nicht, dass die Impfung das Risiko
+einer COVID-19-Erkrankung bzw. Hospitalisierung erhöht, sondern muss vielmehr als Ausdruck der
+statistischen Unsicherheit oder einer Verzerrung in den Daten interpretiert werden. Folglich wird in
+den hier präsentierten Abbildungen und Tabellen in diesen Fällen die Effektivität mit einer 0
+ausgewiesen, was bedeutet, dass eine Grundimmunisierung im Vergleich zu keiner
+Grundimmunisierung keinen Schutz gegenüber dem jeweiligen Endpunkt bietet. Speziell bei der
+Altersgruppe der 5- bis 11-Jährigenkann es zu einer Verzerrung der Daten kommen, da es in dieser
+Altersgruppe bislang nur eine eingeschränkte Impfempfehlung für Risikogruppen gibt: Bei der aktuell
+nur niedrigen Impfquote in dieser Altersgruppe muss davon ausgegangen werden, dass ein
+verhältnismäßig großer Anteil der geimpften Kinder eine Vorerkrankung hat. Diese Kinder haben
+wiederum auch ein erhöhtes Risiko für eine COVID-19-Erkrankung oder Hospitalisierung.
+
+
+# ---- page 31 ----
+
+31 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   Fazit
+   Zusammengefasst bestätigen die nach Impfstatus dargestellten Inzidenzen, die Anzahl und Verteilung
+   der Impfdurchbrüche sowie die nach der Screening-Methode berechneten Impfeffektivitäten die
+   hohe Wirksamkeit der eingesetzten COVID-19-Impfstoffe gegenüber schweren COVID-19-Verläufen.
+   Auch aktuell bei Dominanz der Omikron-Variante kann für vollständig geimpfte Personen aller
+   Altersgruppen - insbesondere für Personen mit Auffrischimpfung - weiterhin von einem sehr guten
+   Impfschutz gegenüber einer schweren COVID-19-Erkrankung ausgegangen werden. Weiterhin zeigt
+   sich für ungeimpfte Personen aller Altersgruppen ein deutlich höheres Risiko für eine schwere
+   Verlaufsform der COVID-19-Erkrankung. 18
+         3. SARS-CoV-2-Labortestungen und Variants of Concern (VOC)
+   Für die Erfassung der Testzahlen werden von Universitätskliniken, Forschungseinrichtungen sowie
+   klinischen und ambulanten Laboren übermittelte Daten aus unterschiedlichen Datenquellen
+   zusammengeführt. Die Erfassung basiert auf einer freiwilligen Mitteilung der Labore und erfolgt über
+   eine webbasierte Plattform (RKI-Testlaborabfrage) und in Zusammenarbeit mit der am RKI
+   etablierten, laborbasierten Surveillance SARS-CoV-2 (eine Erweiterung der Antibiotika-Resistenz-
+   Surveillance, ARS), dem Netzwerk für respiratorische Viren (RespVir) sowie der Abfrage eines
+   labormedizinischen Berufsverbands. Bei den erhobenen Daten handelt es sich um eine freiwillige und
+   keine verpflichtende Angabe der Labore, sodass eine Vollerfassung der in Deutschland
+   durchgeführten PCR-Tests auf SARS-CoV-2 zum jetzigen Zeitpunkt nicht vorliegt. Die hier
+   veröffentlichten aggregierten Daten erlauben keine direkten Vergleiche mit den gemeldeten
+   Fallzahlen.
+         3.1.      Testzahlentwicklung und Positivenanteil
+   Die Anzahl der seit Beginn der Testungen in Deutschland bis einschließlich KW 15/2022 erfassten
+   PCR-Testungen, der Positivenanteil und die Anzahl übermittelnder Labore sind in Tabelle 5
+   dargestellt. Bis einschließlich KW 15/2022 haben sich 260 Labore für die RKI-Testlaborabfrage oder in
+   einem der anderen oben aufgeführten Netzwerke registriert und berichten nach Aufruf überwiegend
+   wöchentlich. Da Labore in der RKI-Testzahlerfassung die Tests der vergangenen Kalenderwochen
+   nachmelden bzw. korrigieren können, ist es möglich, dass sich die ermittelten Zahlen nachträglich
+   ändern. Es ist zu beachten, dass die Zahl der Tests nicht mit der Zahl der getesteten Personen
+   gleichzusetzen ist, da z. B. in den Angaben Mehrfachtestungen enthalten sein können (Tabelle 5).
+   18 Limitationen: Die für diese Analysen verwendeten Daten sind nach IfSG übermittelte Meldedaten, die nicht explizit zum
+   Zweck der Impfeffektivitätsberechnung erhoben wurden. Insbesondere für die Fälle der letzten zwei Wochen werden Angaben
+   zu Impf- und Hospitalisierungsstatus durch die Gesundheitsämter häufig noch nachermittelt, Todesfälle werden häufig mit
+   Verzögerung nachgemeldet. Da für einen Teil der COVID-19-Fälle die Angaben zum Impfstatus fehlen oder unvollständig sind,
+   können damit nicht alle COVID-19-Fälle in die Analysen einbezogen werden. Die Nichtberücksichtigung von Fällen mit
+   fehlenden Angaben zum Impfstatus führt zu einer Unterschätzung der Inzidenzen der Fälle sowohl in der vollständig geimpften
+   wie auch in der ungeimpften Bevölkerung. Auf Berechnungen der Impfeffektivität hätte diese Unvollständigkeit der Daten nur
+   dann einen Einfluss, wenn der Anteil der Geimpften unter den Fällen mit unbekanntem Impfstatus höher oder niedriger wäre
+   als unter den Fällen mit bekanntem Impfstatus. Zudem kann ein zumindest im ambulanten Bereich möglicherweise
+   unterschiedliches Testverhalten bei Geimpften und Ungeimpften zu Verzerrungen führen. Für einen Teil der Fälle fehlen zudem
+   Angaben zu Symptomen, Hospitalisierung und Betreuung auf Intensivstation (dies verstärkt aktuell bei hohen Fall-zahlen
+   deutschlandweit), ebenso wird nicht nach Grund für Hospitalisierung und Tod differenziert.
+   Die im Kapitel „Wirksamkeit der Impfung“ aufgeführten Werte müssen aus den oben genannten Gründen mit Vorsicht
+   interpretiert werden und dienen vor allem der Einordnung der Impfdurchbrüche und einer ersten Abschätzung der
+   Impfeffektivität. Indirekte Effekte der Impfung, also die Verhinderung von Infektionen unter Ungeimpften aufgrund hoher
+   Impfquoten und damit reduzierter Virustransmission in der Bevölkerung (sog. Gemeinschaftsschutz), können zu niedrigeren
+   Inzidenzen bei Ungeimpften führen. Somit könnte die tatsächliche Wirksamkeit der Impfung in der hier publizierten
+   Darstellung unterschätzt werden. Da Genesene mit nach STIKO-Empfehlung vervollständigter Impfung weder in den
+   Meldedaten noch in den Daten des Impfquotenmonitorings identifiziert werden können, können diese Fälle in diesen
+   Auswertungen nicht berücksichtigt werden.
+
+
+# ---- page 32 ----
+
+                                                                           Wöchentlicher COVID-19-Lagebericht vom 21.04.2022      32
+Tabelle 5: Anzahl der SARS-CoV-2-PCR-Testungen in Deutschland (Stand 19.04.2022, 12:00 Uhr); KW=Kalenderwoche
+                                                                                                                   Anzahl
+    Kalenderwoche             Anzahl Testungen           Positiv getestet         Positivenanteil (%)         übermittelnder
+                                                                                                                   Labore
+ Bis einschließlich
+                                 104.764.256                11.758.153
+ KW 05/2022
+         06/2022                   2.490.158                 1.094.699                         44,0                      211
+         07/2022                   2.176.457                    987.779                        45,4                      215
+         08/2022                   1.993.948                    894.215                        44,8                      209
+         09/2022                   1.873.205                    949.893                        50,7                      211
+         10/2022                   2.297.826                 1.215.698                         52,9                      213
+         11/2022                   2.486.755                 1.381.792                         55,6                      210
+         12/2022                   2.329.052                 1.285.554                         55,2                      206
+         13/2022                   1.956.146                 1.014.842                         51,9                      204
+         14/2022                   1.550.412                    764.698                        49,3                      208
+         15/2022                   1.138.710                    622.574                        54,7                      203
+         Summe                  125.056.925                 21.969.897
+Eine Auswertung der Positivenanteile der Vorwochen auf Laborebene im zeitlichen Verlauf (KW
+12/2020 bis KW 20/2021) finden Sie im Epidemiologischen Bulletin (Erfassung der SARS-CoV-2-
+Testzahlen in Deutschland (Epid. Bull. 24 | 2021 vom 17.06.2021)). Ab KW 05/2021 werden im
+Lagebericht die Testzahlen und -Kapazitäten in einer zusammenfassenden Grafik (Abbildung 23)
+dargestellt. Die vollständigen Testzahlen und -Kapazitäten sowie Probenrückstaus seit Beginn der
+Erfassung liegen zum Download unter: http://www.rki.de/covid-19-testzahlen vor.
+     3.2.       Testkapazitäten und Reichweite
+Zusätzlich zur Anzahl durchgeführter Tests werden in der RKI-Testzahlerfassung und durch einen
+labormedizinischen Berufsverband freiwillige Angaben zur täglichen (aktuellen) PCR-Testkapazität
+und Reichweite erfasst. In KW 15/2022 machten 182 Labore hierzu Angaben. Unter Berücksichtigung
+aller notwendigen Ressourcen (Entnahmematerial, Testreagenzien, Personal u. a.) ergibt sich daraus
+eine zum Zeitpunkt der Abfrage eine reelle Testkapazität von 3.107.073 Tests in KW 16/2022
+(Abbildung 23).
+Abbildung 23: Anzahl der durchgeführten SARS-CoV-2-PCR-Testungen und der Positivenanteil sowie Testkapazitäten der übermittelnden
+Labore pro Kalenderwoche (KW), (Stand 19.04.2022, 12:00 Uhr)
+
+
+# ---- page 33 ----
+
+33 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+        3.3.       Fachliche Einordnung der aktuellen Laborsituation in Deutschland
+   Im Rahmen der COVID-19-Pandemie spielt die Diagnostik zu SARS-CoV-2 eine bedeutsame Rolle. Die
+   Tests sind nicht nur unverzichtbar für die diagnostische Abklärung, sondern spielen auch eine
+   wichtige Rolle für die Beurteilung der epidemiologischen Entwicklung. Die Erfassung der
+   durchgeführten Teste sowie die Ermittlung des Anteils der positiven Teste ermöglichen eine
+   Einschätzung zur Wirksamkeit der Teststrategie. Bei der Interpretation der Daten müssen
+   Veränderungen in der Teststrategie sowie im Testverhalten der Bevölkerung berücksichtigt werden.
+   In KW 15/2022 wurden, mitbedingt durch den Feiertag (Karfreitag), deutlich weniger PCR-Tests
+   durchgeführt. Der Positivenanteil der vorrangig bei symptomatischen Patienten durchgeführten
+   Teste lag bei 54,7 %.
+        3.3.1. Positivenanteile nach Bundesland und Altersgruppen
+   Bei den derzeit 76 Laboren, die sich an der laborbasierten Surveillance SARS-CoV-2 beteiligen,
+   werden weitere Informationen zu SARS-CoV-2-Testungen erhoben, die stratifizierte Darstellungen
+   der Testzahlen und Positivenanteile ermöglichen. Von den 76 Laboren wurden seit Beginn der
+   Testungen insgesamt 52.518.084 SARS-CoV-2 PCR-Testergebnisse übermittelt von denen 8.806.896
+   positiv waren (Datenstand 19.04.2022). Diese decken ca. 40 % der insgesamt im Rahmen aller
+   Abfragen und Surveillance-Systeme an das RKI übermittelten Testungen ab. In Abbildung 24 und
+   Abbildung 25 werden die Ergebnisse über die Zeit nach Bundesland und Altersgruppe dargestellt.
+   Unter https://ars.rki.de/Content/COVID19/Main.aspx sind weiterführende Informationen zur
+   laborbasierten Surveillance SARS-CoV-2 und ein ausführlicherer wöchentlicher Bericht mit weiteren
+   stratifizierten Darstellungen sowie Daten zum Download zu finden.
+   Abbildung 24: Anteil der positiven PCR-Testungen von allen im Rahmen der laborbasierten Surveillance SARS-CoV-2 übermittelten PCR-
+   Testungen nach Kalenderwoche der Probenentnahme und nach Bundesland unter Berücksichtigung der Anzahl der Testungen. Die
+   Punktgröße spiegelt die Anzahl der gesamtgetesteten Proben pro Kalenderwoche wider. Bei der Interpretation der Daten ist zu
+   berücksichtigen, dass die Repräsentativität der Daten aktuell nicht für jedes Bundesland gegeben ist. Dargestellt werden die letzten 12
+   Kalenderwochen (Datenstand 19.04.2022; 76 übermittelnde Labore).
+
+
+# ---- page 34 ----
+
+                                                                           Wöchentlicher COVID-19-Lagebericht vom 21.04.2022      34
+Abbildung 25: Anteil der PCR-positiv getesteten Personen von allen im Rahmen der laborbasierten Surveillance SARS-CoV-2
+übermittelten PCR-getesteten Personen nach Kalenderwoche der Probenentnahme und unter Berücksichtigung der Anzahl der
+getesteten Personen. Die Punktgröße spiegelt die Anzahl der gesamtgetesteten Personen pro Kalenderwoche wider. Dargestellt werden
+die letzten 12 Kalenderwochen (Datenstand 19.04.2022; 76 übermittelnde Labore).
+      3.4.       SARS-CoV-2 Variants of Concern
+Seit Beginn der Pandemie wurden sowohl weltweit als auch in Deutschland verschiedene SARS-CoV-
+2-Varianten beobachtet, darunter die besorgniserregenden Varianten (Variants of Concern, VOC)
+Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1), Delta (B.1.617.2) und seit Ende November 2021
+Omikron (B.1.1.529). Die Definition als VOC erfolgt, wenn Hinweise auf eine erhöhte Übertragbarkeit,
+einen schwereren Krankheitsverlauf und/oder eine immunevasive Wirkung vorliegen.
+      3.4.1. Datenquellen
+Das RKI hat die Systeme zur bundesweiten Integrierten Molekularen Surveillance (IMS) erweitert, um
+einen detaillierten Überblick über Vorkommen und Ausbreitung spezifischer SARS-CoV-2-Mutationen
+zu erhalten. So werden auch neue Virusvarianten und deren Ausbreitung frühzeitig entdeckt. Die IMS
+besteht aus zwei Komponenten: (1) der Gesamtgenomsequenzierung der SARS-CoV-2-positiven
+Proben und (2) der Verknüpfung der dabei gewonnenen Sequenzdaten mit den
+klinisch-epidemiologischen Daten, welche bereits über die Gesundheitsämter und Landesbehörden
+an das RKI weitergeleitet werden. Im Rahmen der IMS wertet das RKI also die deutschlandweit
+zusammengeführten Sequenzdaten gemeinsam mit den klinisch-epidemiologischen Daten aus.
+Die Analyse der Genomsequenzen beinhaltet Daten aus der Gesamtgenomsequenzierung, die am RKI
+direkt durchgeführt wird, sowie jene, die dem RKI im Rahmen der Coronavirus-
+Surveillanceverordnung (CorSurV) übermittelt werden. Die übermittelten Sequenzdaten wiederum
+können zwei Gruppen zugeordnet werden. (A) Sequenzierungen, die aus einem bestimmten
+klinisch-epidemiologischen oder labordiagnostischen Verdacht auf Besonderheiten durchgeführt
+
+
+# ---- page 35 ----
+
+35 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   wurden , sowie (B) Sequenzierungen, die zufällig aus dem Gesamtvorkommen an SARS-CoV-2-
+   positiven Proben in den Laboren ausgewählt wurden. Gruppe A enthält die anlassbezogenen
+   Proben 19, Gruppe B bildet die sogenannte Stichprobe.
+   Für etwa die Hälfte der eingereichten Gesamtgenomsequenzen stehen zusätzlich klinisch-
+   epidemiologische Informationen aus dem Meldesystem zur Verfügung, da sie konkreten Fällen
+   zugeordnet werden können. Die im Abschnitt Genomsequenzdaten zu SARS-CoV-2-Varianten
+   gezeigte Auswertung basiert auf der o. g. Stichprobe.
+   Insgesamt stehen dem RKI aktuell (Datenstand 18.04.2022) 808.075 SARS-CoV-2-
+   Gesamtgenomsequenzen seit dem 01.01.2021 aus Deutschland zur Verfügung. Für die KW 14/2022 20
+   ergibt sich aus der Zahl verfügbarer Genomsequenzen und bekannter laborbestätigter Infektionen in
+   Deutschland bisher ein Anteil mittels Gesamtgenomsequenzierung untersuchter SARS-CoV-2-
+   positiver Proben von insgesamt 0,8 %. Etwa die Hälfte davon – 0,3 % – entfallen auf die o. g.
+   Stichprobe.
+   Um Veränderungen des Erregergenoms und die Verbreitung der SARS-CoV-2-Varianten schnell und
+   genau erkennen zu können, sollte ein hoher Anteil SARS-CoV-2-positiver Proben sequenziert werden.
+   Die Integrierte Molekulare Surveillance (IMS) ermöglicht die frühzeitige Detektion von neuen
+   Varianten, aber auch von Veränderungen der Verbreitung bekannter Varianten. Dabei ist
+   insbesondere ein hoher Anteil von zufällig ausgewählten Proben, die in die o. g. Stichprobe eingehen,
+   von großer Bedeutung. Die Proben der Stichprobe sollen dabei ohne vorherigen Verdacht auf
+   Vorliegen einer bestimmten Variante oder anderer Besonderheiten, wie klinische Eigenschaften, für
+   die Gesamtgenomsequenzierung ausgewählt werden. In Abbildung 26 ist der Anteil der
+   sequenzierten Proben der Stichprobe seit Januar 2021 dargestellt, wobei die Anzahl der Proben in
+   den letzten Wochen jeweils bei mehreren Tausend lag.
+   Sowohl die Genomsequenzdaten zu SARS-CoV-2-Varianten, das heißt anlassbezogene Proben und
+   Stichproben, als auch Verdachtsfälle von VOC, die mittels variantenspezifischer PCR bestimmt und
+   übermittelt wurden, finden Eingang in die IfSG-Meldedaten, wo sie mit den zugehörigen klinisch-
+   epidemiologischen Daten verknüpft werden. Damit fließt ein großer Teil der Genomsequenzdaten in
+   die IfSG-Meldedaten ein.
+   19 z. B. bei Hinweisen auf das Vorliegen einer VOC aufgrund der Reiseanamnese oder Labordiagnostik, Reinfektion,
+   Impfdurchbruch oder Hinweise auf einen Ausbruch
+   20 Aufgrund der prozessbedingten langen Dauer bis zur Übermittlung der Sequenzierungsergebnisse an das RKI (z. B.
+   Einsendung der Proben an sequenzierende Labore, Sequenzierung der Proben, Genomanalyse) wird über die
+   Genomsequenzdaten aus der Vorvorwoche berichtet. Für den Berichtszeitraum werden jene Sequenzen ausgewählt, deren
+   zugehörige Probennahme in der berichteten Woche stattfand. Das Datum der Probennahme entspricht ungefähr dem
+   Meldedatum.
+
+
+# ---- page 36 ----
+
+                                                                               Wöchentlicher COVID-19-Lagebericht vom 21.04.2022       36
+Abbildung 26: Anteil (rote Linie) der zufällig für die Sequenzierung ausgewählten SARS-CoV-2 positiven Proben an den COVID-19-Fällen
+der jeweiligen Kalenderwoche in 2021/2022. Zu beachten ist, dass in der Abbildung die Anzahl der Sequenzierungen (grüne Balken) und
+nicht, wie in den Vorwochen, die Gesamtzahl der COVID-19-Fälle (siehe Abbildung 2), dargestellt ist. Für den grau hinterlegten Bereich
+ist mit Veränderungen auf Grund von Nachmeldungen zu rechnen (Datenstand: 18.04.2022).
+      3.5.       SARS-CoV-2-Varianten Verteilung in Deutschland
+Die Variant of Concern (VOC) Omikron ist in Deutschland die dominierende SARS-CoV-2-Variante.
+Andere Varianten, wie die VOC Delta, wurden fast vollständig verdrängt und werden zurzeit nur sehr
+selten nachgewiesen.
+      3.5.1. Genomsequenzdaten zu SARS-CoV-2-Varianten
+Die Genomsequenzdaten in diesem Abschnitt beziehen sich auf den Zeitraum bis einschließlich KW
+14/2022.
+Neben den VOC gibt es weiterhin die Gruppe der unter Beobachtung stehenden Varianten (Variant of
+Interest; VOI). Diese weisen charakteristische Mutationen auf, welche mit einer erhöhten
+Übertragbarkeit, Virulenz und/oder veränderter Immunantwort assoziiert sind. Aktuell sind die SARS-
+CoV-2-Varianten Lambda (C.37) und My (B.1.621) als VOI eingestuft. Das RKI richtet sich bei der
+Bewertung von Virusvarianten nach der WHO. Auf den RKI Internetseiten zu den virologischen
+Basisdaten sowie Virusvarianten finden Sie nähere Informationen zu den SARS-CoV-2-Varianten und
+ihren Sublinien 21, zur Nomenklatur als auch Fallzahlen aus verschiedenen Datenquellen in
+Deutschland.
+Bis zum Vorliegen anderer Erkenntnisse müssen für die Sublinien dieselben besorgniserregenden
+Erregereigenschaften wie für die Elternlinie angenommen werden, weshalb die Sublinien im
+vorliegenden Bericht zu den jeweils übergeordneten Linien gezählt werden. Demnach beinhalten die
+Angaben zu allen anderen VOC und VOI in Tabelle 6 und Abbildung 27 auch die Daten der jeweiligen
+Sublinien, sofern vorhanden. Die Sublinien von Omikron weisen verschiedene
+Aminosäureunterschiede innerhalb des Spikeproteins (und anderen Virusproteinen) auf und werden
+als BA Linien erfasst. Da die Klassifikation sehr dynamisch ist, werden die Anteile der Sublinien BA.4
+und BA.5 noch nicht separat in Tabelle 6 ausgewiesen. Mit Datenstand 18.04.2022 wurden insgesamt
+25 Proben der Linie BA.5 nachgewiesen, davon 6 in der Stichprobe in KW 14, ihr Anteil liegt damit in
+21 Im Rahmen der international verwendeten Pangolin-Nomenklatur für SARS-CoV-2-Virusvarianten wurden eine Reihe
+einzelner Sublinien definiert, unter anderem auch für VOC und VOI. Die Unterteilung in Sublinien ermöglicht eine
+differenziertere Überwachung ihrer Ausbreitung und basiert neben genomischen Veränderungen auch auf einer signifikanten
+geografischen Häufung. Für verschiedene Virusvarianten wurden Sublinien eingeführt, z. B. für die VOCs Alpha (B.1.1.7; Q
+Linien), Delta (B.1.617.2; AY Linien) und Omikron (B.1.1.529; BA Linien).
+
+
+# ---- page 37 ----
+
+37 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+   KW 14 bei 0,2 %. Dagegen konnte BA.4 innerhalb des Berichtszeitraums nicht nachgewiesen werden.
+   Eine vollständige Tabelle ab KW 01/2021, die zusätzlich die Sublinien der VOC separat ausweist,
+   findet sich unter: www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Daten/VOC_VOI_Tabelle.html
+   Tabelle 6: Anteile sequenzierter VOC Alpha (B.1.1.7), Beta (B.1.351), Gamma (P.1), Delta (B.1.617.2) und Omikron (BA.1 und BA.2)
+   (Datenstand 18.04.2022).
+                              Alpha                Beta             Gamma                Delta                    Omikron
+      KW 2022
+                                                                                                           BA.1           BA.2
+               05                 0%                 0%                  0%               0,7 %           82,3 %            16,6 %
+               06                 0%                 0%                  0%               0,3 %           72,9 %            25,8 %
+               07             < 0,1 %                0%                  0%               0,1 %           61,2 %            37,4 %
+               08                 0%                 0%                  0%               0,1 %           49,2 %            50,1 %
+               09                 0%                 0%                  0%             < 0,1 %           34,8 %            63,2 %
+               10                 0%                 0%                  0%             < 0,1 %           25,1 %            73,9 %
+               11             < 0,1 %            < 0,1 %                 0%             < 0,1 %           16,4 %            82,7 %
+               12                 0%                 0%                  0%             < 0,1 %           10,6 %            89,0 %
+               13                 0%                 0%                  0%                  0%             5,7 %           93,9 %
+               14                 0%                 0%                  0%                  0%             4,3 %           95,3 %
+   Abbildung 27: Prozentuale Anteile der VOC und VOI bezogen auf die Genomsequenzen aus der Stichprobe – siehe Tabelle 6, absteigend
+   sortiert nach Anteil. Die Abbildung zeigt auch Varianten, die deeskaliert wurden und damit nicht mehr als VOI gelten.
+   Wie in Tabelle 6 aufgelistet, ist Omikron (inkl. aller Sublinien) in der Stichprobe die in Deutschland
+   vorherrschende Variante. Ihr Anteil lag in KW 14/2022 bei über 99 %, Delta wurde in der Stichprobe
+   nicht nachgewiesen.
+   Neben den Omikron-Sublinien treten sporadisch auch Rekombinanten verschiedener Virusvarianten
+   auf. Bei einer Rekombination entsteht ein Virus, dessen Erbmaterial sich aus Genominformation
+   verschiedener Virusvarianten, die gleichzeitig eine Wirtszelle infiziert haben, zusammensetzt. So
+   besitzt z. B. die rekombinierte Viruslinie XD die Spike-Gensequenz aus Omikron (BA.1), während das
+   restliche Genom aus Delta (AY.4) stammt. Die Linie XD wurde in Deutschland bisher einmal in einer
+
+
+# ---- page 38 ----
+
+                                                            Wöchentlicher COVID-19-Lagebericht vom 21.04.2022 38
+Probe von Februar 2022 nachgewiesen. Des Weiteren wurde XE (1-mal) und XG (3-mal), beides
+Rekombinanten aus BA.1 und BA.2, nachgewiesen. Die am häufigsten (90-mal) nachgewiesene XM-
+Linie ist eine Rekombinante aus den Omikron-Sublinien BA.1.1 und BA.2. Die XM-Linie wurde Mitte
+Februar zum ersten Mal identifiziert und seitdem in verschiedenen europäischen Ländern, wie
+Dänemark, Niederlanden und dem Vereinigten Königreich nachgewiesen. Der Nachweis erfolgte
+sowohl durch Klassifizierung mittels Pangolin (v4.0.5) als auch gezielter Suche von Genomsequenzen,
+die charakteristische Mutationsprofile aufweisen. Die so ermittelten Sequenzen wurden hinsichtlich
+ihrer Verlässlichkeit von Fachleuten bestmöglich eingeschätzt. Da die Klassifizierung rekombinanter
+Sequenzen derzeit noch fehleranfällig sein kann und sich die hierfür benötigten Liniendefinitionen
+und Algorithmen in steter Weiterentwicklung befinden, können die resultierenden Zahlen gewissen
+Schwankungen unterliegen und sich von Zahlen, die anhand alternativer Analysevorgehen ermittelt
+wurden, unterscheiden. Die rekombinanten Linien stehen unter Beobachtung, bislang liegen keine
+epidemiologischen Hinweise auf eine Veränderung der Übertragbarkeit, Virulenz und/oder
+veränderter Immunantwort gegenüber den Ausgangsvarianten vor, ggf. liegt eine leicht bessere
+Übertragung bei XE gegenüber BA.2 vor.
+    3.5.2. IfSG-Meldedaten zu SARS-CoV-2-Varianten
+Mit den Änderungen in der Coronavirus-Testverordnung (TestV) vom 11.02.2022 werden
+variantenspezifische PCR Testungen nicht mehr vergütet. Seitdem hat sich die Anzahl der
+übermittelten VOC Ergebnisse seit KW 06/2022 sehr stark reduziert. Dies wirkt sich besonders in
+Bundesländern mit geringer Bevölkerungszahl aus und führt zu größeren Schwankungen in der
+Berechnung der VOC Anteile, so dass ein Vergleich zwischen den Bundesländern nicht mehr
+aussagekräftig ist. Die übermittelten Fälle nach VOC und nach Bundesländern werden seit dem
+07.04.2022 nicht mehr veröffentlicht.
+Unter www.rki.de/covid-19-varianten sind weitere Informationen zu Omikron und allen VOC zu
+finden. Darüber hinaus stellt das RKI eine Hilfestellung zur Ableitung variantenspezifischer PCR-
+Testungen aus charakteristischen Aminosäure-Austauschen und Deletionen bei SARS-CoV-2 zur
+Verfügung.
+
+
+# ---- page 39 ----
+
+39 Wöchentlicher COVID-19-Lagebericht vom 21.04.2022
+       4. Empfehlungen und Maßnahmen in Deutschland
+   Dokumente und Informationen zu Empfehlungen und Maßnahmen finden sie unter
+   www.rki.de/covid-19.
+       4.1.       Aktuelles
+              •    Aktualisierung der Informationen zu besorgniserregenden SARS-CoV-2-Virusvarianten
+                   (VOC) (20.04.2022)
+                   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Virusvariante.html
+              •    Aktualisierung Antworten auf häufig gestellte Fragen zum Coronavirus SARS-CoV-2 /
+                   Krankheit COVID-19 (19.04.2022)
+                   https://www.rki.de/SharedDocs/FAQ/NCOV2019/gesamt.html
+              •    COVID-19 und Impfen: Antworten auf häufig gestellte Fragen (13.04.2022)
+                   https://www.rki.de/SharedDocs/FAQ/COVID-Impfen/gesamt.html
+              •    Bundespressekonferenz am 08.04.2022 zur Corona-Lage mit Bundesgesundheitsminister
+                   Karl Lauterbach, RKI-Präsident Lothar H. Wieler und Gernot Marx (DIVI) (08.04.2022)
+                   https://www.youtube.com/watch?v=TNg2wBzbHRs
+              •    Flyer: Verhaltenstipps für das Frühjahr 2022 (30.03.2022)
+                   https://www.rki.de/DE/Content/InfAZ/N/Neuartiges_Coronavirus/Buerger/Flyer-
+                   Verhaltenstipps-Fruehjahr-2022.pdf
+
+
+# ---- page 40 ----
+
+                                                            Wöchentlicher COVID-19-Lagebericht vom 21.04.2022 40
+     5. Anhang
+     5.1.     Hinweise zur Datenerfassung und -bewertung
+Die in diesem Lagebericht dargestellten Daten stellen eine Momentaufnahme dar. Informationen zu
+Fällen können im Verlauf der Erkrankung nachermittelt und im Meldewesen nachgetragen werden.
+Nicht für alle Variablen gelingt eine vollständige Erfassung.
+Die Gesundheitsämter ermitteln ggf. zusätzliche Informationen, bewerten den Fall und leiten die
+notwendigen Infektionsschutzmaßnahmen ein. Die Daten werden spätestens am nächsten Arbeitstag
+vom Gesundheitsamt elektronisch an die zuständige Landesbehörde und von dort an das RKI
+übermittelt. Die Daten werden am RKI einmal täglich jeweils um 0:00 Uhr aktualisiert.
+Durch die Dateneingabe und Datenübermittlung entsteht von dem Zeitpunkt des Bekanntwerdens
+des Falls bis zur Veröffentlichung durch das RKI ein Zeitverzug, sodass es Abweichungen hinsichtlich
+der Fallzahlen zu anderen Quellen geben kann.
+Für die Berechnung der Inzidenzen werden seit 26.08.2021 die Daten der Bevölkerungsstatistik des
+Statistischen Bundesamtes mit Datenstand 31.12.2020 verwendet. Die Berechnung der 7-Tage-
+Inzidenz erfolgt auf Basis des Meldedatums, also dem Datum, an dem das lokale Gesundheitsamt
+Kenntnis über den Fall erlangt und ihn elektronisch erfasst hat. Für die heutige 7-Tage-Inzidenz
+werden die Fälle mit Meldedatum der letzten 7 Tage gezählt.
+Die Differenz zum Vortag, so wie sie im Lagebericht und Dashboard ausgewiesen wird, bezieht sich
+dagegen auf das Datum, wann der Fall erstmals in der Berichterstattung des RKI veröffentlicht wird.
+Es kann sein, dass z. B. durch Übermittlungsverzug dort auch Fälle enthalten sind, die ein
+Meldedatum vor mehr als 7 Tagen aufweisen. Gleichzeitig werden in der Differenz auch Fälle
+berücksichtigt, die aufgrund von Datenqualitätsprüfungen im Nachhinein gelöscht wurden, sodass
+von dieser Differenz nicht ohne weiteres auf die 7-Tage-Inzidenz geschlossen werden kann. Die
+Meldewoche entspricht der Kalenderwoche nach den Regeln des internationalen Standards ISO 8601
+(entspricht DIN 1355). Sie beginnt montags und endet sonntags. Die Meldewochen eines Jahres sind
+fortlaufend nummeriert, beginnend mit der ersten Woche, die mindestens 4 Tage des betreffenden
+Jahres enthält. Meldejahre können 52 oder gelegentlich 53 Wochen haben. Die Zuordnung zur
+Meldewoche wird durch den Tag bestimmt, an dem das Gesundheitsamt offiziell Kenntnis von einem
+Fall erlangt. Für hier aufgeführte Daten aus Meldesystemen wird die Bezeichnung „MW“ für
+Meldewoche verwendet. Für unabhängige Surveillancesysteme und solche in dem unterschiedliche
+Datenquellen zusammenfließen wird die Bezeichnung „KW“ für Kalenderwoche verwendet.
